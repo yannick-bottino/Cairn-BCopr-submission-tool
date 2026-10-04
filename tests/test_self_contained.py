@@ -11,7 +11,7 @@ NAME_RE = re.compile(r"`([a-z0-9]+(?:-[a-z0-9]+)+)`")
 KNOWN = {"humanize-output", "de-slop", "project-memory", "file-naming-standard", "folder-analyzer-optimizer",
          "b-corp-platform-navigation", "b-corp-gap-analysis-excel", "entretien-cadrage-bcorp", "proposal-rse",
          "cowork-plugin", "project-init"}
-OWN = {"bcorp-company-profile", "bcorp-gap-analysis", "bcorp-evidence-pack", "bcorp-platform-plan"}
+OWN = {"bcorp-dataroom-audit", "bcorp-company-profile", "bcorp-gap-analysis", "bcorp-evidence-pack", "bcorp-platform-plan"}
 
 sys.path.insert(0, str(ROOT / "tools"))
 import package_plugin  # noqa: E402

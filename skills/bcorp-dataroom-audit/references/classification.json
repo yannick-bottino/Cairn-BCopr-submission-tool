@@ -1,0 +1,35 @@
+{
+  "_usage": "Mots-clés (minuscules, sans accents) cherchés dans le chemin et le nom de fichier. Pré-tri seulement : Claude arbitre. Impact Areas en codes plateforme ; aucun code d'exigence ici.",
+  "types": {
+    "Juridique": ["statut", "kbis", "pv ", "proces verbal", "assemblee", "cap table", "actionnariat", "pacte", "societe a mission", "raison d etre"],
+    "Financier": ["liasse", "bilan comptable", "comptes annuels", "compte de resultat", "budget", "rapport financier"],
+    "RH": ["dpae", "registre du personnel", "bulletin", "paie", "accord", "charte", "reglement interieur", "duerp", "entretien annuel", "formation", "organigramme", "bdese", "egalite professionnelle", "index egalite"],
+    "Environnement": ["bilan carbone", "beges", "carbone", "acv", "empreinte", "dechet", "energie", "eau", "packaging", "emballage", "eco conception"],
+    "Achats et fournisseurs": ["fournisseur", "achat", "code de conduite", "sourcing", "sous traitant", "audit social"],
+    "Stratégie RSE": ["feuille de route", "strategie", "rse", "csr", "materialite", "rapport", "diagnostic", "parties prenantes", "politique"],
+    "Clients et produits": ["cgv", "reclamation", "satisfaction", "client", "produit"],
+    "Gouvernance": ["comite", "codir", "comex", "conseil", "gouvernance", "cr ", "compte rendu", "ordre du jour"]
+  },
+  "impact_areas": {
+    "FR": ["statut", "kbis", "cap table", "actionnariat", "liasse", "comptes annuels", "conformite"],
+    "PSG": ["raison d etre", "mission", "gouvernance", "comite", "parties prenantes", "materialite", "reclamation", "ethique", "anticorruption", "sapin"],
+    "FW": ["salaire", "paie", "remuneration", "formation", "entretien annuel", "bien etre", "sante", "securite", "duerp", "teletravail", "engagement", "enquete"],
+    "JEDI": ["diversite", "inclusion", "egalite", "handicap", "discrimination", "index egalite", "jedi"],
+    "HR": ["droits humains", "fournisseur", "code de conduite", "audit social", "sous traitant", "travail force"],
+    "CA": ["carbone", "beges", "climat", "ges", "trajectoire", "sbti"],
+    "ESC": ["dechet", "eau", "energie", "acv", "packaging", "emballage", "eco conception", "biodiversite", "circularite", "matiere"],
+    "GACA": ["lobbying", "plaidoyer", "association professionnelle", "federation", "collectif"]
+  },
+  "pieces_cles": [
+    {"piece": "Extrait Kbis récent", "mots": ["kbis"]},
+    {"piece": "Statuts à jour", "mots": ["statut"]},
+    {"piece": "Table de capitalisation / actionnariat", "mots": ["cap table", "actionnariat", "capital"]},
+    {"piece": "Liasses fiscales ou comptes annuels", "mots": ["liasse", "comptes annuels", "bilan comptable"]},
+    {"piece": "Organigramme", "mots": ["organigramme"]},
+    {"piece": "Bilan carbone", "mots": ["bilan carbone", "beges"]},
+    {"piece": "Feuille de route ou stratégie RSE", "mots": ["feuille de route", "strategie rse", "strategie"]},
+    {"piece": "Analyse de matérialité", "mots": ["materialite"]},
+    {"piece": "Politique ou charte achats responsables", "mots": ["achat", "fournisseur"]},
+    {"piece": "Documents RH structurants (accords, règlement intérieur, DUERP)", "mots": ["accord", "reglement interieur", "duerp"]}
+  ]
+}

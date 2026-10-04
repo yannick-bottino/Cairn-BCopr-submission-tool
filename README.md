@@ -8,7 +8,7 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 
 | # | Module | Skill | État |
 |---|---|---|---|
-| 1 | Audit de data room | `bcorp-dataroom-audit` | à construire en conditions réelles |
+| 1 | Audit de data room | `bcorp-dataroom-audit` | v0.1 : inventaire, pièces clés, vue par pilier, note de diagnostic (non éprouvé sur cas réel) |
 | 2 | Caractérisation et éligibilité | `bcorp-company-profile` | v0.1 : questionnaire FR1/FR2/FR3, verdict d'éligibilité, profil pour M3 |
 | 3 | Excel de gap analysis | `bcorp-gap-analysis` | v0.2 : génération + propositions rédigées (`fill_gap.py`) |
 | 4 | Preuves et commentaires de preuve | `bcorp-evidence-pack` | v0.1 : plan de preuves, rangement par copie journalisée |
