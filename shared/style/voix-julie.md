@@ -127,7 +127,7 @@ Ordre :
 1. Phrase d'affirmation à la 3e personne, au présent ou au passé composé, terminée par « : » quand des puces suivent.
 2. Faits datés et chiffrés, pointeurs précis (document, page, date).
 3. Si plusieurs justifications : puces « - », une par ligne.
-4. Clôture des sous-critères quand c'est vrai : « Les N critères a/b/c sont couverts. » [N§3.3].
+4. Couverture annoncée en tête, jamais en clôture : la phrase d'intro dit « [Document] couvre les N critères a/b/c : », puis une puce par critère avec sa pièce. Seulement si chaque critère annoncé a une pièce citée ; sinon, nommer les critères couverts et traiter le reste en « en cours de déploiement » avec jalon et porteur. Pas de phrase « Les N critères sont couverts. » en fin de commentaire (décision du 04/10/2026).
 5. Action en cours, si elle existe : « - En cours de déploiement : [objet], [jalon : date ou échéance], porté par [fonction] » (voir §4 règle 2).
 6. Dernière ligne : « - Pièces jointes au dossier : … » (la vF écrit aussi « - Pièces jointes : »).
 NA : « NA. » + le motif en une phrase.
@@ -142,7 +142,7 @@ Verbatim sharp :
 - [vF MGPP 3.2.3] « [Client A] recense les réclamations de sa clientèle et les suit par thèmes dans le cadre de son dispositif qualité, adossé à la cosmétovigilance et à la procédure de rappel produit. / - Le suivi est actif et donne lieu à une classification des motifs / - L'extension du recensement aux autres parties prenantes et la production d'un reporting consolidé font l'objet de l'action G.4.9 de la feuille de route RSE, dont la cible est la totalité des remontées traitées »
 - [vF GEC 1.2.1] « [Client A] a réalisé un bilan carbone sur les trois scopes pour la période août 2024 à août 2025 ([prestataire carbone], avril 2026). / - Les consommations énergétiques du siège (électricité) et de la flotte de véhicules (carburant) ont été collectées en données physiques et servent de base au scope 1 et au scope 2 / - Le tableur de collecte est disponible / - La reconduction annuelle de la mesure est en cours de mise en place »
 
-- [GA, [Client B] MGPP 1.1, clôture des sous-critères] « La raison d'être de [Client B] couvre les 4 critères a/b/c/d : / - Figure dans les statuts signés par le Président […] / - Publiée publiquement sur le site […] / - Reprise dans la présentation officielle de l'agence (même document, p.6) »
+- [GA, [Client B] MGPP 1.1, couverture annoncée en tête] « La raison d'être de [Client B] couvre les 4 critères a/b/c/d : / - Figure dans les statuts signés par le Président […] / - Publiée publiquement sur le site […] / - Reprise dans la présentation officielle de l'agence (même document, p.6) »
 
 Les exemples GEC 1.7.3, MGPP 3.2.3 et GEC 1.2.1 ont la bonne longueur mais leur dernière ligne « en cours » n'a ni jalon ni porteur. Forme attendue : « - En cours de déploiement : reconduction annuelle de la mesure énergie, prochaine mesure sur l'exercice [échéance], portée par [fonction] ».
 
@@ -193,8 +193,7 @@ Ponctuation :
 
 ## 5. Points encore ouverts (à demander à Julie)
 
-1. Clôture « Les N critères a/b/c sont couverts. » ([Client B]) : à garder avec « Pièces jointes au dossier » dans [Client A], ou non ? Décision en attente ; la vF ne l'emploie dans aucune cellule.
-2. L'aveu cadré [Client B] TE 4.1.3 (« n'indiquent pas explicitement que… mais… ») est-il compatible avec « jamais de manque » ?
-3. Forme unique pour la dernière ligne : « Pièces jointes au dossier : » (2 cellules) ou « Pièces jointes : » (4 cellules).
-4. La colonne W (Commentaires) est vide dans la vF : y a-t-il des annotations de Julie ailleurs (versions intermédiaires) qui serviraient de paires avant/après ?
-5. Validation des longueurs cibles : Diagnostic 150-300 caractères, Actions 1-3 items, Preuves 1-3 tirets, Commentaire 250-500 caractères.
+1. L'aveu cadré [Client B] TE 4.1.3 (« n'indiquent pas explicitement que… mais… ») est-il compatible avec « jamais de manque » ?
+2. Forme unique pour la dernière ligne : « Pièces jointes au dossier : » (2 cellules) ou « Pièces jointes : » (4 cellules).
+3. La colonne W (Commentaires) est vide dans la vF : y a-t-il des annotations de Julie ailleurs (versions intermédiaires) qui serviraient de paires avant/après ?
+4. Validation des longueurs cibles : Diagnostic 150-300 caractères, Actions 1-3 items, Preuves 1-3 tirets, Commentaire 250-500 caractères.
