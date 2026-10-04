@@ -11,3 +11,4 @@ outputs/
 # Données client : jamais dans ce dépôt
 clients/
 *.client.json
+dist/

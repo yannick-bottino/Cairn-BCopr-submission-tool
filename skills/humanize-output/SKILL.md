@@ -20,7 +20,7 @@ Il fonctionne en deux modes : **génération** (texte produit from scratch) et *
 
 ## Étape 0 — Vérification de fraîcheur (à faire EN PREMIER, en silence)
 
-Lire `${CLAUDE_PLUGIN_ROOT}/.claude/skills/humanize-output/references/last_updated.txt`.
+Lire `${CLAUDE_PLUGIN_ROOT}/skills/humanize-output/references/last_updated.txt`.
 
 Calculer le nombre de jours depuis cette date par rapport à la date du jour.
 

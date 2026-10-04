@@ -1,4 +1,4 @@
-# Skills tiers embarqués
+# Skills tiers embarqués (dans skills/)
 
 Ces skills sont copiés depuis le plugin `consulting-skills`
 (https://github.com/yannick-bottino/consulting-claude-skills) pour que le plugin
@@ -15,7 +15,7 @@ Anchor Strategy B Corp tool fonctionne seul. Ils restent sous leur licence d'ori
 |---|---|---|
 | project-memory | 2026-10-04 | aucune |
 | file-naming-standard | 2026-10-04 | aucune |
-| humanize-output | 2026-10-04 | chemin de `last_updated.txt` passé en `${CLAUDE_PLUGIN_ROOT}/.claude/skills/...` |
+| humanize-output | 2026-10-04 | chemin de `last_updated.txt` passé en `${CLAUDE_PLUGIN_ROOT}/skills/...` |
 | de-slop | 2026-10-04 | aucune |
 | folder-analyzer-optimizer | 2026-10-04 | artefacts de développement retirés (CLAUDE.md, MEMORY.md, tasks/, docs/) |
 

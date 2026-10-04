@@ -23,7 +23,9 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 
 Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la base documentaire).
 
-Le plugin est autoporteur : les skills transverses qu'il appelle (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`, `folder-analyzer-optimizer`) sont embarqués dans `.claude/skills/` et déclarés dans `plugin.json`. Voir `.claude/skills/THIRD_PARTY_NOTICES.md`.
+Le plugin est autoporteur : les skills transverses qu'il appelle (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`, `folder-analyzer-optimizer`) sont embarqués dans `skills/`, seul emplacement chargé par Claude Code et par Cowork. Voir `THIRD_PARTY_NOTICES.md`.
+
+Cowork : `python3 tools/package_plugin.py` produit `dist/anchor-strategy-bcorp-tool-<version>.zip`, à téléverser.
 
 ## Structure
 
@@ -36,7 +38,7 @@ Le plugin est autoporteur : les skills transverses qu'il appelle (`project-memor
 
 ## Règles
 
-- Règle stricte : tout skill appelé est embarqué dans `.claude/skills/` (test `tests/test_self_contained.py`). Règles complètes du dépôt : `.claude/CLAUDE.md`.
+- Règle stricte : tout skill appelé est embarqué dans `skills/` (test `tests/test_self_contained.py`). Règles complètes du dépôt : `.claude/CLAUDE.md`.
 
 - Aucun code d'exigence hors du référentiel.
 - Aucune donnée client dans ce dépôt.

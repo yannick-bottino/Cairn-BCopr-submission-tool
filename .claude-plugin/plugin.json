@@ -6,9 +6,5 @@
     "name": "Anchor Strategy"
   },
   "repository": "https://github.com/yannick-bottino/Cairn-BCopr-submission-tool",
-  "license": "SEE LICENSE IN LICENSE",
-  "skills": [
-    "./skills",
-    "./.claude/skills"
-  ]
+  "license": "SEE LICENSE IN LICENSE"
 }
