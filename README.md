@@ -10,7 +10,7 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 |---|---|---|---|
 | 1 | Audit de data room | `bcorp-dataroom-audit` | à construire |
 | 2 | Caractérisation et éligibilité | `bcorp-company-profile` | socle prêt (applicabilité ; taille et secteur relevés sur la plateforme, jamais calculés) |
-| 3 | Excel de gap analysis | `bcorp-gap-analysis` | v0.1 : génération de la structure |
+| 3 | Excel de gap analysis | `bcorp-gap-analysis` | v0.2 : génération + propositions rédigées (`fill_gap.py`) |
 | 4 | Preuves et commentaires de preuve | `bcorp-evidence-pack` | à construire |
 | 5 | Plan de saisie plateforme | `bcorp-platform-plan` | à construire (copier-coller + checklist, pas d'automatisation navigateur) |
 

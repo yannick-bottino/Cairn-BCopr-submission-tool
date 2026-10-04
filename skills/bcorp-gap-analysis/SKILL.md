@@ -38,6 +38,34 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
    Prérequis : `pip install openpyxl`.
 4. **Contrôler et restituer** : nombre de lignes par Impact Area (onglet 6), options masquées, lignes propres au secteur. Dire clairement ce qui reste à confirmer (traductions FR des critères, options retenues).
 
+## Remplir les cellules (propositions de Claude)
+
+Travailler **une Impact Area à la fois** (un lot), dans l'ordre EB, MGPP, TE, JEDI, DH, AC, GEC, APAC.
+
+1. Lire les décisions actives du projet (`project-memory`) et les documents du client (miroir Markdown de la data room si disponible).
+2. Pour chaque ligne du lot, lire le fichier du standard `${CLAUDE_PLUGIN_ROOT}/resources/standards-v2.2/<Impact Area>/<code>.md` : critère, intention, clarifications.
+3. Rédiger en appliquant `${CLAUDE_PLUGIN_ROOT}/shared/style/voix-julie.md`. Une ligne sans document qui la prouve reste à 0 ou 1, jamais à 2. Laisser vide plutôt que d'inventer.
+4. Écrire `propositions_<lot>.json` :
+   ```json
+   [{"req_id": "PSG1.1-1.1.1", "champs": {
+      "Niveau de conformité": "1",
+      "Diagnostic & gap analysis": "...",
+      "Actions recommandées": "1. ...",
+      "Preuves (& intitulés associés)": "Preuves attendues :\n- ...",
+      "Commentaire soumission dossier pour l'auditeur": "...\n- Pièces jointes : ...",
+      "Typologie du gap (Anchor)": "Correctif mineur / pièce à produire",
+      "Criticité (Anchor)": "3-Modéré",
+      "Justification de la typologie (Anchor)": "..."}}]
+   ```
+   Colonnes autorisées : celles ci-dessus et « Priorité B Corp (Anchor) ». Le `req_id` vient de la colonne masquée de l'Excel.
+5. Appliquer dans un **nouveau** fichier :
+   ```bash
+   python3 "${CLAUDE_PLUGIN_ROOT}/skills/bcorp-gap-analysis/scripts/fill_gap.py" "<gap>.xlsx" propositions_<lot>.json "<gap>_<lot>.xlsx"
+   ```
+   Le script refuse le lot entier si un code cité n'existe pas, si une valeur sort des listes, si le texte contient un tiret cadratin ou du Markdown, ou si le commentaire auditeur mentionne un manque. Il n'écrit jamais dans une cellule déjà remplie : il la signale.
+6. Restituer : nombre de cellules écrites, cellules ignorées, avertissements (« en cours » sans jalon). Passer 3 commentaires auditeur du lot dans `humanize-output` puis `de-slop`, pas tous.
+7. L'utilisatrice relit dans Excel (cellules surlignées en jaune) et passe chaque ligne de l'onglet « Propositions » à « Validé » ou « Rejeté ». **Seuls les commentaires « Validé » pourront être repris dans le plan de saisie plateforme.**
+
 ## Ce que contient l'Excel
 
 - `3. Gap analysis` : une ligne par critère de conformité ; les questions du Risk Tool (FR3.1.a à n) tiennent sur une ligne chacune. `Code exigence` = sigle FR (MGPP 1.1), `Code plateforme` = code affiché sur app.bcorporation.net (PSG1.1). `req_id` (masquée) est la clé entre modules.
@@ -56,4 +84,3 @@ Pour toute proposition de diagnostic, d'actions, de preuves attendues ou de comm
 
 - Textes des critères : traduction FR (compilation tierce, à relire) pour 174 critères sur 594 ; les autres affichent le texte officiel EN préfixé `[EN]`. Le texte de référence de chaque sous-exigence est dans `${CLAUDE_PLUGIN_ROOT}/resources/standards-v2.2/<Impact Area>/<code>.md`.
 - 61 sous-exigences n'ont pas d'intitulé FR : la colonne affiche l'intitulé EN préfixé `[EN]`.
-- Le remplissage assisté des colonnes rédactionnelles (`fill_gap.py`) n'est pas encore construit.
