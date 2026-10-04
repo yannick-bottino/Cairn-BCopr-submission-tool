@@ -27,7 +27,7 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
    ```json
    {"client": "...", "taille": "Medium", "secteur": "Wholesale/Retail", "industrie": "",
     "horizon": 3, "mecanisme_equite": "À confirmer", "date_depot": "...",
-    "co_prestataire": "...", "options_retenues": [],
+    "co_prestataire": "...", "options_retenues": [], "risk_tool_oui": [],
     "source_profil": "Export PDF plateforme B Lab"}
    ```
    `source_profil` est obligatoire : `Export PDF plateforme B Lab` ou `Déclaration manuelle`. Le script refuse le profil sans elle.
@@ -68,6 +68,7 @@ Travailler **une Impact Area à la fois** (un lot), dans l'ordre EB, MGPP, TE, J
 
 ## Ce que contient l'Excel
 
+- Si le profil contient `risk_tool_oui` (module 2), les sous-exigences ajoutées par le Risk Tool sont intégrées, celles qu'il remplace passent en « NA », et la colonne Clarification dit pourquoi. Les règles sont lues dans le texte officiel FR3.1.a à n, pas recopiées.
 - `3. Gap analysis` : une ligne par critère de conformité ; les questions du Risk Tool (FR3.1.a à n) tiennent sur une ligne chacune. `Code exigence` = sigle FR (MGPP 1.1), `Code plateforme` = code affiché sur app.bcorporation.net (PSG1.1). `req_id` (masquée) est la clé entre modules.
 - Colonnes jamais publiées sur la plateforme : Diagnostic, Actions, Priorités, Responsable, Équipe projet, Commentaires, colonnes Anchor et co-prestataire. Seul le commentaire auditeur est publiable, après validation.
 - `Plateforme : statut` reprend les statuts réels du site : Non démarré, En cours, Terminé : Preuve Prêt.

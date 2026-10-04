@@ -34,6 +34,6 @@ description: Caractérise une entreprise pour la certification B Corp et vérifi
 5. **Restituer** : le verdict, les points bloquants d'abord, puis les « À faire » (modification des statuts, rapport public pour une filiale, Risk Tool). Pour chaque « oui » au Risk Tool, lire le fichier du standard indiqué dans la fiche et dire quelles sous-exigences s'ajoutent.
 6. **Mémoire projet** : acter le profil avec `project-memory` (`create_decision`, domaine `cadrage`), en citant la source.
 
-## Limites
+## Suite
 
-- Les sous-exigences ajoutées par un « oui » au Risk Tool ne sont pas encore générées automatiquement dans l'Excel : elles sont listées dans la fiche et se lisent dans `resources/standards-v2.2/0-FR-exigences-de-base/FR3.1.<lettre>.md`.
+`profil.json` porte `risk_tool_oui` : le gap analysis (`bcorp-gap-analysis`) ajoute alors automatiquement les sous-exigences déclenchées, marque « NA » celles qui sont remplacées, et signale celles à relire avec l'impact potentiel (colonne Clarification).

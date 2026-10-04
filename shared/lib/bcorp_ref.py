@@ -167,6 +167,16 @@ class Referentiel:
     def impact_area(self, code: str) -> ImpactArea:
         return self.areas[code]
 
+    # --- Risk Tool -------------------------------------------------------------
+
+    def risk_rules(self) -> list["RiskRule"]:
+        """Règles des 14 questions du Risk Tool, lues dans le texte officiel des critères."""
+        return _risk_rules(self)
+
+    def risk_effects(self, size: str, sector: str, industry: str, questions: list[str]) -> "RiskEffects":
+        """Sous-exigences ajoutées, remplacées ou à lire avec l'impact potentiel, pour les réponses « oui »."""
+        return _risk_effects(self, size, sector, industry, questions)
+
     # --- applicabilité -------------------------------------------------------
 
     def applicable(self, size: str, sector: str, horizon: int) -> list[Requirement]:
@@ -188,4 +198,121 @@ def _read_criteria(path: Path, column: str) -> dict[tuple[str, str], str]:
 
 def _excel_code(prefix_excel: str, rest: str) -> str:
     return f"{prefix_excel} {rest}"
+
+
+
+# --- Risk Tool (FR3.1.a à n) ---------------------------------------------------
+# Les règles sont lues dans le texte officiel des critères (criteres_en.csv), jamais recopiées à la main.
+
+_SCOPE_RE = re.compile(r"^\[(.+?) compan(?:y|ies) in (.+?)\]")
+_SIZE_RE = re.compile(r"XX Large|X Large|Large|Medium|Small|Micro")
+_MEETS_RE = re.compile(r"meets ((?:[A-Z]{2,4})?\d+\.\d+(?:\s*(?:,\s*and|,|and)\s*(?:[A-Z]{2,4})?\d+\.\d+)*)")
+_CODE_PART_RE = re.compile(r"([A-Z]{2,4})?(\d+\.\d+)")
+_REPLACE_RE = re.compile(r"not applicable\W{0,3} for ([A-Z]{2,4}\d+\.\d+) because ([A-Z]{2,4}\d+\.\d+) replaces it")
+_CONSIDER_RE = re.compile(r"considers the potential impact.*?\(([A-Z]{2,4}\d+\.\d+)\)", re.S)
+_SECTOR_WORDS = [
+    ("Wholesale/Retail", "Wholesale/Retail"), ("Retail/Wholesale", "Wholesale/Retail"),
+    ("Agriculture", "Agriculture/Growers"),
+    ("significant footprint", "Service with Significant Environmental Footprint"),
+    ("minor footprint", "Service with Minor Environmental Footprint"),
+]
+
+
+@dataclass(frozen=True)
+class RiskRule:
+    question: str
+    criterion: str
+    sizes: tuple[str, ...]
+    sectors: tuple[tuple[str, str], ...]   # (secteur, contrainte industrie : "" | "Mining" | "!Mining")
+    adds: list[str]
+    replaces: dict[str, str]
+    consider: list[str]
+    no_change: bool
+
+    def matches(self, size: str, sector: str, industry: str) -> bool:
+        if size not in self.sizes:
+            return False
+        mining = "mining" in (industry or "").lower()
+        for sec, constraint in self.sectors:
+            if sec != sector:
+                continue
+            if constraint == "Mining" and not mining:
+                continue
+            if constraint == "!Mining" and mining:
+                continue
+            return True
+        return False
+
+
+@dataclass
+class RiskEffects:
+    adds: set[str] = field(default_factory=set)
+    replaces: dict[str, str] = field(default_factory=dict)
+    consider: dict[str, list[str]] = field(default_factory=dict)
+    sources: dict[str, list[str]] = field(default_factory=dict)   # code ajouté -> questions qui l'ajoutent
+
+
+def _parse_sectors(text: str) -> tuple[tuple[str, str], ...]:
+    if "all sectors" in text:
+        return tuple((s, "") for s in SECTORS)
+    out = []
+    if "Mining (an industry listed under Manufacturing)" in text:
+        out.append(("Manufacturing", "Mining"))
+        text = text.replace("Mining (an industry listed under Manufacturing)", "")
+    if "Manufacturing (except Mining)" in text:
+        out.append(("Manufacturing", "!Mining"))
+    elif "Manufacturing" in text:
+        out.append(("Manufacturing", ""))
+    for word, sector in _SECTOR_WORDS:
+        if word in text and (sector, "") not in out:
+            out.append((sector, ""))
+    return tuple(out)
+
+
+def _parse_codes(group: str) -> list[str]:
+    codes, prefix = [], ""
+    for p, num in _CODE_PART_RE.findall(group):
+        prefix = p or prefix
+        codes.append(f"{prefix}{num}")
+    return codes
+
+
+def _risk_rules(self) -> list[RiskRule]:
+    rules = []
+    for row in self.rows:
+        if row.type_ligne != "question_risk_tool":
+            continue
+        for c in row.criteria:
+            text = " ".join(c.text_en.split())
+            scope = _SCOPE_RE.match(text)
+            sizes = tuple(_SIZE_RE.findall(scope.group(1))) if scope else ()
+            sectors = _parse_sectors(scope.group(2)) if scope else ()
+            adds = [code for m in _MEETS_RE.finditer(text) for code in _parse_codes(m.group(1))]
+            replaces = dict(_REPLACE_RE.findall(text))
+            consider = _CONSIDER_RE.findall(text)
+            rules.append(RiskRule(row.code, c.id, sizes, sectors, [self.to_site(a) for a in adds],
+                                  {self.to_site(k): self.to_site(v) for k, v in replaces.items()},
+                                  [self.to_site(x) for x in consider], "no change" in text))
+    return rules
+
+
+def _risk_effects(self, size: str, sector: str, industry: str, questions: list[str]) -> RiskEffects:
+    asked = []
+    for q in questions:
+        code = self.to_site(q)
+        if self.get(code).type_ligne != "question_risk_tool":
+            raise UnknownCode(q)
+        asked.append(code)
+    eff = RiskEffects()
+    for rule in self.risk_rules():
+        if rule.question in asked and rule.matches(size, sector, industry):
+            eff.adds.update(rule.adds)
+            for code in rule.adds:
+                eff.sources.setdefault(code, []).append(rule.question)
+            eff.replaces.update(rule.replaces)
+            for code in rule.consider:
+                eff.consider.setdefault(code, [])
+                if rule.question not in eff.consider[code]:
+                    eff.consider[code].append(rule.question)
+    return eff
 

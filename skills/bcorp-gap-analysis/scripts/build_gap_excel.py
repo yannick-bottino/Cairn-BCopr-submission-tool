@@ -88,7 +88,22 @@ def build(profile: dict, out: Path) -> Path:
     size, sector, horizon = profile["taille"], profile["secteur"], int(profile["horizon"])
     retained = {r.to_site(c) for c in profile.get("options_retenues", [])}
     rows = r.applicable(size, sector, horizon)
-    rows.sort(key=lambda x: r.order.index(x.impact_area))  # tri stable : garde l'ordre du PDF
+    notes, forced_na = {}, set()
+    risk_yes = profile.get("risk_tool_oui") or []
+    if risk_yes:
+        # Risk Tool : sous-exigences ajoutées, remplacées, ou à lire avec l'impact potentiel (texte FR3.1.x)
+        eff = r.risk_effects(size, sector, profile.get("industrie", ""), risk_yes)
+        present = {x.code for x in rows}
+        rows += [r.get(c) for c in sorted(eff.adds) if c not in present]
+        for code, questions in eff.sources.items():
+            notes.setdefault(code, []).append(f"Ajoutée ou confirmée par le Risk Tool ({', '.join(questions)} : oui).")
+        for old, new in eff.replaces.items():
+            notes.setdefault(old, []).append(f"Non applicable : remplacée par {new} (Risk Tool).")
+            forced_na.add(old)
+        for code, questions in eff.consider.items():
+            notes.setdefault(code, []).append(f"Risk Tool ({', '.join(questions)} : oui) : prendre en compte l'impact potentiel.")
+    position = {x.code: i for i, x in enumerate(r.rows)}
+    rows.sort(key=lambda x: (r.order.index(x.impact_area), position[x.code]))
 
     wb = Workbook()
     wb.remove(wb.active)
@@ -96,7 +111,7 @@ def build(profile: dict, out: Path) -> Path:
     _parametres(wb.create_sheet("1. Paramètres client"), profile)
     _referentiel(wb.create_sheet("2. Référentiel B Corp V2.2"), r, size, sector, horizon)
     headers = gap_headers(profile["client"], profile.get("co_prestataire") or "co-prestataire")
-    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers, horizon)
+    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers, horizon, notes, forced_na)
     _fdr(wb.create_sheet("4. Couverture feuille de route"))
     _roles(wb.create_sheet("5. Répartition des rôles"), r, profile)
     _recap(wb.create_sheet("6. Récap gap analysis"), r, headers)
@@ -123,7 +138,8 @@ def _criterion_cell(c) -> str:
     return text if text.startswith(c.id) else f"{c.id} {text}"
 
 
-def _gap(ws, r, rows, retained, headers, horizon):
+def _gap(ws, r, rows, retained, headers, horizon, notes=None, forced_na=frozenset()):
+    notes = notes or {}
     platform = [h for h in headers if h.startswith("Plateforme :")]
     _header(ws, headers, WIDTHS, platform)
     ws.freeze_panes = "F2"
@@ -152,6 +168,8 @@ def _gap(ws, r, rows, retained, headers, horizon):
                 "Sous-exigence": x.title_fr or f"[EN] {x.title_en}",
                 "Critère de conformité": criterion,
                 "Année": deadline,
+                "Clarification / informations complémentaires": " ".join(notes.get(x.code, [])) or None,
+                "Niveau de conformité": "NA" if x.code in forced_na else None,
                 "req_id": rid,
             }
             ws.append([values.get(h) for h in headers])
