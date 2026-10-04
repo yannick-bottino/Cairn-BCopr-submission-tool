@@ -49,9 +49,13 @@ Impact Area : Climate Action (Action climatique). Pages PDF 844-848. Échéance 
 
 ### 3.6.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company reports progress against its climate action plan on its webpage or has another way for stakeholders to easily access it.
 
 ### 3.6.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 In its reporting, the company discloses:
 

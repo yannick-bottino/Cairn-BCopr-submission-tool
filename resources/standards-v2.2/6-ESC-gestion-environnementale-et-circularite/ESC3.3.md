@@ -49,6 +49,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company chooses one or more of the following four options.
 
 - a) ESC3.3a The company avoids and reduces single-use products and packaging in its portfolio
@@ -58,9 +60,13 @@ The company chooses one or more of the following four options.
 
 ### 3.3.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company can explain how its product design follows the priority order established in the waste hierarchy.
 
 ### 3.3.3
+
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
 
 For Year 5 the company either or both:
 
@@ -69,6 +75,8 @@ For Year 5 the company either or both:
 
 ### 3.3.4
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company chose ESC3.3d previously, for Year 5 it chooses one of:
 
 - a) ESC3.3a The company avoids and reduces single-use products and packaging in its portfolio.
@@ -76,6 +84,8 @@ If the company chose ESC3.3d previously, for Year 5 it chooses one of:
 - c) ESC3.3c The company’s products are able to recirculate after use.
 
 ### 3.3.5
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If the company has multiple products in its portfolio, it measures its entire portfolio along the four options in ESC3.3.1.
 

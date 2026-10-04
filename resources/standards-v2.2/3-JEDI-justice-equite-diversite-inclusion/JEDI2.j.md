@@ -33,9 +33,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.j.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company increases the proportion of workers from at least two underrepresented groups to reflect the diversity of its community.
 
 ### 2.j.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company calculates the ratios at any point in the last twelve months.
 

@@ -29,6 +29,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company takes part in collective action from the five options in this Impact Topic.
 
 - a) GACA2.3a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
@@ -38,6 +40,8 @@ The company takes part in collective action from the five options in this Impact
 - e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.
 
 ### 2.4.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company takes part in at least two of the five collective action options.
 

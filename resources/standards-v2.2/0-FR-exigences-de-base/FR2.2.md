@@ -34,6 +34,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 49-50. Éch
 
 ### 2.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company commits to the shared collective purpose of the B Corp community, as set out in the Declaration of Interdependence:
 
 We envision a global economy that uses business as a force for good. This economy is comprised of a new type of corporation — the B Corporation — which is purpose-driven and creates benefit for all stakeholders, not just shareholders.
@@ -49,6 +51,8 @@ That, through their products, practices, and profits, businesses should aspire t
 To do so requires that we act with the understanding that we are each dependent upon another and thus responsible for each other and future generations.
 
 ### 2.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
 

@@ -32,12 +32,16 @@ Impact Area : Climate Action (Action climatique). Pages PDF 832-838. Échéance 
 
 ### 3.4.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company records its progress toward its near-term and net zero targets, both:
 
 - a) in metric tonnes of CO2 equivalent
 - b) as a percentage of the emissions in its baseline year.
 
 ### 3.4.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company:
 
@@ -46,6 +50,8 @@ The company:
 
 ### 3.4.3
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 Where the climate transition plan was ineffective, the company evaluates the plan and records:
 
 - a) what lessons it has learned
@@ -53,6 +59,8 @@ Where the climate transition plan was ineffective, the company evaluates the pla
 - c) how it has updated the transition plan.
 
 ### 3.4.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 If the company has reached its net zero target, it:
 

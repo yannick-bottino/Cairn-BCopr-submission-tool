@@ -33,17 +33,25 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.i.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company develops an inclusive language guide for internal communications.
 
 ### 2.i.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The guide lists terms that should and should not be used.
 
 ### 2.i.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 One guide exists for each internal communication language.
 
 ### 2.i.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company shares the guide with all workers who produce internal communications.
 

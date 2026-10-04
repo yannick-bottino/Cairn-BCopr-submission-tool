@@ -32,6 +32,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 5.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The highest governing body’s written terms of reference explicitly specify that the highest governing body is responsible for overseeing:
 
 - a) the company’s public purpose as defined under PSG1.1

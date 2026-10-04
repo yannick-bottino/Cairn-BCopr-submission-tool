@@ -34,6 +34,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.o.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company implements all of the following actions.
 
 - a) It tracks diversity of ownership among its local suppliers.

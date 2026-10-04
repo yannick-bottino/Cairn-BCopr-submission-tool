@@ -33,13 +33,19 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 4.5.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company makes a report on its environmental strategies, including its biodiversity and water stewardship strategies, publicly available on its webpage.
 
 ### 4.5.2
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company made or updated its report in the last 36 months.
 
 ### 4.5.3
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company’s report includes:
 
@@ -47,6 +53,8 @@ The company’s report includes:
 - b) how it evaluated the effectiveness of its strategies.
 
 ### 4.5.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 Where the strategies are ineffective, the company’s report sets out:
 

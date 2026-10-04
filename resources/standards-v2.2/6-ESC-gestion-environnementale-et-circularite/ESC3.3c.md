@@ -47,6 +47,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.3c.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records:
 
 - a) the amount of its products, as a percentage of the total weight of its products (excluding packaging) that were designed for:

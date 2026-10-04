@@ -45,9 +45,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.8.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company's material environmental issues (ESC1.7) are available on its webpage or the company has another way for stakeholders to easily access it.
 
 ### 1.8.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company publicly shares the methodology it used in its assessment of material environmental issues.
 

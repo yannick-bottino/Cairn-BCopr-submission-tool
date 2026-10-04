@@ -33,13 +33,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 600-603. Échéance : Yea
 
 ### 2.5.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company makes a report on its human rights strategy publicly available on its webpage.
 
 ### 2.5.2
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company made or updated its report in the last 36 months.
 
 ### 2.5.3
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company’s report presents information on:
 
@@ -47,6 +53,8 @@ The company’s report presents information on:
 - b) how it evaluated the effectiveness of its strategy
 
 ### 2.5.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 Where the strategy is ineffective, the company ‘s report presents information on:
 

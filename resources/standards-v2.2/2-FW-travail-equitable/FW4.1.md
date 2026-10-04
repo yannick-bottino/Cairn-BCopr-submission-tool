@@ -34,9 +34,13 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 386-392. Échéance : Ye
 
 ### 4.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The measurement focuses on outcomes for workers.
 
 ### 4.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The measurement includes at least two of the following themes.
 
@@ -49,9 +53,13 @@ The measurement includes at least two of the following themes.
 
 ### 4.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company states in its communications about the measurement that participation is optional.
 
 ### 4.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company completes the measurement:
 
@@ -60,9 +68,13 @@ The company completes the measurement:
 
 ### 4.1.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The measurement is done annually.
 
 ### 4.1.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company has 50 workers or more (based on headcount) then:
 

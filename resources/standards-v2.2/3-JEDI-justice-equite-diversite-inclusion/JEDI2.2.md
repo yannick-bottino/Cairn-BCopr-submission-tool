@@ -30,12 +30,16 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company chooses and implements:
 
 - a) two JEDI actions before Year 0
 - b) three JEDI actions for Years 3 and 5 each.
 
 ### 2.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company chooses and implements at minimum one option from each set across Years 0, 3, and 5.
 

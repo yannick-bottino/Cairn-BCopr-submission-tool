@@ -37,12 +37,16 @@ Impact Area : Human Rights (Droits humains). Pages PDF 663-668. Échéance : Yea
 
 ### 4.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records information about potential negative human rights impacts related to:
 
 - a) source countries
 - b) specific raw materials.
 
 ### 4.1.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company:
 
@@ -51,12 +55,16 @@ The company:
 
 ### 4.1.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company uses social compliance audits or certifications to monitor suppliers, it:
 
 - a) identifies any limits on its approach
 - b) addresses any limits.
 
 ### 4.1.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 When selecting source countries and raw materials, the company:
 

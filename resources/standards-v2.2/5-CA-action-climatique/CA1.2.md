@@ -44,12 +44,16 @@ Impact Area : Climate Action (Action climatique). Pages PDF 779-783. Échéance 
 
 ### 1.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s annual greenhouse gas (GHG) emissions inventory is verified by an accredited and independent third party:
 
 - a) in the fiscal year before Year 0
 - b) in each subsequent year.
 
 ### 1.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The independent third party verifies that the company’s GHG emissions inventory:
 

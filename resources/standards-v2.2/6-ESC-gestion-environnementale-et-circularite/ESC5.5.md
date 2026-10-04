@@ -35,12 +35,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.5.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company sources raw materials from a high-risk country, it has evidence that they:
 
 - a) are deforestation-free
 - b) were produced in accordance with the relevant legislation of the country of production.
 
 ### 5.5.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company evaluates the following priority raw materials potentially linked to deforestation at minimum.
 

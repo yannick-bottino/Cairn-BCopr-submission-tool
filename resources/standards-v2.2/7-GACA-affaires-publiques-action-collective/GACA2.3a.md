@@ -31,6 +31,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.3a.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s mentoring has:
 
 - a) a clear objective aligned with advancing the mentee’s social or environmental impact

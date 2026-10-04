@@ -34,21 +34,31 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 40-43. Éch
 
 ### 1.5.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company shares basic details for its B Corp public profile through the B Impact Assessment platform.
 
 ### 1.5.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company agrees to publicly share information as required by the B Lab Standard.
 
 ### 1.5.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company is a wholly-owned or majority-owned subsidiary, or a large public company, it makes its entire B Impact Assessment report public and identifies any majority owners.
 
 ### 1.5.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company agrees that B Lab can make its B Impact Report and basic profile information available on the B Lab Global website and other B Lab and Sistema B Global Partner websites while the company is a certified B Corp.
 
 ### 1.5.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
 

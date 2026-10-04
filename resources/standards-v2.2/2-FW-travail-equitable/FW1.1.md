@@ -6,7 +6,7 @@ impact_area_fr: "Travail équitable"
 requirement_code: "FW1"
 type: "sous_exigence"
 year: 0
-criteria: ["1.1.1", "1.1.2", "1.2.3"]
+criteria: ["1.1.1", "1.1.2", "1.1.3"]
 pages: "301-304"
 applicabilite:
   - {taille: "XX Large", secteur: "All", industrie: "All"}
@@ -35,6 +35,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 301-304. Échéance : Ye
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 All employees have an employment contract or offer letter meeting the following criteria.
 
 - a) It is written in a language the employee understands.
@@ -52,9 +54,15 @@ All employees have an employment contract or offer letter meeting the following 
 
 ### 1.1.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If an employee is already working without a written contract or offer letter, the company provides a letter that meets the criteria above.
 
-### 1.2.3
+### 1.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
+> Anomalie du PDF : ce critère est imprimé « 1.2.3 » (coquille). L'id corrigé 1.1.3 est retenu ici ; shared/referentiel/bcorp_v2.2_requirements.csv porte encore 1.2.3.
 
 All employees receive a copy of their employment contract or offer letter from the company.
 

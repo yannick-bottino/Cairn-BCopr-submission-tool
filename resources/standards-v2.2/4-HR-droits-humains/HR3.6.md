@@ -34,9 +34,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 656-661. Échéance : Yea
 
 ### 3.6.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company identifies if it has any operations in conflict-affected situations.
 
 ### 3.6.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If it does, the company:
 
@@ -44,6 +48,8 @@ If it does, the company:
 - b) explains publicly its connection to the conflict-affected situation.
 
 ### 3.6.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If the company’s assessment finds that it may be negatively impacting the conflict-affected situation, it also:
 

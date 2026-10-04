@@ -33,9 +33,13 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 1.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company is not engaged in lobbying, then it meets this sub-requirement by publicly sharing that it is not engaged in lobbying.
 
 ### 1.3.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The public report includes:
 
@@ -44,12 +48,16 @@ The public report includes:
 
 ### 1.3.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The public report is:
 
 - a) overseen by the highest governing body or a committee of the highest governing body
 - b) published on the company’s webpage and accessible to all stakeholders.
 
 ### 1.3.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company publicly shares its lobbying positions and political contributions:
 

@@ -32,6 +32,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 3.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company conducts an annual analysis of grievances and creates an internal report. The report:
 
 - a) has details on grievances raised and accepted
@@ -41,9 +43,13 @@ The company conducts an annual analysis of grievances and creates an internal re
 
 ### 3.4.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a management or executive role responsible for overseeing the grievance procedure. The manager presents the annual internal summary report on the grievance procedure to the highest governing body.
 
 ### 3.4.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company demonstrates the effectiveness of the grievance procedure by either:
 
@@ -51,6 +57,8 @@ The company demonstrates the effectiveness of the grievance procedure by either:
 - b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.
 
 ### 3.4.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company publicly reports on grievance decision outcomes in accordance with the following data from the UNGP Effectiveness Criteria:
 

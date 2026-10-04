@@ -35,6 +35,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 339-340. Échéance : Ye
 
 ### 2.8.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company chooses and implements one of the following:
 
 - a) FW2.8.a The company pays employees a living wage

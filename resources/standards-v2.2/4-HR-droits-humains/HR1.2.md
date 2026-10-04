@@ -48,9 +48,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 568-574. Échéance : Yea
 
 ### 1.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a public human rights policy.
 
 ### 1.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy includes commitments to:
 
@@ -64,9 +68,13 @@ The policy includes commitments to:
 
 ### 1.2.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The policy is approved by the highest governing body.
 
 ### 1.2.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy’s scope covers all individuals and communities affected by the company’s own operations and its value chain.
 

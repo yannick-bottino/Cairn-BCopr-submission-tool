@@ -33,6 +33,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.k.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company provides employees at least three of the following types of paid leave.
 
 - a) Unlimited short-term sick leave
@@ -44,17 +46,25 @@ The company provides employees at least three of the following types of paid lea
 
 ### 2.k.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 All leave types are fully paid.
 
 ### 2.k.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 All employees are entitled to the additional types of leave.
 
 ### 2.k.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company uses employee feedback to determine the number of days for each leave type.
 
 ### 2.k.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records the chosen types of leave in a policy document or documents that are:
 

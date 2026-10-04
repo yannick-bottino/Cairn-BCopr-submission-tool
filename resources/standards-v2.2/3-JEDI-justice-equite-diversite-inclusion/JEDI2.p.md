@@ -34,6 +34,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.p.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company develops a communications and ethical content guide that:
 
 - a) lists terms that should and should not be used for each external communication language
@@ -42,6 +44,8 @@ The company develops a communications and ethical content guide that:
 - d) is shared with all workers who produce external communications.
 
 ### 2.p.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company uses artificial intelligence for creative content generation, it includes its use in the guide.
 

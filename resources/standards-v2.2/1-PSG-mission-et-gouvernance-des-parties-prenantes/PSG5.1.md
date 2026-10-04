@@ -35,6 +35,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 5.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 At least once every 12 months, the highest governing body reviews the company’s:
 
 - a) progress on advancing its public purpose as defined under PSG1.1

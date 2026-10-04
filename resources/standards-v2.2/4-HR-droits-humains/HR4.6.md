@@ -35,9 +35,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 696-700. Échéance : Yea
 
 ### 4.6.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company identifies its high-risk raw materials.
 
 ### 4.6.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company either:
 
@@ -45,6 +49,8 @@ The company either:
 - b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.
 
 ### 4.6.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company documents the proportion of high-risk raw materials that it can trace to their origin.
 

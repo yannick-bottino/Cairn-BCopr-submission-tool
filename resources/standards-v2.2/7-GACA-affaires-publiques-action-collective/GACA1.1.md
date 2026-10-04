@@ -36,9 +36,13 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company is not engaged in lobbying, then it meets this sub-requirement by declaring this publicly.
 
 ### 1.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s lobbying policy states its approach to responsible lobbying, including:
 
@@ -51,6 +55,8 @@ The company’s lobbying policy states its approach to responsible lobbying, inc
 
 ### 1.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s lobbying policy states its governance, control, and risk management practices, including:
 
 - a) which governance body or executive-level position within the company is accountable for enforcing the policy
@@ -60,6 +66,8 @@ The company’s lobbying policy states its governance, control, and risk managem
 - e) how stakeholders can raise concerns about the company’s business conduct and lobbying practices, including reference to the company’s grievance procedure [link to PSG3].
 
 ### 1.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s lobbying policy is:
 

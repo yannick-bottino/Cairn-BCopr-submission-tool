@@ -31,9 +31,13 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 334-338. Échéance : Ye
 
 ### 2.7.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company carries out a gender-neutral job evaluation for each country with at least 150 workers (based on headcount).
 
 ### 2.7.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company carries out a gender-neutral job evaluation that:
 
@@ -45,21 +49,31 @@ The company carries out a gender-neutral job evaluation that:
 
 ### 2.7.3
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 Using the job evaluation and its wage scales (FW2.3), including any extra wage components, the company evaluates whether it offers equal pay for work of equal value.
 
 ### 2.7.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The evaluation results in a document that includes a written summary of the evaluation methodology.
 
 ### 2.7.5
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The evaluation was completed or updated in the last five years.
 
 ### 2.7.6
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company tells its workers about the results.
 
 ### 2.7.7
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company creates a plan to address any wage gaps it identifies.
 

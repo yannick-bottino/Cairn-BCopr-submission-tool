@@ -32,6 +32,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 330-333. Échéance : Ye
 
 ### 2.6.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company either:
 
 - a) has reduced the gap by at least 50%
@@ -39,9 +41,13 @@ The company either:
 
 ### 2.6.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records what actions it took to reduce the wage gap.
 
 ### 2.6.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If it had no gender wage gap, the company maintains a closed gap.
 

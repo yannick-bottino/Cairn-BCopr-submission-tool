@@ -41,6 +41,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s material inflow indicators confirm that, over the previous 36 months, the company has:
 
 - a) reduced its total use of virgin non-renewable materials

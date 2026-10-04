@@ -225,13 +225,19 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.6.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a process in place to assess the potential negative environmental impacts of working with potential organizational clients and projects.
 
 ### 2.6.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The process sets out mitigation actions.
 
 ### 2.6.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records how it assessed the potential negative environmental impacts of its three most material potential clients, and the outcomes of the process:
 
@@ -239,6 +245,8 @@ The company records how it assessed the potential negative environmental impacts
 - b) annually in each subsequent year.
 
 ### 2.6.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For Years 3 and 5 the company:
 

@@ -32,13 +32,19 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 3.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company monitors and tracks grievances and prepares annual summaries of the status and subject of any grievances.
 
 ### 3.2.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has an employee with well-defined responsibilities for managing grievances.
 
 ### 3.2.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company demonstrates the effectiveness of the grievance procedure by either:
 

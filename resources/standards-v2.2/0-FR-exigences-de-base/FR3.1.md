@@ -32,13 +32,19 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 51-54. Éch
 
 ### 3.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company creates a risk profile using B Lab’s Risk Tool by answering the 14 questions in FR3.1.a to FR3.1.n.
 
 ### 3.1.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company meets any additional Impact Topic sub-requirements that the Risk Tool activates.
 
 ### 3.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company agrees to a summary of the risk profile being displayed on its B Corp public profile.
 

@@ -34,6 +34,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.a.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company develops a JEDI commitment statement that:
 
 - a) is public
@@ -41,6 +43,8 @@ The company develops a JEDI commitment statement that:
 - c) applies to the company's policies and practices across operations, customers, and community.
 
 ### 2.a.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company assigns accountability for the JEDI commitment to the executive team or highest governing body.
 

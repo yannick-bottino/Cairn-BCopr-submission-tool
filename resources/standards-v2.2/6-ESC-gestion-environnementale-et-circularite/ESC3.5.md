@@ -37,13 +37,19 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.5.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records its actions or programs to improve the infrastructure for the intended recovery option of its material products or packaging.
 
 ### 3.5.2
 
+*Échéance du critère : Year 3 (marquage PDF : « Before Year 3 »)*
+
 Before Year 3, the company has introduced these actions or programs in the two countries that represent the largest end-user sales of its material products or packaging.
 
 ### 3.5.4
+
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
 
 For Year 5, the company either:
 

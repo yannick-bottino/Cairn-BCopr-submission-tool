@@ -34,6 +34,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 25-31. Éch
 
 ### 1.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company generates less than 1% of annual revenue from direct involvement in the listed industries.
 
 - a) Fossil fuel producers
@@ -45,6 +47,8 @@ The company generates less than 1% of annual revenue from direct involvement in 
 
 ### 1.2.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company generates less than 1% of annual revenue from selling the following products or services to organizational clients in the listed industries (see Compliance Criterion 1.2.1).
 
 - a) Lobbying or public relations services
@@ -53,6 +57,8 @@ The company generates less than 1% of annual revenue from selling the following 
 
 ### 1.2.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company generates less than 1% of annual revenue from direct growth financing in the listed industries (see Compliance Criterion 1.2.1) through the following activities.
 
 - a) Direct equity investments
@@ -60,9 +66,13 @@ The company generates less than 1% of annual revenue from direct growth financin
 
 ### 1.2.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 For electric utilities and power generation companies, less than 50% of their product portfolio or energy mix is from fossil fuels.
 
 ### 1.2.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 B Corps certified against V1.6 of the standards must meet FR1.2 by Year 3 (not Year 0).
 

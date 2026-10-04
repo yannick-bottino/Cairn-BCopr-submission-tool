@@ -43,6 +43,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company identified water-related impacts as material in its assessment of environmental impacts then the company’s water stewardship strategy includes:
 
 - a) an emphasis on a circular water management approach
@@ -55,15 +57,21 @@ If the company identified water-related impacts as material in its assessment of
 
 ### 2.3.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company identifies if contextual data exists for the watershed or basin in which the company has its facilities. If data is available, the company's strategy:
 
 - a) describes how it ensures to stay within its proportionate allocation of local renewable water supplies.
 
 ### 2.3.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The strategy is approved by the highest governing body or executive team.
 
 ### 2.3.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The strategy was adopted or reviewed in the last twelve months.
 

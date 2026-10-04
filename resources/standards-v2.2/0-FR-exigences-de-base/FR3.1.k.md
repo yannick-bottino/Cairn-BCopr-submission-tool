@@ -32,6 +32,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 119-124. É
 
 ### 3.1.k.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets ESC1.7, ESC2.1 and ESC4.2.
@@ -40,6 +42,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 119-124. É
 
 ### 3.1.k.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small and Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets ESC1.7, ESC2.1 and ESC4.2.
@@ -47,9 +51,13 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 119-124. É
 
 ### 3.1.k.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
 
 ### 3.1.k.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Large, X Large, and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 

@@ -45,21 +45,31 @@ Impact Area : Human Rights (Droits humains). Pages PDF 589-594. Échéance : Yea
 
 ### 2.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company has a strategy to address its salient human rights issues.
 
 ### 2.3.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The strategy was adopted or reviewed in the last twelve months.
 
 ### 2.3.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The strategy is approved by the highest governing body.
 
 ### 2.3.4
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The strategy accounts for the company’s type of connection with each salient human rights issue.
 
 ### 2.3.5
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The strategy, or a related implementation plan, includes:
 

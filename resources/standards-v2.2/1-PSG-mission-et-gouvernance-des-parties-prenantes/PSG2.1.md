@@ -33,13 +33,19 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company identifies and prioritizes its stakeholders and maps its stakeholders listed in 2.1.3. .
 
 ### 2.1.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company engages with its stakeholders and considers their interests in decision-making.
 
 ### 2.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The following stakeholders are represented with one or more  engagement mechanisms.
 

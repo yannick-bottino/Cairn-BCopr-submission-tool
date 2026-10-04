@@ -32,6 +32,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 2.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company engages the following stakeholders or their representatives in a materiality assessment.
 
 - a) Workers of the company or its subsidiaries
@@ -43,6 +45,8 @@ The company engages the following stakeholders or their representatives in a mat
 
 ### 2.3.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The materiality assessment:
 
 - a) covers the salient human rights issues and material environmental issues addressed in the B Lab Standard
@@ -51,17 +55,25 @@ The materiality assessment:
 
 ### 2.3.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses topics based on their significance and sets a threshold to determine its material topics.
 
 ### 2.3.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company conducts a full materiality assessment at least every 36 months. Between full assessments, it also undertakes one interim review of materiality with a selection of its stakeholders, to update its material topics.
 
 ### 2.3.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The highest governing body has oversight of the materiality assessment process and reviews the results.
 
 ### 2.3.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The final outcome and the methodology the company used in its assessment are publicly available in the annual impact report or on the company’s webpage. The outcome may take the form of a materiality matrix or a list of identified material topics, plus a summary of stakeholder engagement processes.
 

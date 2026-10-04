@@ -34,9 +34,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.s.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company engages in at least one collective action initiative at the policy, industry, or business community level to advance JEDI principles.
 
 ### 2.s.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The initiative has a clear, shared purpose and goal, to:
 
@@ -44,6 +48,8 @@ The initiative has a clear, shared purpose and goal, to:
 - b) collaboratively deliver specific, measurable impacts.
 
 ### 2.s.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes a clear contribution to delivering the initiative.
 

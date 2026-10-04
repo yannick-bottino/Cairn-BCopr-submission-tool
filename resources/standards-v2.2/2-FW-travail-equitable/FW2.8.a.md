@@ -33,13 +33,19 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 341-354. Échéance : Ye
 
 ### 2.8.a.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company pays employees who are 18 years or older a living wage.
 
 ### 2.8.a.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company uses a living wage estimate approved by B Lab.
 
 ### 2.8.a.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company meets the criteria for calculating the total wage.
 

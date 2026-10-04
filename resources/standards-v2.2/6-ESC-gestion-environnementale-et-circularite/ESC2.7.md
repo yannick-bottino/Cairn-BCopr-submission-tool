@@ -50,13 +50,19 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.7.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a process in place to assess the potential negative environmental impacts of potential investments.
 
 ### 2.7.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The process sets out mitigation actions.
 
 ### 2.7.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records how it assessed the potential negative environmental impacts of its three most material potential investments, and the outcomes of the process:
 
@@ -64,6 +70,8 @@ The company records how it assessed the potential negative environmental impacts
 - b) annually in each subsequent year.
 
 ### 2.7.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For Years 3 and 5, the company:
 

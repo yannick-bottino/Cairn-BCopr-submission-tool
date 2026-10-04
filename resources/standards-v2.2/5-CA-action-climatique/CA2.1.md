@@ -33,9 +33,13 @@ Impact Area : Climate Action (Action climatique). Pages PDF 784-793. Échéance 
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company publishes its climate action plan on its webpage or has another way for stakeholders to easily access it.
 
 ### 2.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s action plan:
 
@@ -46,6 +50,8 @@ The company’s action plan:
 - e) is approved by the highest governing body.
 
 ### 2.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company updates its action plan every 36 months.
 

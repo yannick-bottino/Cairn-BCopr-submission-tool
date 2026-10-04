@@ -41,6 +41,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 839-843. Échéance 
 
 ### 3.5.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 Following consultation with workers and stakeholders on its climate transition plan (in CA2.4), the company records its actions to support a just transition.
 
 ## Intent

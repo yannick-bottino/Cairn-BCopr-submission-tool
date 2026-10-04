@@ -45,9 +45,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 609-613. Échéance : Yea
 
 ### 2.7.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 Workers in relevant roles receive training, guidance documents, or tools to help implement the policies and procedures related to human rights.
 
 ### 2.7.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The guidance is tailored for the relevant role.
 

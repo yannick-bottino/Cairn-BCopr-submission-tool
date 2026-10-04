@@ -53,12 +53,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company measures and records its annual water consumption or withdrawal:
 
 - a) in the last fiscal year
 - b) in each subsequent year.
 
 ### 1.3.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s water consumption or withdrawal is measured by:
 
@@ -70,9 +74,13 @@ The company’s water consumption or withdrawal is measured by:
 
 ### 1.3.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company explains why it chose to measure either water consumption or withdrawal.
 
 ### 1.3.4
+
+*Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
 
 Before Year 0, the company:
 
@@ -80,6 +88,8 @@ Before Year 0, the company:
 - b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities.
 
 ### 1.3.5
+
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
 
 For Year 5, the company completes the tracking and recording of water consumption or withdrawal for all facilities.
 

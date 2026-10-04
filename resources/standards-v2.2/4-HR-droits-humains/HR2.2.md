@@ -48,9 +48,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 585-588. Échéance : Yea
 
 ### 2.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company publicly shares its salient human rights issues (HR2.1).
 
 ### 2.2.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company publicly shares the methodology it used in its assessment of salient human rights issues.
 

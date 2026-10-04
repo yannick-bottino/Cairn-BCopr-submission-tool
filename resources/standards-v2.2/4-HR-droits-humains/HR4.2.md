@@ -34,6 +34,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 669-675. Échéance : Yea
 
 ### 4.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has considered the actual and potential human rights impacts of the three most material procurement decisions
 
 - a) in the last fiscal year or twelve months before Year 0

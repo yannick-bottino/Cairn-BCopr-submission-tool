@@ -34,6 +34,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 309-312. Échéance : Ye
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a policy or procedure that states it does not ask job applicants to provide:
 
 - a) their wage histories

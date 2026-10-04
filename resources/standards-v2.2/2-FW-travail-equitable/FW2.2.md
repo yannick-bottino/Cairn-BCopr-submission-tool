@@ -35,6 +35,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 313-316. Échéance : Ye
 
 ### 2.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company tells workers about:
 
 - a) all wage components relevant to them
@@ -43,6 +45,8 @@ The company tells workers about:
 
 ### 2.2.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 All employees regularly receive payslips or equivalent containing clear information about, at minimum, their:
 
 - a) base wage
@@ -50,6 +54,8 @@ All employees regularly receive payslips or equivalent containing clear informat
 - c) deductions.
 
 ### 2.2.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Payslips are written in a language the employee understands.
 

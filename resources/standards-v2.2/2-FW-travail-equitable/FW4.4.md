@@ -32,17 +32,25 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 400-405. Échéance : Ye
 
 ### 4.4.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company has 250 or more workers (based on headcount), it disaggregates its workplace culture measurements by one additional social identity (other than gender identity or sex at birth).
 
 ### 4.4.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company uses stakeholder feedback to choose the additional social identity.
 
 ### 4.4.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 Workers provide their social identity information voluntarily, and can choose to remain anonymous.
 
 ### 4.4.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company has a process to protect workers’ identities.
 

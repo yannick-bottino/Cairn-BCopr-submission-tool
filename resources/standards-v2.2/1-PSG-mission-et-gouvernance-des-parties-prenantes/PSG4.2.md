@@ -33,6 +33,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 4.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company develops a responsible marketing and public relations policy. The policy:
 
 - a) describes its scope
@@ -41,6 +43,8 @@ The company develops a responsible marketing and public relations policy. The po
 - d) is approved by the executive team or highest governing body.
 
 ### 4.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The requirements in the policy include the following criteria for the company’s social and environmental claims at minimum.
 
@@ -53,9 +57,13 @@ The requirements in the policy include the following criteria for the company’
 
 ### 4.2.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assigns accountability at the level of the executive team or highest governing body for ensuring all marketing and public relations practices comply with the responsible marketing and public relations policy.
 
 ### 4.2.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy is communicated to company workers and available for them to access.
 

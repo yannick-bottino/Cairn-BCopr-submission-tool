@@ -33,17 +33,25 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.f.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company supports at least two employee resource or affinity groups. Each group is associated with a different social identity.
 
 ### 2.f.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company chooses the social identities using worker feedback.
 
 ### 2.f.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 Participation in the groups is optional for workers.
 
 ### 2.f.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company supports the groups.
 

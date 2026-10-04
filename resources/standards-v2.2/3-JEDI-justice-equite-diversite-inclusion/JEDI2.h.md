@@ -33,13 +33,19 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.h.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company provides sponsorship or mentorship opportunities to all employees.
 
 ### 2.h.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company records the formal nature of the sponsorship or mentorship program in a procedure or policy document.
 
 ### 2.h.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The sponsorships or mentorships:
 
@@ -48,13 +54,19 @@ The sponsorships or mentorships:
 
 ### 2.h.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company gives participants time during standard working hours to participate.
 
 ### 2.h.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company tracks participation of two underrepresented groups.
 
 ### 2.h.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company achieves representative participation of at least two underrepresented groups.
 

@@ -34,6 +34,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 305-308. Échéance : Ye
 
 ### 1.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company uses variable schedules, it has a policy that states the following.
 
 - a) The specific cancellation deadline that applies equally to both the company and employee.
@@ -41,6 +43,8 @@ If the company uses variable schedules, it has a policy that states the followin
 - c) Whether the company will pay the employee, and how much, when canceling their work after the deadline for reasons outside the company’s control.
 
 ### 1.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes the policy available to all employees that work variable schedules.
 

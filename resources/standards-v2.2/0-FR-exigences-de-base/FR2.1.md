@@ -34,9 +34,13 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 44-48. Éch
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company adopts an entity type or an amendment to its governing documents to require stakeholder governance (meaning it considers stakeholders in its decision-making). The company adopts stakeholder governance in accordance with the B Corp legal requirement, and as applicable to its legal form and jurisdiction.
 
 ### 2.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company cannot adopt a stakeholder governance legal form because of local laws, it signs the B Corp Agreement and commits to:
 
@@ -45,6 +49,8 @@ If the company cannot adopt a stakeholder governance legal form because of local
 - c) amending its formation documents or adopting a new legal form if one is enacted through local lawmaking.
 
 ### 2.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
 

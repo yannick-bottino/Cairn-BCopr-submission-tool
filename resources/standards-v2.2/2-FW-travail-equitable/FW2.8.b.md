@@ -33,9 +33,13 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 355-358. Échéance : Ye
 
 ### 2.8.b.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company pays employees a collectively-bargained wage.
 
 ### 2.8.b.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The collectively-bargained wage is part of a collective bargaining agreement. The agreement:
 

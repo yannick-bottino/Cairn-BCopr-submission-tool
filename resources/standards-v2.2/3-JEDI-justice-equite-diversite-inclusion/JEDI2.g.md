@@ -33,6 +33,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.g.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company implements all of the following inclusive hiring practices.
 
 - a) It includes a JEDI commitment statement in all job postings, aligned with the statement from JEDI2.a (if completed).

@@ -30,6 +30,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 3.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s tax policy states its approach to responsible taxes, including:
 
 - a) how its approach to tax is linked to the company’s business and sustainable development strategies
@@ -37,6 +39,8 @@ The company’s tax policy states its approach to responsible taxes, including:
 - c) which governance body or executive-level position within the company will formally review and approve the policy, and how frequently.
 
 ### 3.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s tax policy states its governance, control, and risk management practices, including:
 
@@ -49,6 +53,8 @@ The company’s tax policy states its governance, control, and risk management p
 
 ### 3.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s tax policy states how it engages with stakeholders and manages tax-related concerns, including:
 
 - a) its approach to engaging with tax authorities
@@ -56,6 +62,8 @@ The company’s tax policy states how it engages with stakeholders and manages t
 - c) how it collects and considers stakeholders’ views and concerns, including from external stakeholders.
 
 ### 3.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s tax policy is:
 

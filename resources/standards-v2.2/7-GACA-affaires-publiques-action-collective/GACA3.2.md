@@ -30,6 +30,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 3.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The public report includes:
 
 - a) all tax jurisdictions where the company is resident for tax purposes
@@ -38,12 +40,16 @@ The public report includes:
 
 ### 3.2.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The public report is:
 
 - a) overseen by the highest governing body or a committee of the highest governing body
 - b) published on the company’s webpage and accessible to all stakeholders.
 
 ### 3.2.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company publicly shares its country-by-country reporting:
 

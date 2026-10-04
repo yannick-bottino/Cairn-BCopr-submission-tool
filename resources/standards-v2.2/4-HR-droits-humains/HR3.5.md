@@ -31,9 +31,13 @@ Impact Area : Human Rights (Droits humains). Pages PDF 651-655. Échéance : Yea
 
 ### 3.5.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company has carried out a Human Rights Impact Assessment in the last five years.
 
 ### 3.5.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The assessment:
 
@@ -44,6 +48,8 @@ The assessment:
 - e) is carried out by people or an organization with relevant expertise.
 
 ### 3.5.3
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company publicly shares a summary of the assessment results at minimum.
 

@@ -37,6 +37,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.5.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses its facilities to understand if any are negatively affecting ecologically sensitive areas they are in or near, and records:
 
 - a) the location and size (in hectares) of the facilities
@@ -44,9 +46,13 @@ The company assesses its facilities to understand if any are negatively affectin
 
 ### 1.5.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The assessment includes all of its manufacturing and production facilities.
 
 ### 1.5.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has conducted its assessment to understand if its facilities are in or near ecologically sensitive areas within the past 36 months.
 

@@ -31,6 +31,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 4.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company documents the following principles governing its marketing and public relations practices related to environmental and social claims.
 
 - a) The company makes precise, verifiable, and substantiated claims based on reliable or scientific data.
@@ -38,6 +40,8 @@ The company documents the following principles governing its marketing and publi
 - c)  The company follows ethical guidelines when using sensitive marketing and public relations channels and practices.
 
 ### 4.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The principles are communicated to company workers and available for them to access.
 

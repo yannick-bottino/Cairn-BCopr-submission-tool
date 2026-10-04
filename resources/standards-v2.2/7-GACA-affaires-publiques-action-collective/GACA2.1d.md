@@ -30,6 +30,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.1d.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The advocacy work aims to create a positive impact on society or the environment.
 
 ## Intent

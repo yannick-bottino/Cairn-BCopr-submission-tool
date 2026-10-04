@@ -34,9 +34,13 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 32-35. Éch
 
 ### 1.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company complies with all applicable local and national laws and regulations.
 
 ### 1.3.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
 

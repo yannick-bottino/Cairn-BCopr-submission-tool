@@ -32,12 +32,16 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 99-102. Éc
 
 ### 3.1.h.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets HR2.1, 2.3, and 2.4.
 - b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).
 
 ### 3.1.h.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
@@ -46,6 +50,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 99-102. Éc
 
 ### 3.1.h.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets HR2.1, 2.3, and 2.4.
@@ -53,12 +59,16 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 99-102. Éc
 
 ### 3.1.h.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets HR2.3, 2.4, and 2.5.
 - b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).
 
 ### 3.1.h.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).
 

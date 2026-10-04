@@ -35,6 +35,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has considered the actual and potential environmental impacts for the five most material procurement decisions:
 
 - a) in the last fiscal year or last twelve months before Year 0

@@ -45,9 +45,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.5.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 Workers in relevant roles receive training, guidance documents, or tools to help implement the environmental policies and procedures.
 
 ### 2.5.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The guidance is tailored for the relevant role or department.
 

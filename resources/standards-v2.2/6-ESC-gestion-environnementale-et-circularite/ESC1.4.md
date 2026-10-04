@@ -45,9 +45,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company identifies any of its facilities in areas at physical water risk.
 
 ### 1.4.2
+
+*Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
 
 Before Year 0, the company:
 
@@ -56,9 +60,13 @@ Before Year 0, the company:
 
 ### 1.4.3
 
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
+
 For Year 5, the company has completed the tracking and recording of water consumption or withdrawal for all facilities in areas of physical water risk.
 
 ### 1.4.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has measured and recorded its annual water consumption or withdrawal in cubic meters (m3) in areas at physical water risk:
 

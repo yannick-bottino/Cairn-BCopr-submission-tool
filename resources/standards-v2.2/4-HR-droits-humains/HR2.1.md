@@ -48,6 +48,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 575-584. Échéance : Yea
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses human rights issues to identify which are salient to its operations and value chain. The assessment:
 
 - a) is based on desk research and stakeholder engagement
@@ -59,13 +61,19 @@ The company assesses human rights issues to identify which are salient to its op
 
 ### 2.1.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The assessment scope covers all individuals and communities affected by the company’s operations and value chain.
 
 ### 2.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The assessment was completed or updated in the last 36 months.
 
 ### 2.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.
 

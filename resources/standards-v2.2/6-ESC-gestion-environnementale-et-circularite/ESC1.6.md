@@ -35,6 +35,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.6.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company defines indicators to monitor animal welfare conditions. The indicators in its monitoring process relate to how the animals are:
 
 - a) raised
@@ -43,9 +45,13 @@ The company defines indicators to monitor animal welfare conditions. The indicat
 
 ### 1.6.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company monitors the five freedoms of animal welfare.
 
 ### 1.6.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company creates an annual aggregate summary of animal welfare conditions:
 
@@ -53,6 +59,8 @@ The company creates an annual aggregate summary of animal welfare conditions:
 - b) in each subsequent year.
 
 ### 1.6.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company meets any applicable laws regarding animal welfare (both general and species-specific).
 

@@ -35,6 +35,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 701-705. Échéance : Yea
 
 ### 4.7.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company increases the proportion of high-risk raw materials that it ckritische Rohstoffan trace to their origin according to their plan (HR4.6).
 
 ## Intent

@@ -30,13 +30,19 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 5.5.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 All managers have at least one performance review target tied to the company’s social or environmental performance, or both.
 
 ### 5.5.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 All social and environmental targets for managers are documented.
 
 ### 5.5.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The targets are SMART (specific, measurable, achievable, relevant, and time-bound).
 

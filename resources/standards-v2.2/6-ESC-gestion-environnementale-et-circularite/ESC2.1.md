@@ -45,9 +45,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s strategy addresses the material negative environmental impacts in its direct operations and value chain identified in ESC1.7.
 
 ### 2.1.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The strategy, or a related implementation plan, includes:
 
@@ -63,9 +67,13 @@ The strategy, or a related implementation plan, includes:
 
 ### 2.1.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The strategy is approved by the highest governing body or executive team.
 
 ### 2.1.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The strategy was adopted or reviewed in the last twelve months.
 

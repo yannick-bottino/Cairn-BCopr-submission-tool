@@ -32,6 +32,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 6.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The assessment covers the following themes.
 
 - a) Workers’ understanding of the company’s social and environmental impact and strategy
@@ -40,13 +42,19 @@ The assessment covers the following themes.
 
 ### 6.3.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company collects this information at least every 24 months.
 
 ### 6.3.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company makes it clear to workers that participating is optional.
 
 ### 6.3.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company records an analysis of the feedback and an overview of actions it has taken.
 

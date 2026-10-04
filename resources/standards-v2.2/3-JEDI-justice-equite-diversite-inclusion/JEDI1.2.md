@@ -32,17 +32,25 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 1.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company collects data on one additional social identity (other than gender identity) for at least five worker-related measurements.
 
 ### 1.2.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company uses stakeholder feedback to choose the additional social identity.
 
 ### 1.2.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 Workers provide their social identity voluntarily, and can choose to remain anonymous.
 
 ### 1.2.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company disaggregates data to report internally on its chosen worker-related measurements.
 

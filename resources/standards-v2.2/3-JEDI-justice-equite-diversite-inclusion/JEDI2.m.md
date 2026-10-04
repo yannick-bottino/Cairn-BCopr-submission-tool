@@ -34,9 +34,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.m.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses the accessibility of its public-facing website.
 
 ### 2.m.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment:
 

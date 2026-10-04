@@ -45,6 +45,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 735-748. Échéance : Yea
 
 ### 4.11.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s plan relates to one or more of the following:
 
 - a) living wage
@@ -52,6 +54,8 @@ The company’s plan relates to one or more of the following:
 - c) collective bargaining
 
 ### 4.11.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company’s plan includes, at minimum:
 
@@ -62,17 +66,25 @@ The company’s plan includes, at minimum:
 
 ### 4.11.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The plan was reviewed or updated in the last twelve months.
 
 ### 4.11.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The plan is approved by the company’s executive team or highest governing body.
 
 ### 4.11.5
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company has publicly shared an update.
 
 ### 4.11.6
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The public update includes, at minimum:
 

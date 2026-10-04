@@ -41,6 +41,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 If the company identified biodiversity-related impacts as material in its assessment of environmental impacts, then the company’s biodiversity transition plan includes:
 
 - a) a commitment to contribute to the global goal of halting and reversing biodiversity loss by 2030
@@ -51,6 +53,8 @@ If the company identified biodiversity-related impacts as material in its assess
 - d) how the company integrates Indigenous Peoples’ local knowledge or traditional ecological knowledge and nature-based solutions.
 
 ### 2.2.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The plan includes actions to:
 
@@ -67,13 +71,19 @@ The plan includes actions to:
 
 ### 2.2.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The plan is approved by the highest governing body or executive team.
 
 ### 2.2.4
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The plan follows the mitigation hierarchy for biodiversity.
 
 ### 2.2.5
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The plan was adopted or reviewed in the last twelve months.
 

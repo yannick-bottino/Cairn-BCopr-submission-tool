@@ -58,8 +58,13 @@ def norm(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+# Coquille du PDF reprise par le CSV : FW1.1.3 imprimé « 1.2.3 »
+ID_FIXES = {("FW1.1", "1.2.3"): "1.1.3"}
+
+
 def ids(row):
-    return list(dict.fromkeys(c.strip() for c in row["criteres_conformite_ids"].split(",") if c.strip()))
+    raw = dict.fromkeys(c.strip() for c in row["criteres_conformite_ids"].split(",") if c.strip())
+    return [ID_FIXES.get((row["code"], c), c) for c in raw]
 
 
 @pytest.fixture(scope="session")
@@ -143,6 +148,41 @@ def test_every_criterion_in_criteres_csv(criteres_csv, rows):
         assert k in got, k
         assert got[k]["texte_en"].strip(), k
         assert got[k]["page"].isdigit(), k
+
+
+DEADLINES = [
+    ("ESC1.1", "1.1.7", "Year 5"),
+    ("ESC1.2", "1.2.4", "Year 5"),
+    ("ESC1.3", "1.3.5", "Year 5"),
+    ("ESC1.4", "1.4.3", "Year 5"),
+    ("ESC1.4", "1.4.2", "Before Year 0"),
+    ("ESC1.4", "1.4.1", "Year 0"),  # sans marquage : année de la sous-exigence
+]
+
+
+@pytest.mark.parametrize("code,cid,expected", DEADLINES)
+def test_criterion_deadline(out_dir, criteres_csv, code, cid, expected):
+    row = next(x for x in criteres_csv if x["code"] == code and x["critere_id"] == cid)
+    assert row["echeance_critere"] == expected
+    _, body = split_md(out_dir / "6-ESC-gestion-environnementale-et-circularite" / f"{code}.md")
+    assert criterion_texts(body)[cid].startswith(f"*Échéance du critère : {expected}")
+
+
+def test_deadline_values_and_default(criteres_csv, rows):
+    years = {r["code"]: r["echeance"].replace("Year", "Year ") for r in rows}
+    for x in criteres_csv:
+        assert x["echeance_critere"] in {"Before Year 0", "Year 0", "Year 3", "Year 5"}
+        if not re.match(r"(For|Before|By) Year", x["texte_en"]):
+            assert x["echeance_critere"] == years[x["code"]], (x["code"], x["critere_id"])
+
+
+def test_fw11_typo_corrected(out_dir, criteres_csv):
+    fm, body = split_md(out_dir / "2-FW-travail-equitable" / "FW1.1.md")
+    assert fm["criteria"] == ["1.1.1", "1.1.2", "1.1.3"]
+    texts = criterion_texts(body)
+    assert "All employees receive a copy of their employment contract or offer letter from the company." in texts["1.1.3"]
+    assert "Anomalie du PDF" in texts["1.1.3"] and "« 1.2.3 »" in texts["1.1.3"]
+    assert ("FW1.1", "1.1.3") in {(x["code"], x["critere_id"]) for x in criteres_csv}
 
 
 def test_no_footer_in_md(out_dir):

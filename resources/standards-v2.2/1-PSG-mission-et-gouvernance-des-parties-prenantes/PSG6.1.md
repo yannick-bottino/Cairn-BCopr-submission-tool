@@ -31,6 +31,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 6.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s social and environmental impact report:
 
 - a) includes progress against all relevant measures of the company’s social and environmental performance and a summary of stakeholder engagement processes
@@ -38,6 +40,8 @@ The company’s social and environmental impact report:
 - c) is published on the company’s webpage and made accessible to all stakeholders.
 
 ### 6.1.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If the company does not produce annual reports, it can issue a comprehensive report at minimum every second year, while providing lighter interim updates on its webpage or through topic-specific reports.
 

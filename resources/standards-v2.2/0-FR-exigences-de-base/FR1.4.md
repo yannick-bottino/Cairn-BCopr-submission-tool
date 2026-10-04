@@ -34,12 +34,16 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 36-39. Éch
 
 ### 1.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company shares accurate and complete information by:
 
 - a) using credible evidence and data source
 - b) having a clear understanding of B Lab’s resources.
 
 ### 1.4.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company shares accurate and complete information at all times:
 
@@ -48,6 +52,8 @@ The company shares accurate and complete information at all times:
 - c) in all communications with B Lab personnel.
 
 ### 1.4.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
 

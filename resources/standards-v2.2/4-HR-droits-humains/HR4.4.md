@@ -41,6 +41,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 684-690. Échéance : Yea
 
 ### 4.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company:
 
 - a) identifies prioritized suppliers related to its salient human rights issues (HR2.1)
@@ -48,12 +50,16 @@ The company:
 
 ### 4.4.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company works with its prioritized suppliers to prevent or mitigate their most material human rights impacts by
 
 - a) agreeing on targets with each prioritized supplier
 - b) monitoring progress at least annually
 
 ### 4.4.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.
 

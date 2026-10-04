@@ -47,12 +47,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.3a.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company knows the following for its portfolio.
 
 - a) The amount of single-use products, as a percentage of the total weight of its products (excluding packaging)
 - b) The amount of single-use packaging, as a percentage of the total weight of its packaging
 
 ### 3.3.a.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company records the reduction in percentage of single-use products or packaging in its portfolio resulting from the actions it took.
 

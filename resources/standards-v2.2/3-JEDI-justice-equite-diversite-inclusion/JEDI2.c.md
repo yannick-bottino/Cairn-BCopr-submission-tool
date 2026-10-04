@@ -34,6 +34,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.c.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company reviews at least five policies that affect people using:
 
 - a) data from JEDI1
@@ -43,6 +45,8 @@ The company reviews at least five policies that affect people using:
 
 ### 2.c.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The review looks at:
 
 - a) terminology used in the policies
@@ -50,6 +54,8 @@ The review looks at:
 - c) relationships to JEDI principles.
 
 ### 2.c.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Following its review, the company updates the policies if needed.
 

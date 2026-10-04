@@ -35,12 +35,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.4.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company either:
 
 - a) knows the origin and potential environmental impacts of its high-risk raw materials (as determined under ESC1.7)
 - b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.
 
 ### 5.4.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company documents the proportion of high-risk raw materials that it can trace to their origin.
 

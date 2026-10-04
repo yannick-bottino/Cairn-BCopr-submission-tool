@@ -32,6 +32,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 2.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s stakeholder governance policy describes:
 
 - a) what it means to be a company with a stakeholder governance model
@@ -41,6 +43,8 @@ The company’s stakeholder governance policy describes:
 - e) the mechanisms to encourage regular stakeholder engagement.
 
 ### 2.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The following stakeholders are represented with one or more engagement mechanisms.
 
@@ -53,9 +57,13 @@ The following stakeholders are represented with one or more engagement mechanism
 
 ### 2.2.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The policy is approved by the highest governing body.
 
 ### 2.2.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy is communicated to company workers and available for them to access.
 

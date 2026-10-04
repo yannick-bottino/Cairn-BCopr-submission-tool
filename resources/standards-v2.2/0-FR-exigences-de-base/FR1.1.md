@@ -34,6 +34,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 22-24. Éch
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company is confirmed to be:
 
 - a) an incorporated business entity
@@ -41,6 +43,8 @@ The company is confirmed to be:
 - c) generating a majority of revenue from a competitive market.
 
 ### 1.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company does not fall into any of the following categories.
 

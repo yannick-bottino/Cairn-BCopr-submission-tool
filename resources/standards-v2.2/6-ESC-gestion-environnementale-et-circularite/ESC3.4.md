@@ -37,6 +37,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company conducts and records an analysis of available recovery infrastructure for its products and packaging after their end-of-life.
 
 The analysis:
@@ -48,13 +50,19 @@ The analysis:
 
 ### 3.4.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The analysis produces a document that summarizes the company’s methodology.
 
 ### 3.4.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The analysis was either completed or updated in the last 36 months.
 
 ### 3.4.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For each update, the company increases the extent of coverage of the analysis (measured as a percentage of aggregate production and number of countries) as compared to the previous analysis.
 

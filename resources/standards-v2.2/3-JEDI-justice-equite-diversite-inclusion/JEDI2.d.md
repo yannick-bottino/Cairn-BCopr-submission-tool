@@ -34,13 +34,19 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.d.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company chooses three social identities using stakeholder feedback and the demographics of its community.
 
 ### 2.d.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s highest governing body and executive team reflect the diversity of its community across its three chosen social identities.
 
 ### 2.d.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company calculates the ratios at any point in the last twelve months.
 

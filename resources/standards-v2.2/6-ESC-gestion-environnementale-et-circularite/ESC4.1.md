@@ -36,6 +36,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 4.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company takes action to prevent or mitigate its actual and potential negative environmental impacts:
 
 - a) in the twelve months before Year 3
@@ -43,9 +45,13 @@ The company takes action to prevent or mitigate its actual and potential negativ
 
 ### 4.1.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records the action and any demonstrable output.
 
 ### 4.1.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The action is related to the company’s operations or value chain.
 

@@ -45,9 +45,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 2.4.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company explicitly addresses each material environmental impact area with a policy or procedure.
 
 ### 2.4.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The scope of each policy and procedure matches the nature of the material environmental impact area.
 

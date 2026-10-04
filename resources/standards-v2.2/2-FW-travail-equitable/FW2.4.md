@@ -32,9 +32,13 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 321-325. Échéance : Ye
 
 ### 2.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has calculated its gender wage gap for each country with at least 250 employees (based on headcount).
 
 ### 2.4.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has calculated one of the following in the last fiscal year.
 
@@ -44,6 +48,8 @@ The company has calculated one of the following in the last fiscal year.
 
 ### 2.4.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 Wage gap calculations include, at minimum:
 
 - a) the base wage
@@ -51,6 +57,8 @@ Wage gap calculations include, at minimum:
 - c) any bonuses.
 
 ### 2.4.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Wage gap calculations exclude any:
 
@@ -60,6 +68,8 @@ Wage gap calculations exclude any:
 - d) deferred bonuses
 
 ### 2.4.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Wage gap calculations use gross figures (before tax is applied).
 

@@ -31,6 +31,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 326-329. Échéance : Ye
 
 ### 2.5.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company publicly shares:
 
 - a) its annual gender wage gap

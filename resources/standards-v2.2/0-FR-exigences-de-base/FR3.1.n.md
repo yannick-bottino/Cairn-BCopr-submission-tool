@@ -32,12 +32,16 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 138-145. É
 
 ### 3.1.n.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply,
 
 - a) The company meets PSG4.2.
 - b) The company selects “not applicable” for PSG4.1 because PSG4.2 replaces it.
 
 ### 3.1.n.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Medium companies in all sectors] If Yes, in addition to the sub-requirements that already apply,
 
@@ -46,6 +50,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 138-145. É
 - c) The company selects “not applicable” for PSG3.2 because PSG3.4 replaces it.
 
 ### 3.1.n.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Large, X Large, and XX Large companies in all sectors] If Yes, no change to the sub-requirement that applies. The most demanding sub-requirement under PSG3 already applies.
 

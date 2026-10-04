@@ -32,9 +32,13 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 3.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s grievance procedure is available on its webpage in relevant languages or forms to ensure stakeholders can access it.
 
 ### 3.3.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The grievance procedure explains:
 
@@ -44,9 +48,13 @@ The grievance procedure explains:
 
 ### 3.3.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The grievance procedure states the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.
 
 ### 3.3.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company responds to stakeholder grievances by either:
 
@@ -55,9 +63,13 @@ The company responds to stakeholder grievances by either:
 
 ### 3.3.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company notifies each of its main stakeholders the relevant grievance procedures.
 
 ### 3.3.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The grievance procedure clearly explains how the decision-making process will avoid conflicts of interest.
 

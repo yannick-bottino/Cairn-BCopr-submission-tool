@@ -48,13 +48,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 621-627. Échéance : Yea
 
 ### 3.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company takes action to prevent and mitigate actual and potential negative human rights impacts.
 
 ### 3.2.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company takes action to remediate any actual negative human rights impacts.
 
 ### 3.2.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company considers:
 

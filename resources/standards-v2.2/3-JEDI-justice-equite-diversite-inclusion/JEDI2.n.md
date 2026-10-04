@@ -34,6 +34,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.n.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company communicates its JEDI action plan and progress publicly, once per year at minimum.
 
 ## Intent

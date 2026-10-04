@@ -48,17 +48,25 @@ Impact Area : Human Rights (Droits humains). Pages PDF 614-620. Échéance : Yea
 
 ### 3.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a process to collect, prioritize, and escalate information on actual and potential negative human rights impacts.
 
 ### 3.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has clear roles and responsibilities related to this process.
 
 ### 3.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 In the process, impacts are prioritized and escalated based on their severity and likelihood.
 
 ### 3.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The process also sets out:
 

@@ -34,17 +34,25 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.e.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company gets a third party with relevant expertise to carry out an equity audit.
 
 ### 2.e.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The audit produces a report with a written summary of the audit methodology.
 
 ### 2.e.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The equity audit includes feedback from relevant social identity groups.
 
 ### 2.e.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The scope of the equity audit includes, at minimum, the company’s:
 
@@ -54,9 +62,13 @@ The scope of the equity audit includes, at minimum, the company’s:
 
 ### 2.e.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company publicly shares a summary of the audit results.
 
 ### 2.e.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Audit participants can choose to remain anonymous.
 

@@ -32,6 +32,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 563-567. Échéance : Yea
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company commits publicly to respect human rights and to each of the following:
 
 - a) UN Guiding Principles on Business and Human Rights

@@ -34,12 +34,16 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company has more than 10 and fewer than 50 workers (based on headcount), it has facilitated at least one discussion or survey about JEDI principles in the workplace:
 
 - a) in the twelve months before Year 0
 - b) in each subsequent year.
 
 ### 1.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company chooses to facilitate a discussion:
 
@@ -48,12 +52,16 @@ If the company chooses to facilitate a discussion:
 
 ### 1.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company has 50 workers or more (based on headcount) it:
 
 - a) collects data on gender identity or sex at birth for at least five worker-related measurements.
 - b) disaggregates data to report internally on its chosen worker-related measurements.
 
 ### 1.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Workers provide their data and participate voluntarily, and can choose to remain anonymous.
 

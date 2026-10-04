@@ -41,6 +41,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company:
 
 - a) identifies prioritized suppliers related to its most material environmental impacts (ESC1.7)
@@ -48,12 +50,16 @@ The company:
 
 ### 5.3.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company works with its prioritized suppliers to prevent or mitigate their most material environmental impacts by
 
 - a) agreeing on targets with each prioritized supplier
 - b) monitoring progress at least annually
 
 ### 5.3.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.
 

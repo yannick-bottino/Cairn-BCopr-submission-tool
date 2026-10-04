@@ -41,21 +41,31 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 4.3.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company makes progress against its targets and indicators  (measured at an interval of no more than 36 months), in line with its biodiversity transition plan defined under ESC2.2.
 
 ### 4.3.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The plan’s actions align to the mitigation hierarchy for biodiversity.
 
 ### 4.3.3
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company evaluates the effectiveness of its biodiversity transition plan.
 
 ### 4.3.4
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The evaluation results are shared with the highest governing body or executive team.
 
 ### 4.3.5
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 Where the plan is ineffective, the company records:
 
@@ -64,6 +74,8 @@ Where the plan is ineffective, the company records:
 - c) how it has updated the plan.
 
 ### 4.3.6
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company updates its biodiversity transition plan to add targets and indicators for its value chain.
 

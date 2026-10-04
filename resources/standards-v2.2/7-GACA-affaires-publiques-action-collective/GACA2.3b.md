@@ -31,9 +31,13 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.3b.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The external research aims to create a positive impact on society or the environment.
 
 ### 2.3b.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company contributes to research through:
 
@@ -42,6 +46,8 @@ The company contributes to research through:
 - c) data sharing.
 
 ### 2.3b.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company follows up on the output of the research within twelve months.
 

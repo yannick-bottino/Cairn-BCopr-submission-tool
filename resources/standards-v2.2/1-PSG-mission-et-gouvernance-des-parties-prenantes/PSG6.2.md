@@ -30,6 +30,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 6.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s social and environmental impact reports
 
 - a) uses a third-party standard
@@ -39,6 +41,8 @@ The company’s social and environmental impact reports
 - e) follows a consistent structure to show progress over the years.
 
 ### 6.2.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company’s social and environmental impact report includes:
 

@@ -45,17 +45,25 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 4.2.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company makes progress against its targets and indicators (measured at an interval of no more than 36 months), in line with its environmental strategy defined under ESC2.1.
 
 ### 4.2.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company evaluates the effectiveness of its environmental strategy.
 
 ### 4.2.3
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The evaluation results are shared with the highest governing body or executive team.
 
 ### 4.2.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 Where the strategy is ineffective, the company records:
 
@@ -64,6 +72,8 @@ Where the strategy is ineffective, the company records:
 - c) how it has updated the strategy.
 
 ### 4.2.5
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company’s environmental strategy has targets and indicators to prevent or mitigate negative environmental impacts for its value chain.
 

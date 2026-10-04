@@ -31,12 +31,16 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.6.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company chooses and implements:
 
 - a) two JEDI actions before Year 0
 - b) seven JEDI actions for Years 3 and 5 each.
 
 ### 2.6.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company chooses at minimum one option from each set across Years 0, 3, and 5.
 
@@ -46,17 +50,25 @@ The company chooses at minimum one option from each set across Years 0, 3, and 5
 
 ### 2.6.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.
 
 ### 2.6.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records its actions and status updates in a plan.
 
 ### 2.6.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The plan was updated and shared with relevant stakeholders in the last twelve months.
 
 ### 2.6.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s plan:
 
@@ -65,6 +77,8 @@ The company’s plan:
 - c) assigns responsibilities to specific roles.
 
 ### 2.6.7
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The plan, including status updates, is available  for workers to review at any time.
 

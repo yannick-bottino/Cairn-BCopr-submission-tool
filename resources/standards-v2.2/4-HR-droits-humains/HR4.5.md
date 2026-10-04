@@ -38,17 +38,25 @@ Impact Area : Human Rights (Droits humains). Pages PDF 691-695. Échéance : Yea
 
 ### 4.5.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company gets feedback from suppliers on the commitments and responsibilities in its sourcing documents.
 
 ### 4.5.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company adds buyer commitments and responsibilities to sourcing documents to achieve, at minimum, balance between buyer and supplier expectations.
 
 ### 4.5.3
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The commitments and responsibilities relate to human rights.
 
 ### 4.5.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company updates its sourcing documents to include, at minimum:
 
@@ -57,6 +65,8 @@ The company updates its sourcing documents to include, at minimum:
 - c) a commitment from the buyer to the principle of responsible exit.
 
 ### 4.5.5
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The company records changes to the sourcing documents.
 

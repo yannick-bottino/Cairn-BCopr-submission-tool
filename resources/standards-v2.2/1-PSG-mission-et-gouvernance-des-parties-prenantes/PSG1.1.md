@@ -36,6 +36,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company establishes a purpose statement which:
 
 - a) sets out the specific positive and meaningful impact the company intends to make on society or the environment, or both

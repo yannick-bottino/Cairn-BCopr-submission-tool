@@ -32,9 +32,13 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 5.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 All members of the company’s executive team have at least one annual target tied to the company’s social or environmental performance.
 
 ### 5.3.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The targets are SMART (specific, measurable, achievable, relevant, and time-bound).
 

@@ -31,12 +31,16 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.3e.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The thought leadership:
 
 - a) has a clear positive outcome
 - b) aims to create a positive impact on society or the environment.
 
 ### 2.3e.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company is involved in at least:
 

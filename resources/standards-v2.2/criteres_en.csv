@@ -1,407 +1,407 @@
-code,critere_id,texte_en,page
+code,critere_id,texte_en,page,echeance_critere
 FR1.1,1.1.1,"The company is confirmed to be:
 a) an incorporated business entity
 b) in operation for at least 12 months
-c) generating a majority of revenue from a competitive market.",23
+c) generating a majority of revenue from a competitive market.",23,Year 0
 FR1.1,1.1.2,"The company does not fall into any of the following categories.
 a) Business divisions, brands, or units, or businesses that are not complete and distinct from their parent or group of affiliates
 b) Franchisors who do not own a majority of global franchisee locations, or franchisors without geographic distinction from independent franchisees
 c) Non-profits or Civil Society Organizations (CSOs), foundations, or charitable entities, unless otherwise approved by B Lab
 d) Governments, government agencies, government ministries, or state-owned enterprises, unless otherwise approved by B Lab
-e) Company legally registered in regions not covered operationally by B Lab and not part of a larger group registered in a region covered by B Lab",23
+e) Company legally registered in regions not covered operationally by B Lab and not part of a larger group registered in a region covered by B Lab",23,Year 0
 FR1.2,1.2.1,"The company generates less than 1% of annual revenue from direct involvement in the listed industries.
 a) Fossil fuel producers
 b) Gambling
 c) Pornography
 d) Prisons and detention centers (including prison or detention center labor)
 e) Tobacco
-f) Weapons",26
+f) Weapons",26,Year 0
 FR1.2,1.2.2,"The company generates less than 1% of annual revenue from selling the following products or services to organizational clients in the listed industries (see Compliance Criterion 1.2.1).
 a) Lobbying or public relations services
 b) Marketing, advertising, or branding services
-c) Physical products tailored for a client in a listed industry",26
+c) Physical products tailored for a client in a listed industry",26,Year 0
 FR1.2,1.2.3,"The company generates less than 1% of annual revenue from direct growth financing in the listed industries (see Compliance Criterion 1.2.1) through the following activities.
 a) Direct equity investments
-b) Private equity, venture capital, or growth capital, including debt financing",26
-FR1.2,1.2.4,"For electric utilities and power generation companies, less than 50% of their product portfolio or energy mix is from fossil fuels.",26
-FR1.2,1.2.5,B Corps certified against V1.6 of the standards must meet FR1.2 by Year 3 (not Year 0).,26
-FR1.3,1.3.1,The company complies with all applicable local and national laws and regulations.,33
-FR1.3,1.3.2,The company signs an Agreement committing to the B Corp Certification process.,33
+b) Private equity, venture capital, or growth capital, including debt financing",26,Year 0
+FR1.2,1.2.4,"For electric utilities and power generation companies, less than 50% of their product portfolio or energy mix is from fossil fuels.",26,Year 0
+FR1.2,1.2.5,B Corps certified against V1.6 of the standards must meet FR1.2 by Year 3 (not Year 0).,26,Year 0
+FR1.3,1.3.1,The company complies with all applicable local and national laws and regulations.,33,Year 0
+FR1.3,1.3.2,The company signs an Agreement committing to the B Corp Certification process.,33,Year 0
 FR1.4,1.4.1,"The company shares accurate and complete information by:
 a) using credible evidence and data source
-b) having a clear understanding of B Lab’s resources.",37
+b) having a clear understanding of B Lab’s resources.",37,Year 0
 FR1.4,1.4.2,"The company shares accurate and complete information at all times:
 a) in its B Impact Assessment
 b) in providing information to assurance providers authorized by B Lab
-c) in all communications with B Lab personnel.",37
-FR1.4,1.4.3,The company signs an Agreement committing to the B Corp Certification process.,37
-FR1.5,1.5.1,The company shares basic details for its B Corp public profile through the B Impact Assessment platform.,41
-FR1.5,1.5.2,The company agrees to publicly share information as required by the B Lab Standard.,41
-FR1.5,1.5.3,"If the company is a wholly-owned or majority-owned subsidiary, or a large public company, it makes its entire B Impact Assessment report public and identifies any majority owners.",41
-FR1.5,1.5.4,The company agrees that B Lab can make its B Impact Report and basic profile information available on the B Lab Global website and other B Lab and Sistema B Global Partner websites while the company is a certified B Corp.,41
-FR1.5,1.5.5,The company signs an Agreement committing to the B Corp Certification process.,41
-FR2.1,2.1.1,"The company adopts an entity type or an amendment to its governing documents to require stakeholder governance (meaning it considers stakeholders in its decision-making). The company adopts stakeholder governance in accordance with the B Corp legal requirement, and as applicable to its legal form and jurisdiction.",45
+c) in all communications with B Lab personnel.",37,Year 0
+FR1.4,1.4.3,The company signs an Agreement committing to the B Corp Certification process.,37,Year 0
+FR1.5,1.5.1,The company shares basic details for its B Corp public profile through the B Impact Assessment platform.,41,Year 0
+FR1.5,1.5.2,The company agrees to publicly share information as required by the B Lab Standard.,41,Year 0
+FR1.5,1.5.3,"If the company is a wholly-owned or majority-owned subsidiary, or a large public company, it makes its entire B Impact Assessment report public and identifies any majority owners.",41,Year 0
+FR1.5,1.5.4,The company agrees that B Lab can make its B Impact Report and basic profile information available on the B Lab Global website and other B Lab and Sistema B Global Partner websites while the company is a certified B Corp.,41,Year 0
+FR1.5,1.5.5,The company signs an Agreement committing to the B Corp Certification process.,41,Year 0
+FR2.1,2.1.1,"The company adopts an entity type or an amendment to its governing documents to require stakeholder governance (meaning it considers stakeholders in its decision-making). The company adopts stakeholder governance in accordance with the B Corp legal requirement, and as applicable to its legal form and jurisdiction.",45,Year 0
 FR2.1,2.1.2,"If the company cannot adopt a stakeholder governance legal form because of local laws, it signs the B Corp Agreement and commits to:
 a) working with B Lab to determine the appropriate legal pathway
 b) advocating for benefit corporation legislation in its jurisdiction
-c) amending its formation documents or adopting a new legal form if one is enacted through local lawmaking.",45
-FR2.1,2.1.3,The company signs an Agreement committing to the B Corp Certification process.,45
+c) amending its formation documents or adopting a new legal form if one is enacted through local lawmaking.",45,Year 0
+FR2.1,2.1.3,The company signs an Agreement committing to the B Corp Certification process.,45,Year 0
 FR2.2,2.2.1,"The company commits to the shared collective purpose of the B Corp community, as set out in the Declaration of Interdependence:
 We envision a global economy that uses business as a force for good. This economy is comprised of a new type of corporation — the B Corporation — which is purpose-driven and creates benefit for all stakeholders, not just shareholders.
 As Certified B Corporations and leaders of this emerging economy, we believe:
 That we must be the change we seek in the world.
 That all business ought to be conducted as if people and place mattered.
 That, through their products, practices, and profits, businesses should aspire to do no harm and benefit all.
-To do so requires that we act with the understanding that we are each dependent upon another and thus responsible for each other and future generations.",50
-FR2.2,2.2.2,The company signs an Agreement committing to the B Corp Certification process.,50
-FR3.1,3.1.1,The company creates a risk profile using B Lab’s Risk Tool by answering the 14 questions in FR3.1.a to FR3.1.n.,52
-FR3.1,3.1.2,The company meets any additional Impact Topic sub-requirements that the Risk Tool activates.,52
-FR3.1,3.1.3,The company agrees to a summary of the risk profile being displayed on its B Corp public profile.,52
+To do so requires that we act with the understanding that we are each dependent upon another and thus responsible for each other and future generations.",50,Year 0
+FR2.2,2.2.2,The company signs an Agreement committing to the B Corp Certification process.,50,Year 0
+FR3.1,3.1.1,The company creates a risk profile using B Lab’s Risk Tool by answering the 14 questions in FR3.1.a to FR3.1.n.,52,Year 0
+FR3.1,3.1.2,The company meets any additional Impact Topic sub-requirements that the Risk Tool activates.,52,Year 0
+FR3.1,3.1.3,The company agrees to a summary of the risk profile being displayed on its B Corp public profile.,52,Year 0
 FR3.1.a,3.1.a.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56,Year 0
 FR3.1.a,3.1.a.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56,Year 0
 FR3.1.a,3.1.a.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56,Year 0
 FR3.1.a,3.1.a.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56
-FR3.1.a,3.1.a.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",56
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",56,Year 0
+FR3.1.a,3.1.a.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",56,Year 0
 FR3.1.b,3.1.b.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60,Year 0
 FR3.1.b,3.1.b.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60,Year 0
 FR3.1.b,3.1.b.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60,Year 0
 FR3.1.b,3.1.b.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60
-FR3.1.b,3.1.b.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",60
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",60,Year 0
+FR3.1.b,3.1.b.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",60,Year 0
 FR3.1.c,3.1.c.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66,Year 0
 FR3.1.c,3.1.c.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66,Year 0
 FR3.1.c,3.1.c.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66,Year 0
 FR3.1.c,3.1.c.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66
-FR3.1.c,3.1.c.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",66
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",66,Year 0
+FR3.1.c,3.1.c.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",66,Year 0
 FR3.1.d,3.1.d.1,"[Small companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",72
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",72,Year 0
 FR3.1.d,3.1.d.2,"[Small companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72
-FR3.1.d,3.1.d.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72,Year 0
+FR3.1.d,3.1.d.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72,Year 0
 FR3.1.d,3.1.d.4,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",72,Year 0
 FR3.1.d,3.1.d.5,"[Large, X Large, and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",72
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",72,Year 0
 FR3.1.e,3.1.e.1,"[Small companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
-a) The company meets ESC3.1 and ESC3.2.",80
+a) The company meets ESC3.1 and ESC3.2.",80,Year 0
 FR3.1.e,3.1.e.2,"[Small and Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
-a) The company meets ESC3.1 and ESC3.2.",80
+a) The company meets ESC3.1 and ESC3.2.",80,Year 0
 FR3.1.e,3.1.e.3,"[Medium companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC3.1 and ESC3.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80,Year 0
 FR3.1.e,3.1.e.4,"[Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC3.4 and ESC3.5.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80
-FR3.1.e,3.1.e.5,"[X Large and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80,Year 0
+FR3.1.e,3.1.e.5,"[X Large and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",80,Year 0
 FR3.1.e,3.1.e.6,"[Large, X Large and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
-a) The company meets ESC3.1, ESC3.2, ESC3.4, and ESC3.5.",80
+a) The company meets ESC3.1, ESC3.2, ESC3.4, and ESC3.5.",80,Year 0
 FR3.1.f,3.1.f.1,"[Small companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",87
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",87,Year 0
 FR3.1.f,3.1.f.2,"[Small companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87,Year 0
 FR3.1.f,3.1.f.3,"[Medium and Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC2.2 and ESC4.3.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87
-FR3.1.f,3.1.f.4,"[Medium, Large, X Large, and XX Large companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87,Year 0
+FR3.1.f,3.1.f.4,"[Medium, Large, X Large, and XX Large companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87,Year 0
 FR3.1.f,3.1.f.5,"[Medium, Large, X Large and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.2 and ESC4.3.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87
-FR3.1.f,3.1.f.6,"[X Large and XX Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87,Year 0
+FR3.1.f,3.1.f.6,"[X Large and XX Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",87,Year 0
 FR3.1.g,3.1.g.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95,Year 0
 FR3.1.g,3.1.g.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95,Year 0
 FR3.1.g,3.1.g.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95,Year 0
 FR3.1.g,3.1.g.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95
-FR3.1.g,3.1.g.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",95
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",95,Year 0
+FR3.1.g,3.1.g.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",95,Year 0
 FR3.1.h,3.1.h.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100,Year 0
 FR3.1.h,3.1.h.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100,Year 0
 FR3.1.h,3.1.h.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100,Year 0
 FR3.1.h,3.1.h.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100
-FR3.1.h,3.1.h.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",100
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",100,Year 0
+FR3.1.h,3.1.h.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",100,Year 0
 FR3.1.i,3.1.i.1,"[Small companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
-a) The company meets ESC3.1 and ESC3.2.",104
+a) The company meets ESC3.1 and ESC3.2.",104,Year 0
 FR3.1.i,3.1.i.2,"[Medium companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC3.1 and ESC3.2.
-b) considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",104
-FR3.1.i,3.1.i.3,"[Large, X Large, and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",104
+b) considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",104,Year 0
+FR3.1.i,3.1.i.3,"[Large, X Large, and XX Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",104,Year 0
 FR3.1.i,3.1.i.4,"[Small, Medium, Large, X Large, and XX Large companies in Service with a minor footprint] In addition to the sub-requirements that already apply, the company meets the following criteria.
-a) The company meets ESC3.1 and ESC3.2.",104
+a) The company meets ESC3.1 and ESC3.2.",104,Year 0
 FR3.1.j,3.1.j.1,"[Small companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",109
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",109,Year 0
 FR3.1.j,3.1.j.2,"[Small companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",109
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",109,Year 0
 FR3.1.j,3.1.j.3,"[Small companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109,Year 0
 FR3.1.j,3.1.j.4,"[Medium and Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC2.2 and ESC4.3.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109
-FR3.1.j,3.1.j.5,"[X Large and XX Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109
-FR3.1.j,3.1.j.6,"[Medium, Large, X Large and XX Large companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109,Year 0
+FR3.1.j,3.1.j.5,"[X Large and XX Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109,Year 0
+FR3.1.j,3.1.j.6,"[Medium, Large, X Large and XX Large companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",109,Year 0
 FR3.1.j,3.1.j.7,"[Medium, Large, X Large and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.2 and ESC4.3.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",110
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",110,Year 0
 FR3.1.k,3.1.k.1,"[Small companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",120
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",120,Year 0
 FR3.1.k,3.1.k.2,"[Small and Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",120
-FR3.1.k,3.1.k.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",120
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",120,Year 0
+FR3.1.k,3.1.k.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",120,Year 0
 FR3.1.k,3.1.k.4,"[Large, X Large, and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",120
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",120,Year 0
 FR3.1.l,3.1.l.1,"[Small companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",126
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",126,Year 0
 FR3.1.l,3.1.l.2,"[Small companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126
-FR3.1.l,3.1.l.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126,Year 0
+FR3.1.l,3.1.l.3,"[Medium, Large, X Large, and XX Large companies in Manufacturing, Agriculture, Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126,Year 0
 FR3.1.l,3.1.l.4,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.4, ESC1.7, ESC2.1 and ESC4.2.
-b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126
+b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).",126,Year 0
 FR3.1.l,3.1.l.5,"[Large, X Large, and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets ESC1.4, ESC1.7, ESC2.1 and ESC4.2.
 b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
-c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",126
+c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.",126,Year 0
 FR3.1.m,3.1.m.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133,Year 0
 FR3.1.m,3.1.m.2,"[Medium, Large and X Large companies in Manufacturing, Agriculture, Wholesale/Retail, and Service with significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.5
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133,Year 0
 FR3.1.m,3.1.m.3,"[Medium companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.1, 2.3, and 2.4.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133,Year 0
 FR3.1.m,3.1.m.4,"[Large and X Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 a) The company meets HR2.3, 2.4, and 2.5.
-b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133
-FR3.1.m,3.1.m.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",133
+b) The company considers the potential impact (see Intent) in the human rights saliency assessment (HR2.1).",133,Year 0
+FR3.1.m,3.1.m.5,"[XX Large companies in all sectors] If Yes, the company considers the potential impact (see Intent) in their Human Rights Saliency Assessment (HR2.1).",133,Year 0
 FR3.1.n,3.1.n.1,"[Small companies in all sectors] If Yes, in addition to the sub-requirements that already apply,
 a) The company meets PSG4.2.
-b) The company selects “not applicable” for PSG4.1 because PSG4.2 replaces it.",139
+b) The company selects “not applicable” for PSG4.1 because PSG4.2 replaces it.",139,Year 0
 FR3.1.n,3.1.n.2,"[Medium companies in all sectors] If Yes, in addition to the sub-requirements that already apply,
 a) The company meets PSG3.3 and PSG3.4.
 b) The company selects “not applicable” for PSG3.1 because PSG3.3 replaces it.
-c) The company selects “not applicable” for PSG3.2 because PSG3.4 replaces it.",139
-FR3.1.n,3.1.n.3,"[Large, X Large, and XX Large companies in all sectors] If Yes, no change to the sub-requirement that applies. The most demanding sub-requirement under PSG3 already applies.",139
+c) The company selects “not applicable” for PSG3.2 because PSG3.4 replaces it.",139,Year 0
+FR3.1.n,3.1.n.3,"[Large, X Large, and XX Large companies in all sectors] If Yes, no change to the sub-requirement that applies. The most demanding sub-requirement under PSG3 already applies.",139,Year 0
 PSG1.1,1.1.1,"The company establishes a purpose statement which:
 a) sets out the specific positive and meaningful impact the company intends to make on society or the environment, or both
 b) has business relevance and is integrated into its strategy
 c) is publicly available on the company’s webpage
-d) is approved by the company’s highest governing body.",165
-PSG2.1,2.1.1,The company identifies and prioritizes its stakeholders and maps its stakeholders listed in 2.1.3. .,170
-PSG2.1,2.1.2,The company engages with its stakeholders and considers their interests in decision-making.,170
+d) is approved by the company’s highest governing body.",165,Year 0
+PSG2.1,2.1.1,The company identifies and prioritizes its stakeholders and maps its stakeholders listed in 2.1.3. .,170,Year 0
+PSG2.1,2.1.2,The company engages with its stakeholders and considers their interests in decision-making.,170,Year 0
 PSG2.1,2.1.3,"The following stakeholders are represented with one or more  engagement mechanisms.
 a) Workers of the company or its subsidiaries
 b) Suppliers
 c) Customers
 d) Investors
 e) The community where offices or facilities of the company, its subsidiaries, its suppliers, or its investments are located
-f) The local or global environment",170
+f) The local or global environment",170,Year 0
 PSG2.2,2.2.1,"The company’s stakeholder governance policy describes:
 a) what it means to be a company with a stakeholder governance model
 b) the criteria for identifying and prioritizing stakeholders, including a comprehensive map of the company's stakeholders
 c) how decision-makers across the company consider stakeholders in decision-making related to (potential) positive and negative impacts
 d) how the company delivers value to stakeholders through considering their interests
-e) the mechanisms to encourage regular stakeholder engagement.",177
+e) the mechanisms to encourage regular stakeholder engagement.",177,Year 0
 PSG2.2,2.2.2,"The following stakeholders are represented with one or more engagement mechanisms.
 a) Workers of the company or its subsidiaries
 b) Suppliers
 c) Customers
 d) Investors
 e) The community where offices or facilities of the company, its subsidiaries, its suppliers, or its investments are located
-f) The local or global environment",177
-PSG2.2,2.2.3,The policy is approved by the highest governing body.,177
-PSG2.2,2.2.4,The policy is communicated to company workers and available for them to access.,177
+f) The local or global environment",177,Year 0
+PSG2.2,2.2.3,The policy is approved by the highest governing body.,177,Year 0
+PSG2.2,2.2.4,The policy is communicated to company workers and available for them to access.,177,Year 0
 PSG2.3,2.3.1,"The company engages the following stakeholders or their representatives in a materiality assessment.
 a) Workers of the company or its subsidiaries
 b) Suppliers
 c) Customers
 d) Investors
 e) The community where offices or facilities of the company, its subsidiaries, its suppliers, or its investments are located
-f) The local or global environment",184
+f) The local or global environment",184,Year 0
 PSG2.3,2.3.2,"The materiality assessment:
 a) covers the salient human rights issues and material environmental issues addressed in the B Lab Standard
 b) covers topics relevant to the company and its stakeholders, but not addressed in the B Lab Standard
-c) uses a double materiality or impact materiality approach. It cannot only assess financial materiality.",184
-PSG2.3,2.3.3,The company assesses topics based on their significance and sets a threshold to determine its material topics.,184
-PSG2.3,2.3.4,"The company conducts a full materiality assessment at least every 36 months. Between full assessments, it also undertakes one interim review of materiality with a selection of its stakeholders, to update its material topics.",184
-PSG2.3,2.3.5,The highest governing body has oversight of the materiality assessment process and reviews the results.,184
-PSG2.3,2.3.6,"The final outcome and the methodology the company used in its assessment are publicly available in the annual impact report or on the company’s webpage. The outcome may take the form of a materiality matrix or a list of identified material topics, plus a summary of stakeholder engagement processes.",184
-PSG2.4,2.4.1,The company identifies any material topics from its materiality assessment that are not addressed in the B Lab Standard.,194
-PSG2.4,2.4.2,The company sets at least one target per material topic it identifies.,194
+c) uses a double materiality or impact materiality approach. It cannot only assess financial materiality.",184,Year 0
+PSG2.3,2.3.3,The company assesses topics based on their significance and sets a threshold to determine its material topics.,184,Year 0
+PSG2.3,2.3.4,"The company conducts a full materiality assessment at least every 36 months. Between full assessments, it also undertakes one interim review of materiality with a selection of its stakeholders, to update its material topics.",184,Year 0
+PSG2.3,2.3.5,The highest governing body has oversight of the materiality assessment process and reviews the results.,184,Year 0
+PSG2.3,2.3.6,"The final outcome and the methodology the company used in its assessment are publicly available in the annual impact report or on the company’s webpage. The outcome may take the form of a materiality matrix or a list of identified material topics, plus a summary of stakeholder engagement processes.",184,Year 0
+PSG2.4,2.4.1,The company identifies any material topics from its materiality assessment that are not addressed in the B Lab Standard.,194,Year 0
+PSG2.4,2.4.2,The company sets at least one target per material topic it identifies.,194,Year 0
 PSG2.4,2.4.3,"The targets are:
 a) specific, measurable, achievable, relevant, and time-bound (SMART)
 b) integrated into the company strategy
 c) available to the public
-d) approved by the highest governing body",194
-PSG2.4,2.4.4,The company assigns responsibility for achieving each target.,194
-PSG2.4,2.4.5,"In the years after setting its targets, the company publicly reports its progress in its impact report or website.",194
-PSG2.4,2.4.6,"Once the company has achieved a target for a material topic, it sets a new target that meets these Compliance Criteria.",194
+d) approved by the highest governing body",194,Year 0
+PSG2.4,2.4.4,The company assigns responsibility for achieving each target.,194,Year 0
+PSG2.4,2.4.5,"In the years after setting its targets, the company publicly reports its progress in its impact report or website.",194,Year 0
+PSG2.4,2.4.6,"Once the company has achieved a target for a material topic, it sets a new target that meets these Compliance Criteria.",194,Year 0
 PSG2.5,2.5.1,"The company documents decisions by the highest governing body that relate to dividends and stock buyback and which demonstrate how the company:
 a) considered the interests of its stakeholders (not just shareholders)
-b) evaluated stakeholder interests or balanced conflicting stakeholder interests.",200
+b) evaluated stakeholder interests or balanced conflicting stakeholder interests.",200,Year 3
 PSG2.5,2.5.2,"The company considers impacts to the following stakeholders in relation to dividend and stock buyback decisions.
 a) Workers of the company or its subsidiaries
 b) Suppliers
 c) Customers
 d) Investors
 e) The community where offices or facilities of the company, its subsidiaries, its suppliers, or its investments are located
-f) The local or global environment",200
-PSG2.5,2.5.3,The company is publicly transparent on how decisions on dividends and stock buybacks are balanced with reinvestments in the company’s social and environmental performance.,200
-PSG3.1,3.1.1,The company publishes a grievance form on its webpage or has another easily accessible way for stakeholders to raise a grievance.,204
+f) The local or global environment",200,Year 3
+PSG2.5,2.5.3,The company is publicly transparent on how decisions on dividends and stock buybacks are balanced with reinvestments in the company’s social and environmental performance.,200,Year 3
+PSG3.1,3.1.1,The company publishes a grievance form on its webpage or has another easily accessible way for stakeholders to raise a grievance.,204,Year 0
 PSG3.1,3.1.2,"The grievance procedure explains:
 a) grounds for accepting a grievance
 b) grievance process steps and targeted deadlines for managing a grievance
-c) how a resolution is facilitated",204
-PSG3.1,3.1.3,The company describes the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.,204
+c) how a resolution is facilitated",204,Year 0
+PSG3.1,3.1.3,The company describes the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.,204,Year 0
 PSG3.1,3.1.4,"The company responds to stakeholder grievances by either:
 a) regularly communicating each step in the resolution process and its outcome to the complainant, and confirming when the grievance has been resolved
-b) explaining why it did not accept the issue as a grievance.",204
-PSG3.2,3.2.1,The company monitors and tracks grievances and prepares annual summaries of the status and subject of any grievances.,211
-PSG3.2,3.2.2,The company has an employee with well-defined responsibilities for managing grievances.,211
+b) explaining why it did not accept the issue as a grievance.",204,Year 0
+PSG3.2,3.2.1,The company monitors and tracks grievances and prepares annual summaries of the status and subject of any grievances.,211,Year 0
+PSG3.2,3.2.2,The company has an employee with well-defined responsibilities for managing grievances.,211,Year 0
 PSG3.2,3.2.3,"The company demonstrates the effectiveness of the grievance procedure by either:
 a) recording evidence that a grievance has been resolved and closed
-b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.",211
-PSG3.3,3.3.1,The company’s grievance procedure is available on its webpage in relevant languages or forms to ensure stakeholders can access it.,216
+b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.",211,Year 0
+PSG3.3,3.3.1,The company’s grievance procedure is available on its webpage in relevant languages or forms to ensure stakeholders can access it.,216,Year 0
 PSG3.3,3.3.2,"The grievance procedure explains:
 a) grounds for accepting a grievance
 b) grievance process steps and targeted deadlines for managing a grievance
-c) how a resolution is facilitated",216
-PSG3.3,3.3.3,The grievance procedure states the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.,216
+c) how a resolution is facilitated",216,Year 0
+PSG3.3,3.3.3,The grievance procedure states the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.,216,Year 0
 PSG3.3,3.3.4,"The company responds to stakeholder grievances by either:
 a) regularly communicating each step in the resolution process and its outcome, and confirming when the grievance has been resolved
-b) explaining why it did not accept the issue as a grievance.",216
-PSG3.3,3.3.5,The company notifies each of its main stakeholders the relevant grievance procedures.,216
-PSG3.3,3.3.6,The grievance procedure clearly explains how the decision-making process will avoid conflicts of interest.,216
+b) explaining why it did not accept the issue as a grievance.",216,Year 0
+PSG3.3,3.3.5,The company notifies each of its main stakeholders the relevant grievance procedures.,216,Year 0
+PSG3.3,3.3.6,The grievance procedure clearly explains how the decision-making process will avoid conflicts of interest.,216,Year 0
 PSG3.4,3.4.1,"The company conducts an annual analysis of grievances and creates an internal report. The report:
 a) has details on grievances raised and accepted
 b) evaluates the effectiveness of the company’s procedures
 c) identifies trends and hotspots
-d) recommends improvements to address these areas.",223
-PSG3.4,3.4.2,The company has a management or executive role responsible for overseeing the grievance procedure. The manager presents the annual internal summary report on the grievance procedure to the highest governing body.,223
+d) recommends improvements to address these areas.",223,Year 0
+PSG3.4,3.4.2,The company has a management or executive role responsible for overseeing the grievance procedure. The manager presents the annual internal summary report on the grievance procedure to the highest governing body.,223,Year 0
 PSG3.4,3.4.3,"The company demonstrates the effectiveness of the grievance procedure by either:
 a) recording evidence that a grievance has been resolved and closed
-b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.",223
+b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.",223,Year 0
 PSG3.4,3.4.4,"The company publicly reports on grievance decision outcomes in accordance with the following data from the UNGP Effectiveness Criteria:
 a) The number, types, and nature of grievances received
 b) The number of requests rejected and on what grounds
 c) The number of completed cases, the outcomes, any follow-up activities, and the average duration of the process
 d) Stakeholder satisfaction levels
-e) Any other data that will help the public understand the procedure’s performance",223
+e) Any other data that will help the public understand the procedure’s performance",223,Year 0
 PSG4.1,4.1.1,"The company documents the following principles governing its marketing and public relations practices related to environmental and social claims.
 a) The company makes precise, verifiable, and substantiated claims based on reliable or scientific data.
 b) The company is truthful, transparent, and accountable about the social and environmental impacts of the company's operations, both positive and negative.
-c)  The company follows ethical guidelines when using sensitive marketing and public relations channels and practices.",230
-PSG4.1,4.1.2,The principles are communicated to company workers and available for them to access.,230
+c)  The company follows ethical guidelines when using sensitive marketing and public relations channels and practices.",230,Year 0
+PSG4.1,4.1.2,The principles are communicated to company workers and available for them to access.,230,Year 0
 PSG4.2,4.2.1,"The company develops a responsible marketing and public relations policy. The policy:
 a) describes its scope
 b) applies to all audiences
 c) outlines requirements for anyone preparing marketing and public relations activities for the company
-d) is approved by the executive team or highest governing body.",236
+d) is approved by the executive team or highest governing body.",236,Year 0
 PSG4.2,4.2.2,"The requirements in the policy include the following criteria for the company’s social and environmental claims at minimum.
 a) Claims are precise, verifiable, and substantiated using reliable or scientific data.
 b) Claims are proportional to the company's actions.
 c) Claims accurately reflect their applicable scope and are relevant to the company’s impact.
 d) Communications are truthful, transparent, and accountable about the social and environmental impacts of the company’s operations, both positive and negative.
 e) Ethical guidelines govern the company's use of sensitive marketing and public relations’ channels and practices.
-f) Language is understandable and clear, matches the general knowledge level of consumers, and available in prevalent languages or forms relevant to stakeholders where the company operates.",236
-PSG4.2,4.2.3,The company assigns accountability at the level of the executive team or highest governing body for ensuring all marketing and public relations practices comply with the responsible marketing and public relations policy.,236
-PSG4.2,4.2.4,The policy is communicated to company workers and available for them to access.,236
+f) Language is understandable and clear, matches the general knowledge level of consumers, and available in prevalent languages or forms relevant to stakeholders where the company operates.",236,Year 0
+PSG4.2,4.2.3,The company assigns accountability at the level of the executive team or highest governing body for ensuring all marketing and public relations practices comply with the responsible marketing and public relations policy.,236,Year 0
+PSG4.2,4.2.4,The policy is communicated to company workers and available for them to access.,236,Year 0
 PSG5.1,5.1.1,"At least once every 12 months, the highest governing body reviews the company’s:
 a) progress on advancing its public purpose as defined under PSG1.1
 b) social and environmental performance
-c) stakeholder governance implementation.",244
+c) stakeholder governance implementation.",244,Year 0
 PSG5.2,5.2.1,"The highest governing body’s written terms of reference explicitly specify that the highest governing body is responsible for overseeing:
 a) the company’s public purpose as defined under PSG1.1
 b) the company’s social and environmental impact
-c) the company’s consideration of its impact on stakeholders.",251
-PSG5.3,5.3.1,All members of the company’s executive team have at least one annual target tied to the company’s social or environmental performance.,256
-PSG5.3,5.3.2,"The targets are SMART (specific, measurable, achievable, relevant, and time-bound).",256
-PSG5.4,5.4.1,The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.,261
-PSG5.4,5.4.2,The company records annual data on the value of monetary rewards tied to achieving social and environmental performance targets as a percentage of each executive’s salary.,261
-PSG5.4,5.4.3,"The targets linked to the incentive scheme are SMART (specific, measurable, achievable, relevant, and time-bound).",261
-PSG5.5,5.5.1,"All managers have at least one performance review target tied to the company’s social or environmental performance, or both.",267
-PSG5.5,5.5.2,All social and environmental targets for managers are documented.,267
-PSG5.5,5.5.3,"The targets are SMART (specific, measurable, achievable, relevant, and time-bound).",267
+c) the company’s consideration of its impact on stakeholders.",251,Year 0
+PSG5.3,5.3.1,All members of the company’s executive team have at least one annual target tied to the company’s social or environmental performance.,256,Year 3
+PSG5.3,5.3.2,"The targets are SMART (specific, measurable, achievable, relevant, and time-bound).",256,Year 3
+PSG5.4,5.4.1,The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.,261,Year 3
+PSG5.4,5.4.2,The company records annual data on the value of monetary rewards tied to achieving social and environmental performance targets as a percentage of each executive’s salary.,261,Year 3
+PSG5.4,5.4.3,"The targets linked to the incentive scheme are SMART (specific, measurable, achievable, relevant, and time-bound).",261,Year 3
+PSG5.5,5.5.1,"All managers have at least one performance review target tied to the company’s social or environmental performance, or both.",267,Year 3
+PSG5.5,5.5.2,All social and environmental targets for managers are documented.,267,Year 3
+PSG5.5,5.5.3,"The targets are SMART (specific, measurable, achievable, relevant, and time-bound).",267,Year 3
 PSG6.1,6.1.1,"The company’s social and environmental impact report:
 a) includes progress against all relevant measures of the company’s social and environmental performance and a summary of stakeholder engagement processes
 b) is approved by the highest governing body
-c) is published on the company’s webpage and made accessible to all stakeholders.",273
-PSG6.1,6.1.2,"If the company does not produce annual reports, it can issue a comprehensive report at minimum every second year, while providing lighter interim updates on its webpage or through topic-specific reports.",273
+c) is published on the company’s webpage and made accessible to all stakeholders.",273,Year 3
+PSG6.1,6.1.2,"If the company does not produce annual reports, it can issue a comprehensive report at minimum every second year, while providing lighter interim updates on its webpage or through topic-specific reports.",273,Year 3
 PSG6.2,6.2.1,"The company’s social and environmental impact reports
 a) uses a third-party standard
 b) is approved by the highest governing body
 c) is published on the company’s webpage and made accessible to all stakeholders
 d) is prepared and published at least annually
-e) follows a consistent structure to show progress over the years.",278
+e) follows a consistent structure to show progress over the years.",278,Year 3
 PSG6.2,6.2.2,"The company’s social and environmental impact report includes:
 a) progress against all relevant measures of the company’s social and environmental performance and a summary of stakeholder engagement processes
 b) what concrete actions the company has taken
-c) the management strategies the company is using to achieve its social and environmental goals and its progress towards them.",278
+c) the management strategies the company is using to achieve its social and environmental goals and its progress towards them.",278,Year 3
 PSG6.3,6.3.1,"The assessment covers the following themes.
 a) Workers’ understanding of the company’s social and environmental impact and strategy
 b) Workers’ readiness to enact the company’s social and environmental strategy
-c) Workers’ perception of how the company has implemented its social and environmental strategy",283
-PSG6.3,6.3.2,The company collects this information at least every 24 months.,283
-PSG6.3,6.3.3,The company makes it clear to workers that participating is optional.,283
-PSG6.3,6.3.4,The company records an analysis of the feedback and an overview of actions it has taken.,283
+c) Workers’ perception of how the company has implemented its social and environmental strategy",283,Year 3
+PSG6.3,6.3.2,The company collects this information at least every 24 months.,283,Year 3
+PSG6.3,6.3.3,The company makes it clear to workers that participating is optional.,283,Year 3
+PSG6.3,6.3.4,The company records an analysis of the feedback and an overview of actions it has taken.,283,Year 3
 FW1.1,1.1.1,"All employees have an employment contract or offer letter meeting the following criteria.
 a) It is written in a language the employee understands.
 b) It is signed by a company representative and the employee.
@@ -414,80 +414,80 @@ v) the base wage
 vi) any extra wage components
 vii) the work start date
 viii) the duration of the work
-ix) conditions for termination.",302
-FW1.1,1.1.2,"If an employee is already working without a written contract or offer letter, the company provides a letter that meets the criteria above.",302
-FW1.1,1.2.3,All employees receive a copy of their employment contract or offer letter from the company.,302
+ix) conditions for termination.",302,Year 0
+FW1.1,1.1.2,"If an employee is already working without a written contract or offer letter, the company provides a letter that meets the criteria above.",302,Year 0
+FW1.1,1.1.3,All employees receive a copy of their employment contract or offer letter from the company.,302,Year 0
 FW1.2,1.2.1,"If the company uses variable schedules, it has a policy that states the following.
 a) The specific cancellation deadline that applies equally to both the company and employee.
 b) That the company will pay the employee in full when cancelling their work after the deadline for reasons within the company’s control.
-c) Whether the company will pay the employee, and how much, when canceling their work after the deadline for reasons outside the company’s control.",306
-FW1.2,1.2.2,The company makes the policy available to all employees that work variable schedules.,306
+c) Whether the company will pay the employee, and how much, when canceling their work after the deadline for reasons outside the company’s control.",306,Year 0
+FW1.2,1.2.2,The company makes the policy available to all employees that work variable schedules.,306,Year 0
 FW2.1,2.1.1,"The company has a policy or procedure that states it does not ask job applicants to provide:
 a) their wage histories
-b) their preferred wage (unless the company first shares a wage scale).",310
+b) their preferred wage (unless the company first shares a wage scale).",310,Year 0
 FW2.2,2.2.1,"The company tells workers about:
 a) all wage components relevant to them
 b) all benefits they are entitled to
-c) the mechanisms it uses for setting and reviewing wages and benefits.",314
+c) the mechanisms it uses for setting and reviewing wages and benefits.",314,Year 0
 FW2.2,2.2.2,"All employees regularly receive payslips or equivalent containing clear information about, at minimum, their:
 a) base wage
 b) extra wage components
-c) deductions.",314
-FW2.2,2.2.3,Payslips are written in a language the employee understands.,314
-FW2.3,2.3.1,The company has wage scales.,318
-FW2.3,2.3.2,Employees can freely access the wage scales.,318
-FW2.4,2.4.1,The company has calculated its gender wage gap for each country with at least 250 employees (based on headcount).,322
+c) deductions.",314,Year 0
+FW2.2,2.2.3,Payslips are written in a language the employee understands.,314,Year 0
+FW2.3,2.3.1,The company has wage scales.,318,Year 3
+FW2.3,2.3.2,Employees can freely access the wage scales.,318,Year 3
+FW2.4,2.4.1,The company has calculated its gender wage gap for each country with at least 250 employees (based on headcount).,322,Year 0
 FW2.4,2.4.2,"The company has calculated one of the following in the last fiscal year.
 a) average unadjusted gender wage gap at the company level.
 b) average unadjusted gender wage gap at the occupational level.
-c) adjusted gender wage gap, with support from a specialist third party.",322
+c) adjusted gender wage gap, with support from a specialist third party.",322,Year 0
 FW2.4,2.4.3,"Wage gap calculations include, at minimum:
 a) the base wage
 b) any allowances
-c) any bonuses.",322
+c) any bonuses.",322,Year 0
 FW2.4,2.4.4,"Wage gap calculations exclude any:
 a) overtime pay
 b) expense reimbursement
 c) non-cash benefits
-d) deferred bonuses",322
-FW2.4,2.4.5,Wage gap calculations use gross figures (before tax is applied).,322
+d) deferred bonuses",322,Year 0
+FW2.4,2.4.5,Wage gap calculations use gross figures (before tax is applied).,322,Year 0
 FW2.5,2.5.1,"The company publicly shares:
 a) its annual gender wage gap
 b) the gap for each country with at least 250 employees (based on headcount).
-c) the methodology it used to calculate its gender wage gap.",327
+c) the methodology it used to calculate its gender wage gap.",327,Year 0
 FW2.6,2.6.1,"The company either:
 a) has reduced the gap by at least 50%
-b) can justify why it did not reduce the gap by 50%.",331
-FW2.6,2.6.2,The company records what actions it took to reduce the wage gap.,331
-FW2.6,2.6.3,"If it had no gender wage gap, the company maintains a closed gap.",331
-FW2.7,2.7.1,The company carries out a gender-neutral job evaluation for each country with at least 150 workers (based on headcount).,335
+b) can justify why it did not reduce the gap by 50%.",331,Year 3
+FW2.6,2.6.2,The company records what actions it took to reduce the wage gap.,331,Year 3
+FW2.6,2.6.3,"If it had no gender wage gap, the company maintains a closed gap.",331,Year 3
+FW2.7,2.7.1,The company carries out a gender-neutral job evaluation for each country with at least 150 workers (based on headcount).,335,Year 5
 FW2.7,2.7.2,"The company carries out a gender-neutral job evaluation that:
 a) covers all worker categories
 b) covers at least 80% of workers
 c) is based on the analytical, or “point”, method
 d) is carried out by a mixed-gender team
-e) is based on feedback from workers.",335
-FW2.7,2.7.3,"Using the job evaluation and its wage scales (FW2.3), including any extra wage components, the company evaluates whether it offers equal pay for work of equal value.",335
-FW2.7,2.7.4,The evaluation results in a document that includes a written summary of the evaluation methodology.,335
-FW2.7,2.7.5,The evaluation was completed or updated in the last five years.,335
-FW2.7,2.7.6,The company tells its workers about the results.,335
-FW2.7,2.7.7,The company creates a plan to address any wage gaps it identifies.,335
+e) is based on feedback from workers.",335,Year 5
+FW2.7,2.7.3,"Using the job evaluation and its wage scales (FW2.3), including any extra wage components, the company evaluates whether it offers equal pay for work of equal value.",335,Year 5
+FW2.7,2.7.4,The evaluation results in a document that includes a written summary of the evaluation methodology.,335,Year 5
+FW2.7,2.7.5,The evaluation was completed or updated in the last five years.,335,Year 5
+FW2.7,2.7.6,The company tells its workers about the results.,335,Year 5
+FW2.7,2.7.7,The company creates a plan to address any wage gaps it identifies.,335,Year 5
 FW2.8,2.8.1,"The company chooses and implements one of the following:
 a) FW2.8.a The company pays employees a living wage
 b) FW2.8.b The company pays employees a collectively-bargained wage
-c) FW2.8.c The company calculates its living wage gap, creates a closure plan, and meets two additional criteria.",340
-FW2.8.a,2.8.a.1,The company pays employees who are 18 years or older a living wage.,342
-FW2.8.a,2.8.a.2,The company uses a living wage estimate approved by B Lab.,342
-FW2.8.a,2.8.a.3,The company meets the criteria for calculating the total wage.,342
-FW2.8.b,2.8.b.1,The company pays employees a collectively-bargained wage.,356
+c) FW2.8.c The company calculates its living wage gap, creates a closure plan, and meets two additional criteria.",340,Year 3
+FW2.8.a,2.8.a.1,The company pays employees who are 18 years or older a living wage.,342,Year 3
+FW2.8.a,2.8.a.2,The company uses a living wage estimate approved by B Lab.,342,Year 3
+FW2.8.a,2.8.a.3,The company meets the criteria for calculating the total wage.,342,Year 3
+FW2.8.b,2.8.b.1,The company pays employees a collectively-bargained wage.,356,Year 3
 FW2.8.b,2.8.b.2,"The collectively-bargained wage is part of a collective bargaining agreement. The agreement:
 a) is recognized by national legislation
 b) is active
 c) goes above simply referring to legal minimums
-d) is as advantageous as legal entitlements.",356
-FW2.8.c,2.8.c.1,The company calculates its living wage gap.,360
-FW2.8.c,2.8.c.2,The company calculates the number and percentage of employees whose total wage is below the living wage.,360
-FW2.8.c,2.8.c.3,The company creates an internal plan to close its living wage gap.,360
+d) is as advantageous as legal entitlements.",356,Year 3
+FW2.8.c,2.8.c.1,The company calculates its living wage gap.,360,Year 3
+FW2.8.c,2.8.c.2,The company calculates the number and percentage of employees whose total wage is below the living wage.,360,Year 3
+FW2.8.c,2.8.c.3,The company creates an internal plan to close its living wage gap.,360,Year 3
 FW2.8.c,2.8.c.4,"The company meets two of the following criteria at minimum.
 a) It pays employees at least 75% of a living wage.
 b) It has a high-to-low wage ratio of 10:1 or less.
@@ -499,236 +499,236 @@ ii) the lowest wage and highest wage in the company, or its high-to-low wage rat
 f) It gets a third party to confirm its lowest wages are in the top quartile for its local sector or industry.
 g) It pays employees a bonus equivalent to one month of their base wage.
 h) It provides free childcare to employees.
-i) It provides a pension contribution of at least 7% to employees.",360
-FW3.1,3.1.1,The company has an employee representation mechanism.,377
-FW3.1,3.1.2,Representatives meet and record meeting notes.,377
-FW3.1,3.1.3,The company supports its employees to fulfill their employee representative roles during regular working hours.,377
-FW3.1,3.1.4,The employee representatives and the company’s executive team or highest governing body communicate at least twice a year.,377
-FW3.1,3.1.5,"The company publicly shares if its employees do not want an employee representation mechanism, and explains how it determined this.",377
-FW3.2,3.2.1,"The company seeks, considers, and addresses worker feedback on decisions that affect them.",382
-FW3.2,3.2.2,"The company seeks feedback from the workers affected by a decision, or their representative.",382
-FW3.2,3.2.3,"The company communicates its decision and how it considered feedback back to the relevant workers, or their representative.",382
-FW4.1,4.1.1,The measurement focuses on outcomes for workers.,387
+i) It provides a pension contribution of at least 7% to employees.",360,Year 3
+FW3.1,3.1.1,The company has an employee representation mechanism.,377,Year 3
+FW3.1,3.1.2,Representatives meet and record meeting notes.,377,Year 3
+FW3.1,3.1.3,The company supports its employees to fulfill their employee representative roles during regular working hours.,377,Year 3
+FW3.1,3.1.4,The employee representatives and the company’s executive team or highest governing body communicate at least twice a year.,377,Year 3
+FW3.1,3.1.5,"The company publicly shares if its employees do not want an employee representation mechanism, and explains how it determined this.",377,Year 3
+FW3.2,3.2.1,"The company seeks, considers, and addresses worker feedback on decisions that affect them.",382,Year 0
+FW3.2,3.2.2,"The company seeks feedback from the workers affected by a decision, or their representative.",382,Year 0
+FW3.2,3.2.3,"The company communicates its decision and how it considered feedback back to the relevant workers, or their representative.",382,Year 0
+FW4.1,4.1.1,The measurement focuses on outcomes for workers.,387,Year 0
 FW4.1,4.1.2,"The measurement includes at least two of the following themes.
 a) Satisfaction
 b) Wellbeing
 c) Belonging
 d) Feeling engaged
 e) Being engaged
-f) Psychological safety",387
-FW4.1,4.1.3,The company states in its communications about the measurement that participation is optional.,387
+f) Psychological safety",387,Year 0
+FW4.1,4.1.3,The company states in its communications about the measurement that participation is optional.,387,Year 0
 FW4.1,4.1.4,"The company completes the measurement:
 a) in the twelve months before Year 0
-b) in each subsequent year.",387
-FW4.1,4.1.5,The measurement is done annually.,387
+b) in each subsequent year.",387,Year 0
+FW4.1,4.1.5,The measurement is done annually.,387,Year 0
 FW4.1,4.1.6,"If the company has 50 workers or more (based on headcount) then:
 a) The measurement is both qualitative and quantitative.
-b) The measurement is anonymous by default. Where anonymity cannot be ensured, the company informs workers.",387
-FW4.2,4.2.1,The company develops and implements a plan to improve its workplace culture.,394
-FW4.2,4.2.2,The plan is approved by the executive team or highest governing body.,394
-FW4.2,4.2.3,The plan is updated annually to show progress on each action and shared with workers.,394
-FW4.2,4.2.4,"If fewer than 50% of workers participate in the workplace culture measurement, the company includes actions in the plan to increase participation.",394
-FW4.3,4.3.1,"If the company has 250 or more workers (based on headcount), it disaggregates its workplace culture measurements by gender identity or sex at birth.",397
-FW4.3,4.3.2,"Workers provide their gender identity or sex at birth voluntarily, and can choose to remain anonymous",397
-FW4.3,4.3.3,The company has a process to protect workers’ identities.,397
-FW4.4,4.4.1,"If the company has 250 or more workers (based on headcount), it disaggregates its workplace culture measurements by one additional social identity (other than gender identity or sex at birth).",401
-FW4.4,4.4.2,The company uses stakeholder feedback to choose the additional social identity.,401
-FW4.4,4.4.3,"Workers provide their social identity information voluntarily, and can choose to remain anonymous.",401
-FW4.4,4.4.4,The company has a process to protect workers’ identities.,401
+b) The measurement is anonymous by default. Where anonymity cannot be ensured, the company informs workers.",387,Year 0
+FW4.2,4.2.1,The company develops and implements a plan to improve its workplace culture.,394,Year 3
+FW4.2,4.2.2,The plan is approved by the executive team or highest governing body.,394,Year 3
+FW4.2,4.2.3,The plan is updated annually to show progress on each action and shared with workers.,394,Year 3
+FW4.2,4.2.4,"If fewer than 50% of workers participate in the workplace culture measurement, the company includes actions in the plan to increase participation.",394,Year 3
+FW4.3,4.3.1,"If the company has 250 or more workers (based on headcount), it disaggregates its workplace culture measurements by gender identity or sex at birth.",397,Year 3
+FW4.3,4.3.2,"Workers provide their gender identity or sex at birth voluntarily, and can choose to remain anonymous",397,Year 3
+FW4.3,4.3.3,The company has a process to protect workers’ identities.,397,Year 3
+FW4.4,4.4.1,"If the company has 250 or more workers (based on headcount), it disaggregates its workplace culture measurements by one additional social identity (other than gender identity or sex at birth).",401,Year 3
+FW4.4,4.4.2,The company uses stakeholder feedback to choose the additional social identity.,401,Year 3
+FW4.4,4.4.3,"Workers provide their social identity information voluntarily, and can choose to remain anonymous.",401,Year 3
+FW4.4,4.4.4,The company has a process to protect workers’ identities.,401,Year 3
 JEDI1.1,1.1.1,"If the company has more than 10 and fewer than 50 workers (based on headcount), it has facilitated at least one discussion or survey about JEDI principles in the workplace:
 a) in the twelve months before Year 0
-b) in each subsequent year.",423
+b) in each subsequent year.",423,Year 0
 JEDI1.1,1.1.2,"If the company chooses to facilitate a discussion:
 a) it is at least one hour long
-b) the company records notes.",423
+b) the company records notes.",423,Year 0
 JEDI1.1,1.1.3,"If the company has 50 workers or more (based on headcount) it:
 a) collects data on gender identity or sex at birth for at least five worker-related measurements.
-b) disaggregates data to report internally on its chosen worker-related measurements.",423
-JEDI1.1,1.1.4,"Workers provide their data and participate voluntarily, and can choose to remain anonymous.",423
-JEDI1.2,1.2.1,The company collects data on one additional social identity (other than gender identity) for at least five worker-related measurements.,431
-JEDI1.2,1.2.2,The company uses stakeholder feedback to choose the additional social identity.,431
-JEDI1.2,1.2.3,"Workers provide their social identity voluntarily, and can choose to remain anonymous.",431
-JEDI1.2,1.2.4,The company disaggregates data to report internally on its chosen worker-related measurements.,431
+b) disaggregates data to report internally on its chosen worker-related measurements.",423,Year 0
+JEDI1.1,1.1.4,"Workers provide their data and participate voluntarily, and can choose to remain anonymous.",423,Year 0
+JEDI1.2,1.2.1,The company collects data on one additional social identity (other than gender identity) for at least five worker-related measurements.,431,Year 3
+JEDI1.2,1.2.2,The company uses stakeholder feedback to choose the additional social identity.,431,Year 3
+JEDI1.2,1.2.3,"Workers provide their social identity voluntarily, and can choose to remain anonymous.",431,Year 3
+JEDI1.2,1.2.4,The company disaggregates data to report internally on its chosen worker-related measurements.,431,Year 3
 JEDI2.1,2.1.1,"The company chooses and implements at minimum one option from the following two sets.
 a) Foundation (JEDI2.a-e)
-b) Beyond the Workplace (JEDI2.m-s)",438
+b) Beyond the Workplace (JEDI2.m-s)",438,Year 0
 JEDI2.2,2.2.1,"The company chooses and implements:
 a) two JEDI actions before Year 0
-b) three JEDI actions for Years 3 and 5 each.",440
+b) three JEDI actions for Years 3 and 5 each.",440,Year 0
 JEDI2.2,2.2.2,"The company chooses and implements at minimum one option from each set across Years 0, 3, and 5.
 a) Foundation (JEDI2.a-e)
 b) Within the Workplace (JEDI2.f-l)
-c) Beyond the Workplace (JEDI2.m-s)",440
+c) Beyond the Workplace (JEDI2.m-s)",440,Year 0
 JEDI2.3,2.3.1,"The company chooses and implements:
 a) two JEDI actions before Year 0
-b) four JEDI actions for Years 3 and 5 each.",443
+b) four JEDI actions for Years 3 and 5 each.",443,Year 0
 JEDI2.3,2.3.2,"The company chooses at minimum one option from each set across Years 0, 3, and 5.
 a) Foundation (JEDI2.a-e)
 b) Within the Workplace (JEDI2.f-l)
-c) Beyond the Workplace (JEDI2.m-s)",443
-JEDI2.3,2.3.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,443
-JEDI2.3,2.3.4,The company records its actions and status updates in a plan.,443
-JEDI2.3,2.3.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,443
+c) Beyond the Workplace (JEDI2.m-s)",443,Year 0
+JEDI2.3,2.3.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,443,Year 0
+JEDI2.3,2.3.4,The company records its actions and status updates in a plan.,443,Year 0
+JEDI2.3,2.3.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,443,Year 0
 JEDI2.3,2.3.6,"The company’s plan:
 a) contains deadlines
 b) allocates resources
-c) assigns responsibilities to specific roles.",443
-JEDI2.3,2.3.7,"The plan, including status updates, is available for workers to review at any time",443
+c) assigns responsibilities to specific roles.",443,Year 0
+JEDI2.3,2.3.7,"The plan, including status updates, is available for workers to review at any time",443,Year 0
 JEDI2.4,2.4.1,"The company chooses and implements:
 a) two JEDI actions before Year 0
-b) five JEDI actions for Years 3 and 5 each.",447
+b) five JEDI actions for Years 3 and 5 each.",447,Year 0
 JEDI2.4,2.4.2,"The company chooses at minimum one option from each set across Years 0, 3, and 5.
 a) Foundation (JEDI2.a-e)
 b) Within the Workplace (JEDI2.f-l)
-c) Beyond the Workplace (JEDI2.m-s)",447
-JEDI2.4,2.4.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,447
-JEDI2.4,2.4.4,The company records its actions and status updates in a plan.,447
-JEDI2.4,2.4.5,The plan was updated and shared with relevant stakeholders in the last twelve months,447
+c) Beyond the Workplace (JEDI2.m-s)",447,Year 0
+JEDI2.4,2.4.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,447,Year 0
+JEDI2.4,2.4.4,The company records its actions and status updates in a plan.,447,Year 0
+JEDI2.4,2.4.5,The plan was updated and shared with relevant stakeholders in the last twelve months,447,Year 0
 JEDI2.4,2.4.6,"The company’s plan:
 a) contains deadlines
 b) allocates resources
-c) assigns responsibilities to specific roles.",447
-JEDI2.4,2.4.7,"The plan, including status updates, is available for workers to review at any time.",447
+c) assigns responsibilities to specific roles.",447,Year 0
+JEDI2.4,2.4.7,"The plan, including status updates, is available for workers to review at any time.",447,Year 0
 JEDI2.5,2.5.1,"The company chooses and implements:
 a) two JEDI actions before Year 0
-b) six JEDI actions for Years 3 and 5 each.",451
+b) six JEDI actions for Years 3 and 5 each.",451,Year 0
 JEDI2.5,2.5.2,"The company chooses at minimum one option from each set across Years 0, 3, and 5.
 a) Foundation (JEDI2.a-e)
 b) Within the Workplace (JEDI2.f-l)
-c) Beyond the Workplace (JEDI2.m-s)",451
-JEDI2.5,2.5.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,451
-JEDI2.5,2.5.4,The company records its actions and status updates in a plan.,451
-JEDI2.5,2.5.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,451
+c) Beyond the Workplace (JEDI2.m-s)",451,Year 0
+JEDI2.5,2.5.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,451,Year 0
+JEDI2.5,2.5.4,The company records its actions and status updates in a plan.,451,Year 0
+JEDI2.5,2.5.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,451,Year 0
 JEDI2.5,2.5.6,"The company’s plan:
 a) contains deadlines
 b) allocates resources
-c) assigns responsibilities to specific roles.",451
-JEDI2.5,2.5.7,"The plan, including status updates, is available  for workers to review at any time.",451
+c) assigns responsibilities to specific roles.",451,Year 0
+JEDI2.5,2.5.7,"The plan, including status updates, is available  for workers to review at any time.",451,Year 0
 JEDI2.6,2.6.1,"The company chooses and implements:
 a) two JEDI actions before Year 0
-b) seven JEDI actions for Years 3 and 5 each.",455
+b) seven JEDI actions for Years 3 and 5 each.",455,Year 0
 JEDI2.6,2.6.2,"The company chooses at minimum one option from each set across Years 0, 3, and 5.
 a) Foundation (JEDI2.a-e)
 b) Within the Workplace (JEDI2.f-l)
-c) Beyond the Workplace (JEDI2.m-s)",455
-JEDI2.6,2.6.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,455
-JEDI2.6,2.6.4,The company records its actions and status updates in a plan.,455
-JEDI2.6,2.6.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,455
+c) Beyond the Workplace (JEDI2.m-s)",455,Year 0
+JEDI2.6,2.6.3,The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.,455,Year 0
+JEDI2.6,2.6.4,The company records its actions and status updates in a plan.,455,Year 0
+JEDI2.6,2.6.5,The plan was updated and shared with relevant stakeholders in the last twelve months.,455,Year 0
 JEDI2.6,2.6.6,"The company’s plan:
 a) contains deadlines
 b) allocates resources
-c) assigns responsibilities to specific roles.",455
-JEDI2.6,2.6.7,"The plan, including status updates, is available  for workers to review at any time.",455
+c) assigns responsibilities to specific roles.",455,Year 0
+JEDI2.6,2.6.7,"The plan, including status updates, is available  for workers to review at any time.",455,Year 0
 JEDI2.a,2.a.1,"The company develops a JEDI commitment statement that:
 a) is public
 b) is approved by the executive team or highest governing body
-c) applies to the company's policies and practices across operations, customers, and community.",459
-JEDI2.a,2.a.2,The company assigns accountability for the JEDI commitment to the executive team or highest governing body.,459
-JEDI2.b,2.b.1,"The company carries out training or a workshop on JEDI-related topics. At minimum, the training or workshop amounts to one full day per participant within a one-year period.",463
+c) applies to the company's policies and practices across operations, customers, and community.",459,Year 0
+JEDI2.a,2.a.2,The company assigns accountability for the JEDI commitment to the executive team or highest governing body.,459,Year 0
+JEDI2.b,2.b.1,"The company carries out training or a workshop on JEDI-related topics. At minimum, the training or workshop amounts to one full day per participant within a one-year period.",463,Year 0
 JEDI2.b,2.b.2,"The company improves the JEDI knowledge or capacity of at least two of the following groups.
 a) The highest governing body
 b) The executive team
 c) Human resources
 d) Training & development
-e) Managers",463
+e) Managers",463,Year 0
 JEDI2.c,2.c.1,"The company reviews at least five policies that affect people using:
 a) data from JEDI1
 b) stakeholder feedback
 c) its JEDI commitment statement, if applicable (JEDI2.a)
-d) its improved in-house knowledge or capacity, if applicable (JEDI2.b).",468
+d) its improved in-house knowledge or capacity, if applicable (JEDI2.b).",468,Year 0
 JEDI2.c,2.c.2,"The review looks at:
 a) terminology used in the policies
 b) impacts the policies have on people
-c) relationships to JEDI principles.",468
-JEDI2.c,2.c.3,"Following its review, the company updates the policies if needed.",468
-JEDI2.d,2.d.1,The company chooses three social identities using stakeholder feedback and the demographics of its community.,473
-JEDI2.d,2.d.2,The company’s highest governing body and executive team reflect the diversity of its community across its three chosen social identities.,473
-JEDI2.d,2.d.3,The company calculates the ratios at any point in the last twelve months.,473
-JEDI2.e,2.e.1,The company gets a third party with relevant expertise to carry out an equity audit.,478
-JEDI2.e,2.e.2,The audit produces a report with a written summary of the audit methodology.,478
-JEDI2.e,2.e.3,The equity audit includes feedback from relevant social identity groups.,478
+c) relationships to JEDI principles.",468,Year 0
+JEDI2.c,2.c.3,"Following its review, the company updates the policies if needed.",468,Year 0
+JEDI2.d,2.d.1,The company chooses three social identities using stakeholder feedback and the demographics of its community.,473,Year 0
+JEDI2.d,2.d.2,The company’s highest governing body and executive team reflect the diversity of its community across its three chosen social identities.,473,Year 0
+JEDI2.d,2.d.3,The company calculates the ratios at any point in the last twelve months.,473,Year 0
+JEDI2.e,2.e.1,The company gets a third party with relevant expertise to carry out an equity audit.,478,Year 0
+JEDI2.e,2.e.2,The audit produces a report with a written summary of the audit methodology.,478,Year 0
+JEDI2.e,2.e.3,The equity audit includes feedback from relevant social identity groups.,478,Year 0
 JEDI2.e,2.e.4,"The scope of the equity audit includes, at minimum, the company’s:
 a) workers
 b) internal and external communication
-c) products and services.",478
-JEDI2.e,2.e.5,The company publicly shares a summary of the audit results.,478
-JEDI2.e,2.e.6,Audit participants can choose to remain anonymous.,478
-JEDI2.f,2.f.1,The company supports at least two employee resource or affinity groups. Each group is associated with a different social identity.,482
-JEDI2.f,2.f.2,The company chooses the social identities using worker feedback.,482
-JEDI2.f,2.f.3,Participation in the groups is optional for workers.,482
-JEDI2.f,2.f.4,The company supports the groups.,482
+c) products and services.",478,Year 0
+JEDI2.e,2.e.5,The company publicly shares a summary of the audit results.,478,Year 0
+JEDI2.e,2.e.6,Audit participants can choose to remain anonymous.,478,Year 0
+JEDI2.f,2.f.1,The company supports at least two employee resource or affinity groups. Each group is associated with a different social identity.,482,Year 0
+JEDI2.f,2.f.2,The company chooses the social identities using worker feedback.,482,Year 0
+JEDI2.f,2.f.3,Participation in the groups is optional for workers.,482,Year 0
+JEDI2.f,2.f.4,The company supports the groups.,482,Year 0
 JEDI2.g,2.g.1,"The company implements all of the following inclusive hiring practices.
 a) It includes a JEDI commitment statement in all job postings, aligned with the statement from JEDI2.a (if completed).
 b) It establishes a policy of not asking for credit checks or criminal records during the application process — unless required by law, or an industry association or regulator.
 c) It takes measures to reduce biases or their impacts in hiring processes.
-d) It analyzes its job description language and requirements to ensure they are inclusive and equitable.",486
-JEDI2.h,2.h.1,The company provides sponsorship or mentorship opportunities to all employees.,489
-JEDI2.h,2.h.2,The company records the formal nature of the sponsorship or mentorship program in a procedure or policy document.,489
+d) It analyzes its job description language and requirements to ensure they are inclusive and equitable.",486,Year 0
+JEDI2.h,2.h.1,The company provides sponsorship or mentorship opportunities to all employees.,489,Year 0
+JEDI2.h,2.h.2,The company records the formal nature of the sponsorship or mentorship program in a procedure or policy document.,489,Year 0
 JEDI2.h,2.h.3,"The sponsorships or mentorships:
 a) are free for participants
-b) last six months at minimum.",489
-JEDI2.h,2.h.4,The company gives participants time during standard working hours to participate.,489
-JEDI2.h,2.h.5,The company tracks participation of two underrepresented groups.,489
-JEDI2.h,2.h.6,The company achieves representative participation of at least two underrepresented groups.,489
-JEDI2.i,2.i.1,The company develops an inclusive language guide for internal communications.,494
-JEDI2.i,2.i.2,The guide lists terms that should and should not be used.,494
-JEDI2.i,2.i.3,One guide exists for each internal communication language.,494
-JEDI2.i,2.i.4,The company shares the guide with all workers who produce internal communications.,494
-JEDI2.j,2.j.1,The company increases the proportion of workers from at least two underrepresented groups to reflect the diversity of its community.,498
-JEDI2.j,2.j.2,The company calculates the ratios at any point in the last twelve months.,498
+b) last six months at minimum.",489,Year 0
+JEDI2.h,2.h.4,The company gives participants time during standard working hours to participate.,489,Year 0
+JEDI2.h,2.h.5,The company tracks participation of two underrepresented groups.,489,Year 0
+JEDI2.h,2.h.6,The company achieves representative participation of at least two underrepresented groups.,489,Year 0
+JEDI2.i,2.i.1,The company develops an inclusive language guide for internal communications.,494,Year 0
+JEDI2.i,2.i.2,The guide lists terms that should and should not be used.,494,Year 0
+JEDI2.i,2.i.3,One guide exists for each internal communication language.,494,Year 0
+JEDI2.i,2.i.4,The company shares the guide with all workers who produce internal communications.,494,Year 0
+JEDI2.j,2.j.1,The company increases the proportion of workers from at least two underrepresented groups to reflect the diversity of its community.,498,Year 0
+JEDI2.j,2.j.2,The company calculates the ratios at any point in the last twelve months.,498,Year 0
 JEDI2.k,2.k.1,"The company provides employees at least three of the following types of paid leave.
 a) Unlimited short-term sick leave
 b) Gender affirmation leave
 c) Personal leave
 d) Religious or cultural leave chosen by workers individually
 e) Parental leave (at least 18 weeks)
-f) Adoption leave",503
-JEDI2.k,2.k.2,All leave types are fully paid.,503
-JEDI2.k,2.k.3,All employees are entitled to the additional types of leave.,503
-JEDI2.k,2.k.4,The company uses employee feedback to determine the number of days for each leave type.,503
+f) Adoption leave",503,Year 0
+JEDI2.k,2.k.2,All leave types are fully paid.,503,Year 0
+JEDI2.k,2.k.3,All employees are entitled to the additional types of leave.,503,Year 0
+JEDI2.k,2.k.4,The company uses employee feedback to determine the number of days for each leave type.,503,Year 0
 JEDI2.k,2.k.5,"The company records the chosen types of leave in a policy document or documents that are:
 a) shared with all employees
-b) available to read at all times.",503
-JEDI2.l,2.l.1,The company assesses the accessibility of its digital internal communication tools.,507
+b) available to read at all times.",503,Year 0
+JEDI2.l,2.l.1,The company assesses the accessibility of its digital internal communication tools.,507,Year 0
 JEDI2.l,2.l.2,"The assessment:
 a) confirms the tools meet the AA or AAA criteria of the Web Content Accessibility Guidelines (WCAG)
 b) is carried out by an internal or external specialist
 c) includes manual testing
-d) includes feedback from people with disabilities.",507
-JEDI2.m,2.m.1,The company assesses the accessibility of its public-facing website.,511
+d) includes feedback from people with disabilities.",507,Year 0
+JEDI2.m,2.m.1,The company assesses the accessibility of its public-facing website.,511,Year 0
 JEDI2.m,2.m.2,"The assessment:
 a) confirms the website meets the AA or AAA criteria of the Web Content Accessibility Guidelines (WCAG)
 b) is carried out by an internal or external specialist
 c) includes manual testing
-d) includes feedback from people with disabilities.",511
-JEDI2.n,2.n.1,"The company communicates its JEDI action plan and progress publicly, once per year at minimum.",515
+d) includes feedback from people with disabilities.",511,Year 0
+JEDI2.n,2.n.1,"The company communicates its JEDI action plan and progress publicly, once per year at minimum.",515,Year 0
 JEDI2.o,2.o.1,"The company implements all of the following actions.
 a) It tracks diversity of ownership among its local suppliers.
 b) It establishes a policy to give preferences to local suppliers owned by persons from underrepresented groups.
-c) It sets targets to purchase a percentage of goods and services from local suppliers owned by persons from underrepresented groups.",519
+c) It sets targets to purchase a percentage of goods and services from local suppliers owned by persons from underrepresented groups.",519,Year 0
 JEDI2.p,2.p.1,"The company develops a communications and ethical content guide that:
 a) lists terms that should and should not be used for each external communication language
 b) describes how to gather, manage, and use content ethically
 c) sets expectations for representing social identities
-d) is shared with all workers who produce external communications.",523
-JEDI2.p,2.p.2,"If the company uses artificial intelligence for creative content generation, it includes its use in the guide.",523
-JEDI2.q,2.q.1,The company uses stakeholder feedback to assess a product or service for inclusivity.,528
+d) is shared with all workers who produce external communications.",523,Year 0
+JEDI2.p,2.p.2,"If the company uses artificial intelligence for creative content generation, it includes its use in the guide.",523,Year 0
+JEDI2.q,2.q.1,The company uses stakeholder feedback to assess a product or service for inclusivity.,528,Year 0
 JEDI2.q,2.q.2,"The assessment highlights:
 a) which specific social identity groups may experience barriers when accessing the product or service
-b) what those barriers are.",528
-JEDI2.r,2.r.1,The company uses stakeholder feedback to redesign one of its products or services to be more inclusive.,531
-JEDI2.r,2.r.2,"The company redesigns the original product or service, rather than designing a segregation solution.",531
-JEDI2.r,2.r.3,The company offers the redesigned product or service to customers or announces it publicly.,531
-JEDI2.s,2.s.1,"The company engages in at least one collective action initiative at the policy, industry, or business community level to advance JEDI principles.",535
+b) what those barriers are.",528,Year 0
+JEDI2.r,2.r.1,The company uses stakeholder feedback to redesign one of its products or services to be more inclusive.,531,Year 0
+JEDI2.r,2.r.2,"The company redesigns the original product or service, rather than designing a segregation solution.",531,Year 0
+JEDI2.r,2.r.3,The company offers the redesigned product or service to customers or announces it publicly.,531,Year 0
+JEDI2.s,2.s.1,"The company engages in at least one collective action initiative at the policy, industry, or business community level to advance JEDI principles.",535,Year 0
 JEDI2.s,2.s.2,"The initiative has a clear, shared purpose and goal, to:
 a) achieve systems change or transformation
-b) collaboratively deliver specific, measurable impacts.",535
-JEDI2.s,2.s.3,The company makes a clear contribution to delivering the initiative.,535
+b) collaboratively deliver specific, measurable impacts.",535,Year 0
+JEDI2.s,2.s.3,The company makes a clear contribution to delivering the initiative.,535,Year 0
 HR1.1,1.1.1,"The company commits publicly to respect human rights and to each of the following:
 a) UN Guiding Principles on Business and Human Rights
 b) The International Bill of Rights or the rights under the Universal Declaration of Human Rights
-c) The International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work",564
-HR1.2,1.2.1,The company has a public human rights policy.,570
+c) The International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work",564,Year 0
+HR1.2,1.2.1,The company has a public human rights policy.,570,Year 0
 HR1.2,1.2.2,"The policy includes commitments to:
 a) respect human rights.
 b) assess the company’s potential negative human rights impacts (or human rights risks)
@@ -736,163 +736,163 @@ c) remediate the negative impacts the company has caused or contributed to
 d) each of the following
 i) UN Guiding Principles on Business and Human Rights;
 ii) International Bill of Rights or the rights under the Universal Declaration of Human Rights;
-iii) International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work.",570
-HR1.2,1.2.3,The policy is approved by the highest governing body.,570
-HR1.2,1.2.4,The policy’s scope covers all individuals and communities affected by the company’s own operations and its value chain.,570
+iii) International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work.",570,Year 0
+HR1.2,1.2.3,The policy is approved by the highest governing body.,570,Year 0
+HR1.2,1.2.4,The policy’s scope covers all individuals and communities affected by the company’s own operations and its value chain.,570,Year 0
 HR2.1,2.1.1,"The company assesses human rights issues to identify which are salient to its operations and value chain. The assessment:
 a) is based on desk research and stakeholder engagement
 b) identifies risks to people (rather than risks to the company)
 c) identifies both actual and potential negative impacts (not positive impacts)
 d) identifies specific human rights issues
 e) specifies where the issues are most salient
-f) prioritizes issues based on their severity and likelihood.",577
-HR2.1,2.1.2,The assessment scope covers all individuals and communities affected by the company’s operations and value chain.,577
-HR2.1,2.1.3,The assessment was completed or updated in the last 36 months.,577
-HR2.1,2.1.4,The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.,577
-HR2.2,2.2.1,The company publicly shares its salient human rights issues (HR2.1).,587
-HR2.2,2.2.2,The company publicly shares the methodology it used in its assessment of salient human rights issues.,587
-HR2.3,2.3.1,The company has a strategy to address its salient human rights issues.,591
-HR2.3,2.3.2,The strategy was adopted or reviewed in the last twelve months.,591
-HR2.3,2.3.3,The strategy is approved by the highest governing body.,591
-HR2.3,2.3.4,The strategy accounts for the company’s type of connection with each salient human rights issue.,591
+f) prioritizes issues based on their severity and likelihood.",577,Year 0
+HR2.1,2.1.2,The assessment scope covers all individuals and communities affected by the company’s operations and value chain.,577,Year 0
+HR2.1,2.1.3,The assessment was completed or updated in the last 36 months.,577,Year 0
+HR2.1,2.1.4,The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.,577,Year 0
+HR2.2,2.2.1,The company publicly shares its salient human rights issues (HR2.1).,587,Year 3
+HR2.2,2.2.2,The company publicly shares the methodology it used in its assessment of salient human rights issues.,587,Year 3
+HR2.3,2.3.1,The company has a strategy to address its salient human rights issues.,591,Year 3
+HR2.3,2.3.2,The strategy was adopted or reviewed in the last twelve months.,591,Year 3
+HR2.3,2.3.3,The strategy is approved by the highest governing body.,591,Year 3
+HR2.3,2.3.4,The strategy accounts for the company’s type of connection with each salient human rights issue.,591,Year 3
 HR2.3,2.3.5,"The strategy, or a related implementation plan, includes:
 a) targets for the next three years at minimum
 b) indicators
 c) clearly defined roles and responsibilities
-d) engagement with stakeholders.",591
-HR2.4,2.4.1,"The company makes progress against its targets and indicators (measured at an interval of no more than three years), in line with its human rights strategy (HR2.3).",597
-HR2.4,2.4.2,The company evaluates the effectiveness of its human rights strategy (HR2.3).,597
+d) engagement with stakeholders.",591,Year 3
+HR2.4,2.4.1,"The company makes progress against its targets and indicators (measured at an interval of no more than three years), in line with its human rights strategy (HR2.3).",597,Year 5
+HR2.4,2.4.2,The company evaluates the effectiveness of its human rights strategy (HR2.3).,597,Year 5
 HR2.4,2.4.3,"Where the strategy is ineffective, the company records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated the strategy.",597
-HR2.4,2.4.4,The evaluation results are shared with the highest governing body or executive team.,597
-HR2.5,2.5.1,The company makes a report on its human rights strategy publicly available on its webpage.,601
-HR2.5,2.5.2,The company made or updated its report in the last 36 months.,601
+c) how it has updated the strategy.",597,Year 5
+HR2.4,2.4.4,The evaluation results are shared with the highest governing body or executive team.,597,Year 5
+HR2.5,2.5.1,The company makes a report on its human rights strategy publicly available on its webpage.,601,Year 5
+HR2.5,2.5.2,The company made or updated its report in the last 36 months.,601,Year 5
 HR2.5,2.5.3,"The company’s report presents information on:
 a) progress on targets and indicators
-b) how it evaluated the effectiveness of its strategy",601
+b) how it evaluated the effectiveness of its strategy",601,Year 5
 HR2.5,2.5.4,"Where the strategy is ineffective, the company ‘s report presents information on:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated its strategy.",601
-HR2.6,2.6.1,The company explicitly addresses each salient human rights issue with a policy or procedure.,606
-HR2.6,2.6.2,The scope of each policy and procedure matches the nature of the company’s salient issues.,606
-HR2.7,2.7.1,"Workers in relevant roles receive training, guidance documents, or tools to help implement the policies and procedures related to human rights.",611
-HR2.7,2.7.2,The guidance is tailored for the relevant role.,611
-HR3.1,3.1.1,"The company has a process to collect, prioritize, and escalate information on actual and potential negative human rights impacts.",616
-HR3.1,3.1.2,The company has clear roles and responsibilities related to this process.,616
-HR3.1,3.1.3,"In the process, impacts are prioritized and escalated based on their severity and likelihood.",616
+c) how it has updated its strategy.",601,Year 5
+HR2.6,2.6.1,The company explicitly addresses each salient human rights issue with a policy or procedure.,606,Year 3
+HR2.6,2.6.2,The scope of each policy and procedure matches the nature of the company’s salient issues.,606,Year 3
+HR2.7,2.7.1,"Workers in relevant roles receive training, guidance documents, or tools to help implement the policies and procedures related to human rights.",611,Year 3
+HR2.7,2.7.2,The guidance is tailored for the relevant role.,611,Year 3
+HR3.1,3.1.1,"The company has a process to collect, prioritize, and escalate information on actual and potential negative human rights impacts.",616,Year 0
+HR3.1,3.1.2,The company has clear roles and responsibilities related to this process.,616,Year 0
+HR3.1,3.1.3,"In the process, impacts are prioritized and escalated based on their severity and likelihood.",616,Year 0
 HR3.1,3.1.4,"The process also sets out:
 a) when and how to seek additional information about an actual or potential negative impact, and how to involve stakeholders, including affected stakeholders
-b) what kinds of internal changes at the company will prompt it to proactively assess potential negative impacts.",616
-HR3.2,3.2.1,The company takes action to prevent and mitigate actual and potential negative human rights impacts.,623
-HR3.2,3.2.2,The company takes action to remediate any actual negative human rights impacts.,623
+b) what kinds of internal changes at the company will prompt it to proactively assess potential negative impacts.",616,Year 0
+HR3.2,3.2.1,The company takes action to prevent and mitigate actual and potential negative human rights impacts.,623,Year 3
+HR3.2,3.2.2,The company takes action to remediate any actual negative human rights impacts.,623,Year 3
 HR3.2,3.2.3,"The company considers:
 a) its type of connection to the impact
-b) the views of affected stakeholders.",623
-HR3.3,3.3.1,The company has a process in place to assess the potential negative human rights impacts of working with potential organizational clients and projects.,638
-HR3.3,3.3.2,The process sets out mitigation actions.,638
+b) the views of affected stakeholders.",623,Year 3
+HR3.3,3.3.1,The company has a process in place to assess the potential negative human rights impacts of working with potential organizational clients and projects.,638,Year 0
+HR3.3,3.3.2,The process sets out mitigation actions.,638,Year 0
 HR3.3,3.3.3,"The company records how it assessed the potential negative human rights impacts of its three most material potential clients or projects each year, and the outcomes of the process.
 a) in the last fiscal year before Year 0
-b) annually in each subsequent year.",638
+b) annually in each subsequent year.",638,Year 0
 HR3.3,3.3.4,"For Years 3 and 5, the company:
 a) records its mitigation action, if its assessments identified any potential or actual negative impacts
-b) records the effectiveness of its mitigation actions.",638
-HR3.4,3.4.1,The company has a process in place to assess the potential negative human rights impacts of potential investments.,645
-HR3.4,3.4.2,The process sets out mitigation actions.,645
+b) records the effectiveness of its mitigation actions.",638,Year 0
+HR3.4,3.4.1,The company has a process in place to assess the potential negative human rights impacts of potential investments.,645,Year 0
+HR3.4,3.4.2,The process sets out mitigation actions.,645,Year 0
 HR3.4,3.4.3,"The company records how it assessed the potential negative human rights impacts of its three most material potential investments each year, and the outcomes of the process
 a) in the last fiscal year before Year 0
-b) annually in each subsequent year.",645
+b) annually in each subsequent year.",645,Year 0
 HR3.4,3.4.4,"For Years 3 and 5, the company:
 a) records its mitigation action, if its assessments identified any potential or actual negative impacts
-b) records the effectiveness of its mitigation actions.",645
-HR3.5,3.5.1,The company has carried out a Human Rights Impact Assessment in the last five years.,652
+b) records the effectiveness of its mitigation actions.",645,Year 0
+HR3.5,3.5.1,The company has carried out a Human Rights Impact Assessment in the last five years.,652,Year 5
 HR3.5,3.5.2,"The assessment:
 a) focuses on a high-risk context
 b) is based on meaningful engagement with stakeholders, including affected stakeholders
 c) assesses actual and potential negative impacts
 d) reflects the company’s type of connection
-e) is carried out by people or an organization with relevant expertise.",652
-HR3.5,3.5.3,The company publicly shares a summary of the assessment results at minimum.,652
-HR3.6,3.6.1,The company identifies if it has any operations in conflict-affected situations.,657
+e) is carried out by people or an organization with relevant expertise.",652,Year 5
+HR3.5,3.5.3,The company publicly shares a summary of the assessment results at minimum.,652,Year 5
+HR3.6,3.6.1,The company identifies if it has any operations in conflict-affected situations.,657,Year 3
 HR3.6,3.6.2,"If it does, the company:
 a) assesses its connection to the conflict-affected situation
-b) explains publicly its connection to the conflict-affected situation.",657
+b) explains publicly its connection to the conflict-affected situation.",657,Year 3
 HR3.6,3.6.3,"If the company’s assessment finds that it may be negatively impacting the conflict-affected situation, it also:
 a) engages expert organizations or representatives of affected stakeholders to learn more about their connection to the conflict
 b) assesses whether stakeholders in the conflict-affected situation can raise grievances with the company
 c) identifies triggers for actions it will take if the conflict escalates
 d) assigns a contact person within the company
 e) identifies existing human rights due diligence gaps
-f) identifies how to prevent or mitigate potential negative impacts.",657
+f) identifies how to prevent or mitigate potential negative impacts.",657,Year 3
 HR4.1,4.1.1,"The company records information about potential negative human rights impacts related to:
 a) source countries
-b) specific raw materials.",664
+b) specific raw materials.",664,Year 3
 HR4.1,4.1.2,"The company:
 a) identifies limits on its ability to monitor suppliers in source countries
-b) has mitigation actions in place.",664
+b) has mitigation actions in place.",664,Year 3
 HR4.1,4.1.3,"If the company uses social compliance audits or certifications to monitor suppliers, it:
 a) identifies any limits on its approach
-b) addresses any limits.",664
+b) addresses any limits.",664,Year 3
 HR4.1,4.1.4,"When selecting source countries and raw materials, the company:
 a) considers potential negative human rights impacts
-b) assesses and addresses limits on supplier monitoring.",664
+b) assesses and addresses limits on supplier monitoring.",664,Year 3
 HR4.2,4.2.1,"The company has considered the actual and potential human rights impacts of the three most material procurement decisions
 a) in the last fiscal year or twelve months before Year 0
-b) in each subsequent year.",670
+b) in each subsequent year.",670,Year 0
 HR4.3,4.3.1,"The company has considered the actual and potential human rights impacts of the five most material procurement decisions
 a) in the last fiscal year before Year 0
-b) in each subsequent year.",677
+b) in each subsequent year.",677,Year 0
 HR4.4,4.4.1,"The company:
 a) identifies prioritized suppliers related to its salient human rights issues (HR2.1)
-b) records the criteria it used to prioritize suppliers.",686
+b) records the criteria it used to prioritize suppliers.",686,Year 0
 HR4.4,4.4.2,"The company works with its prioritized suppliers to prevent or mitigate their most material human rights impacts by
 a) agreeing on targets with each prioritized supplier
-b) monitoring progress at least annually",686
-HR4.4,4.4.3,"For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.",686
-HR4.5,4.5.1,The company gets feedback from suppliers on the commitments and responsibilities in its sourcing documents.,692
-HR4.5,4.5.2,"The company adds buyer commitments and responsibilities to sourcing documents to achieve, at minimum, balance between buyer and supplier expectations.",692
-HR4.5,4.5.3,The commitments and responsibilities relate to human rights.,692
+b) monitoring progress at least annually",686,Year 0
+HR4.4,4.4.3,"For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.",686,Year 0
+HR4.5,4.5.1,The company gets feedback from suppliers on the commitments and responsibilities in its sourcing documents.,692,Year 5
+HR4.5,4.5.2,"The company adds buyer commitments and responsibilities to sourcing documents to achieve, at minimum, balance between buyer and supplier expectations.",692,Year 5
+HR4.5,4.5.3,The commitments and responsibilities relate to human rights.,692,Year 5
 HR4.5,4.5.4,"The company updates its sourcing documents to include, at minimum:
 a) a joint commitment to human rights due diligence
 b) a joint commitment to prioritize remediation for victims of human rights violations
-c) a commitment from the buyer to the principle of responsible exit.",692
-HR4.5,4.5.5,The company records changes to the sourcing documents.,692
-HR4.6,4.6.1,The company identifies its high-risk raw materials.,697
+c) a commitment from the buyer to the principle of responsible exit.",692,Year 5
+HR4.5,4.5.5,The company records changes to the sourcing documents.,692,Year 5
+HR4.6,4.6.1,The company identifies its high-risk raw materials.,697,Year 3
 HR4.6,4.6.2,"The company either:
 a) knows the origin country and potential human rights impacts of its high-risk raw materials
-b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.",697
-HR4.6,4.6.3,The company documents the proportion of high-risk raw materials that it can trace to their origin.,697
-HR4.7,4.7.1,The company increases the proportion of high-risk raw materials that it ckritische Rohstoffan trace to their origin according to their plan (HR4.6).,702
-HR4.8,4.8.1,"The company works with its prioritized suppliers to prevent and mitigate human rights impacts related to high-risk raw materials, in line with its plan (HR4.6) and its actions (HR4.7).",707
-HR4.8,4.8.2,The company works with its prioritized suppliers to remediate any human rights impacts related to high-risk raw materials.,707
+b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.",697,Year 3
+HR4.6,4.6.3,The company documents the proportion of high-risk raw materials that it can trace to their origin.,697,Year 3
+HR4.7,4.7.1,The company increases the proportion of high-risk raw materials that it ckritische Rohstoffan trace to their origin according to their plan (HR4.6).,702,Year 5
+HR4.8,4.8.1,"The company works with its prioritized suppliers to prevent and mitigate human rights impacts related to high-risk raw materials, in line with its plan (HR4.6) and its actions (HR4.7).",707,Year 5
+HR4.8,4.8.2,The company works with its prioritized suppliers to remediate any human rights impacts related to high-risk raw materials.,707,Year 5
 HR4.8,4.8.3,"The engagement process includes:
 a) an action plan and targets
 b) monitoring progress at least annually
-c) recording specific prevention and mitigation actions and their outcomes.",707
-HR4.9,4.9.1,The company assesses its service contracts to see if service suppliers pay a living wage or collectively-bargained wage.,713
-HR4.9,4.9.2,The company records any living wage gaps.,713
-HR4.9,4.9.3,The company assesses contracts for services where no formal qualification is required.,713
-HR4.10,4.10.1,"The company refers to living wages in its service procurement documents, process, or conversations for any service with a potential living wage gap.",725
+c) recording specific prevention and mitigation actions and their outcomes.",707,Year 5
+HR4.9,4.9.1,The company assesses its service contracts to see if service suppliers pay a living wage or collectively-bargained wage.,713,Year 0
+HR4.9,4.9.2,The company records any living wage gaps.,713,Year 0
+HR4.9,4.9.3,The company assesses contracts for services where no formal qualification is required.,713,Year 0
+HR4.10,4.10.1,"The company refers to living wages in its service procurement documents, process, or conversations for any service with a potential living wage gap.",725,Year 3
 HR4.11,4.11.1,"The company’s plan relates to one or more of the following:
 a) living wage
 b) living income
-c) collective bargaining",737
+c) collective bargaining",737,Year 3
 HR4.11,4.11.2,"The company’s plan includes, at minimum:
 a) an overview of known and unknown living wage or living income gaps
 b) an overview of priority area
 c) targets for the next three years
-d) engagement with stakeholders, including suppliers.",737
-HR4.11,4.11.3,The plan was reviewed or updated in the last twelve months.,737
-HR4.11,4.11.4,The plan is approved by the company’s executive team or highest governing body.,737
-HR4.11,4.11.5,The company has publicly shared an update.,737
+d) engagement with stakeholders, including suppliers.",737,Year 3
+HR4.11,4.11.3,The plan was reviewed or updated in the last twelve months.,737,Year 3
+HR4.11,4.11.4,The plan is approved by the company’s executive team or highest governing body.,737,Year 3
+HR4.11,4.11.5,The company has publicly shared an update.,737,Year 3
 HR4.11,4.11.6,"The public update includes, at minimum:
 a) actions the company has taken in priority areas
-b) achievements and challenges.",737
+b) achievements and challenges.",737,Year 3
 CA1.1,1.1.1,"The company’s greenhouse gas (GHG) emissions inventory is publicly available:
 a) in the fiscal year before Year 0
-b) in each subsequent year.",770
+b) in each subsequent year.",770,Year 0
 CA1.1,1.1.2,"The company’s process includes the measurement of GHG the following.
 a) Gross scope 1 GHGs (in metric tonnes of CO2 equivalent)
 b) Gross location-based scope 2 GHGs (in metric tonnes of CO2 equivalent)
@@ -901,36 +901,36 @@ d) Gross scope 3 GHGs (in metric tonnes of CO2 equivalent) from all relevant sco
 e) GHG emissions in each relevant scope 3 category
 f) Total GHG emissions (in metric tonnes of CO2 equivalent), including both:
 i) the total GHG emissions calculated using a location-based method for scope 2 GHGs
-ii) the total GHG emissions calculated using a market-based method for scope 2 GHGs.",770
-CA1.1,1.1.3,The company records a list of Scope 3 GHG emissions categories included in and excluded from the GHG inventory with a justification for excluded Scope 3 categories.,770
+ii) the total GHG emissions calculated using a market-based method for scope 2 GHGs.",770,Year 0
+CA1.1,1.1.3,The company records a list of Scope 3 GHG emissions categories included in and excluded from the GHG inventory with a justification for excluded Scope 3 categories.,770,Year 0
 CA1.1,1.1.4,"The company details the use of accounting principles and tools that it follows to measure its emissions and any associated assumptions.
 a) The company uses accounting principles and tools that follow the methodology of the GHG Protocol or ISO 14064-1:2018 to measure emissions.
-b) Equity investors and investment advisors follow the methodology of the Global GHG Accounting and Reporting Standard for the Financial Industry (Partnership for Carbon Accounting Financials).",770
+b) Equity investors and investment advisors follow the methodology of the Global GHG Accounting and Reporting Standard for the Financial Industry (Partnership for Carbon Accounting Financials).",770,Year 0
 CA1.2,1.2.1,"The company’s annual greenhouse gas (GHG) emissions inventory is verified by an accredited and independent third party:
 a) in the fiscal year before Year 0
-b) in each subsequent year.",781
+b) in each subsequent year.",781,Year 0
 CA1.2,1.2.2,"The independent third party verifies that the company’s GHG emissions inventory:
 a) covers scope 1 and 2 emissions and all relevant categories of scope 3 emissions
-b) follows the methodology outlined under CA1.1.4.",781
-CA2.1,2.1.1,The company publishes its climate action plan on its webpage or has another way for stakeholders to easily access it.,785
+b) follows the methodology outlined under CA1.1.4.",781,Year 0
+CA2.1,2.1.1,The company publishes its climate action plan on its webpage or has another way for stakeholders to easily access it.,785,Year 0
 CA2.1,2.1.2,"The company’s action plan:
 a) commits to supporting the global ambition to limit global warming to 1.5°C
 b) includes specific, measurable, achievable, relevant, and time-bound (SMART) targets for performance and impact
 c) specifies how the company will allocate human, technical, and material resources for implementation
 d) outlines how the company will engage and work with stakeholders
-e) is approved by the highest governing body.",785
-CA2.1,2.1.3,The company updates its action plan every 36 months.,785
+e) is approved by the highest governing body.",785,Year 0
+CA2.1,2.1.3,The company updates its action plan every 36 months.,785,Year 0
 CA2.2,2.2.1,"The company’s science-based targets are either:
 a) validated by the Science-Based Targets initiative
-b) verified by an independent and accredited third party.",795
+b) verified by an independent and accredited third party.",795,Year 3
 CA2.2,2.2.2,"The science-based targets include:
 a) net zero targets for scope 1, scope 2, and scope 3 greenhouse gas (GHG) emissions aligned with the 1.5°C trajectory, as recommended by the Paris Agreement
-b) near-term targets for scope 1, scope 2, and scope 3 GHG emissions.",795
+b) near-term targets for scope 1, scope 2, and scope 3 GHG emissions.",795,Year 3
 CA2.2,2.2.3,"The company records its:
 a) baseline year
 b) gross scope 1 GHGs in the baseline year (in metric tonnes of CO2 equivalent)
 c) gross scope 2 GHGs in the baseline year (in metric tonnes of CO2 equivalent)
-d) gross scope 3 GHGs in the baseline year (in metric tonnes of CO2 equivalent) from relevant categories.",795
+d) gross scope 3 GHGs in the baseline year (in metric tonnes of CO2 equivalent) from relevant categories.",795,Year 3
 CA2.3,2.3.1,"The company’s climate transition plan:
 a) includes GHG mitigation actions to reach its net-zero and near-term science-based targets set under CA2.2
 b) clearly defines roles and responsibilities
@@ -940,60 +940,60 @@ e) includes the investment allocated to implementing the transition plan in the 
 i) the total amount
 ii) a percentage of the total investment in the fiscal year
 f) details how the company’s current or future business model supports achieving its net zero target
-g) is approved by the highest governing body.",802
+g) is approved by the highest governing body.",802,Year 3
 CA2.3,2.3.2,"If the company has already reached its net zero target, it records:
 a) evidence that it used credible removals of its residual emissions
-b) the amount of GHG emissions removals or storage in its operations or value chain (in metric tonnes of CO2 equivalent)",802
+b) the amount of GHG emissions removals or storage in its operations or value chain (in metric tonnes of CO2 equivalent)",802,Year 3
 CA2.4,2.4.1,"The company reviews its climate transition plan to identify which stakeholders
 a) it may affect, and to what extent the stakeholders could be positively or negatively affected.
-b) are most vulnerable to the effects of climate change.",812
-CA2.4,2.4.2,The company engages with stakeholders in its value chain on its climate transition plan (including its suppliers or supply chain stakeholders at minimum).,812
-CA2.4,2.4.3,The company engages with its workers on its climate transition plan.,812
+b) are most vulnerable to the effects of climate change.",812,Year 3
+CA2.4,2.4.2,The company engages with stakeholders in its value chain on its climate transition plan (including its suppliers or supply chain stakeholders at minimum).,812,Year 3
+CA2.4,2.4.3,The company engages with its workers on its climate transition plan.,812,Year 3
 CA2.4,2.4.4,"To engage workers and stakeholders on its climate transition plan, the company:
 a) informs them about the climate transition plan
 b) gives them the opportunity to provide feedback on the climate transition plan
-c) outlines how it will work with them to implement the plan.",812
-CA2.4,2.4.5,The company integrates feedback and adds any just transition actions that emerge from engagement with its workers and stakeholders into its climate action plan.,812
-CA2.4,2.4.6,The company’s climate transition plan includes dedicated resources (financial and staff time) and defined targets for its just transition actions.,812
-CA3.1,3.1.1,The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.,819
-CA3.1,3.1.2,The company records annual data on the value of monetary rewards tied to achieving climate-related performance targets for the executive team (or part of it) as a percentage of the executive’s salary.,819
+c) outlines how it will work with them to implement the plan.",812,Year 3
+CA2.4,2.4.5,The company integrates feedback and adds any just transition actions that emerge from engagement with its workers and stakeholders into its climate action plan.,812,Year 3
+CA2.4,2.4.6,The company’s climate transition plan includes dedicated resources (financial and staff time) and defined targets for its just transition actions.,812,Year 3
+CA3.1,3.1.1,The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.,819,Year 3
+CA3.1,3.1.2,The company records annual data on the value of monetary rewards tied to achieving climate-related performance targets for the executive team (or part of it) as a percentage of the executive’s salary.,819,Year 3
 CA3.2,3.2.1,"The company makes a demonstrable contribution to climate advocacy to support the global goal of net zero emissions by 2050, through either or both:
 a) public policy engagement
-b) its trade associations, alliances, or coalitions.",823
-CA3.2,3.2.2,"The company has engaged in advocacy at least once between Year 0 and Year 3, and at least once between Year 3 and Year 5.",823
-CA3.2,3.2.3,The company’s advocacy work promotes science-based climate policies that align with the global goal of net zero emissions by 2050.,823
-CA3.2,3.2.4,The company identifies the specific outcomes it aims to achieve through its climate advocacy.,823
+b) its trade associations, alliances, or coalitions.",823,Year 3
+CA3.2,3.2.2,"The company has engaged in advocacy at least once between Year 0 and Year 3, and at least once between Year 3 and Year 5.",823,Year 3
+CA3.2,3.2.3,The company’s advocacy work promotes science-based climate policies that align with the global goal of net zero emissions by 2050.,823,Year 3
+CA3.2,3.2.4,The company identifies the specific outcomes it aims to achieve through its climate advocacy.,823,Year 3
 CA3.2,3.2.5,"The company has one or more resources to support its public policy advocacy work:
 a) financial contributions
 b) in-kind contribution
-c) active staff time",823
-CA3.3,3.3.1,The company records its progress against its climate action plan.,828
+c) active staff time",823,Year 3
+CA3.3,3.3.1,The company records its progress against its climate action plan.,828,Year 3
 CA3.3,3.3.2,"The company:
 a) takes actions aligned with the latest version of its climate action plan
-b) reviews and updates its targets where necessary.",828
+b) reviews and updates its targets where necessary.",828,Year 3
 CA3.3,3.3.3,"Where the climate action plan was ineffective, the company evaluates the plan and records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated its action plan.",828
+c) how it has updated its action plan.",828,Year 3
 CA3.4,3.4.1,"The company records its progress toward its near-term and net zero targets, both:
 a) in metric tonnes of CO2 equivalent
-b) as a percentage of the emissions in its baseline year.",833
+b) as a percentage of the emissions in its baseline year.",833,Year 5
 CA3.4,3.4.2,"The company:
 a) takes actions aligned with the latest version of its climate action plan
-b) continues to set near-term targets every 60 months.",833
+b) continues to set near-term targets every 60 months.",833,Year 5
 CA3.4,3.4.3,"Where the climate transition plan was ineffective, the company evaluates the plan and records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated the transition plan.",833
+c) how it has updated the transition plan.",833,Year 5
 CA3.4,3.4.4,"If the company has reached its net zero target, it:
 a) ensures permanent removals of any residual emissions
 b) maintains the removals and emissions reductions it has achieved
-c) records the amount of greenhouse gas (GHG) emissions removals or storage in its operations or value chain (in metric tonnes of CO2 equivalent).",833
-CA3.5,3.5.1,"Following consultation with workers and stakeholders on its climate transition plan (in CA2.4), the company records its actions to support a just transition.",841
-CA3.6,3.6.1,The company reports progress against its climate action plan on its webpage or has another way for stakeholders to easily access it.,846
+c) records the amount of greenhouse gas (GHG) emissions removals or storage in its operations or value chain (in metric tonnes of CO2 equivalent).",833,Year 5
+CA3.5,3.5.1,"Following consultation with workers and stakeholders on its climate transition plan (in CA2.4), the company records its actions to support a just transition.",841,Year 5
+CA3.6,3.6.1,The company reports progress against its climate action plan on its webpage or has another way for stakeholders to easily access it.,846,Year 3
 CA3.6,3.6.2,"In its reporting, the company discloses:
 a) its performance
-b) actions implemented to achieve its targets.",846
+b) actions implemented to achieve its targets.",846,Year 3
 CA3.7,3.7.1,"The company’s progress against its climate transition plan is publicly available, including its:
 a) GHG inventory including the following.
 i) Gross scope 1 GHGs (in metric tonnes of CO2 equivalent)
@@ -1007,10 +1007,10 @@ b) near-term and net zero targets for scope 1, scope 2 and scope 3 emissions red
 c) its progress toward its near-term and net zero targets, both:
 i) in metric tonnes of CO2 equivalent
 ii) as a percentage of the emissions in its baseline year.
-d) actions implemented to achieve its targets.",851
+d) actions implemented to achieve its targets.",851,Year 5
 ESC1.1,1.1.1,"The company measures and records its annual hazardous and non-hazardous waste production:
 a) in the last fiscal year
-b) in each subsequent year.",898
+b) in each subsequent year.",898,Year 0
 ESC1.1,1.1.2,"The company’s non-hazardous waste is measured in tonnes and recorded as:
 a) the total amount of waste generated
 b) the amount of non-hazardous waste diverted from disposal, and how much is:
@@ -1020,7 +1020,7 @@ iii) recovered in another way.
 c) the amount of non-hazardous waste disposed of, including by:
 i) incineration (without energy recovery)
 ii) landfilling
-iii) other disposal methods.",898
+iii) other disposal methods.",898,Year 0
 ESC1.1,1.1.3,"The company’s hazardous waste is measured in tonnes and recorded as:
 a) the total amount of hazardous waste generated
 b) the amount of hazardous waste diverted from disposal, and how much is:
@@ -1029,7 +1029,7 @@ ii) recovered in another way
 c) the amount of hazardous waste disposed of, including by:
 i) incineration (without energy recovery)
 ii) landfilling
-iii) other disposal methods.",898
+iii) other disposal methods.",898,Year 0
 ESC1.1,1.1.4,"If the company produces or trades food products it also measures (in tonnes):
 a) the total amount of food waste generated
 b) the amount of food waste diverted from disposal, and how much is:
@@ -1040,15 +1040,15 @@ iv) recovered in another way
 c) the amount of food waste disposed of, including by:
 i) incineration (without energy recovery)
 ii) landfilling
-iii) other disposal methods.",899
-ESC1.1,1.1.5,"If the company cannot confirm where its waste goes, it assumes the waste goes to landfill.",899
+iii) other disposal methods.",899,Year 0
+ESC1.1,1.1.5,"If the company cannot confirm where its waste goes, it assumes the waste goes to landfill.",899,Year 0
 ESC1.1,1.1.6,"Before Year 0, the company:
 a) tracks and records waste generation for all of its facilities identified as material in accordance with ESC1.7
-b) has a plan to extend the tracking and recording of waste generation to all remaining facilities.",899
-ESC1.1,1.1.7,"For Year 5, the company has completed the tracking and recording of waste generation for all facilities.",899
+b) has a plan to extend the tracking and recording of waste generation to all remaining facilities.",899,Before Year 0
+ESC1.1,1.1.7,"For Year 5, the company has completed the tracking and recording of waste generation for all facilities.",899,Year 5
 ESC1.2,1.2.1,"The company measures and records its annual energy use:
 a) in the last fiscal year
-b) in each subsequent year.",906
+b) in each subsequent year.",906,Year 0
 ESC1.2,1.2.2,"The company’s energy use is measured by:
 a) total energy in giga-joules, watt-hours or multiples
 b) total renewable energy in giga-joules, watt-hours or multiples
@@ -1056,66 +1056,66 @@ c) percentage of self-generated renewable energy
 d) percentage of renewable electricity
 e) energy intensity, as either:
 i) total energy use per $million of revenue
-ii) total energy use per unit of product or service.",906
+ii) total energy use per unit of product or service.",906,Year 0
 ESC1.2,1.2.3,"Before Year 0, the company:
 a)  tracks and records energy use for all of its facilities identified as material in accordance with ESC1.7
-b) has a plan to extend the tracking and recording of energy use to all remaining facilities.",906
-ESC1.2,1.2.4,"For Year 5, the company completes the tracking and recording of energy use for all facilities.",906
+b) has a plan to extend the tracking and recording of energy use to all remaining facilities.",906,Before Year 0
+ESC1.2,1.2.4,"For Year 5, the company completes the tracking and recording of energy use for all facilities.",906,Year 5
 ESC1.3,1.3.1,"The company measures and records its annual water consumption or withdrawal:
 a) in the last fiscal year
-b) in each subsequent year.",912
+b) in each subsequent year.",912,Year 0
 ESC1.3,1.3.2,"The company’s water consumption or withdrawal is measured by:
 a) total water consumption or withdrawal in cubic meters (m3)
 b) total water recycled and reused in m3
 c) water intensity, as either:
 i) total water consumption or withdrawal in its own facilities in m3 per $million of revenue
-ii) total water consumption or withdrawal in its facilities in m3 per unit of product.",912
-ESC1.3,1.3.3,The company explains why it chose to measure either water consumption or withdrawal.,912
+ii) total water consumption or withdrawal in its facilities in m3 per unit of product.",912,Year 0
+ESC1.3,1.3.3,The company explains why it chose to measure either water consumption or withdrawal.,912,Year 0
 ESC1.3,1.3.4,"Before Year 0, the company:
 a) tracks and records water consumption or withdrawal for all of its facilities identified as material in accordance with ESC1.7
-b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities.",912
-ESC1.3,1.3.5,"For Year 5, the company completes the tracking and recording of water consumption or withdrawal for all facilities.",912
-ESC1.4,1.4.1,The company identifies any of its facilities in areas at physical water risk.,917
+b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities.",912,Before Year 0
+ESC1.3,1.3.5,"For Year 5, the company completes the tracking and recording of water consumption or withdrawal for all facilities.",912,Year 5
+ESC1.4,1.4.1,The company identifies any of its facilities in areas at physical water risk.,917,Year 0
 ESC1.4,1.4.2,"Before Year 0, the company:
 a) tracks and records water consumption or withdrawal for any of its facilities in areas at physical water risk identified as material in accordance with ESC1.7
-b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities in areas at physical water risk.",917
-ESC1.4,1.4.3,"For Year 5, the company has completed the tracking and recording of water consumption or withdrawal for all facilities in areas of physical water risk.",917
+b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities in areas at physical water risk.",917,Before Year 0
+ESC1.4,1.4.3,"For Year 5, the company has completed the tracking and recording of water consumption or withdrawal for all facilities in areas of physical water risk.",917,Year 5
 ESC1.4,1.4.4,"The company has measured and recorded its annual water consumption or withdrawal in cubic meters (m3) in areas at physical water risk:
 a) in the last fiscal year
-b) in each subsequent year.",917
+b) in each subsequent year.",917,Year 0
 ESC1.5,1.5.1,"The company assesses its facilities to understand if any are negatively affecting ecologically sensitive areas they are in or near, and records:
 a) the location and size (in hectares) of the facilities
-b) their impacts on biodiversity prioritized by severity and likelihood.",921
-ESC1.5,1.5.2,The assessment includes all of its manufacturing and production facilities.,921
-ESC1.5,1.5.3,The company has conducted its assessment to understand if its facilities are in or near ecologically sensitive areas within the past 36 months.,921
+b) their impacts on biodiversity prioritized by severity and likelihood.",921,Year 0
+ESC1.5,1.5.2,The assessment includes all of its manufacturing and production facilities.,921,Year 0
+ESC1.5,1.5.3,The company has conducted its assessment to understand if its facilities are in or near ecologically sensitive areas within the past 36 months.,921,Year 0
 ESC1.6,1.6.1,"The company defines indicators to monitor animal welfare conditions. The indicators in its monitoring process relate to how the animals are:
 a) raised
 b) transported
-c) slaughtered.",926
-ESC1.6,1.6.2,The company monitors the five freedoms of animal welfare.,926
+c) slaughtered.",926,Year 0
+ESC1.6,1.6.2,The company monitors the five freedoms of animal welfare.,926,Year 0
 ESC1.6,1.6.3,"The company creates an annual aggregate summary of animal welfare conditions:
 a) in the fiscal year before Year 0
-b) in each subsequent year.",926
-ESC1.6,1.6.4,The company meets any applicable laws regarding animal welfare (both general and species-specific).,926
+b) in each subsequent year.",926,Year 0
+ESC1.6,1.6.4,The company meets any applicable laws regarding animal welfare (both general and species-specific).,926,Year 0
 ESC1.7,1.7.1,"The company’s assessment:
 a) covers the company’s operations and value chain
 b) identifies any actual or potential negative impacts of the company's operations and value chain that may contribute to the five drivers of nature change
 c) identifies any actual or potential negative impacts of the company's operations and value chain on animal welfare
 d) is based on internal and external research, and engagement with stakeholders
-e) prioritizes issues based on severity and likelihood.",933
+e) prioritizes issues based on severity and likelihood.",933,Year 0
 ESC1.7,1.7.2,"The assessment includes:
 a) a high level overview of the company's value chain indicating where actual or potential negative impacts on nature and animal welfare have been identified
 b) a list of prioritized value chain activities and company operations that contribute to negative impacts on nature
 c) a list of high impact commodities or products in the supply chain, and an explanation of how they were identified
-d) a list of prioritized material environmental impact areas.",933
-ESC1.7,1.7.3,The assessment was completed or updated in the last 36 months.,933
+d) a list of prioritized material environmental impact areas.",933,Year 0
+ESC1.7,1.7.3,The assessment was completed or updated in the last 36 months.,933,Year 0
 ESC1.7,1.7.4,"If water, biodiversity, and waste were not deemed material, the company records a written explanation why. The written explanation:
 a) includes credible scientific evidence
-b) is approved by the highest governing body or executive team.",933
-ESC1.7,1.7.5,The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.,933
-ESC1.8,1.8.1,The company's material environmental issues (ESC1.7) are available on its webpage or the company has another way for stakeholders to easily access it.,948
-ESC1.8,1.8.2,The company publicly shares the methodology it used in its assessment of material environmental issues.,948
-ESC2.1,2.1.1,The company’s strategy addresses the material negative environmental impacts in its direct operations and value chain identified in ESC1.7.,952
+b) is approved by the highest governing body or executive team.",933,Year 0
+ESC1.7,1.7.5,The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.,933,Year 0
+ESC1.8,1.8.1,The company's material environmental issues (ESC1.7) are available on its webpage or the company has another way for stakeholders to easily access it.,948,Year 3
+ESC1.8,1.8.2,The company publicly shares the methodology it used in its assessment of material environmental issues.,948,Year 3
+ESC2.1,2.1.1,The company’s strategy addresses the material negative environmental impacts in its direct operations and value chain identified in ESC1.7.,952,Year 3
 ESC2.1,2.1.2,"The strategy, or a related implementation plan, includes:
 a) quantified targets for the next 36 months at minimum
 b) indicators
@@ -1125,16 +1125,16 @@ e) how the company prioritizes avoidance and reduction of negative environmental
 f) how the company uses its water and biodiversity assessments (where applicable) and:
 i) protects ecologically sensitive areas or areas at water risk that its facilities are in or near
 ii) sets objectives to avoid and reduce negative impacts on those areas
-g) how the company’s business model aligns with this strategy, or how it plans to align it.",952
-ESC2.1,2.1.3,The strategy is approved by the highest governing body or executive team.,952
-ESC2.1,2.1.4,The strategy was adopted or reviewed in the last twelve months.,952
+g) how the company’s business model aligns with this strategy, or how it plans to align it.",952,Year 3
+ESC2.1,2.1.3,The strategy is approved by the highest governing body or executive team.,952,Year 3
+ESC2.1,2.1.4,The strategy was adopted or reviewed in the last twelve months.,952,Year 3
 ESC2.2,2.2.1,"If the company identified biodiversity-related impacts as material in its assessment of environmental impacts, then the company’s biodiversity transition plan includes:
 a) a commitment to contribute to the global goal of halting and reversing biodiversity loss by 2030
 b) quantified targets for its own facilities
 c) a plan to engage its material suppliers (by impact) to understand:
 i) whether they are located in or near areas important for biodiversity.
 ii) what actions they take to manage their biodiversity impacts
-d) how the company integrates Indigenous Peoples’ local knowledge or traditional ecological knowledge and nature-based solutions.",962
+d) how the company integrates Indigenous Peoples’ local knowledge or traditional ecological knowledge and nature-based solutions.",962,Year 3
 ESC2.2,2.2.2,"The plan includes actions to:
 a) support aspects such as:
 i) maintenance and enhancement of biodiversity
@@ -1145,10 +1145,10 @@ b) measure positive conservation and regenerative outcomes, such as:
 i) healthy and stable soils
 ii) improved local biodiversity
 iii) improved air and water quality
-c) prevent potential negative impacts associated with the company’s facilities located in or near ecologically sensitive areas.",962
-ESC2.2,2.2.3,The plan is approved by the highest governing body or executive team.,962
-ESC2.2,2.2.4,The plan follows the mitigation hierarchy for biodiversity.,962
-ESC2.2,2.2.5,The plan was adopted or reviewed in the last twelve months.,963
+c) prevent potential negative impacts associated with the company’s facilities located in or near ecologically sensitive areas.",962,Year 3
+ESC2.2,2.2.3,The plan is approved by the highest governing body or executive team.,962,Year 3
+ESC2.2,2.2.4,The plan follows the mitigation hierarchy for biodiversity.,962,Year 3
+ESC2.2,2.2.5,The plan was adopted or reviewed in the last twelve months.,963,Year 3
 ESC2.3,2.3.1,"If the company identified water-related impacts as material in its assessment of environmental impacts then the company’s water stewardship strategy includes:
 a) an emphasis on a circular water management approach
 b) quantified targets for its own facilities
@@ -1156,63 +1156,63 @@ c) a plan to engage its material suppliers (by impact) to understand:
 i) what actions they take to manage their water-related impact
 ii) whether they are located in areas at water risk
 d) actions to reduce water use and minimize water pollution, especially in areas at water risk
-e) how the company integrates Indigenous Peoples’ local knowledge or traditional ecological knowledge and nature-based solutions.",972
+e) how the company integrates Indigenous Peoples’ local knowledge or traditional ecological knowledge and nature-based solutions.",972,Year 3
 ESC2.3,2.3.2,"The company identifies if contextual data exists for the watershed or basin in which the company has its facilities. If data is available, the company's strategy:
-a) describes how it ensures to stay within its proportionate allocation of local renewable water supplies.",972
-ESC2.3,2.3.3,The strategy is approved by the highest governing body or executive team.,972
-ESC2.3,2.3.4,The strategy was adopted or reviewed in the last twelve months.,972
-ESC2.4,2.4.1,The company explicitly addresses each material environmental impact area with a policy or procedure.,979
-ESC2.4,2.4.2,The scope of each policy and procedure matches the nature of the material environmental impact area.,979
-ESC2.5,2.5.1,"Workers in relevant roles receive training, guidance documents, or tools to help implement the environmental policies and procedures.",984
-ESC2.5,2.5.2,The guidance is tailored for the relevant role or department.,984
-ESC2.6,2.6.1,The company has a process in place to assess the potential negative environmental impacts of working with potential organizational clients and projects.,996
-ESC2.6,2.6.2,The process sets out mitigation actions.,996
+a) describes how it ensures to stay within its proportionate allocation of local renewable water supplies.",972,Year 3
+ESC2.3,2.3.3,The strategy is approved by the highest governing body or executive team.,972,Year 3
+ESC2.3,2.3.4,The strategy was adopted or reviewed in the last twelve months.,972,Year 3
+ESC2.4,2.4.1,The company explicitly addresses each material environmental impact area with a policy or procedure.,979,Year 3
+ESC2.4,2.4.2,The scope of each policy and procedure matches the nature of the material environmental impact area.,979,Year 3
+ESC2.5,2.5.1,"Workers in relevant roles receive training, guidance documents, or tools to help implement the environmental policies and procedures.",984,Year 3
+ESC2.5,2.5.2,The guidance is tailored for the relevant role or department.,984,Year 3
+ESC2.6,2.6.1,The company has a process in place to assess the potential negative environmental impacts of working with potential organizational clients and projects.,996,Year 0
+ESC2.6,2.6.2,The process sets out mitigation actions.,996,Year 0
 ESC2.6,2.6.3,"The company records how it assessed the potential negative environmental impacts of its three most material potential clients, and the outcomes of the process:
 a) in the fiscal year before Year 0
-b) annually in each subsequent year.",996
+b) annually in each subsequent year.",996,Year 0
 ESC2.6,2.6.4,"For Years 3 and 5 the company:
 a) records the mitigation action it took, if its assessments identified any potential or actual negative impacts
-b) records the effectiveness of its mitigation actions",996
-ESC2.7,2.7.1,The company has a process in place to assess the potential negative environmental impacts of potential investments.,1003
-ESC2.7,2.7.2,The process sets out mitigation actions.,1003
+b) records the effectiveness of its mitigation actions",996,Year 0
+ESC2.7,2.7.1,The company has a process in place to assess the potential negative environmental impacts of potential investments.,1003,Year 0
+ESC2.7,2.7.2,The process sets out mitigation actions.,1003,Year 0
 ESC2.7,2.7.3,"The company records how it assessed the potential negative environmental impacts of its three most material potential investments, and the outcomes of the process:
 a) in the fiscal year before Year 0
-b) annually in each subsequent year.",1003
+b) annually in each subsequent year.",1003,Year 0
 ESC2.7,2.7.4,"For Years 3 and 5, the company:
 a) records the mitigation action it took, if its assessments identified any potential or actual negative impacts
-b) records the effectiveness of its mitigation actions",1003
+b) records the effectiveness of its mitigation actions",1003,Year 0
 ESC3.1,3.1.1,"The company has an overview of its material inflow indicators (see Compliance Criteria 3.1.2 & 3.1.3), separated by products and packaging, for:
 a) the fiscal year before Year 0
-b) each subsequent year.",1009
+b) each subsequent year.",1009,Year 0
 ESC3.1,3.1.2,"The company’s overview includes the following information about its products (in tonnes).
 a) The total weight of input materials used to manufacture the company’s products (excluding packaging)
 b) The amount of renewable input materials from third-party verified, sustainable sources used to manufacture the company’s products (excluding packaging), by weight and as a percentage of total input materials
-c) The amount of reused or recycled products and materials (non-virgin) used to manufacture the company’s products (excluding packaging), by weight and as a percentage of total input materials",1009
+c) The amount of reused or recycled products and materials (non-virgin) used to manufacture the company’s products (excluding packaging), by weight and as a percentage of total input materials",1009,Year 0
 ESC3.1,3.1.3,"The company’s overview includes the following information about its packaging (in tonnes).
 a) The total weight of input materials used to manufacture packaging for the company’s products
 b) The amount of renewable input materials from third-party verified, sustainable sources used to manufacture packaging for the company’s products, by weight and as a percentage of total input materials used to manufacture packaging for the company’s products
-c) The amount of reused or recycled products and materials (non-virgin) used to manufacture packaging for the company’s products, by weight and as a percentage of total input materials used to manufacture packaging for the company’s products",1009
+c) The amount of reused or recycled products and materials (non-virgin) used to manufacture packaging for the company’s products, by weight and as a percentage of total input materials used to manufacture packaging for the company’s products",1009,Year 0
 ESC3.2,3.2.1,"The company’s material inflow indicators confirm that, over the previous 36 months, the company has:
 a) reduced its total use of virgin non-renewable materials
-b) increased the percentage of renewable materials from sustainable sources, or reused or recycled input materials in its products and packaging.",1016
+b) increased the percentage of renewable materials from sustainable sources, or reused or recycled input materials in its products and packaging.",1016,Year 3
 ESC3.3,3.3.1,"The company chooses one or more of the following four options.
 a) ESC3.3a The company avoids and reduces single-use products and packaging in its portfolio
 b) ESC3.3b The company designs its products for long-term use.
 c) GAC3.3c The company’s products are able to recirculate after use.
-d) ESC3.3d The company’s products are able to recirculate at their end-of-life.",1021
-ESC3.3,3.3.2,The company can explain how its product design follows the priority order established in the waste hierarchy.,1021
+d) ESC3.3d The company’s products are able to recirculate at their end-of-life.",1021,Year 3
+ESC3.3,3.3.2,The company can explain how its product design follows the priority order established in the waste hierarchy.,1021,Year 3
 ESC3.3,3.3.3,"For Year 5 the company either or both:
 a) increases the percentage of the indicators used in the sub-requirement option
-b) adds an option that is higher in the hierarchy of options.",1021
+b) adds an option that is higher in the hierarchy of options.",1021,Year 5
 ESC3.3,3.3.4,"If the company chose ESC3.3d previously, for Year 5 it chooses one of:
 a) ESC3.3a The company avoids and reduces single-use products and packaging in its portfolio.
 b) ESC3.3b The company designs its products for long-term use.
-c) ESC3.3c The company’s products are able to recirculate after use.",1021
-ESC3.3,3.3.5,"If the company has multiple products in its portfolio, it measures its entire portfolio along the four options in ESC3.3.1.",1021
+c) ESC3.3c The company’s products are able to recirculate after use.",1021,Year 3
+ESC3.3,3.3.5,"If the company has multiple products in its portfolio, it measures its entire portfolio along the four options in ESC3.3.1.",1021,Year 3
 ESC3.3a,3.3a.1,"The company knows the following for its portfolio.
 a) The amount of single-use products, as a percentage of the total weight of its products (excluding packaging)
-b) The amount of single-use packaging, as a percentage of the total weight of its packaging",1029
-ESC3.3a,3.3.a.2,The company records the reduction in percentage of single-use products or packaging in its portfolio resulting from the actions it took.,1029
+b) The amount of single-use packaging, as a percentage of the total weight of its packaging",1029,Year 3
+ESC3.3a,3.3.a.2,The company records the reduction in percentage of single-use products or packaging in its portfolio resulting from the actions it took.,1029,Year 3
 ESC3.3b,3.3b.1,"The company records:
 a) the amount of its products, as a percentage of the total weight of its products (excluding packaging) that were designed for:
 i) durability during use
@@ -1221,95 +1221,95 @@ iii) reusability.
 b) the amount of its packaging, as a percentage of the total weight of its packaging, that was designed for:
 i) durability during use
 ii) repairability during use
-iii) reusability.",1037
+iii) reusability.",1037,Year 3
 ESC3.3c,3.3c.1,"The company records:
 a) the amount of its products, as a percentage of the total weight of its products (excluding packaging) that were designed for:
 i) disassembly
 ii) remanufacturing or refurbishment
 b) the amount of its packaging, as a percentage of the total weight its packaging, that was designed for:
 i) disassembly
-ii) remanufacturing or refurbishment.",1044
+ii) remanufacturing or refurbishment.",1044,Year 3
 ESC3.3d,3.3d.1,"The company records:
 a) the amount of its products, as a percentage of the total weight of its products (excluding packaging) that were designed for:
 i) recycling
 ii) recirculation by the biological cycle
 b) the amount of packaging, as a percentage of the total weight of its packaging, that was designed for:
 i) recycling
-ii) recirculation by the biological cycle.",1051
-ESC3.3d,3.3d.2,The company’s products or packaging have been designed for recycling or recirculation by the biological cycle in a way that exceeds standard practice.,1051
+ii) recirculation by the biological cycle.",1051,Year 3
+ESC3.3d,3.3d.2,The company’s products or packaging have been designed for recycling or recirculation by the biological cycle in a way that exceeds standard practice.,1051,Year 3
 ESC3.4,3.4.1,"The company conducts and records an analysis of available recovery infrastructure for its products and packaging after their end-of-life.
 The analysis:
 a) covers all the company’s material products and packaging
 b) includes 25% of countries where the company’s products are sold at minimum
 c) is based on desk research or stakeholder engagement
-d) identifies the recovery infrastructure challenges for each included country.",1057
-ESC3.4,3.4.2,The analysis produces a document that summarizes the company’s methodology.,1057
-ESC3.4,3.4.3,The analysis was either completed or updated in the last 36 months.,1057
-ESC3.4,3.4.4,"For each update, the company increases the extent of coverage of the analysis (measured as a percentage of aggregate production and number of countries) as compared to the previous analysis.",1057
-ESC3.5,3.5.1,The company records its actions or programs to improve the infrastructure for the intended recovery option of its material products or packaging.,1061
-ESC3.5,3.5.2,"Before Year 3, the company has introduced these actions or programs in the two countries that represent the largest end-user sales of its material products or packaging.",1061
+d) identifies the recovery infrastructure challenges for each included country.",1057,Year 0
+ESC3.4,3.4.2,The analysis produces a document that summarizes the company’s methodology.,1057,Year 0
+ESC3.4,3.4.3,The analysis was either completed or updated in the last 36 months.,1057,Year 0
+ESC3.4,3.4.4,"For each update, the company increases the extent of coverage of the analysis (measured as a percentage of aggregate production and number of countries) as compared to the previous analysis.",1057,Year 0
+ESC3.5,3.5.1,The company records its actions or programs to improve the infrastructure for the intended recovery option of its material products or packaging.,1061,Year 3
+ESC3.5,3.5.2,"Before Year 3, the company has introduced these actions or programs in the two countries that represent the largest end-user sales of its material products or packaging.",1061,Year 3
 ESC3.5,3.5.4,"For Year 5, the company either:
 a) increases the scale of existing programs
-b) introduces additional actions or programs.",1061
+b) introduces additional actions or programs.",1061,Year 5
 ESC4.1,4.1.1,"The company takes action to prevent or mitigate its actual and potential negative environmental impacts:
 a) in the twelve months before Year 3
-b) in each subsequent year.",1066
-ESC4.1,4.1.2,The company records the action and any demonstrable output.,1066
-ESC4.1,4.1.3,The action is related to the company’s operations or value chain.,1066
-ESC4.2,4.2.1,"The company makes progress against its targets and indicators (measured at an interval of no more than 36 months), in line with its environmental strategy defined under ESC2.1.",1079
-ESC4.2,4.2.2,The company evaluates the effectiveness of its environmental strategy.,1079
-ESC4.2,4.2.3,The evaluation results are shared with the highest governing body or executive team.,1079
+b) in each subsequent year.",1066,Year 3
+ESC4.1,4.1.2,The company records the action and any demonstrable output.,1066,Year 3
+ESC4.1,4.1.3,The action is related to the company’s operations or value chain.,1066,Year 3
+ESC4.2,4.2.1,"The company makes progress against its targets and indicators (measured at an interval of no more than 36 months), in line with its environmental strategy defined under ESC2.1.",1079,Year 5
+ESC4.2,4.2.2,The company evaluates the effectiveness of its environmental strategy.,1079,Year 5
+ESC4.2,4.2.3,The evaluation results are shared with the highest governing body or executive team.,1079,Year 5
 ESC4.2,4.2.4,"Where the strategy is ineffective, the company records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated the strategy.",1079
-ESC4.2,4.2.5,The company’s environmental strategy has targets and indicators to prevent or mitigate negative environmental impacts for its value chain.,1079
-ESC4.3,4.3.1,"The company makes progress against its targets and indicators  (measured at an interval of no more than 36 months), in line with its biodiversity transition plan defined under ESC2.2.",1089
-ESC4.3,4.3.2,The plan’s actions align to the mitigation hierarchy for biodiversity.,1089
-ESC4.3,4.3.3,The company evaluates the effectiveness of its biodiversity transition plan.,1089
-ESC4.3,4.3.4,The evaluation results are shared with the highest governing body or executive team.,1089
+c) how it has updated the strategy.",1079,Year 5
+ESC4.2,4.2.5,The company’s environmental strategy has targets and indicators to prevent or mitigate negative environmental impacts for its value chain.,1079,Year 5
+ESC4.3,4.3.1,"The company makes progress against its targets and indicators  (measured at an interval of no more than 36 months), in line with its biodiversity transition plan defined under ESC2.2.",1089,Year 5
+ESC4.3,4.3.2,The plan’s actions align to the mitigation hierarchy for biodiversity.,1089,Year 5
+ESC4.3,4.3.3,The company evaluates the effectiveness of its biodiversity transition plan.,1089,Year 5
+ESC4.3,4.3.4,The evaluation results are shared with the highest governing body or executive team.,1089,Year 5
 ESC4.3,4.3.5,"Where the plan is ineffective, the company records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated the plan.",1089
-ESC4.3,4.3.6,The company updates its biodiversity transition plan to add targets and indicators for its value chain.,1089
-ESC4.4,4.4.1,"The company makes progress against its targets and indicators (measured at an interval of no more than 36 months), in line with its water stewardship strategy defined under ESC2.3.",1094
-ESC4.4,4.4.2,The company evaluates the effectiveness of its water stewardship strategy.,1094
-ESC4.4,4.4.3,The evaluation results are shared with the highest governing body or executive team.,1094
+c) how it has updated the plan.",1089,Year 5
+ESC4.3,4.3.6,The company updates its biodiversity transition plan to add targets and indicators for its value chain.,1089,Year 5
+ESC4.4,4.4.1,"The company makes progress against its targets and indicators (measured at an interval of no more than 36 months), in line with its water stewardship strategy defined under ESC2.3.",1094,Year 5
+ESC4.4,4.4.2,The company evaluates the effectiveness of its water stewardship strategy.,1094,Year 5
+ESC4.4,4.4.3,The evaluation results are shared with the highest governing body or executive team.,1094,Year 5
 ESC4.4,4.4.4,"Where the strategy is ineffective, the company records:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated the strategy.",1094
-ESC4.4,4.4.5,The company updates its water stewardship strategy to add targets and indicators for its value chain.,1094
-ESC4.5,4.5.1,"The company makes a report on its environmental strategies, including its biodiversity and water stewardship strategies, publicly available on its webpage.",1098
-ESC4.5,4.5.2,The company made or updated its report in the last 36 months.,1098
+c) how it has updated the strategy.",1094,Year 5
+ESC4.4,4.4.5,The company updates its water stewardship strategy to add targets and indicators for its value chain.,1094,Year 5
+ESC4.5,4.5.1,"The company makes a report on its environmental strategies, including its biodiversity and water stewardship strategies, publicly available on its webpage.",1098,Year 5
+ESC4.5,4.5.2,The company made or updated its report in the last 36 months.,1098,Year 5
 ESC4.5,4.5.3,"The company’s report includes:
 a) progress on targets and indicators
-b) how it evaluated the effectiveness of its strategies.",1098
+b) how it evaluated the effectiveness of its strategies.",1098,Year 5
 ESC4.5,4.5.4,"Where the strategies are ineffective, the company’s report sets out:
 a) what lessons it has learned
 b) what it plans to do differently
-c) how it has updated its strategies.",1098
+c) how it has updated its strategies.",1098,Year 5
 ESC5.1,5.1.1,"The company has considered the actual and potential environmental impacts for the three most material procurement decisions:
 a) in the fiscal year or twelve months before Year 0
-b) in each subsequent year.",1101
+b) in each subsequent year.",1101,Year 0
 ESC5.2,5.2.1,"The company has considered the actual and potential environmental impacts for the five most material procurement decisions:
 a) in the last fiscal year or last twelve months before Year 0
-b) in each subsequent year.",1109
+b) in each subsequent year.",1109,Year 0
 ESC5.3,5.3.1,"The company:
 a) identifies prioritized suppliers related to its most material environmental impacts (ESC1.7)
-b) records the criteria it used to prioritize suppliers.",1118
+b) records the criteria it used to prioritize suppliers.",1118,Year 0
 ESC5.3,5.3.2,"The company works with its prioritized suppliers to prevent or mitigate their most material environmental impacts by
 a) agreeing on targets with each prioritized supplier
-b) monitoring progress at least annually",1118
-ESC5.3,5.3.3,"For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.",1118
+b) monitoring progress at least annually",1118,Year 0
+ESC5.3,5.3.3,"For Years 3 and 5, the company records specific prevention and mitigation actions and their outcomes.",1118,Year 0
 ESC5.4,5.4.1,"The company either:
 a) knows the origin and potential environmental impacts of its high-risk raw materials (as determined under ESC1.7)
-b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.",1125
-ESC5.4,5.4.2,The company documents the proportion of high-risk raw materials that it can trace to their origin.,1125
+b) has a time-bound plan to trace and fully map its supply chain across all supplier tiers and for all high-risk raw materials.",1125,Year 3
+ESC5.4,5.4.2,The company documents the proportion of high-risk raw materials that it can trace to their origin.,1125,Year 3
 ESC5.5,5.5.1,"If the company sources raw materials from a high-risk country, it has evidence that they:
 a) are deforestation-free
-b) were produced in accordance with the relevant legislation of the country of production.",1131
+b) were produced in accordance with the relevant legislation of the country of production.",1131,Year 3
 ESC5.5,5.5.2,"The company evaluates the following priority raw materials potentially linked to deforestation at minimum.
 a) Cattle
 b) Cocoa
@@ -1317,154 +1317,154 @@ c) Coffee
 d) Oil palm
 e) Rubber
 f) Soya
-g) Wood",1131
-ESC5.6,5.6.1,"The company increases the proportion of high-risk raw materials that it can trace to their origin, in line with its plan under ESC5.4.",1136
-ESC5.7,5.7.1,"The company works with its prioritized suppliers to prevent and mitigate environmental impacts related to high-risk raw materials, in line with its plan (ESC5.4) and its actions (ESC5.6).",1142
+g) Wood",1131,Year 3
+ESC5.6,5.6.1,"The company increases the proportion of high-risk raw materials that it can trace to their origin, in line with its plan under ESC5.4.",1136,Year 5
+ESC5.7,5.7.1,"The company works with its prioritized suppliers to prevent and mitigate environmental impacts related to high-risk raw materials, in line with its plan (ESC5.4) and its actions (ESC5.6).",1142,Year 5
 ESC5.7,5.7.2,"The engagement process includes:
 a) an action plan and targets
 b) monitoring progress at least annually
-c) recording specific prevention and mitigation actions and their outcomes.",1142
-GACA1.1,1.1.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by declaring this publicly.",1161
+c) recording specific prevention and mitigation actions and their outcomes.",1142,Year 5
+GACA1.1,1.1.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by declaring this publicly.",1161,Year 0
 GACA1.1,1.1.2,"The company’s lobbying policy states its approach to responsible lobbying, including:
 a) a statement that the company will lobby only to contribute to a positive impact on society or the environment
 b) a statement that its lobbying approach is based on either reliable or scientific data (or both)
 c) its approach to financial and in-kind political contributions
 d) its approach to anti-corruption and bribery
 e) its approach to responsible lobbying with intermediary organizations, including controls that ensure consistency with the lobbying policy
-f) which governance body within the company will formally review and approve the policy, and how frequently.",1161
+f) which governance body within the company will formally review and approve the policy, and how frequently.",1161,Year 0
 GACA1.1,1.1.3,"The company’s lobbying policy states its governance, control, and risk management practices, including:
 a) which governance body or executive-level position within the company is accountable for enforcing the policy
 b) how the policy is embedded within the company, including how the company puts it into practice
 c) how the company identifies, manages, and monitors risks of non-compliance
 d) how the company evaluates compliance with the governance and control framework
-e) how stakeholders can raise concerns about the company’s business conduct and lobbying practices, including reference to the company’s grievance procedure [link to PSG3].",1161
+e) how stakeholders can raise concerns about the company’s business conduct and lobbying practices, including reference to the company’s grievance procedure [link to PSG3].",1161,Year 0
 GACA1.1,1.1.4,"The company’s lobbying policy is:
 a) approved by the highest governing body
-b) published on the company’s webpage and accessible to all stakeholders.",1161
-GACA1.2,1.2.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by publicly sharing that it is not engaged in lobbying.",1167
+b) published on the company’s webpage and accessible to all stakeholders.",1161,Year 0
+GACA1.2,1.2.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by publicly sharing that it is not engaged in lobbying.",1167,Year 0
 GACA1.2,1.2.2,"The public report includes:
 a) the value and recipient of financial and in-kind political contributions
-b) a summary of the company’s material lobbying positions and the relevant recipients or intermediary organizations.",1167
+b) a summary of the company’s material lobbying positions and the relevant recipients or intermediary organizations.",1167,Year 0
 GACA1.2,1.2.3,"The public report is:
 a) overseen by the highest governing body or a committee of the highest governing body
-b) published on the company’s webpage and accessible to all stakeholders.",1167
+b) published on the company’s webpage and accessible to all stakeholders.",1167,Year 0
 GACA1.2,1.2.4,"The company publicly shares its lobbying positions and political contributions:
 a) in the fiscal year before Year 0
-b) annually in each subsequent year.",1167
-GACA1.3,1.3.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by publicly sharing that it is not engaged in lobbying.",1172
+b) annually in each subsequent year.",1167,Year 0
+GACA1.3,1.3.1,"If the company is not engaged in lobbying, then it meets this sub-requirement by publicly sharing that it is not engaged in lobbying.",1172,Year 3
 GACA1.3,1.3.2,"The public report includes:
 a) the value and recipient of financial and in-kind political contributions
-b) a summary of the company’s material lobbying positions and the relevant recipients or intermediary organizations.",1172
+b) a summary of the company’s material lobbying positions and the relevant recipients or intermediary organizations.",1172,Year 3
 GACA1.3,1.3.3,"The public report is:
 a) overseen by the highest governing body or a committee of the highest governing body
-b) published on the company’s webpage and accessible to all stakeholders.",1172
+b) published on the company’s webpage and accessible to all stakeholders.",1172,Year 3
 GACA1.3,1.3.4,"The company publicly shares its lobbying positions and political contributions:
 a) in the fiscal year before Year 3
-b) annually in each subsequent year.",1172
+b) annually in each subsequent year.",1172,Year 3
 GACA2.1,2.1.1,"The company takes part in collective action from the five options in this Impact Topic.
 a) GACA2.1a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
 b) GACA2.1b The company contributes to external research to advance social or environmental impacts.
 c) GACA2.1c The company collaborates with multiple stakeholders to advance social or environmental impacts.
 d) GACA2.1d The company promotes public policy to advance social or environmental impacts
-e) GACA2.1e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy.",1177
-GACA2.1,2.1.2,The company takes part in at least one collective action.,1177
+e) GACA2.1e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy.",1177,Year 0
+GACA2.1,2.1.2,The company takes part in at least one collective action.,1177,Year 0
 GACA2.2,2.2.1,"The company takes part in collective action from the five options in this Impact Topic.
 a) GACA2.1a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
 b) GACA2.1b The company contributes to external research to advance social or environmental impacts.
 c) GACA2.1c The company collaborates with multiple stakeholders to advance social or environmental impacts.
 d) GACA2.1d The company promotes public policy to advance social or environmental impacts.
-e) GACA2.1e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy.",1180
+e) GACA2.1e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy.",1180,Year 0
 GACA2.2,2.2.2,"The company takes part in at least:
 a) one collective action before Year 0
-b) two of the five collective action options for Years 3 and 5.",1180
+b) two of the five collective action options for Years 3 and 5.",1180,Year 0
 GACA2.1a,2.1a.1,"The company’s mentoring has:
 a) a clear objective aligned with advancing the mentee’s social or environmental impact
-b) a clear positive outcome that the mentee confirms.",1183
-GACA2.1b,2.1b.1,The external research aims to create a positive impact on society or the environment.,1187
+b) a clear positive outcome that the mentee confirms.",1183,Year 0
+GACA2.1b,2.1b.1,The external research aims to create a positive impact on society or the environment.,1187,Year 0
 GACA2.1c,2.1c.1,"The multi-stakeholder collaboration:
 a) has a clear purpose and aims to deliver specific, measurable impacts collaboratively.
-b) aims to create a positive impact on society or the environment.",1191
-GACA2.1d,2.1d.1,The advocacy work aims to create a positive impact on society or the environment.,1196
-GACA2.1e,2.1e.1,The thought leadership aims to create a positive impact on society or the environment.,1201
+b) aims to create a positive impact on society or the environment.",1191,Year 0
+GACA2.1d,2.1d.1,The advocacy work aims to create a positive impact on society or the environment.,1196,Year 0
+GACA2.1e,2.1e.1,The thought leadership aims to create a positive impact on society or the environment.,1201,Year 0
 GACA2.3,2.3.1,"The company takes part in collective action from the five options in this Impact Topic.
 a) GACA2.3a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
 b) GACA2.3b The company contributes to external research to advance social or environmental impacts.
 c) GACA2.3c The company collaborates with multiple stakeholders to advance social or environmental impacts with clear contribution.
 d) GACA2.3d The company promotes public policy to advance social or environmental impacts with clear contribution.
-e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1205
+e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1205,Year 0
 GACA2.3,2.3.2,"The company takes part in at least:
 a) one collective action before Year 0
-b) two of the five collective action options for Years 3 and 5.",1205
+b) two of the five collective action options for Years 3 and 5.",1205,Year 0
 GACA2.4,2.4.1,"The company takes part in collective action from the five options in this Impact Topic.
 a) GACA2.3a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
 b) GACA2.3b The company contributes to external research to advance social or environmental impacts.
 c) GACA2.3c The company collaborates with multiple stakeholders to advance social or environmental impacts with clear contribution.
 d) GACA2.3d The company promotes public policy to advance social or environmental impacts with clear contribution.
-e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1208
-GACA2.4,2.4.2,The company takes part in at least two of the five collective action options.,1208
+e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1208,Year 0
+GACA2.4,2.4.2,The company takes part in at least two of the five collective action options.,1208,Year 0
 GACA2.5,2.5.1,"The company takes part in collective action from the five options in this Impact Topic.
 a) GACA2.3a The company mentors others in its industry, profession, or value chain to advance their social or environmental impacts.
 b) GACA2.3b The company contributes to external research to advance social or environmental impacts.
 c) GACA2.3c The company collaborates with multiple stakeholders to advance social or environmental impacts with clear contribution.
 d) GACA2.3d The company promotes public policy to advance social or environmental impacts with clear contribution.
-e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1211
+e) GACA2.3e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy, and has a clear outcome.",1211,Year 0
 GACA2.5,2.5.2,"The company takes part in at least:
 a) two of the five collective actions before Year 0
-b) four collective actions for Years 3 and 5.",1211
+b) four collective actions for Years 3 and 5.",1211,Year 0
 GACA2.3a,2.3a.1,"The company’s mentoring has:
 a) a clear objective aligned with advancing the mentee’s social or environmental impact
 b) a clear positive outcome that the mentee confirms
-c) a systematic approach targeting a specific group of mentees.",1214
-GACA2.3b,2.3b.1,The external research aims to create a positive impact on society or the environment.,1218
+c) a systematic approach targeting a specific group of mentees.",1214,Year 0
+GACA2.3b,2.3b.1,The external research aims to create a positive impact on society or the environment.,1218,Year 0
 GACA2.3b,2.3b.2,"The company contributes to research through:
 a) financial contributions
 b) in-kind contributions
-c) data sharing.",1218
-GACA2.3b,2.3b.3,The company follows up on the output of the research within twelve months.,1218
+c) data sharing.",1218,Year 0
+GACA2.3b,2.3b.3,The company follows up on the output of the research within twelve months.,1218,Year 0
 GACA2.3c,2.3c.1,"The multi-stakeholder collaboration:
 a) has a clear purpose and aims to deliver specific, measurable impacts collaboratively.
-b) aims to create a positive impact on society or the environment.",1222
-GACA2.3c,2.3c.2,The company makes a clear contribution to the multi-stakeholder collaboration.,1222
-GACA2.3d,2.3d.1,The advocacy work aims to create a positive impact on society or the environment.,1227
+b) aims to create a positive impact on society or the environment.",1222,Year 0
+GACA2.3c,2.3c.2,The company makes a clear contribution to the multi-stakeholder collaboration.,1222,Year 0
+GACA2.3d,2.3d.1,The advocacy work aims to create a positive impact on society or the environment.,1227,Year 0
 GACA2.3d,2.3d.2,"The company has one or more resources to support its public policy advocacy work:
 a) financial contributions
 b) in-kind contribution
-c) active staff time.",1227
-GACA2.3d,2.3d.3,The company makes a clear contribution to public policy advocacy.,1227
+c) active staff time.",1227,Year 0
+GACA2.3d,2.3d.3,The company makes a clear contribution to public policy advocacy.,1227,Year 0
 GACA2.3e,2.3e.1,"The thought leadership:
 a) has a clear positive outcome
-b) aims to create a positive impact on society or the environment.",1231
+b) aims to create a positive impact on society or the environment.",1231,Year 0
 GACA2.3e,2.3e.2,"The company is involved in at least:
 a ) two thought leadership practices before Year 0
-b) three thought leadership practices for Years 3 and 5.",1231
+b) three thought leadership practices for Years 3 and 5.",1231,Year 0
 GACA2.6,2.6.1,"The company includes one of the following in its collective actions.
 a) GACA2.3c The company collaborates with multiple stakeholders to advance social or environmental impacts with clear contribution.
-b) GACA2.3d The company promotes public policy to advance social or environmental impacts with clear contribution.",1235
+b) GACA2.3d The company promotes public policy to advance social or environmental impacts with clear contribution.",1235,Year 3
 GACA3.1,3.1.1,"The company’s tax policy states its approach to responsible taxes, including:
 a) how its approach to tax is linked to the company’s business and sustainable development strategies
 b) its approach to regulatory compliance
-c) which governance body or executive-level position within the company will formally review and approve the policy, and how frequently.",1238
+c) which governance body or executive-level position within the company will formally review and approve the policy, and how frequently.",1238,Year 0
 GACA3.1,3.1.2,"The company’s tax policy states its governance, control, and risk management practices, including:
 a) which governance body or executive-level position within the company is accountable for enforcing the policy
 b) how the policy is embedded within the company, including how the company puts it into practice
 c) how the company identifies, manages, and monitors risks of non-compliance
 d) how the company evaluates compliance with the governance and control framework
 e) how stakeholders can raise concerns about the company’s business conduct and tax practices, including reference to the company’s grievance procedure [link to PSG3]
-f) a description of the company's assurance process for public tax reporting, including, if applicable, a link or reference to any external assurance reports or statements.",1238
+f) a description of the company's assurance process for public tax reporting, including, if applicable, a link or reference to any external assurance reports or statements.",1238,Year 0
 GACA3.1,3.1.3,"The company’s tax policy states how it engages with stakeholders and manages tax-related concerns, including:
 a) its approach to engaging with tax authorities
 b) its approach to public policy advocacy related to tax
-c) how it collects and considers stakeholders’ views and concerns, including from external stakeholders.",1238
+c) how it collects and considers stakeholders’ views and concerns, including from external stakeholders.",1238,Year 0
 GACA3.1,3.1.4,"The company’s tax policy is:
 a) approved by the highest governing body
-b) published on the company’s webpage and made accessible to all stakeholders.",1238
+b) published on the company’s webpage and made accessible to all stakeholders.",1238,Year 0
 GACA3.2,3.2.1,"The public report includes:
 a) all tax jurisdictions where the company is resident for tax purposes
 b) relevant financial information for each tax jurisdiction
-c) the time period the information covers.",1243
+c) the time period the information covers.",1243,Year 3
 GACA3.2,3.2.2,"The public report is:
 a) overseen by the highest governing body or a committee of the highest governing body
-b) published on the company’s webpage and accessible to all stakeholders.",1243
+b) published on the company’s webpage and accessible to all stakeholders.",1243,Year 3
 GACA3.2,3.2.3,"The company publicly shares its country-by-country reporting:
 a) in the fiscal year before Year 3
-b) annually in each subsequent year.",1243
+b) annually in each subsequent year.",1243,Year 3

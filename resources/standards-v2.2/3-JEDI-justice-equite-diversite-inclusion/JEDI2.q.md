@@ -34,9 +34,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.q.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company uses stakeholder feedback to assess a product or service for inclusivity.
 
 ### 2.q.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment highlights:
 

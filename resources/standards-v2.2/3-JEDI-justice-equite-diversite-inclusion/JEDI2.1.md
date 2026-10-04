@@ -30,6 +30,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company chooses and implements at minimum one option from the following two sets.
 
 - a) Foundation (JEDI2.a-e)

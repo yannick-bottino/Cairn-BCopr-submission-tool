@@ -31,21 +31,31 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 376-380. Échéance : Ye
 
 ### 3.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company has an employee representation mechanism.
 
 ### 3.1.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 Representatives meet and record meeting notes.
 
 ### 3.1.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company supports its employees to fulfill their employee representative roles during regular working hours.
 
 ### 3.1.4
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The employee representatives and the company’s executive team or highest governing body communicate at least twice a year.
 
 ### 3.1.5
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company publicly shares if its employees do not want an employee representation mechanism, and explains how it determined this.
 

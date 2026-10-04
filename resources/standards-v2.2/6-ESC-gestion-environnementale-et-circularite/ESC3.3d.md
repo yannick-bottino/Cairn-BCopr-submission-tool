@@ -47,6 +47,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.3d.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records:
 
 - a) the amount of its products, as a percentage of the total weight of its products (excluding packaging) that were designed for:
@@ -57,6 +59,8 @@ The company records:
   - ii) recirculation by the biological cycle.
 
 ### 3.3d.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company’s products or packaging have been designed for recycling or recirculation by the biological cycle in a way that exceeds standard practice.
 

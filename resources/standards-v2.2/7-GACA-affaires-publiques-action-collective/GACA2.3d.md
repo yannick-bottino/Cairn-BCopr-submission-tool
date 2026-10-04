@@ -31,9 +31,13 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.3d.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The advocacy work aims to create a positive impact on society or the environment.
 
 ### 2.3d.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has one or more resources to support its public policy advocacy work:
 
@@ -42,6 +46,8 @@ The company has one or more resources to support its public policy advocacy work
 - c) active staff time.
 
 ### 2.3d.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes a clear contribution to public policy advocacy.
 

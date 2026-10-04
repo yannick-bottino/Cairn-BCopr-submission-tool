@@ -32,13 +32,19 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 5.4.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.
 
 ### 5.4.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company records annual data on the value of monetary rewards tied to achieving social and environmental performance targets as a percentage of each executive’s salary.
 
 ### 5.4.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The targets linked to the incentive scheme are SMART (specific, measurable, achievable, relevant, and time-bound).
 

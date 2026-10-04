@@ -34,13 +34,19 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.r.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company uses stakeholder feedback to redesign one of its products or services to be more inclusive.
 
 ### 2.r.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company redesigns the original product or service, rather than designing a segregation solution.
 
 ### 2.r.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company offers the redesigned product or service to customers or announces it publicly.
 

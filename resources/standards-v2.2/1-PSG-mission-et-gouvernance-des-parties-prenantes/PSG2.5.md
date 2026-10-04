@@ -30,12 +30,16 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 2.5.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company documents decisions by the highest governing body that relate to dividends and stock buyback and which demonstrate how the company:
 
 - a) considered the interests of its stakeholders (not just shareholders)
 - b) evaluated stakeholder interests or balanced conflicting stakeholder interests.
 
 ### 2.5.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company considers impacts to the following stakeholders in relation to dividend and stock buyback decisions.
 
@@ -47,6 +51,8 @@ The company considers impacts to the following stakeholders in relation to divid
 - f) The local or global environment
 
 ### 2.5.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company is publicly transparent on how decisions on dividends and stock buybacks are balanced with reinvestments in the company’s social and environmental performance.
 

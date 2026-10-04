@@ -33,9 +33,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.l.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses the accessibility of its digital internal communication tools.
 
 ### 2.l.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment:
 

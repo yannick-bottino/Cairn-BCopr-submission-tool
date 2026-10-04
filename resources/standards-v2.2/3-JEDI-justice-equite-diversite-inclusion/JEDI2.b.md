@@ -34,9 +34,13 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 ### 2.b.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company carries out training or a workshop on JEDI-related topics. At minimum, the training or workshop amounts to one full day per participant within a one-year period.
 
 ### 2.b.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company improves the JEDI knowledge or capacity of at least two of the following groups.
 

@@ -45,13 +45,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 595-599. Échéance : Yea
 
 ### 2.4.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company makes progress against its targets and indicators (measured at an interval of no more than three years), in line with its human rights strategy (HR2.3).
 
 ### 2.4.2
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company evaluates the effectiveness of its human rights strategy (HR2.3).
 
 ### 2.4.3
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 Where the strategy is ineffective, the company records:
 
@@ -60,6 +66,8 @@ Where the strategy is ineffective, the company records:
 - c) how it has updated the strategy.
 
 ### 2.4.4
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The evaluation results are shared with the highest governing body or executive team.
 

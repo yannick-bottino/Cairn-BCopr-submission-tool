@@ -35,9 +35,13 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.7.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company works with its prioritized suppliers to prevent and mitigate environmental impacts related to high-risk raw materials, in line with its plan (ESC5.4) and its actions (ESC5.6).
 
 ### 5.7.2
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The engagement process includes:
 

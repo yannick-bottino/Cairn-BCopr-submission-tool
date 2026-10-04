@@ -41,9 +41,13 @@ Impact Area : Climate Action (Action climatique). Pages PDF 817-821. Échéance 
 
 ### 3.1.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The incentive scheme is determined either by an annual performance evaluation or during the company’s annual fiscal review.
 
 ### 3.1.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company records annual data on the value of monetary rewards tied to achieving climate-related performance targets for the executive team (or part of it) as a percentage of the executive’s salary.
 

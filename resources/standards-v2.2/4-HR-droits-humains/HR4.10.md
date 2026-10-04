@@ -33,6 +33,8 @@ Impact Area : Human Rights (Droits humains). Pages PDF 724-734. Échéance : Yea
 
 ### 4.10.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company refers to living wages in its service procurement documents, process, or conversations for any service with a potential living wage gap.
 
 ## Intent

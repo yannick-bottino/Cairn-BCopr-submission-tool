@@ -53,12 +53,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company measures and records its annual hazardous and non-hazardous waste production:
 
 - a) in the last fiscal year
 - b) in each subsequent year.
 
 ### 1.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s non-hazardous waste is measured in tonnes and recorded as:
 
@@ -74,6 +78,8 @@ The company’s non-hazardous waste is measured in tonnes and recorded as:
 
 ### 1.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s hazardous waste is measured in tonnes and recorded as:
 
 - a) the total amount of hazardous waste generated
@@ -86,6 +92,8 @@ The company’s hazardous waste is measured in tonnes and recorded as:
   - iii) other disposal methods.
 
 ### 1.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company produces or trades food products it also measures (in tonnes):
 
@@ -102,9 +110,13 @@ If the company produces or trades food products it also measures (in tonnes):
 
 ### 1.1.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 If the company cannot confirm where its waste goes, it assumes the waste goes to landfill.
 
 ### 1.1.6
+
+*Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
 
 Before Year 0, the company:
 
@@ -112,6 +124,8 @@ Before Year 0, the company:
 - b) has a plan to extend the tracking and recording of waste generation to all remaining facilities.
 
 ### 1.1.7
+
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
 
 For Year 5, the company has completed the tracking and recording of waste generation for all facilities.
 

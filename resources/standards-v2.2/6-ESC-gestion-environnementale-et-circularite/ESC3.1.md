@@ -41,12 +41,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 3.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has an overview of its material inflow indicators (see Compliance Criteria 3.1.2 & 3.1.3), separated by products and packaging, for:
 
 - a) the fiscal year before Year 0
 - b) each subsequent year.
 
 ### 3.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s overview includes the following information about its products (in tonnes).
 
@@ -55,6 +59,8 @@ The company’s overview includes the following information about its products (
 - c) The amount of reused or recycled products and materials (non-virgin) used to manufacture the company’s products (excluding packaging), by weight and as a percentage of total input materials
 
 ### 3.1.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s overview includes the following information about its packaging (in tonnes).
 

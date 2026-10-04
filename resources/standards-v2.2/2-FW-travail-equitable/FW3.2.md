@@ -34,13 +34,19 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 381-385. Échéance : Ye
 
 ### 3.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company seeks, considers, and addresses worker feedback on decisions that affect them.
 
 ### 3.2.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company seeks feedback from the workers affected by a decision, or their representative.
 
 ### 3.2.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company communicates its decision and how it considered feedback back to the relevant workers, or their representative.
 

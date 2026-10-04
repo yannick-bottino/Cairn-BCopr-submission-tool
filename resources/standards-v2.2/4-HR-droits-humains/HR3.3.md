@@ -211,13 +211,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 628-642. Échéance : Yea
 
 ### 3.3.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company has a process in place to assess the potential negative human rights impacts of working with potential organizational clients and projects.
 
 ### 3.3.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The process sets out mitigation actions.
 
 ### 3.3.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records how it assessed the potential negative human rights impacts of its three most material potential clients or projects each year, and the outcomes of the process.
 
@@ -225,6 +231,8 @@ The company records how it assessed the potential negative human rights impacts 
 - b) annually in each subsequent year.
 
 ### 3.3.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 For Years 3 and 5, the company:
 

@@ -32,6 +32,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.6.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company includes one of the following in its collective actions.
 
 - a) GACA2.3c The company collaborates with multiple stakeholders to advance social or environmental impacts with clear contribution.

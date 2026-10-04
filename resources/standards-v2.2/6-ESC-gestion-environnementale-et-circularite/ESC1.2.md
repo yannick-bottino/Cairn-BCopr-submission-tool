@@ -53,12 +53,16 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.2.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company measures and records its annual energy use:
 
 - a) in the last fiscal year
 - b) in each subsequent year.
 
 ### 1.2.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s energy use is measured by:
 
@@ -72,12 +76,16 @@ The company’s energy use is measured by:
 
 ### 1.2.3
 
+*Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
+
 Before Year 0, the company:
 
 - a)  tracks and records energy use for all of its facilities identified as material in accordance with ESC1.7
 - b) has a plan to extend the tracking and recording of energy use to all remaining facilities.
 
 ### 1.2.4
+
+*Échéance du critère : Year 5 (marquage PDF : « For Year 5 »)*
 
 For Year 5, the company completes the tracking and recording of energy use for all facilities.
 

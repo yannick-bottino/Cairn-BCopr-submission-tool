@@ -30,6 +30,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 822-826. Échéance 
 
 ### 3.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company makes a demonstrable contribution to climate advocacy to support the global goal of net zero emissions by 2050, through either or both:
 
 - a) public policy engagement
@@ -37,17 +39,25 @@ The company makes a demonstrable contribution to climate advocacy to support the
 
 ### 3.2.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company has engaged in advocacy at least once between Year 0 and Year 3, and at least once between Year 3 and Year 5.
 
 ### 3.2.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company’s advocacy work promotes science-based climate policies that align with the global goal of net zero emissions by 2050.
 
 ### 3.2.4
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company identifies the specific outcomes it aims to achieve through its climate advocacy.
 
 ### 3.2.5
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company has one or more resources to support its public policy advocacy work:
 

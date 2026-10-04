@@ -32,6 +32,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 801-809. Échéance 
 
 ### 2.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s climate transition plan:
 
 - a) includes GHG mitigation actions to reach its net-zero and near-term science-based targets set under CA2.2
@@ -45,6 +47,8 @@ The company’s climate transition plan:
 - g) is approved by the highest governing body.
 
 ### 2.3.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If the company has already reached its net zero target, it records:
 

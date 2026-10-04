@@ -34,17 +34,25 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 393-395. Échéance : Ye
 
 ### 4.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company develops and implements a plan to improve its workplace culture.
 
 ### 4.2.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The plan is approved by the executive team or highest governing body.
 
 ### 4.2.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The plan is updated annually to show progress on each action and shared with workers.
 
 ### 4.2.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 If fewer than 50% of workers participate in the workplace culture measurement, the company includes actions in the plan to increase participation.
 

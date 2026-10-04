@@ -35,6 +35,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 5.6.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company increases the proportion of high-risk raw materials that it can trace to their origin, in line with its plan under ESC5.4.
 
 ## Intent

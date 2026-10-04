@@ -45,6 +45,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ### 1.7.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s assessment:
 
 - a) covers the company’s operations and value chain
@@ -55,6 +57,8 @@ The company’s assessment:
 
 ### 1.7.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The assessment includes:
 
 - a) a high level overview of the company's value chain indicating where actual or potential negative impacts on nature and animal welfare have been identified
@@ -64,9 +68,13 @@ The assessment includes:
 
 ### 1.7.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The assessment was completed or updated in the last 36 months.
 
 ### 1.7.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If water, biodiversity, and waste were not deemed material, the company records a written explanation why. The written explanation:
 
@@ -74,6 +82,8 @@ If water, biodiversity, and waste were not deemed material, the company records 
 - b) is approved by the highest governing body or executive team.
 
 ### 1.7.5
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company considers any “potential impacts” from the Risk Tool (FR3.1) in its assessment.
 

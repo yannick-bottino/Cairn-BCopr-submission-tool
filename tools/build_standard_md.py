@@ -8,7 +8,7 @@ Sorties (dans --out) :
 - <n>-<CODE>-<slug FR>/<code plateforme>.md : un fichier par bloc de
   shared/referentiel/bcorp_v2.2_requirements.csv (frontmatter YAML + texte EN verbatim) ;
 - <n>-<CODE>-<slug FR>/_index.md et _index.md racine ;
-- criteres_en.csv : un critère de conformité par ligne (code, critere_id, texte_en, page).
+- criteres_en.csv : un critère de conformité par ligne (code, critere_id, texte_en, page, echeance_critere).
 
 Principes : le CSV fixe la liste des blocs, leurs étendues de pages (page_pdf ..
 page_pdf_fin_bloc) et les ids de critères ; le texte vient du PDF, nettoyé des pieds de
@@ -49,6 +49,32 @@ KEPT = {
 }
 # Lignes qui marquent la fin du dernier bloc d'une Impact Area (pages d'introduction de la suivante)
 HARD_STOPS = {"Intent", "Outcome", "Requirements Summary", "Terms and Definitions", "Scope"}
+
+# Coquilles d'ids de critères dans le PDF (et donc dans le CSV) : (code, id imprimé) -> id corrigé
+ID_FIXES = {("FW1.1", "1.2.3"): "1.1.3"}
+# Échéance propre d'un critère : marquage en tête de texte (ex. « For Year 5, the company ... »)
+DEADLINE_RE = re.compile(r"^(For|Before|By) Year ([035])\b")
+
+
+def fixed_ids(code, ids):
+    return [ID_FIXES.get((code, c), c) for c in ids]
+
+
+def criterion_deadline(text, year):
+    """(echeance_critere, marquage brut du PDF ou None).
+
+    Valeurs : Before Year 0 / Year 0 / Year 3 / Year 5. « For Year N » et « By Year N » -> Year N ;
+    « Before Year 0 » est conservé ; « Before Year 3 » -> Year 3 (à réaliser au plus tard pour Year 3).
+    Sans marquage : l'année de la sous-exigence.
+    """
+    m = DEADLINE_RE.match(text)
+    if not m:
+        return f"Year {year}", None
+    raw = m.group(0)
+    if raw == "Before Year 0":
+        return raw, raw
+    return f"Year {m.group(2)}", raw
+
 
 BULLET_RE = re.compile(r"^(•|o |◦|▪|– |- |[a-z]\) |[ivx]+\) |\[[0-9a-z.,;\s]+\] ?)")
 
@@ -234,7 +260,7 @@ def tracks_of(row):
 
 
 def render_block(row, req, area, txt, secs, apply_title, crit, pre, pdf_order, end_page):
-    ids = req.criteria_ids
+    ids = fixed_ids(req.code, req.criteria_ids)
     tracks = tracks_of(row)
     appl = [t for t in tracks if t[1] != "None"]
     fm = ["---",
@@ -265,9 +291,18 @@ def render_block(row, req, area, txt, secs, apply_title, crit, pre, pdf_order, e
     b += ["## Compliance criteria", ""]
     if pre:
         b += [md_lines(txt.paragraphs([s for s, _ in pre])), ""]
-    for cid in pdf_order:
-        lines = crit.get(cid, ([], None))[0]
-        b += [f"### {cid}", "", md_lines(txt.paragraphs([s for s, _ in lines])), ""]
+    for printed in pdf_order:
+        cid = ID_FIXES.get((req.code, printed), printed)
+        lines = crit.get(printed, ([], None))[0]
+        paras = txt.paragraphs([s for s, _ in lines])
+        dl, raw = criterion_deadline(paras[0] if paras else "", req.year)
+        b += [f"### {cid}", ""]
+        b += [f"*Échéance du critère : {dl}" + (f" (marquage PDF : « {raw} »)*" if raw
+                                                 else " (celle de la sous-exigence)*"), ""]
+        if cid != printed:
+            b += [f"> Anomalie du PDF : ce critère est imprimé « {printed} » (coquille). L'id corrigé "
+                  f"{cid} est retenu ici ; shared/referentiel/bcorp_v2.2_requirements.csv porte encore {printed}.", ""]
+        b += [md_lines(paras), ""]
 
     for key in ("intent", "clar", "apply"):
         if secs[key]:
@@ -345,8 +380,10 @@ def build(pdf, out):
                 problems.append(f"{req.code}:{cid}")
                 continue
             body, page = crit[cid]
-            crit_rows.append({"code": req.code, "critere_id": cid,
-                              "texte_en": "\n".join(txt.paragraphs([s for s, _ in body])), "page": page})
+            paras = txt.paragraphs([s for s, _ in body])
+            crit_rows.append({"code": req.code, "critere_id": ID_FIXES.get((req.code, cid), cid),
+                              "texte_en": "\n".join(paras), "page": page,
+                              "echeance_critere": criterion_deadline(paras[0], req.year)[0]})
         d = out / folders[req.impact_area]
         d.mkdir(exist_ok=True)
         (d / f"{req.code}.md").write_text(
@@ -378,7 +415,7 @@ def build(pdf, out):
     (out / "_index.md").write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
     with open(out / "criteres_en.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["code", "critere_id", "texte_en", "page"], lineterminator="\n")
+        w = csv.DictWriter(f, fieldnames=["code", "critere_id", "texte_en", "page", "echeance_critere"], lineterminator="\n")
         w.writeheader()
         w.writerows(crit_rows)
 

@@ -33,17 +33,25 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 359-375. Échéance : Ye
 
 ### 2.8.c.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company calculates its living wage gap.
 
 ### 2.8.c.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company calculates the number and percentage of employees whose total wage is below the living wage.
 
 ### 2.8.c.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company creates an internal plan to close its living wage gap.
 
 ### 2.8.c.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company meets two of the following criteria at minimum.
 

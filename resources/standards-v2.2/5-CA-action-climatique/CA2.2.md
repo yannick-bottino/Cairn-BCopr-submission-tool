@@ -32,6 +32,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 794-800. Échéance 
 
 ### 2.2.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company’s science-based targets are either:
 
 - a) validated by the Science-Based Targets initiative
@@ -39,12 +41,16 @@ The company’s science-based targets are either:
 
 ### 2.2.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The science-based targets include:
 
 - a) net zero targets for scope 1, scope 2, and scope 3 greenhouse gas (GHG) emissions aligned with the 1.5°C trajectory, as recommended by the Paris Agreement
 - b) near-term targets for scope 1, scope 2, and scope 3 GHG emissions.
 
 ### 2.2.3
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company records its:
 

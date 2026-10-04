@@ -32,13 +32,19 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 2.4.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company identifies any material topics from its materiality assessment that are not addressed in the B Lab Standard.
 
 ### 2.4.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company sets at least one target per material topic it identifies.
 
 ### 2.4.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The targets are:
 
@@ -49,13 +55,19 @@ The targets are:
 
 ### 2.4.4
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assigns responsibility for achieving each target.
 
 ### 2.4.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 In the years after setting its targets, the company publicly reports its progress in its impact report or website.
 
 ### 2.4.6
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Once the company has achieved a target for a material topic, it sets a new target that meets these Compliance Criteria.
 

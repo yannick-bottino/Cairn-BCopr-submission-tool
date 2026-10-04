@@ -44,6 +44,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 849-854. Échéance 
 
 ### 3.7.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company’s progress against its climate transition plan is publicly available, including its:
 
 - a) GHG inventory including the following.

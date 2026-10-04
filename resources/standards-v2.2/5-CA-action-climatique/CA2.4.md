@@ -41,6 +41,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 810-816. Échéance 
 
 ### 2.4.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company reviews its climate transition plan to identify which stakeholders
 
 - a) it may affect, and to what extent the stakeholders could be positively or negatively affected.
@@ -48,13 +50,19 @@ The company reviews its climate transition plan to identify which stakeholders
 
 ### 2.4.2
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company engages with stakeholders in its value chain on its climate transition plan (including its suppliers or supply chain stakeholders at minimum).
 
 ### 2.4.3
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company engages with its workers on its climate transition plan.
 
 ### 2.4.4
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 To engage workers and stakeholders on its climate transition plan, the company:
 
@@ -64,9 +72,13 @@ To engage workers and stakeholders on its climate transition plan, the company:
 
 ### 2.4.5
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company integrates feedback and adds any just transition actions that emerge from engagement with its workers and stakeholders into its climate action plan.
 
 ### 2.4.6
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 The company’s climate transition plan includes dedicated resources (financial and staff time) and defined targets for its just transition actions.
 

@@ -30,6 +30,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 ### 2.1c.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The multi-stakeholder collaboration:
 
 - a) has a clear purpose and aims to deliver specific, measurable impacts collaboratively.

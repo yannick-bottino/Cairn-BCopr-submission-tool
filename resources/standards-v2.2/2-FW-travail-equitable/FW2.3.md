@@ -32,9 +32,13 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 317-320. Échéance : Ye
 
 ### 2.3.1
 
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
+
 The company has wage scales.
 
 ### 2.3.2
+
+*Échéance du critère : Year 3 (celle de la sous-exigence)*
 
 Employees can freely access the wage scales.
 

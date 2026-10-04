@@ -32,12 +32,16 @@ Impact Area : Climate Action (Action climatique). Pages PDF 769-778. Échéance 
 
 ### 1.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company’s greenhouse gas (GHG) emissions inventory is publicly available:
 
 - a) in the fiscal year before Year 0
 - b) in each subsequent year.
 
 ### 1.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s process includes the measurement of GHG the following.
 
@@ -52,9 +56,13 @@ The company’s process includes the measurement of GHG the following.
 
 ### 1.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company records a list of Scope 3 GHG emissions categories included in and excluded from the GHG inventory with a justification for excluded Scope 3 categories.
 
 ### 1.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company details the use of accounting principles and tools that it follows to measure its emissions and any associated assumptions.
 

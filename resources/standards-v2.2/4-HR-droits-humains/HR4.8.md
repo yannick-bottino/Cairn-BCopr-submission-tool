@@ -35,13 +35,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 706-711. Échéance : Yea
 
 ### 4.8.1
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company works with its prioritized suppliers to prevent and mitigate human rights impacts related to high-risk raw materials, in line with its plan (HR4.6) and its actions (HR4.7).
 
 ### 4.8.2
 
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
+
 The company works with its prioritized suppliers to remediate any human rights impacts related to high-risk raw materials.
 
 ### 4.8.3
+
+*Échéance du critère : Year 5 (celle de la sous-exigence)*
 
 The engagement process includes:
 

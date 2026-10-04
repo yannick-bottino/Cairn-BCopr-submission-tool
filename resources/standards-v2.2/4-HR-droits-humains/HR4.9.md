@@ -33,13 +33,19 @@ Impact Area : Human Rights (Droits humains). Pages PDF 712-723. Échéance : Yea
 
 ### 4.9.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company assesses its service contracts to see if service suppliers pay a living wage or collectively-bargained wage.
 
 ### 4.9.2
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company records any living wage gaps.
 
 ### 4.9.3
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company assesses contracts for services where no formal qualification is required.
 

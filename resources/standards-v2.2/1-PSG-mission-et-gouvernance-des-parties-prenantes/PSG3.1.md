@@ -33,9 +33,13 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ### 3.1.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company publishes a grievance form on its webpage or has another easily accessible way for stakeholders to raise a grievance.
 
 ### 3.1.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The grievance procedure explains:
 
@@ -45,9 +49,13 @@ The grievance procedure explains:
 
 ### 3.1.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 The company describes the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.
 
 ### 3.1.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company responds to stakeholder grievances by either:
 

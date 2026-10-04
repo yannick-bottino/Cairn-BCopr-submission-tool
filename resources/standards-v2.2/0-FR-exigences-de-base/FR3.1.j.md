@@ -32,6 +32,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 108-118. É
 
 ### 3.1.j.1
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets ESC1.7, ESC2.1 and ESC4.2.
@@ -39,6 +41,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 108-118. É
 - c) The company selects “not applicable” for ESC4.1 because ESC4.2 replaces it.
 
 ### 3.1.j.2
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Small companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
@@ -48,12 +52,16 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 108-118. É
 
 ### 3.1.j.3
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Small companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
 - a) The company meets ESC1.7, ESC2.1 and ESC4.2.
 - b) The company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
 
 ### 3.1.j.4
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Medium and Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
@@ -62,13 +70,19 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 108-118. É
 
 ### 3.1.j.5
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [X Large and XX Large companies in Manufacturing (except Mining), Retail/Wholesale, or Service with a significant footprint] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
 
 ### 3.1.j.6
 
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
+
 [Medium, Large, X Large and XX Large companies in Agriculture, Mining (an industry listed under Manufacturing)] If Yes, the company considers the potential impact (see Intent) in their assessment of actual and potential environmental impacts (ESC1.7).
 
 ### 3.1.j.7
+
+*Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 [Medium, Large, X Large and XX Large companies in Service with a minor footprint] If Yes, in addition to the sub-requirements that already apply, the company meets the following criteria.
 
