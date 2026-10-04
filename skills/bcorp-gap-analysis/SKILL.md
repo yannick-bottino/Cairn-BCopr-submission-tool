@@ -16,7 +16,7 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
 
 ## Étapes
 
-1. **Profil client.** Lire le `CLAUDE.md` du dossier client. La taille et le secteur B Lab ne se calculent jamais : ils viennent de la plateforme B Lab. Demander à l'utilisatrice, avec AskUserQuestion, l'une des deux sources :
+1. **Profil client.** Si le module 2 a tourné (`bcorp-company-profile`), utiliser directement son `profil.json` et passer à l'étape 3. Sinon, lire le `CLAUDE.md` du dossier client. La taille et le secteur B Lab ne se calculent jamais : ils viennent de la plateforme B Lab. Demander à l'utilisatrice, avec AskUserQuestion, l'une des deux sources :
    - **l'export PDF de la page de profil / scoping B Lab** du client : y lire la taille, le secteur, l'industrie et les réponses du Risk Tool telles qu'affichées, et citer la page ;
    - **à défaut, ses réponses manuelles** : taille, secteur et industrie tels qu'affichés sur la plateforme.
 

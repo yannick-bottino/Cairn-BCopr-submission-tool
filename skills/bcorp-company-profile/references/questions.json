@@ -1,0 +1,230 @@
+{
+  "_source": "B Lab Standards V2.2 (resources/standards-v2.2). Traduction FR des questions : à relire ; le texte EN fait foi.",
+  "questions": [
+    {
+      "id": "FR1.1.1.a",
+      "code": "FR1.1",
+      "critere": "1.1.1",
+      "question": "L'entreprise est-elle une société immatriculée (entité commerciale constituée) ?",
+      "type": "oui/non",
+      "regle": "non = Bloquant",
+      "texte_en": "The company is confirmed to be:\na) an incorporated business entity\nb) in operation for at least 12 months\nc) generating a majority of revenue from a competitive market."
+    },
+    {
+      "id": "FR1.1.1.b",
+      "code": "FR1.1",
+      "critere": "1.1.1",
+      "question": "L'entreprise est-elle en activité depuis au moins 12 mois ?",
+      "type": "oui/non",
+      "regle": "non = Bloquant",
+      "texte_en": "The company is confirmed to be:\na) an incorporated business entity\nb) in operation for at least 12 months\nc) generating a majority of revenue from a competitive market."
+    },
+    {
+      "id": "FR1.1.1.c",
+      "code": "FR1.1",
+      "critere": "1.1.1",
+      "question": "La majorité de son chiffre d'affaires provient-elle d'un marché concurrentiel ?",
+      "type": "oui/non",
+      "regle": "non = Bloquant",
+      "texte_en": "The company is confirmed to be:\na) an incorporated business entity\nb) in operation for at least 12 months\nc) generating a majority of revenue from a competitive market."
+    },
+    {
+      "id": "FR1.1.2",
+      "code": "FR1.1",
+      "critere": "1.1.2",
+      "question": "L'entreprise relève-t-elle d'une catégorie exclue (division ou marque non distincte de son groupe, franchiseur minoritaire, association ou fondation, entité publique, etc. : voir texte EN) ?",
+      "type": "oui/non",
+      "regle": "oui = Bloquant (associations et entités publiques : sauf approbation B Lab)",
+      "texte_en": "The company does not fall into any of the following categories.\na) Business divisions, brands, or units, or businesses that are not complete and distinct from their parent or group of affiliates\nb) Franchisors who do not own a majority of global franchisee locations, or franchisors without geographic distinction from independent franchisees\nc) Non-profits or Civil Society Organizations (CSOs), foundations, or charitable entities, unless otherwise approved by B Lab\nd) Governments, government agencies, government ministries, or state-owned enterprises, unless otherwise approved by B Lab\ne) Company legally registered in regions not covered operationally by B Lab and not part of a larger group registered in a region covered by B Lab"
+    },
+    {
+      "id": "FR1.2.1",
+      "code": "FR1.2",
+      "critere": "1.2.1",
+      "question": "Part du CA annuel (%) issue d'une implication directe dans : producteurs d'énergies fossiles, jeux d'argent, pornographie, prisons et centres de détention, tabac, armes.",
+      "type": "pourcentage",
+      "regle": ">= 1 % = Bloquant",
+      "texte_en": "The company generates less than 1% of annual revenue from direct involvement in the listed industries.\na) Fossil fuel producers\nb) Gambling\nc) Pornography\nd) Prisons and detention centers (including prison or detention center labor)\ne) Tobacco\nf) Weapons"
+    },
+    {
+      "id": "FR1.2.2",
+      "code": "FR1.2",
+      "critere": "1.2.2",
+      "question": "Part du CA (%) issue de services de lobbying ou relations publiques, de marketing, publicité ou branding, ou de produits sur mesure, vendus à des clients de ces industries.",
+      "type": "pourcentage",
+      "regle": ">= 1 % = Bloquant",
+      "texte_en": "The company generates less than 1% of annual revenue from selling the following products or services to organizational clients in the listed industries (see Compliance Criterion 1.2.1).\na) Lobbying or public relations services\nb) Marketing, advertising, or branding services\nc) Physical products tailored for a client in a listed industry"
+    },
+    {
+      "id": "FR1.2.3",
+      "code": "FR1.2",
+      "critere": "1.2.3",
+      "question": "Part du CA (%) issue du financement direct de la croissance de ces industries (prises de participation, capital-investissement, dette).",
+      "type": "pourcentage",
+      "regle": ">= 1 % = Bloquant",
+      "texte_en": "The company generates less than 1% of annual revenue from direct growth financing in the listed industries (see Compliance Criterion 1.2.1) through the following activities.\na) Direct equity investments\nb) Private equity, venture capital, or growth capital, including debt financing"
+    },
+    {
+      "id": "FR1.2.4",
+      "code": "FR1.2",
+      "critere": "1.2.4",
+      "question": "Producteur d'électricité ou d'énergie uniquement : part des énergies fossiles dans le mix (%). Sinon « non applicable ».",
+      "type": "pourcentage",
+      "regle": ">= 50 % = Bloquant",
+      "texte_en": "For electric utilities and power generation companies, less than 50% of their product portfolio or energy mix is from fossil fuels."
+    },
+    {
+      "id": "FR1.2.5",
+      "code": "FR1.2",
+      "critere": "1.2.5",
+      "question": "L'entreprise est-elle déjà certifiée B Corp selon la version 1.6 (recertification) ?",
+      "type": "oui/non",
+      "regle": "oui = FR1.2 exigible en Year 3",
+      "texte_en": "B Corps certified against V1.6 of the standards must meet FR1.2 by Year 3 (not Year 0)."
+    },
+    {
+      "id": "FR1.5.3",
+      "code": "FR1.5",
+      "critere": "1.5.3",
+      "question": "L'entreprise est-elle une filiale détenue en totalité ou majoritairement, ou une grande société cotée ?",
+      "type": "oui/non",
+      "regle": "oui = rapport BIA entièrement public et actionnaires majoritaires identifiés",
+      "texte_en": "If the company is a wholly-owned or majority-owned subsidiary, or a large public company, it makes its entire B Impact Assessment report public and identifies any majority owners."
+    },
+    {
+      "id": "FR2.1",
+      "code": "FR2.1",
+      "critere": "2.1.1",
+      "question": "Les statuts intègrent-ils déjà l'obligation de prendre en compte les parties prenantes (forme juridique ou clause conforme à l'exigence légale B Corp) ?",
+      "type": "oui/non",
+      "regle": "non = À faire (modification des statuts)",
+      "texte_en": "The company adopts an entity type or an amendment to its governing documents to require stakeholder governance (meaning it considers stakeholders in its decision-making). The company adopts stakeholder governance in accordance with the B Corp legal requirement, and as applicable to its legal form and jurisdiction."
+    },
+    {
+      "id": "FR3.1.a",
+      "code": "FR3.1.a",
+      "critere": "",
+      "question": "Au cours du dernier exercice, l'entreprise a-t-elle eu recours à plus de travailleurs indépendants qu'elle n'a de salariés ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your employees] In the past fiscal year, did the company contract more independent contractors than it has employees?"
+    },
+    {
+      "id": "FR3.1.b",
+      "code": "FR3.1.b",
+      "critere": "",
+      "question": "Au cours du dernier exercice, au moins 10 % du CA provient-il d'un produit de consommation dont les effets négatifs sur la santé sont reconnus par un gouvernement national ou un organisme intergouvernemental ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your products] In the past fiscal year, did the company generate at least 10% of its revenue from a consumer product that causes negative health impacts acknowledged by a national government or intergovernmental body?"
+    },
+    {
+      "id": "FR3.1.c",
+      "code": "FR3.1.c",
+      "critere": "",
+      "question": "Au cours du dernier exercice, l'entreprise a-t-elle distribué un produit numérique utilisant l'intelligence artificielle ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your products] In the past fiscal year, did the company distribute a digital product that uses artificial intelligence?"
+    },
+    {
+      "id": "FR3.1.d",
+      "code": "FR3.1.d",
+      "critere": "",
+      "question": "Au cours du dernier exercice, au moins 10 % du CA provient-il de la vente de produits chimiques dangereux ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your products] In the past fiscal year, did the company generate at least 10% of its revenue from selling hazardous chemicals?"
+    },
+    {
+      "id": "FR3.1.e",
+      "code": "FR3.1.e",
+      "critere": "",
+      "question": "Au cours du dernier exercice, au moins 10 % du CA provient-il de produits ou emballages plastiques à usage unique issus de matières vierges non renouvelables, ou de produits conditionnés dans de tels emballages ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your products] In the past fiscal year, did the company generate at least 10% of its revenue from any of these activities? (i) Selling single-use plastic products from virgin, non-renewable materials, manufactured either by the company or for the company. (ii) Selling single-use plastic packaging from virgin, non-renewable materials, manufactured either by the company or for the company. (iii) Selling products manufactured either by the company or for the company that were packaged in single-use plastic packaging from virgin, non-renewable materials."
+    },
+    {
+      "id": "FR3.1.f",
+      "code": "FR3.1.f",
+      "critere": "",
+      "question": "Au cours du dernier exercice, au moins 10 % du CA provient-il de la vente de produits chimiques agricoles (hors pesticides et engrais d'origine naturelle) ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your products] In the past fiscal year, did the company generate at least 10% of its revenue from selling agricultural chemicals, excluding naturally derived pesticides and fertilizers?"
+    },
+    {
+      "id": "FR3.1.g",
+      "code": "FR3.1.g",
+      "critere": "",
+      "question": "Au cours du dernier exercice, les activités propres de l'entreprise ont-elles pu avoir des impacts négatifs sur les droits ou les terres de peuples autochtones ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past fiscal year, did the company's own operations have potential negative impacts on the rights or lands of Indigenous Peoples?"
+    },
+    {
+      "id": "FR3.1.h",
+      "code": "FR3.1.h",
+      "critere": "",
+      "question": "Au cours des trois dernières années, l'entreprise a-t-elle connu un accident mortel ou une sanction en matière de santé et sécurité ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past three years, has the company experienced any fatality or health and safety penalty?"
+    },
+    {
+      "id": "FR3.1.i",
+      "code": "FR3.1.i",
+      "critere": "",
+      "question": "Au cours du dernier exercice, l'entreprise a-t-elle fabriqué ou fait fabriquer des produits composés principalement de matières issues d'industries extractives ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past fiscal year, did the company manufacture or outsource the manufacturing of products made primarily from materials from extractive industries?"
+    },
+    {
+      "id": "FR3.1.j",
+      "code": "FR3.1.j",
+      "critere": "",
+      "question": "Au cours des trois dernières années, les activités propres de l'entreprise ont-elles impliqué une conversion d'écosystèmes pouvant contribuer à la perte d'habitats, à l'érosion des sols ou à la perte de biodiversité ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past three years, did the company’s own operations directly involve ecosystem conversion that could contribute to habitat loss, soil erosion, or loss of biodiversity?"
+    },
+    {
+      "id": "FR3.1.k",
+      "code": "FR3.1.k",
+      "critere": "",
+      "question": "Au cours du dernier exercice, l'entreprise a-t-elle utilisé des produits chimiques dangereux dans ses procédés de production principaux ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past fiscal year, did the company use hazardous chemicals in its core production processes?"
+    },
+    {
+      "id": "FR3.1.l",
+      "code": "FR3.1.l",
+      "critere": "",
+      "question": "Au cours du dernier exercice, l'entreprise a-t-elle exploité une production intensive en eau dans une zone de risque hydrique ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your operations] In the past fiscal year, did the company operate a water-intensive production in an area with water risk?"
+    },
+    {
+      "id": "FR3.1.m",
+      "code": "FR3.1.m",
+      "critere": "",
+      "question": "Au cours des trois dernières années, l'entreprise a-t-elle fait l'objet de litiges, sanctions ou accusations publiques de travail forcé dans sa chaîne d'approvisionnement ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your reputation] In the past three years, has the company experienced litigations, penalties, or public allegations of forced labor in its supply chain?"
+    },
+    {
+      "id": "FR3.1.n",
+      "code": "FR3.1.n",
+      "critere": "",
+      "question": "Au cours des trois dernières années, l'entreprise a-t-elle fait l'objet de litiges, sanctions ou accusations publiques de marketing trompeur ou d'écoblanchiment ?",
+      "type": "oui/non",
+      "regle": "oui = sous-exigences additionnelles (lire le fichier du standard)",
+      "texte_en": "[Your reputation] In the past three years, has the company experienced litigations, penalties, or public allegations of misleading marketing or greenwashing?"
+    }
+  ]
+}

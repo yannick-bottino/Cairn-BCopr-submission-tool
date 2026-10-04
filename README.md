@@ -8,11 +8,11 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 
 | # | Module | Skill | État |
 |---|---|---|---|
-| 1 | Audit de data room | `bcorp-dataroom-audit` | à construire |
-| 2 | Caractérisation et éligibilité | `bcorp-company-profile` | socle prêt (applicabilité ; taille et secteur relevés sur la plateforme, jamais calculés) |
+| 1 | Audit de data room | `bcorp-dataroom-audit` | à construire en conditions réelles |
+| 2 | Caractérisation et éligibilité | `bcorp-company-profile` | v0.1 : questionnaire FR1/FR2/FR3, verdict d'éligibilité, profil pour M3 |
 | 3 | Excel de gap analysis | `bcorp-gap-analysis` | v0.2 : génération + propositions rédigées (`fill_gap.py`) |
-| 4 | Preuves et commentaires de preuve | `bcorp-evidence-pack` | à construire |
-| 5 | Plan de saisie plateforme | `bcorp-platform-plan` | à construire (copier-coller + checklist, pas d'automatisation navigateur) |
+| 4 | Preuves et commentaires de preuve | `bcorp-evidence-pack` | v0.1 : plan de preuves, rangement par copie journalisée |
+| 5 | Plan de saisie plateforme | `bcorp-platform-plan` | v0.1 : plan à coller par lot, sans automatisation navigateur |
 
 ## Installation
 
