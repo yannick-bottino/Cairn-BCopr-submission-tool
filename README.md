@@ -21,7 +21,9 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 /plugin install anchor-strategy-bcorp-tool@anchor-strategy-bcorp
 ```
 
-Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la base documentaire). Dépend des skills transverses de `consulting-skills` (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`).
+Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la base documentaire).
+
+Le plugin est autoporteur : les skills transverses qu'il appelle (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`, `folder-analyzer-optimizer`) sont embarqués dans `.claude/skills/` et déclarés dans `plugin.json`. Voir `.claude/skills/THIRD_PARTY_NOTICES.md`.
 
 ## Structure
 
@@ -33,6 +35,8 @@ Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la ba
 - `tests/` : `python3 -m pytest`.
 
 ## Règles
+
+- Règle stricte : tout skill appelé est embarqué dans `.claude/skills/` (test `tests/test_self_contained.py`). Règles complètes du dépôt : `.claude/CLAUDE.md`.
 
 - Aucun code d'exigence hors du référentiel.
 - Aucune donnée client dans ce dépôt.
