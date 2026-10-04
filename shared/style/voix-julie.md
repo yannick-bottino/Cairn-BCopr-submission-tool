@@ -129,7 +129,8 @@ Ordre :
 3. Si plusieurs justifications : puces « - », une par ligne.
 4. Couverture annoncée en tête, jamais en clôture : la phrase d'intro dit « [Document] couvre les N critères a/b/c : », puis une puce par critère avec sa pièce. Seulement si chaque critère annoncé a une pièce citée ; sinon, nommer les critères couverts et traiter le reste en « en cours de déploiement » avec jalon et porteur. Pas de phrase « Les N critères sont couverts. » en fin de commentaire (décision du 04/10/2026).
 5. Action en cours, si elle existe : « - En cours de déploiement : [objet], [jalon : date ou échéance], porté par [fonction] » (voir §4 règle 2).
-6. Dernière ligne : « - Pièces jointes au dossier : … » (la vF écrit aussi « - Pièces jointes : »).
+6. Dernière ligne : « - Pièces jointes : … » (forme unique).
+7. Un manque ne s'écrit dans le commentaire auditeur que sous la forme « en cours de déploiement », avec jalon et porteur (fonction). Sinon, on ne le mentionne pas : il reste dans le diagnostic.
 NA : « NA. » + le motif en une phrase.
 
 Longueur cible : 250 à 500 caractères (médiane vF : 482).
@@ -137,7 +138,7 @@ Longueur cible : 250 à 500 caractères (médiane vF : 482).
 Verbatim sharp :
 - [vF TE 4.1.1] « [Client A] mesure chaque année la perception de ses collaborateurs par un NPS interne, en progression entre 2024 et 2025. / - Mesure portée par l'action S.2.1 (relevé trimestriel, cible > 35 %), complétée par l'action S.2.2 (sondage annuel sur les attentes en matière de qualité de vie au travail) / - Pièces jointes : questionnaire et résultats »
 - [vF EB 1.2.1] « L'intégralité du chiffre d'affaires de [Client A] provient de la conception et de la commercialisation de produits cosmétiques (code APE 4645Z) : / - Aucune part du CA ne provient des industries listées : production d'énergies fossiles, jeux d'argent, pornographie, établissements pénitentiaires, tabac, armement / - [Client A] n'est pas une société de services financiers et ne gère aucun actif pour compte de tiers / - Pièces jointes : attestation de la direction financière, comptes annuels »
-- [vF EB 1.1.1] « [Client A] est une société commerciale française en activité depuis plus de douze mois : / - Chiffre d'affaires : [montant] sur l'exercice [exercice], pour [effectif] ETP / - Activité : conception et vente de produits cosmétiques sur un marché concurrentiel / - Pièces jointes au dossier : extrait Kbis, statuts en vigueur, comptes annuels »
+- [vF EB 1.1.1] « [Client A] est une société commerciale française en activité depuis plus de douze mois : / - Chiffre d'affaires : [montant] sur l'exercice [exercice], pour [effectif] ETP / - Activité : conception et vente de produits cosmétiques sur un marché concurrentiel / - Pièces jointes : extrait Kbis, statuts en vigueur, comptes annuels »
 - [vF GEC 1.7.3] « Les travaux d'évaluation environnementale de [Client A] datent tous de 2026 : / - Bilan carbone 2024-2025 remis en avril 2026 ([prestataire carbone]) / - Diagnostic durabilité et matrice de matérialité de septembre 2026 ([co-prestataire]) / - Feuille de route RSE V2 du 31 mars 2026 / La consolidation de ces travaux en une évaluation unique datée est engagée. »
 - [vF MGPP 3.2.3] « [Client A] recense les réclamations de sa clientèle et les suit par thèmes dans le cadre de son dispositif qualité, adossé à la cosmétovigilance et à la procédure de rappel produit. / - Le suivi est actif et donne lieu à une classification des motifs / - L'extension du recensement aux autres parties prenantes et la production d'un reporting consolidé font l'objet de l'action G.4.9 de la feuille de route RSE, dont la cible est la totalité des remontées traitées »
 - [vF GEC 1.2.1] « [Client A] a réalisé un bilan carbone sur les trois scopes pour la période août 2024 à août 2025 ([prestataire carbone], avril 2026). / - Les consommations énergétiques du siège (électricité) et de la flotte de véhicules (carburant) ont été collectées en données physiques et servent de base au scope 1 et au scope 2 / - Le tableur de collecte est disponible / - La reconduction annuelle de la mesure est en cours de mise en place »
@@ -191,9 +192,6 @@ Ponctuation :
 7. Les colonnes F et G (critère, clarification) sont recopiées du référentiel, jamais réécrites.
 8. Les personnes sont désignées par leur fonction (Présidente, direction financière, Qualité, réglementaire & claims, RH), dans toutes les colonnes.
 
-## 5. Points encore ouverts (à demander à Julie)
+## 5. Longueurs indicatives
 
-1. L'aveu cadré [Client B] TE 4.1.3 (« n'indiquent pas explicitement que… mais… ») est-il compatible avec « jamais de manque » ?
-2. Forme unique pour la dernière ligne : « Pièces jointes au dossier : » (2 cellules) ou « Pièces jointes : » (4 cellules).
-3. La colonne W (Commentaires) est vide dans la vF : y a-t-il des annotations de Julie ailleurs (versions intermédiaires) qui serviraient de paires avant/après ?
-4. Validation des longueurs cibles : Diagnostic 150-300 caractères, Actions 1-3 items, Preuves 1-3 tirets, Commentaire 250-500 caractères.
+Repères, pas des plafonds : diagnostic 150 à 300 caractères, actions 1 à 3 items, preuves attendues 1 à 3 tirets, commentaire auditeur 250 à 500 caractères. Plus long seulement si plusieurs sources se croisent.

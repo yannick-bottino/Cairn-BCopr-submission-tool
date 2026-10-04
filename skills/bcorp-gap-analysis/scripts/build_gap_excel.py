@@ -57,6 +57,8 @@ WIDTHS = {"Impact Area": 22, "Exigence (thématique)": 30, "Code exigence": 11, 
           "Commentaire soumission dossier pour l'auditeur": 92, "Commentaires": 40,
           "Justification de la typologie (Anchor)": 40}
 HORIZON_LABELS = {0: "Year 0", 3: "Year 0 + Year 3", 5: "Year 0 + Year 3 + Year 5"}
+# La taille et le secteur ne sont jamais calculés par le plugin : ils viennent de la plateforme B Lab.
+PROFILE_SOURCES = ["Export PDF plateforme B Lab", "Déclaration manuelle"]
 
 
 def gap_headers(client: str, co: str) -> list[str]:
@@ -79,6 +81,9 @@ def build(profile: dict, out: Path) -> Path:
     out = Path(out)
     if out.exists():
         raise FileExistsError(f"{out} existe déjà : le script n'écrase jamais un fichier.")
+    if profile.get("source_profil") not in PROFILE_SOURCES:
+        raise ValueError(f"source_profil obligatoire, parmi {PROFILE_SOURCES} : la taille et le secteur "
+                         "se relèvent sur la plateforme B Lab, ils ne se calculent pas.")
     r = ref.Referentiel.load()
     size, sector, horizon = profile["taille"], profile["secteur"], int(profile["horizon"])
     retained = {r.to_site(c) for c in profile.get("options_retenues", [])}
@@ -192,11 +197,9 @@ def _parametres(ws, p):
     _header(ws, ["Paramètre", "Valeur", "Liste / règle"], {"Paramètre": 32, "Valeur": 30, "Liste / règle": 90})
     rows = [
         ("Client", p["client"], "texte libre"),
-        ("Taille (B Lab)", p["taille"], ", ".join(ref.SIZES) + ". Règle : la plus petite des deux tailles (effectif, CA)."),
-        ("Statut de la taille", p.get("statut_taille", "À confirmer"), "Confirmée seulement si les seuils sont sourcés."),
-        ("Effectif", p.get("effectif", ""), "par pays si possible"),
-        ("Chiffre d'affaires", p.get("ca", ""), "dernier exercice clos, devise précisée"),
-        ("Secteur (B Lab)", p["secteur"], ", ".join(ref.SECTORS)),
+        ("Taille (B Lab)", p["taille"], ", ".join(ref.SIZES) + ". Telle qu'affichée par la plateforme B Lab, jamais calculée."),
+        ("Secteur (B Lab)", p["secteur"], ", ".join(ref.SECTORS) + ". Tel qu'affiché par la plateforme B Lab."),
+        ("Source du profil (taille, secteur)", p["source_profil"], ", ".join(PROFILE_SOURCES)),
         ("Industrie", p.get("industrie", ""), "seulement si l'industrie déclenche des exigences spécifiques"),
         ("Horizon retenu", HORIZON_LABELS[int(p["horizon"])], ", ".join(HORIZON_LABELS.values())),
         ("Mécanisme d'équité applicable", p.get("mecanisme_equite", "À confirmer"), "Oui, Non, À confirmer"),

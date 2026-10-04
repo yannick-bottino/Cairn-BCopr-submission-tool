@@ -20,6 +20,7 @@ PROFILE = {
     "date_depot": "Avril 2027",
     "co_prestataire": "Atelier X",
     "options_retenues": ["JEDI2.g"],
+    "source_profil": "Export PDF plateforme B Lab",
 }
 
 
@@ -186,3 +187,21 @@ def test_pdf_typo_is_corrected(gap):
     _, _, rows = gap
     ids = by_req_id(rows)
     assert "FW1.1-1.1.3" in ids and "FW1.1-1.2.3" not in ids
+
+
+def test_profile_source_is_declared_not_computed(wb):
+    ws = wb["1. Paramètres client"]
+    params = {r[0].value: r[1].value for r in ws.iter_rows(min_row=2) if r[0].value}
+    assert params["Source du profil (taille, secteur)"] == "Export PDF plateforme B Lab"
+    assert "Effectif" not in params and "Chiffre d'affaires" not in params
+
+
+def test_profile_source_is_required(tmp_path):
+    profile = {k: v for k, v in PROFILE.items() if k != "source_profil"}
+    with pytest.raises(ValueError, match="source_profil"):
+        bg.build(profile, tmp_path / "x.xlsx")
+
+
+def test_profile_source_values(tmp_path):
+    with pytest.raises(ValueError, match="source_profil"):
+        bg.build({**PROFILE, "source_profil": "calculé"}, tmp_path / "x.xlsx")

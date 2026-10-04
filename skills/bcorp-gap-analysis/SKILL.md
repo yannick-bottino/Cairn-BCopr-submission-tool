@@ -16,22 +16,27 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
 
 ## Étapes
 
-1. **Profil client.** Lire le `CLAUDE.md` du dossier client. Compléter ce qui manque avec AskUserQuestion, en une seule salve :
-   - taille B Lab : si l'effectif ETP et le CA sont connus, calculer avec `bcorp_ref.size_category(etp, ca_usd)` (règle de la plus petite des deux tailles). La taille reste « À confirmer » tant que `size_thresholds.json` n'est pas vérifié ;
-   - secteur B Lab (> 10 % du CA en produits fabriqués en propre = Manufacturing ; produits physiques non fabriqués, y compris une marque qui sous-traite = Wholesale/Retail) ;
-   - horizon (0, 3 ou 5), co-prestataire éventuel, options de menu retenues (codes plateforme, ex. `JEDI2.g`).
+1. **Profil client.** Lire le `CLAUDE.md` du dossier client. La taille et le secteur B Lab ne se calculent jamais : ils viennent de la plateforme B Lab. Demander à l'utilisatrice, avec AskUserQuestion, l'une des deux sources :
+   - **l'export PDF de la page de profil / scoping B Lab** du client : y lire la taille, le secteur, l'industrie et les réponses du Risk Tool telles qu'affichées, et citer la page ;
+   - **à défaut, ses réponses manuelles** : taille, secteur et industrie tels qu'affichés sur la plateforme.
+
+   Ne jamais déduire une taille d'un effectif ou d'un chiffre d'affaires, même si ces données figurent dans la data room. Si l'export et les documents du client divergent, le signaler sans trancher.
+
+   Demander aussi : horizon (0, 3 ou 5), co-prestataire éventuel, options de menu retenues (codes plateforme, ex. `JEDI2.g`).
 2. **Écrire `profil.json`** dans le dossier de travail :
    ```json
    {"client": "...", "taille": "Medium", "secteur": "Wholesale/Retail", "industrie": "",
     "horizon": 3, "mecanisme_equite": "À confirmer", "date_depot": "...",
-    "co_prestataire": "...", "options_retenues": [], "effectif": "...", "ca": "..."}
+    "co_prestataire": "...", "options_retenues": [],
+    "source_profil": "Export PDF plateforme B Lab"}
    ```
+   `source_profil` est obligatoire : `Export PDF plateforme B Lab` ou `Déclaration manuelle`. Le script refuse le profil sans elle.
 3. **Générer** :
    ```bash
    python3 "${CLAUDE_PLUGIN_ROOT}/skills/bcorp-gap-analysis/scripts/build_gap_excel.py" profil.json "<Client> x Anchor Strategy_Mission B Corp - Gap analysis_YYYYMMDD.xlsx"
    ```
    Prérequis : `pip install openpyxl`.
-4. **Contrôler et restituer** : nombre de lignes par Impact Area (onglet 6), options masquées, lignes propres au secteur. Dire clairement ce qui reste à confirmer (taille, secteur, textes des critères).
+4. **Contrôler et restituer** : nombre de lignes par Impact Area (onglet 6), options masquées, lignes propres au secteur. Dire clairement ce qui reste à confirmer (traductions FR des critères, options retenues).
 
 ## Ce que contient l'Excel
 

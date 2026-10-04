@@ -9,7 +9,7 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 | # | Module | Skill | État |
 |---|---|---|---|
 | 1 | Audit de data room | `bcorp-dataroom-audit` | à construire |
-| 2 | Caractérisation et éligibilité | `bcorp-company-profile` | socle prêt (`size_category`, applicabilité) |
+| 2 | Caractérisation et éligibilité | `bcorp-company-profile` | socle prêt (applicabilité ; taille et secteur relevés sur la plateforme, jamais calculés) |
 | 3 | Excel de gap analysis | `bcorp-gap-analysis` | v0.1 : génération de la structure |
 | 4 | Preuves et commentaires de preuve | `bcorp-evidence-pack` | à construire |
 | 5 | Plan de saisie plateforme | `bcorp-platform-plan` | à construire (copier-coller + checklist, pas d'automatisation navigateur) |
@@ -26,7 +26,7 @@ Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la ba
 ## Structure
 
 - `resources/standards-v2.2/` : PDF officiel (`_source/`), référentiel machine (`bcorp_v2.2_requirements.csv`), un fichier Markdown par sous-exigence rangé par Impact Area, `criteres_en.csv` (texte et échéance de chaque critère), `criteres_fr.csv` (traductions à relire). Les .md se régénèrent avec `python3 tools/build_standard_md.py`.
-- `shared/referentiel/` : Impact Areas (noms FR/EN, préfixes, couleurs), seuils de taille.
+- `shared/referentiel/` : Impact Areas (noms FR/EN, préfixes, couleurs).
 - `shared/lib/bcorp_ref.py` : lecture du référentiel, conversion des codes, applicabilité, taille.
 - `shared/style/voix-julie.md` : guide de rédaction des cellules (exemples anonymisés).
 - `skills/<module>/` : un skill par module, avec ses scripts.
