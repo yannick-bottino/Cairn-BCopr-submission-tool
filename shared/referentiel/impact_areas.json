@@ -1,0 +1,14 @@
+{
+  "_source": "Noms FR : Excel client B (rapport de recherche 03) et 04-standard-bcorp.md (EB). Préfixes : table de correspondance du rapport 02. Couleurs : gabarit Anchor (gap analysis client A) ; TE absent du vF, couleur choisie par défaut (à valider).",
+  "order": ["FR", "PSG", "FW", "JEDI", "HR", "CA", "ESC", "GACA"],
+  "areas": {
+    "FR":   {"prefix_excel": "EB",   "name_fr": "Exigences de base",                              "name_en": "Foundation Requirements",                   "colors": ["F2F2F2", "D9D9D9"]},
+    "PSG":  {"prefix_excel": "MGPP", "name_fr": "Mission et gouvernance des parties prenantes",   "name_en": "Purpose & Stakeholder Governance",          "colors": ["FCE4D6", "F8CBAD"]},
+    "FW":   {"prefix_excel": "TE",   "name_fr": "Travail équitable",                              "name_en": "Fair Work",                                 "colors": ["DDEBF7", "BDD7EE"]},
+    "JEDI": {"prefix_excel": "JEDI", "name_fr": "Justice, équité, diversité & inclusion",         "name_en": "Justice, Equity, Diversity & Inclusion",    "colors": ["FFF2CC", "FFE699"]},
+    "HR":   {"prefix_excel": "DH",   "name_fr": "Droits humains",                                 "name_en": "Human Rights",                              "colors": ["FCE4EC", "F8BBD0"]},
+    "CA":   {"prefix_excel": "AC",   "name_fr": "Action climatique",                              "name_en": "Climate Action",                            "colors": ["E2EFDA", "C6E0B4"]},
+    "ESC":  {"prefix_excel": "GEC",  "name_fr": "Gestion environnementale et circularité",        "name_en": "Environmental Stewardship & Circularity",   "colors": ["B7D7BF", "93C09F"]},
+    "GACA": {"prefix_excel": "APAC", "name_fr": "Affaires publiques & action collective",         "name_en": "Government Affairs & Collective Action",    "colors": ["E4DFEC", "CCC0DA"]}
+  }
+}

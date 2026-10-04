@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "anchor-strategy-bcorp",
+  "description": "Marketplace privée d'Anchor Strategy.",
+  "owner": {
+    "name": "Anchor Strategy"
+  },
+  "plugins": [
+    {
+      "name": "anchor-strategy-bcorp-tool",
+      "version": "0.1.0",
+      "source": "./",
+      "description": "Anchor Strategy B Corp tool : préparation de la certification B Corp, de la data room au plan de saisie plateforme.",
+      "license": "SEE LICENSE IN LICENSE",
+      "keywords": ["b-corp", "rse", "gap-analysis", "certification"]
+    }
+  ]
+}

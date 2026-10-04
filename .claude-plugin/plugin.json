@@ -1,0 +1,11 @@
+{
+  "name": "anchor-strategy-bcorp-tool",
+  "version": "0.1.0",
+  "description": "Anchor Strategy B Corp tool : audit de data room, caractérisation et éligibilité, gap analysis Excel, dossier de preuves et plan de saisie pour la certification B Corp (B Lab Standards V2.2).",
+  "author": {
+    "name": "Anchor Strategy"
+  },
+  "repository": "https://github.com/yannick-bottino/Cairn-BCopr-submission-tool",
+  "license": "SEE LICENSE IN LICENSE",
+  "skills": "./skills"
+}
