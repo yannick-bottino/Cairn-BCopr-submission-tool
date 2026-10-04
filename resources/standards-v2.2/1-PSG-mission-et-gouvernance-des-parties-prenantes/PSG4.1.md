@@ -39,11 +39,18 @@ The company documents the following principles governing its marketing and publi
 - b) The company is truthful, transparent, and accountable about the social and environmental impacts of the company's operations, both positive and negative.
 - c)  The company follows ethical guidelines when using sensitive marketing and public relations channels and practices.
 
+*Traduction FR (à relire, compilation tierce) :* 4.1.1 L'entreprise documente les principes suivants régissant ses pratiques de marketing et de communication liées aux allégations environnementales et sociales.
+a) Les allégations de l'entreprise sont précises, vérifiables et étayées par des données fiables ou scientifiques.
+b) L’entreprise communique de manière transparente, honnête et responsable sur les impacts sociaux et environnementaux de ses activités, qu’ils soient positifs ou négatifs.
+c) L’entreprise applique des principes éthiques dans son utilisation des canaux et pratiques de marketing et de communication d'une nature sensible.
+
 ### 4.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The principles are communicated to company workers and available for them to access.
+
+*Traduction FR (à relire, compilation tierce) :* 4.1.2 Les principes sont communiqués et mis à la disposition des collaborateurs et des collaboratrices de l'entreprise.
 
 ## Intent
 

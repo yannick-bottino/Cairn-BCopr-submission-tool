@@ -37,6 +37,10 @@ The company chooses and implements:
 - a) two JEDI actions before Year 0
 - b) four JEDI actions for Years 3 and 5 each.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3.1 L'entreprise choisit et met en œuvre :
+a) Deux actions en matière de JEDI avant l'année 0 ;
+b) Quatre actions en matière de JEDI pour chacune des Années 3 et 5.
+
 ### 2.3.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -47,11 +51,18 @@ The company chooses at minimum one option from each set across Years 0, 3, and 5
 - b) Within the Workplace (JEDI2.f-l)
 - c) Beyond the Workplace (JEDI2.m-s)
 
+*Traduction FR (à relire, compilation tierce) :* 2.3.2 L'entreprise choisit au moins une option de chaque ensemble suivant au cours des années 0, 3 et 5.
+a) Socle de base (JEDI2.a-e) ;
+b) Sur le lieu de travail (JEDI2.f-l) ;
+c) Au-delà du lieu de travail (JEDI2.m-s).
+
 ### 2.3.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company considers stakeholder feedback and data (from JEDI1) when choosing its actions.
+
+*Traduction FR (à relire, compilation tierce) :* 2.3.3 L'entreprise prend en compte les retours des parties prenantes ainsi que les données (de JEDI1) dans le choix de ses actions.
 
 ### 2.3.4
 
@@ -59,11 +70,15 @@ The company considers stakeholder feedback and data (from JEDI1) when choosing i
 
 The company records its actions and status updates in a plan.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3.4 L'entreprise documente ses actions et les progrès réalisés dans un plan d'action.
+
 ### 2.3.5
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The plan was updated and shared with relevant stakeholders in the last twelve months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.3.5 Le plan d'action a été mis à jour et partagé avec les parties prenantes concernées au cours des douze derniers mois.
 
 ### 2.3.6
 
@@ -75,11 +90,18 @@ The company’s plan:
 - b) allocates resources
 - c) assigns responsibilities to specific roles.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3.6 Le plan d'action de l'entreprise :
+a) Contient des échéances ;
+b) Alloue des ressources ;
+c) Attribue des responsabilités à des rôles spécifiques.
+
 ### 2.3.7
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The plan, including status updates, is available for workers to review at any time
+
+*Traduction FR (à relire, compilation tierce) :* 2.3.7 Le plan d'action, ainsi que les progrès réalisés, peuvent être consultés à tout moment par les collaborateurs et collaboratrices de l'entreprise.
 
 ## Intent
 

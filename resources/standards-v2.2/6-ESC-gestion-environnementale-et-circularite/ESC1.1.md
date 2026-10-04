@@ -60,6 +60,10 @@ The company measures and records its annual hazardous and non-hazardous waste pr
 - a) in the last fiscal year
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 L'entreprise mesure et enregistre sa production annuelle de déchets dangereux et non dangereux :
+a) Au cours de la dernière année fiscale;
+b) Chaque année pour les années suivantes.
+
 ### 1.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -76,6 +80,17 @@ The company’s non-hazardous waste is measured in tonnes and recorded as:
   - ii) landfilling
   - iii) other disposal methods.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.2 Les déchets non dangereux de l'entreprise sont mesurés en tonnes et enregistrés comme suit :
+a) La quantité totale de déchets générés ;
+b) La quantité de déchets non dangereux non destinés à l'élimination et leur part de :
+i) Déchets préparés au réemploi ;
+ii) Déchets recyclés ;
+iii) Déchets revalorisés d'une autre manière.
+c) La quantité de déchets non dangereux éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination.
+
 ### 1.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -90,6 +105,16 @@ The company’s hazardous waste is measured in tonnes and recorded as:
   - i) incineration (without energy recovery)
   - ii) landfilling
   - iii) other disposal methods.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.3 Les déchets dangereux de l'entreprise sont mesurés en tonnes et enregistrés comme suit :
+a) La quantité totale de déchets dangereux générés ;
+b) La quantité de déchets dangereux non destinés à l'élimination et leur part de :
+i) Déchets recyclés ;
+ii) Déchets revalorisés d'une autre manière.
+c) La quantité de déchets dangereux éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination.
 
 ### 1.1.4
 
@@ -108,11 +133,25 @@ If the company produces or trades food products it also measures (in tonnes):
   - ii) landfilling
   - iii) other disposal methods.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.4 Si l'entreprise produit ou commercialise des produits alimentaires, elle mesure également (en tonnes) :
+a) La quantité totale de déchets alimentaires générés ;
+b) La quantité de déchets alimentaires non destinés à l'élimination, et leur quantité :
+i) Réemployée pour la consommation humaine ou l'alimentation animale ;
+ii) Recyclée ou réemployée pour des produits dérivés ;
+iii) Utilisée pour la récupération d'énergie ;
+iv) Revalorisée d'une autre manière.
+c) La quantité de déchets alimentaires éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination
+
 ### 1.1.5
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company cannot confirm where its waste goes, it assumes the waste goes to landfill.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.5 Si l'entreprise ne peut pas confirmer la destination de ses déchets, elle suppose qu'ils sont mis en décharge.
 
 ### 1.1.6
 
@@ -122,6 +161,10 @@ Before Year 0, the company:
 
 - a) tracks and records waste generation for all of its facilities identified as material in accordance with ESC1.7
 - b) has a plan to extend the tracking and recording of waste generation to all remaining facilities.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.6 Avant l'année 0, l'Entreprise :
+a) suit et enregistre la production de déchets pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et d'enregistrement de la production de déchets à toutes les installations restantes.
 
 ### 1.1.7
 

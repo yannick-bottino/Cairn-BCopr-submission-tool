@@ -36,6 +36,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 The company monitors and tracks grievances and prepares annual summaries of the status and subject of any grievances.
 
+*Traduction FR (à relire, compilation tierce) :* 3.2.1 L'entreprise recense les réclamations, suit leur évolution et prépare un résumé annuel qui récapitule leur statut et les sujets concernés.
+
 ### 3.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -50,6 +52,10 @@ The company demonstrates the effectiveness of the grievance procedure by either:
 
 - a) recording evidence that a grievance has been resolved and closed
 - b) demonstrating that they have the appropriate grievance procedure in place (inclusive of tracking), where a company has had no grievances filed.
+
+*Traduction FR (à relire, compilation tierce) :* 3.2.3 L'entreprise démontre l'efficacité de la procédure de réclamation d'une des manières suivantes.
+a) Elle documente la résolution et la clôture de chaque réclamation.
+b) Si aucune réclamation n'a été enregistrée, l'entreprise démontre que la procédure en place est adéquate et qu'elle permet notamment le recensement et le suivi des réclamations.
 
 ## Intent
 

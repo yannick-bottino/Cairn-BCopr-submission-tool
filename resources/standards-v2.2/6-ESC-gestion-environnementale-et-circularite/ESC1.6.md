@@ -43,11 +43,18 @@ The company defines indicators to monitor animal welfare conditions. The indicat
 - b) transported
 - c) slaughtered.
 
+*Traduction FR (à relire, compilation tierce) :* 1.6.1 L'entreprise définit des indicateurs pour piloter les conditions de bien-être animal. Les indicateurs de son processus de suivi portent sur la manière dont les animaux sont :
+a) Élevés ;
+b) Transportés ;
+c) Abattus.
+
 ### 1.6.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company monitors the five freedoms of animal welfare.
+
+*Traduction FR (à relire, compilation tierce) :* 1.6.2 L'entreprise veille aux cinq libertés fondamentales du bien-être animal.
 
 ### 1.6.3
 
@@ -58,11 +65,17 @@ The company creates an annual aggregate summary of animal welfare conditions:
 - a) in the fiscal year before Year 0
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 1.6.3 L'entreprise crée un résumé annuel global des conditions de bien-être animal :
+a) Au cours de l'année fiscale précédant l'Année 0 ;
+b) Chaque année pour les années suivantes.
+
 ### 1.6.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company meets any applicable laws regarding animal welfare (both general and species-specific).
+
+*Traduction FR (à relire, compilation tierce) :* 1.6.4 L'entreprise est conforme aux exigences juridiques applicables en matière de bien-être animal (à la fois générales et spécifiques aux espèces).
 
 ## Intent
 

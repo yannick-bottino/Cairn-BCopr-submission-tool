@@ -49,6 +49,8 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 The company identifies any of its facilities in areas at physical water risk.
 
+*Traduction FR (à relire, compilation tierce) :* 1.4.1 L'entreprise identifie toutes ses infrastructures dans des zones à risque physique lié à l'eau.
+
 ### 1.4.2
 
 *Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
@@ -72,6 +74,15 @@ The company has measured and recorded its annual water consumption or withdrawal
 
 - a) in the last fiscal year
 - b) in each subsequent year.
+
+*Traduction FR (à relire, compilation tierce) :* 1.4.4 L'entreprise a mesuré et enregistré sa consommation ou son prélèvement d'eau annuel en mètres cubes (m3) dans les zones à risque physique lié à l'eau :
+a) au cours de la dernière année fiscale
+b) Chaque année pour les années suivantes.
+
+Clarification des critères de conformité :
+[1.4.1] Pour déterminer si une infrastructure se trouve dans une zone à risque hydrique, l'entreprise peut, par exemple :
+A) contacter l'autorité locale qui contrôle (ou a une vue d'ensemble) du bassin versant pour comprendre la pression qui s'y exerce, combinée à une analyse du risque lié à l'eau,
+B) utiliser l'un des outils figurant dans les ressources pour la mise en œuvre.
 
 ## Intent
 

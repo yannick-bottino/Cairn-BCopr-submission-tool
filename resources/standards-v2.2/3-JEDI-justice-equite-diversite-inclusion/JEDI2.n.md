@@ -38,6 +38,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company communicates its JEDI action plan and progress publicly, once per year at minimum.
 
+*Traduction FR (à relire, compilation tierce) :* 2.n.1 L'entreprise communique publiquement son plan d'action et ses progrès en matière de JEDI, au minimum une fois par an.
+
 ## Intent
 
 To increase internal and public accountability for JEDI actions.

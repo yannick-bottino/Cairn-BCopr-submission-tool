@@ -9,7 +9,7 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
 
 ## Garde-fous
 
-- Seule source des codes : `${CLAUDE_PLUGIN_ROOT}/shared/referentiel/bcorp_v2.2_requirements.csv`. Le script refuse tout code absent. Ne jamais écrire un code à la main dans l'Excel.
+- Seule source des codes : `${CLAUDE_PLUGIN_ROOT}/resources/standards-v2.2/bcorp_v2.2_requirements.csv`. Le script refuse tout code absent. Ne jamais écrire un code à la main dans l'Excel.
 - Ne jamais écrire dans un dossier client OneDrive : générer dans le dossier de travail, puis laisser l'utilisatrice déposer le fichier.
 - Le script n'écrase jamais un fichier existant. Pour une nouvelle version, changer le nom (convention `file-naming-standard`).
 - Avant de modifier un livrable existant, lire les décisions actives du projet (`project-memory`, `read_active_decisions`).
@@ -39,12 +39,16 @@ Règle de conception : Claude propose, le script applique, l'Excel garde la trac
 - Colonnes jamais publiées sur la plateforme : Diagnostic, Actions, Priorités, Responsable, Équipe projet, Commentaires, colonnes Anchor et co-prestataire. Seul le commentaire auditeur est publiable, après validation.
 - `Plateforme : statut` reprend les statuts réels du site : Non démarré, En cours, Terminé : Preuve Prêt.
 
+## Lire le standard
+
+Pour toute ligne, lire `${CLAUDE_PLUGIN_ROOT}/resources/standards-v2.2/_index.md` puis le fichier `<code plateforme>.md` (critères, intention, clarifications, applicabilité). Ne jamais diagnostiquer de mémoire.
+
 ## Rédaction des cellules
 
 Pour toute proposition de diagnostic, d'actions, de preuves attendues ou de commentaire auditeur, appliquer `${CLAUDE_PLUGIN_ROOT}/shared/style/voix-julie.md`. Écrire en français. Toujours séparer preuve et intention. Par défaut, une ligne est « à confirmer », jamais « couverte » sans document cité.
 
 ## Limites connues (v0.1)
 
-- Les textes des critères de conformité ne sont pas encore extraits : la colonne affiche l'identifiant et la page du PDF V2.2.
+- Textes des critères : traduction FR (compilation tierce, à relire) pour 174 critères sur 594 ; les autres affichent le texte officiel EN préfixé `[EN]`. Le texte de référence de chaque sous-exigence est dans `${CLAUDE_PLUGIN_ROOT}/resources/standards-v2.2/<Impact Area>/<code>.md`.
 - 61 sous-exigences n'ont pas d'intitulé FR : la colonne affiche l'intitulé EN préfixé `[EN]`.
 - Le remplissage assisté des colonnes rédactionnelles (`fill_gap.py`) n'est pas encore construit.

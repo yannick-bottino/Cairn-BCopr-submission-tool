@@ -52,17 +52,23 @@ Impact Area : Human Rights (Droits humains). Pages PDF 614-620. Échéance : Yea
 
 The company has a process to collect, prioritize, and escalate information on actual and potential negative human rights impacts.
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.1 L'entreprise dispose d'un processus pour collecter, hiérarchiser et faire remonter les informations concernant ses impacts négatifs réels et potentiels sur les droits humains.
+
 ### 3.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company has clear roles and responsibilities related to this process.
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.2 L'entreprise définit clairement les rôles et les responsabilités associés à ce processus.
+
 ### 3.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 In the process, impacts are prioritized and escalated based on their severity and likelihood.
+
+*Traduction FR (à relire, compilation tierce) :* 3.1.3 Au cours du processus, les impacts sont classés par ordre de priorité et remontés en fonction de leur gravité et de leur probabilité.
 
 ### 3.1.4
 
@@ -72,6 +78,10 @@ The process also sets out:
 
 - a) when and how to seek additional information about an actual or potential negative impact, and how to involve stakeholders, including affected stakeholders
 - b) what kinds of internal changes at the company will prompt it to proactively assess potential negative impacts.
+
+*Traduction FR (à relire, compilation tierce) :* 3.1.4 Le processus définit également :
+a) quand et comment rechercher des informations supplémentaires sur un impact négatif réel ou potentiel, et comment impliquer les parties prenantes, y compris les parties prenantes concernées ;
+b) quels types de changements internes à l'entreprise l'amèneront à évaluer de manière proactive les impacts négatifs potentiels.
 
 ## Intent
 

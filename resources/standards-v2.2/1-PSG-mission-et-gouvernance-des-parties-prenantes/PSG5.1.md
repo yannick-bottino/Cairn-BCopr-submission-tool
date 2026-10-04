@@ -27,7 +27,7 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ## Requirement
 
-**PSG5** : The company’s social and environmental impact and stakeholder considerations are monitored by the highest governing body and
+**PSG5** : The company’s social and environmental impact and stakeholder considerations are monitored by the highest governing body and integrated throughout the company.
 
 **PSG5.1** : The highest governing body monitors the company's purpose, social and environmental impact, and stakeholder considerations.
 
@@ -42,6 +42,11 @@ At least once every 12 months, the highest governing body reviews the company’
 - a) progress on advancing its public purpose as defined under PSG1.1
 - b) social and environmental performance
 - c) stakeholder governance implementation.
+
+*Traduction FR (à relire, compilation tierce) :* 5.1.1. Au moins une fois tous les 12 mois  la plus haute instance de direction examine :
+a) Les progrès accomplis dans le déploiement de la raison d'être de l'entreprise, telle que définie dans la sous-exigence MGPP1.1 ;
+b) Les performances sociales et environnementales de l'entreprise ;
+c) Le déploiement de la gouvernance des parties prenantes.
 
 ## Intent
 

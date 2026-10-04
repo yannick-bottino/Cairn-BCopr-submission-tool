@@ -24,7 +24,7 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 ## Requirement
 
-**PSG5** : The company’s social and environmental impact and stakeholder considerations are monitored by the highest governing body and
+**PSG5** : The company’s social and environmental impact and stakeholder considerations are monitored by the highest governing body and integrated throughout the company.
 
 **PSG5.4** : If the company has an existing incentive remuneration scheme for the executive team, it integrates social and environmental performance targets.
 

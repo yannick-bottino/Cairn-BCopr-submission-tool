@@ -44,11 +44,21 @@ The company provides employees at least three of the following types of paid lea
 - e) Parental leave (at least 18 weeks)
 - f) Adoption leave
 
+*Traduction FR (à relire, compilation tierce) :* 2.k.1 L'entreprise offre au moins trois des types de congés payés suivants :
+a) Le congé maladie de courte durée illimité ;
+b) Le congé d'affirmation de genre ;
+c) Le congé personnel ;
+d) Le congé religieux ou culturel choisi par les collaborateurs et collaboratrices individuellement ;
+e) Le congé parental (au moins 18 semaines) ;
+f) Le congé d'adoption.
+
 ### 2.k.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 All leave types are fully paid.
+
+*Traduction FR (à relire, compilation tierce) :* 2.k.2 Tous les types de congés sont entièrement rémunérés.
 
 ### 2.k.3
 
@@ -56,11 +66,15 @@ All leave types are fully paid.
 
 All employees are entitled to the additional types of leave.
 
+*Traduction FR (à relire, compilation tierce) :* 2.k.3 L'ensemble des personnes salariées ont droit aux différents types de congés supplémentaires.
+
 ### 2.k.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company uses employee feedback to determine the number of days for each leave type.
+
+*Traduction FR (à relire, compilation tierce) :* 2.k.4 L'entreprise s'appuie sur les retours des personnes salariées pour déterminer le nombre de jours alloués à chaque type de congé.
 
 ### 2.k.5
 
@@ -70,6 +84,11 @@ The company records the chosen types of leave in a policy document or documents 
 
 - a) shared with all employees
 - b) available to read at all times.
+
+*Traduction FR (à relire, compilation tierce) :* 2.k.5
+L'entreprise inscrit les différents types de congés qu'elle propose dans une politique écrite ou un autre document officiel qui soit :
+a) Partagé avec l'ensemble des personnes salariées ;
+b) Disponible pour consultation à tout moment.
 
 ## Intent
 

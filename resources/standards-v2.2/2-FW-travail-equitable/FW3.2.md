@@ -38,17 +38,23 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 381-385. Échéance : Ye
 
 The company seeks, considers, and addresses worker feedback on decisions that affect them.
 
+*Traduction FR (à relire, compilation tierce) :* 3.2.1 L'entreprise sollicite, prend en compte et réagit aux retours des salariés sur les décisions qui les concernent.
+
 ### 3.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company seeks feedback from the workers affected by a decision, or their representative.
 
+*Traduction FR (à relire, compilation tierce) :* 3.2.2 L'entreprise sollicite des retours de la part des collaborateurs concernés par une décision, ou de leurs représentants.
+
 ### 3.2.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company communicates its decision and how it considered feedback back to the relevant workers, or their representative.
+
+*Traduction FR (à relire, compilation tierce) :* 3.2.3 l'entreprise communique sa décision et la manière dont elle a pris en compte ces retours aux collaborateurs concernés ou à leurs représentants.
 
 ## Intent
 

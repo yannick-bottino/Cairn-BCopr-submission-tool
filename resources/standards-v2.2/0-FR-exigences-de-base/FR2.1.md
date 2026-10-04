@@ -38,6 +38,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 44-48. Éch
 
 The company adopts an entity type or an amendment to its governing documents to require stakeholder governance (meaning it considers stakeholders in its decision-making). The company adopts stakeholder governance in accordance with the B Corp legal requirement, and as applicable to its legal form and jurisdiction.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.1 L'entreprise adopte un type d'entité ou une modification de ses documents constitutifs exigeant la gouvernance des parties prenantes, c'est-à-dire la prise en compte des parties prenantes dans les processus décisionnels. L'entreprise instaure la gouvernance des parties prenantes conformément aux exigences juridiques B Corp, en accord avec sa forme juridique et sa juridiction
+
 ### 2.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -48,11 +50,18 @@ If the company cannot adopt a stakeholder governance legal form because of local
 - b) advocating for benefit corporation legislation in its jurisdiction
 - c) amending its formation documents or adopting a new legal form if one is enacted through local lawmaking.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.2 Si l'entreprise ne peut pas adopter une forme juridique permettant la gouvernance des parties prenantes en raison des législations locales, elle signe l'accord B Corp et s'engage à :
+a) travailler avec B Lab pour déterminer la voie juridique appropriée
+b) plaider pour l'adoption d'une législation sur les entreprises à mission dans la juridiction de l'entreprise
+c) modifier ses documents constitutifs ou adopter une nouvelle forme juridique si l'évolution de la législation locale le permet.
+
 ### 2.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
+
+*Traduction FR (à relire, compilation tierce) :* 2.1.3 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.
 
 ## Intent
 

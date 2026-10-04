@@ -7,7 +7,7 @@ requirement_code: "PSG6"
 type: "sous_exigence"
 year: 3
 criteria: ["6.3.1", "6.3.2", "6.3.3", "6.3.4"]
-pages: "282-287"
+pages: "282-286"
 applicabilite:
   - {taille: "XX Large", secteur: "All", industrie: "All"}
   - {taille: "X Large", secteur: "All", industrie: "All"}
@@ -20,7 +20,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 *Intitulé FR (traduction à relire) : L'entreprise évalue la capacité des collaborateurs et collaboratrices à mettre en œuvre sa stratégie sociale et environnementale*
 
-Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parties prenantes). Pages PDF 282-287. Échéance : Year 3.
+Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parties prenantes). Pages PDF 282-286. Échéance : Year 3.
 
 ## Requirement
 

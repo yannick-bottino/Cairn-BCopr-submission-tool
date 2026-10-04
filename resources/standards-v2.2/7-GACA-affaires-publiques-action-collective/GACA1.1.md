@@ -40,6 +40,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 If the company is not engaged in lobbying, then it meets this sub-requirement by declaring this publicly.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 Si l'entreprise ne poursuit pas d'activités de lobbying, elle satisfait à cette sous-exigence en le déclarant publiquement.
+
 ### 1.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -53,6 +55,14 @@ The company’s lobbying policy states its approach to responsible lobbying, inc
 - e) its approach to responsible lobbying with intermediary organizations, including controls that ensure consistency with the lobbying policy
 - f) which governance body within the company will formally review and approve the policy, and how frequently.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.2 La politique de lobbying de l'entreprise décrit son approche en matière de lobbying responsable et inclut :
+a) Une déclaration dans laquelle l'entreprise s'engage à mener exclusivement des activités de lobbying visant à générer un impact positif sur la société ou l'environnement.
+b) Une déclaration selon laquelle son approche en matière de lobbying repose sur des données fiables ou scientifiques (ou les deux).
+c) Sa politique en matière de contributions politiques financières et en nature.
+d) Sa politique en matière de lutte contre la corruption et les pots-de-vin.
+e) Son approche en matière de lobbying responsable auprès des organisations intermédiaires, y compris les contrôles qui garantissent sa cohérence avec la politique de lobbying de l'entreprise.
+f) L'instance de direction de l'entreprise qui examinera et approuvera formellement la politique, et à quelle fréquence."
+
 ### 1.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -65,6 +75,13 @@ The company’s lobbying policy states its governance, control, and risk managem
 - d) how the company evaluates compliance with the governance and control framework
 - e) how stakeholders can raise concerns about the company’s business conduct and lobbying practices, including reference to the company’s grievance procedure [link to PSG3].
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.3 La politique de lobbying de l'entreprise décrit ses pratiques de gouvernance, de contrôle et de gestion des risques, notamment :
+a) L'instance de direction ou le poste de direction au sein de l'entreprise qui est responsable de l'application de la politique.
+b) La manière dont la politique est intégrée dans l'entreprise, y compris la manière dont l'entreprise la met en pratique.
+c) La manière dont l'entreprise identifie, gère et surveille les risques de non-conformité.
+d) La manière dont l'entreprise évalue le respect du cadre de gouvernance et de contrôle.
+e) La manière dont les parties prenantes peuvent faire part de leurs préoccupations concernant la conduite des affaires et les pratiques de lobbying de l'entreprise, incluant une référence à la procédure de réclamation de l'entreprise [lien vers MGPP3]."
+
 ### 1.1.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -73,6 +90,10 @@ The company’s lobbying policy is:
 
 - a) approved by the highest governing body
 - b) published on the company’s webpage and accessible to all stakeholders.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.4 La politique de l'entreprise en matière de lobbying est :
+a) Approuvée par la plus haute instance de direction.
+b) Publiée sur le site internet de l'entreprise et accessible à toutes les parties prenantes.
 
 ## Intent
 

@@ -38,6 +38,13 @@ The company takes part in collective action from the five options in this Impact
 - d) GACA2.1d The company promotes public policy to advance social or environmental impacts.
 - e) GACA2.1e The company uses thought leadership to drive systemic change towards an equitable, inclusive, and regenerative economy.
 
+*Traduction FR (à relire, compilation tierce) :* 2.2.1 L'entreprise prend part à des actions collectives parmi les cinq options de cette thématique d'impact.
+a) APAC2.1a Mentorat : L'entreprise conseille d'autres acteurs de son secteur, de sa profession ou de sa chaîne de valeur pour renforcer leurs impacts sociaux ou environnementaux.
+b) APAC2.1b L'entreprise contribue à la recherche externe pour faire progresser les impacts sociaux ou environnementaux.
+c) APAC2.1c L'entreprise travaille avec diverses parties prenantes pour faire progresser les impacts sociaux ou environnementaux.
+d) APAC2.1d L'entreprise promeut une politique publique visant à faire progresser les impacts sociaux ou environnementaux.
+e) APAC2.1e L'entreprise pratique le leadership d'opinion pour susciter un changement systémique vers une économie plus équitable, inclusive et régénératrice.
+
 ### 2.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*

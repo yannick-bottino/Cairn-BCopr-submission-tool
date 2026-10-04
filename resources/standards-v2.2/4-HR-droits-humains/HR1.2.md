@@ -66,17 +66,30 @@ The policy includes commitments to:
   - ii) International Bill of Rights or the rights under the Universal Declaration of Human Rights;
   - iii) International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work.
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.2 La politique comprend des engagements pour :
+a) respecter les droits humains ;
+b) évaluer l'impact négatif potentiel de l'entreprise sur les droits humains (ou les risques associés aux droits humains) ;
+c) remédier aux impacts négatifs que l'entreprise a causés ou auxquels elle a contribué ;
+d) chacun des éléments suivants :
+i) les Principes directeurs des Nations unies relatifs aux entreprises et aux droits humains ;
+ii) la Charte internationale des droits de l'homme ou les droits énoncés dans la Déclaration universelle des droits de l'homme ;
+iii) la Déclaration de l'Organisation internationale du travail (OIT) relative aux principes et droits fondamentaux au travail.
+
 ### 1.2.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy is approved by the highest governing body.
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.3 La politique est approuvée par la plus haute instance de direction.
+
 ### 1.2.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy’s scope covers all individuals and communities affected by the company’s own operations and its value chain.
+
+*Traduction FR (à relire, compilation tierce) :* 1.2.4 Le périmètre de la politique couvre toutes les personnes et communautés affectées par les activités de l'entreprise et sa chaîne de valeur.
 
 ## Intent
 

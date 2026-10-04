@@ -35,6 +35,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 The external research aims to create a positive impact on society or the environment.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3b.1 La recherche externe vise à créer un impact positif sur la société ou l'environnement.
+
 ### 2.3b.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -45,11 +47,18 @@ The company contributes to research through:
 - b) in-kind contributions
 - c) data sharing.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3b.2 L'entreprise contribue à la recherche par :
+a) Des contributions financières.
+b) Des contributions en nature.
+c) Le partage de données.
+
 ### 2.3b.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company follows up on the output of the research within twelve months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.3b.3 L'entreprise assure le suivi des résultats de la recherche dans un délai de douze mois.
 
 ## Intent
 

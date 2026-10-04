@@ -42,6 +42,10 @@ The company has considered the actual and potential environmental impacts for th
 - a) in the last fiscal year or last twelve months before Year 0
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 5.2.1 L'entreprise a pris en compte les impacts environnementaux réels et potentiels de ses cinq décisions d'achat les plus matérielles :
+a) au cours du dernier exercice fiscal ou des douze derniers mois précédant l'Année 0 ;
+b) chaque année suivante.
+
 ## Intent
 
 To ensure the company makes better procurement decisions in relation to environmental impacts.

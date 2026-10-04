@@ -43,6 +43,11 @@ The company tells workers about:
 - b) all benefits they are entitled to
 - c) the mechanisms it uses for setting and reviewing wages and benefits.
 
+*Traduction FR (à relire, compilation tierce) :* 2.2.1 L'entreprise informe les collaborateurs :
+a) de toutes les composantes de la rémunération les concernant,
+b) de tous les avantages auxquels ils ont droit,
+c) des mécanismes de fixation et de révision des salaires et des avantages.
+
 ### 2.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -53,11 +58,18 @@ All employees regularly receive payslips or equivalent containing clear informat
 - b) extra wage components
 - c) deductions.
 
+*Traduction FR (à relire, compilation tierce) :* 2.2.2 Les collaborateurs et collaboratrices reçoivent régulièrement une fiche de paie (ou document équivalent) contenant des informations claires sur, au minimum :
+a) leur salaire de base,
+b) les autres composantes de leur rémunération,
+c) les déductions.
+
 ### 2.2.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Payslips are written in a language the employee understands.
+
+*Traduction FR (à relire, compilation tierce) :* 2.2.3 Les fiches de paie sont rédigées dans une langue que l'employé comprend.
 
 ## Intent
 

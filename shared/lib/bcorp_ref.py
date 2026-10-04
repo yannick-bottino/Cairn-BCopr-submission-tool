@@ -1,6 +1,7 @@
 """Référentiel B Lab Standards V2.2 : lecture du CSV, codes FR <-> EN, applicabilité.
 
-Seule source des codes d'exigence : shared/referentiel/bcorp_v2.2_requirements.csv.
+Seule source des codes d'exigence : resources/standards-v2.2/bcorp_v2.2_requirements.csv,
+extrait du PDF officiel (resources/standards-v2.2/_source/).
 Tout code absent de ce fichier est refusé (UnknownCode).
 """
 from __future__ import annotations
@@ -11,9 +12,17 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-REF_DIR = Path(__file__).resolve().parents[1] / "referentiel"
-CSV_PATH = REF_DIR / "bcorp_v2.2_requirements.csv"
+ROOT = Path(__file__).resolve().parents[2]
+REF_DIR = ROOT / "shared" / "referentiel"
+STD_DIR = ROOT / "resources" / "standards-v2.2"
+CSV_PATH = STD_DIR / "bcorp_v2.2_requirements.csv"
+CRITERIA_EN_PATH = STD_DIR / "criteres_en.csv"
+CRITERIA_FR_PATH = STD_DIR / "criteres_fr.csv"
 AREAS_PATH = REF_DIR / "impact_areas.json"
+
+# Coquilles d'ids de critères imprimées dans le PDF (et reprises par le CSV) : (code, id imprimé) -> id corrigé
+ID_FIXES = {("FW1.1", "1.2.3"): "1.1.3"}
+DEADLINE_YEAR = {"Before Year 0": 0, "Year 0": 0, "Year 3": 3, "Year 5": 5}
 
 SIZES = ["Company without workers", "Micro", "Small", "Medium", "Large", "X Large", "XX Large"]
 SECTORS = [
@@ -41,6 +50,18 @@ class ImpactArea:
     colors: tuple[str, ...]
 
 
+@dataclass(frozen=True)
+class Criterion:
+    id: str
+    text_en: str
+    text_fr: str
+    deadline: str      # Before Year 0 | Year 0 | Year 3 | Year 5
+
+    @property
+    def year(self) -> int:
+        return DEADLINE_YEAR[self.deadline]
+
+
 @dataclass
 class Requirement:
     code: str                 # code plateforme, ex. PSG1.1
@@ -56,6 +77,11 @@ class Requirement:
     page_pdf: str
     tracks: list[tuple[str, str, str]] = field(repr=False)  # (taille, secteur, industrie)
     evidence_examples: str = ""
+    criteria: list[Criterion] = field(default_factory=list, repr=False)
+
+    def criteria_until(self, horizon: int) -> list[Criterion]:
+        """Critères dont l'échéance propre tombe dans l'horizon retenu."""
+        return [c for c in self.criteria if c.year <= horizon]
 
     @property
     def req_ids(self) -> list[str]:
@@ -83,6 +109,9 @@ class Referentiel:
     @classmethod
     def load(cls, csv_path: Path = CSV_PATH, areas_path: Path = AREAS_PATH) -> "Referentiel":
         meta = json.loads(Path(areas_path).read_text(encoding="utf-8"))
+        texts_en = _read_criteria(CRITERIA_EN_PATH, "texte_en")
+        deadlines = _read_criteria(CRITERIA_EN_PATH, "echeance_critere")
+        texts_fr = _read_criteria(CRITERIA_FR_PATH, "texte_fr")
         areas = {
             k: ImpactArea(k, v["prefix_excel"], v["name_fr"], v["name_en"], tuple(v["colors"]))
             for k, v in meta["areas"].items()
@@ -92,7 +121,12 @@ class Referentiel:
             for x in csv.DictReader(f):
                 ia = areas[x["impact_topic_code"]]
                 tracks = [tuple(t.split(" | ")) for t in x["track_factors_brut"].split(" || ") if t]
-                ids = [c.strip() for c in x["criteres_conformite_ids"].split(",") if c.strip()]
+                ids = [ID_FIXES.get((x["code"], c.strip()), c.strip())
+                       for c in x["criteres_conformite_ids"].split(",") if c.strip()]
+                ids = list(dict.fromkeys(ids))
+                year = int(x["echeance"].replace("Year", ""))
+                criteria = [Criterion(i, texts_en.get((x["code"], i), ""), texts_fr.get((x["code"], i), ""),
+                                      deadlines.get((x["code"], i)) or f"Year {year}") for i in ids]
                 rows.append(Requirement(
                     code=x["code"],
                     code_excel=_excel_code(ia.prefix_excel, x["code"][len(ia.code):]),
@@ -102,11 +136,12 @@ class Referentiel:
                     type_ligne=x["type_ligne"],
                     title_en=x["intitule_en"],
                     title_fr=x["intitule_fr"],
-                    year=int(x["echeance"].replace("Year", "")),
-                    criteria_ids=list(dict.fromkeys(ids)),
+                    year=year,
+                    criteria_ids=ids,
                     page_pdf=x["page_pdf"],
                     tracks=tracks,
                     evidence_examples=x["preuves_exemples_kb"],
+                    criteria=criteria,
                 ))
         return cls(rows, areas, meta["order"])
 
@@ -142,6 +177,13 @@ class Referentiel:
         if horizon not in HORIZONS:
             raise ValueError(f"Horizon inconnu : {horizon!r} (attendu : {HORIZONS})")
         return [r for r in self.rows if r.year <= horizon and r.applies_to(size, sector)]
+
+
+def _read_criteria(path: Path, column: str) -> dict[tuple[str, str], str]:
+    if not Path(path).exists():
+        return {}
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        return {(x["code"], x["critere_id"]): x[column] for x in csv.DictReader(f)}
 
 
 def _excel_code(prefix_excel: str, rest: str) -> str:

@@ -39,6 +39,21 @@ The company’s mentoring has:
 - b) a clear positive outcome that the mentee confirms
 - c) a systematic approach targeting a specific group of mentees.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3a.1 Le mentorat de l'entreprise présente :
+a) Un objectif clair visant à renforcer l'impact social ou environnemental du bénéficiaire du mentorat.
+b) Un résultat positif manifeste et confirmé par le bénéficiaire du mentorat.
+c) Une approche systématique du mentorat ciblant un groupe spécifique.
+
+Clarification des critères de conformité :
+[2.3a.1] Le bénéficiaire du mentorat est une partie prenante extérieure à l'entreprise qui entretient un lien direct avec le secteur, la profession ou la chaîne de valeur de l'entreprise.
+[2.3a.1] Le mentorat de l'entreprise répond aux besoins de son bénéficiaire.
+[2.3a.1] L'entreprise ne reçoit pas de compensation financière pour son mentorat.
+[2.3a.1.a] Afin de déterminer si son mentorat contribue à un impact positif sur la société ou l'environnement, l'entreprise pourra consulter :
+a) les résultats visés par les thématiques d'impacts des standards de B Lab,
+b) les objectifs de développement durable des Nations unies ou d'autres référentiels similaires.
+
+[2.3a.1.c] Par une "approche systématique" du mentorat, on désigne un programme structuré comprenant un calendrier, des objectifs et des livrables définis.
+
 ## Intent
 
 None

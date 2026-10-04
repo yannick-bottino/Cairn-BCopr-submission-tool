@@ -42,6 +42,12 @@ The company develops a responsible marketing and public relations policy. The po
 - c) outlines requirements for anyone preparing marketing and public relations activities for the company
 - d) is approved by the executive team or highest governing body.
 
+*Traduction FR (à relire, compilation tierce) :* 4.2.1 L'entreprise établit une politique de marketing et de communication responsables. Cette politique :
+a) décrit le champ d'application de cette politique ;
+b) s'applique à tous les publics ;
+c) définit les exigences pour toute personne impliquée dans la préparation des activités de marketing et de communication ;
+d) est approuvé par l'équipe de direction ou la plus haute instance de direction.
+
 ### 4.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -55,17 +61,29 @@ The requirements in the policy include the following criteria for the company’
 - e) Ethical guidelines govern the company's use of sensitive marketing and public relations’ channels and practices.
 - f) Language is understandable and clear, matches the general knowledge level of consumers, and available in prevalent languages or forms relevant to stakeholders where the company operates.
 
+*Traduction FR (à relire, compilation tierce) :* 4.2.2 Concernant les allégations environnementales et sociales, la politique comprend les exigences suivantes au minimum.
+a) Les allégations sont précises, vérifiables et étayées par des données fiables ou scientifiques.
+b) Les allégations sont proportionnelles aux actions de l'entreprise.
+c) Les allégations reflètent avec précision leur champ d'application et sont pertinentes par rapport à l'impact de l'entreprise.
+d) La communication est factuelle, transparente et responsable en ce qui concerne les impacts sociaux et environnementaux des activités de l'entreprise, qu'ils soient positifs ou négatifs.
+e) L'entreprise dispose de principes éthiques régissant son utilisation des canaux et pratiques de marketing et de communication d'une nature sensible.
+f) Les allégations sont formulées de manière claire et compréhensible, adaptées au niveau de connaissances générales des consommateurs, et disponibles dans les principales langues ou sous les formes les plus appropriées pour les parties prenantes des localités où l'entreprise exerce ses activités."y.
+
 ### 4.2.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company assigns accountability at the level of the executive team or highest governing body for ensuring all marketing and public relations practices comply with the responsible marketing and public relations policy.
 
+*Traduction FR (à relire, compilation tierce) :* 4.2.3. L'entreprise confie à l'équipe de direction ou à la plus haute instance de direction la responsabilité de veiller à ce que toutes ses pratiques de marketing et de communication soient conformes à sa politique de marketing et de communication responsables.
+
 ### 4.2.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The policy is communicated to company workers and available for them to access.
+
+*Traduction FR (à relire, compilation tierce) :* 4.2.4 La politique est communiquée aux collaborateurs et collaboratrices de l'entreprise et mise à leur disposition.
 
 ## Intent
 

@@ -38,6 +38,8 @@ Impact Area : Fair Work (Travail équitable). Pages PDF 386-392. Échéance : Ye
 
 The measurement focuses on outcomes for workers.
 
+*Traduction FR (à relire, compilation tierce) :* 4.1.1 L'évaluation se concentre sur l'impact généré pour les collaborateurs et collaboratrices.
+
 ### 4.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -51,11 +53,21 @@ The measurement includes at least two of the following themes.
 - e) Being engaged
 - f) Psychological safety
 
+*Traduction FR (à relire, compilation tierce) :* 4.1.2 L'enquête comprend au moins deux des thèmes suivants :
+a) Satisfaction
+b) Bien-être
+c) Sentiment d'appartenance
+d) Se sentir engagé
+e) Être engagé
+f) Sécurité psychologique
+
 ### 4.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company states in its communications about the measurement that participation is optional.
+
+*Traduction FR (à relire, compilation tierce) :* 4.1.3 La communication relative à l'enquête précise que la participation est facultative.
 
 ### 4.1.4
 
@@ -66,11 +78,17 @@ The company completes the measurement:
 - a) in the twelve months before Year 0
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 4.1.4 L'entreprise réalise l'enquête :
+a) Dans les douze mois précédant l'Année 0
+b) Au cours de chaque année suivante.
+
 ### 4.1.5
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The measurement is done annually.
+
+*Traduction FR (à relire, compilation tierce) :* 4.1.5 L'enquête est réalisée annuellement.
 
 ### 4.1.6
 
@@ -80,6 +98,10 @@ If the company has 50 workers or more (based on headcount) then:
 
 - a) The measurement is both qualitative and quantitative.
 - b) The measurement is anonymous by default. Where anonymity cannot be ensured, the company informs workers.
+
+*Traduction FR (à relire, compilation tierce) :* 4.1.6 Si l'entreprise compte 50 collaborateurs ou plus (en prenant en compte l'effectif total), alors :
+a) L'enquête est à la fois qualitative et quantitative,
+b) L'enquête est anonyme par défaut. Si l'anonymat ne peut pas être garanti, l'entreprise en informe les collaborateurs et collaboratrices.
 
 ## Intent
 

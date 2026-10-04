@@ -40,6 +40,11 @@ The company commits publicly to respect human rights and to each of the followin
 - b) The International Bill of Rights or the rights under the Universal Declaration of Human Rights
 - c) The International Labour Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 L'entreprise s'engage publiquement à respecter les droits humains et chacun des éléments suivants :
+a) les Principes directeurs des Nations unies relatifs aux entreprises et aux droits humains ;
+b) la Charte internationale des droits de l'homme ou les droits énoncés dans la Déclaration universelle des droits de l'homme ;
+c) la déclaration de l'Organisation internationale du travail (OIT) relative aux principes et droits fondamentaux au travail.
+
 ## Intent
 
 For the company to publicly commit to respecting human rights, which is an important building block of the UN Guiding Principles on Business and Human Rights.

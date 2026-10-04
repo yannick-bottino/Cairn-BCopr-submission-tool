@@ -38,11 +38,15 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 32-35. Éch
 
 The company complies with all applicable local and national laws and regulations.
 
+*Traduction FR (à relire, compilation tierce) :* 1.3.1 L'entreprise respecte toutes les législations applicables à l'échelle locale et nationale.
+
 ### 1.3.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
+
+*Traduction FR (à relire, compilation tierce) :* 1.3.2 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.
 
 ## Intent
 

@@ -38,6 +38,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company carries out training or a workshop on JEDI-related topics. At minimum, the training or workshop amounts to one full day per participant within a one-year period.
 
+*Traduction FR (à relire, compilation tierce) :* 2.b.1 L'entreprise organise une formation ou un atelier sur des thématiques liées à la JEDI. La formation ou l'atelier représente au minimum une journée complète par participant ou participante sur une période d'un an.
+
 ### 2.b.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -49,6 +51,20 @@ The company improves the JEDI knowledge or capacity of at least two of the follo
 - c) Human resources
 - d) Training & development
 - e) Managers
+
+*Traduction FR (à relire, compilation tierce) :* 2.b.2 L'entreprise renforce les connaissances ou les capacités en matière de JEDI d'au moins deux des groupes suivants.
+a) La plus haute instance de direction ;
+b) L'équipe de direction ;
+c) Les ressources humaines ;
+d) La formation et le développement professionnel ;
+e) Les managers.
+
+Clarification des critères de conformité :
+[2.b.1] La formation et les ateliers peuvent être menés par des intervenants internes ou externes.
+[2.b.2] L'entreprise "renforce les connaissances" en tenant des formations ou des ateliers.
+[2.b.2] L'entreprise "renforce les capacités" en recrutant des personnes compétentes en matière de JEDI.
+[2.b.1] L'animation de discussions sur les principes de la JEDI dans le cadre de JEDI1.1 n'est pas prise en compte dans cette sous-exigence.
+[2.b.1] L'entreprise n'est pas tenue d'utiliser le terme JEDI.
 
 ## Intent
 

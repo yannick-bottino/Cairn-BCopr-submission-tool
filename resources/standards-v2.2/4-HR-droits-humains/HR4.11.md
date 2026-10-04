@@ -7,7 +7,7 @@ requirement_code: "HR4"
 type: "sous_exigence"
 year: 3
 criteria: ["4.11.1", "4.11.2", "4.11.3", "4.11.4", "4.11.5", "4.11.6"]
-pages: "735-748"
+pages: "735-747"
 applicabilite:
   - {taille: "XX Large", secteur: "Wholesale/Retail", industrie: "All"}
   - {taille: "XX Large", secteur: "Service with Significant Environmental Footprint", industrie: "All"}
@@ -33,7 +33,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 *Intitulé FR (traduction à relire) : L'entreprise dispose d'un plan pour aborder le salaire de subsistance, revenu de subsistance ou négociation collective*
 
-Impact Area : Human Rights (Droits humains). Pages PDF 735-748. Échéance : Year 3.
+Impact Area : Human Rights (Droits humains). Pages PDF 735-747. Échéance : Year 3.
 
 ## Requirement
 

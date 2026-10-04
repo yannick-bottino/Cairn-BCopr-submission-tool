@@ -7,7 +7,7 @@ requirement_code: "CA3"
 type: "sous_exigence"
 year: 5
 criteria: ["3.7.1"]
-pages: "849-854"
+pages: "849-853"
 applicabilite:
   - {taille: "XX Large", secteur: "Wholesale/Retail", industrie: "All"}
   - {taille: "XX Large", secteur: "Service with Significant Environmental Footprint", industrie: "All"}
@@ -32,7 +32,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 *Intitulé FR (traduction à relire) : L'entreprise publie chaque année l'état d'avancement de son plan de transition climatique*
 
-Impact Area : Climate Action (Action climatique). Pages PDF 849-854. Échéance : Year 5.
+Impact Area : Climate Action (Action climatique). Pages PDF 849-853. Échéance : Year 5.
 
 ## Requirement
 

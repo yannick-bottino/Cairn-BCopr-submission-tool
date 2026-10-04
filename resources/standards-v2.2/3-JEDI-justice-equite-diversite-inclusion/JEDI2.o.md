@@ -42,6 +42,11 @@ The company implements all of the following actions.
 - b) It establishes a policy to give preferences to local suppliers owned by persons from underrepresented groups.
 - c) It sets targets to purchase a percentage of goods and services from local suppliers owned by persons from underrepresented groups.
 
+*Traduction FR (à relire, compilation tierce) :* 2.o.1 L'entreprise met en œuvre l'ensemble des actions suivantes.
+a) Elle recense et suit l'évolution de la diversité parmi les propriétaires des entreprises qui lui fournissent des biens et des services au niveau local.
+b) Elle établit une politique d'achat qui privilégie les entreprises locales détenues par des personnes issues de groupes sous-représentés.
+c) Elle se fixe pour objectif d'effectuer un pourcentage donné d'achats auprès d'entreprises locales détenues par des personnes issues de groupes sous-représentés.
+
 ## Intent
 
 To improve opportunities for underrepresented groups in the company’s supply chain.

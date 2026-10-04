@@ -6,7 +6,7 @@ Usage : python3 tools/build_standard_md.py [--pdf <Body-of-Knowledge.pdf>] [--ou
 
 Sorties (dans --out) :
 - <n>-<CODE>-<slug FR>/<code plateforme>.md : un fichier par bloc de
-  shared/referentiel/bcorp_v2.2_requirements.csv (frontmatter YAML + texte EN verbatim) ;
+  resources/standards-v2.2/bcorp_v2.2_requirements.csv (frontmatter YAML + texte EN verbatim) ;
 - <n>-<CODE>-<slug FR>/_index.md et _index.md racine ;
 - criteres_en.csv : un critère de conformité par ligne (code, critere_id, texte_en, page, echeance_critere).
 
@@ -36,7 +36,7 @@ from bcorp_ref import SECTORS, Referentiel  # noqa: E402
 DEFAULT_PDF = ROOT / "resources" / "standards-v2.2" / "_source" / \
     "B-Lab-Standards-V2.2_Body-of-Knowledge_EN_2026-02-20.pdf"
 DEFAULT_OUT = ROOT / "resources" / "standards-v2.2"
-CSV_PATH = ROOT / "shared" / "referentiel" / "bcorp_v2.2_requirements.csv"
+CSV_PATH = ROOT / "resources" / "standards-v2.2" / "bcorp_v2.2_requirements.csv"
 SOURCE = "B Lab Standards V2.2, 20/02/2026"
 GENERE_PAR = "tools/build_standard_md.py, ne pas modifier à la main"
 
@@ -52,6 +52,7 @@ HARD_STOPS = {"Intent", "Outcome", "Requirements Summary", "Terms and Definition
 
 # Coquilles d'ids de critères dans le PDF (et donc dans le CSV) : (code, id imprimé) -> id corrigé
 ID_FIXES = {("FW1.1", "1.2.3"): "1.1.3"}
+PRINTED_IDS = {(code, fixed): printed for (code, printed), fixed in ID_FIXES.items()}
 # Échéance propre d'un critère : marquage en tête de texte (ex. « For Year 5, the company ... »)
 DEADLINE_RE = re.compile(r"^(For|Before|By) Year ([035])\b")
 
@@ -301,8 +302,11 @@ def render_block(row, req, area, txt, secs, apply_title, crit, pre, pdf_order, e
                                                  else " (celle de la sous-exigence)*"), ""]
         if cid != printed:
             b += [f"> Anomalie du PDF : ce critère est imprimé « {printed} » (coquille). L'id corrigé "
-                  f"{cid} est retenu ici ; shared/referentiel/bcorp_v2.2_requirements.csv porte encore {printed}.", ""]
+                  f"{cid} est retenu ici et dans tout le plugin ; le CSV conserve l'id imprimé {printed}.", ""]
         b += [md_lines(paras), ""]
+        fr = next((c.text_fr for c in req.criteria if c.id == cid and c.text_fr), "")
+        if fr:
+            b += [f"*Traduction FR (à relire, compilation tierce) :* {fr}", ""]
 
     for key in ("intent", "clar", "apply"):
         if secs[key]:
@@ -374,7 +378,8 @@ def build(pdf, out):
         area = ref.impact_area(req.impact_area)
         lines = block_lines(doc, int(row["page_pdf"]), int(row["page_pdf_fin_bloc"]))
         secs, apply_title, end_page = sections(lines)
-        crit, pre, pdf_order = split_criteria(secs["cc"], req.criteria_ids)
+        printed_ids = [PRINTED_IDS.get((req.code, c), c) for c in req.criteria_ids]
+        crit, pre, pdf_order = split_criteria(secs["cc"], printed_ids)
         for cid in pdf_order:
             if cid not in crit or not crit[cid][0]:
                 problems.append(f"{req.code}:{cid}")
@@ -404,7 +409,7 @@ def build(pdf, out):
              "2. Un code FR (ex. `MGPP 1.1`) se convertit via la colonne Code FR ci-dessous.",
              "3. Chaque fichier contient le texte EN verbatim : exigence, critères de conformité (`### <id>`), intent, clarifications, applicabilité.",
              "4. Les intitulés FR et exemples de preuves viennent de la KB B Lab (traduction / résumé automatique, à relire).",
-             "5. Pour filtrer (taille, secteur, échéance), utiliser le CSV `shared/referentiel/bcorp_v2.2_requirements.csv`, qui reste la source machine ; `criteres_en.csv` donne un critère par ligne.",
+             "5. Pour filtrer (taille, secteur, échéance), utiliser le CSV `resources/standards-v2.2/bcorp_v2.2_requirements.csv`, qui reste la source machine ; `criteres_en.csv` donne un critère par ligne.",
              ""]
     for code in ref.order:
         a = ref.impact_area(code)

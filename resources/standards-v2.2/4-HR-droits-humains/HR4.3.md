@@ -42,6 +42,10 @@ The company has considered the actual and potential human rights impacts of the 
 - a) in the last fiscal year before Year 0
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 4.3.1 L'entreprise a pris en compte les impacts réels et potentiels sur les droits humains de ses cinq décisions d'achat les plus matérielles :
+a) au cours du dernier exercice fiscal précédant l'Année 0 ;
+b) chaque année suivante.
+
 ## Intent
 
 To ensure the company makes better procurement decisions in relation to human rights impacts.

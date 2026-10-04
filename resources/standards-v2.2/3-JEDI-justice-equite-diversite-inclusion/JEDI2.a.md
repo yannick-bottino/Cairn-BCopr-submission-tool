@@ -42,11 +42,18 @@ The company develops a JEDI commitment statement that:
 - b) is approved by the executive team or highest governing body
 - c) applies to the company's policies and practices across operations, customers, and community.
 
+*Traduction FR (à relire, compilation tierce) :* 2.a.1 L'entreprise formule une déclaration d'engagement JEDI qui :
+a) Est publique ;
+b) Est approuvée par l'équipe de direction ou la plus haute instance de direction ;
+c) S'applique aux politiques et pratiques de l'entreprise dans l'ensemble de ses activités, de ses relations commerciales et au sein de la communauté.
+
 ### 2.a.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company assigns accountability for the JEDI commitment to the executive team or highest governing body.
+
+*Traduction FR (à relire, compilation tierce) :* 2.a.2 L'entreprise confie la responsabilité de son engagement en matière de JEDI à l'équipe de direction ou à la plus haute instance de direction.
 
 ## Intent
 

@@ -38,17 +38,23 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company uses stakeholder feedback to redesign one of its products or services to be more inclusive.
 
+*Traduction FR (à relire, compilation tierce) :* 2.r.1 L'Entreprise s'appuie sur les retours des parties prenantes pour revoir la conception de l'un de ses produits ou services afin qu'il soit plus inclusif.
+
 ### 2.r.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company redesigns the original product or service, rather than designing a segregation solution.
 
+*Traduction FR (à relire, compilation tierce) :* 2.r.2 L'entreprise repense le produit ou le service original, plutôt que de concevoir une solution de ségrégation.
+
 ### 2.r.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company offers the redesigned product or service to customers or announces it publicly.
+
+*Traduction FR (à relire, compilation tierce) :* 2.r.3 L'entreprise propose le produit ou le service reconçu à sa clientèle ou l'annonce publiquement.
 
 ## Intent
 

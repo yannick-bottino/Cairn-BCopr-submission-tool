@@ -60,6 +60,11 @@ The company measures and records its annual energy use:
 - a) in the last fiscal year
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.1 L'entreprise mesure et enregistre sa consommation annuelle d'énergie :
+
+a) au cours de la dernière année fiscale
+b) Chaque année pour les années suivantes.
+
 ### 1.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -74,6 +79,16 @@ The company’s energy use is measured by:
   - i) total energy use per $million of revenue
   - ii) total energy use per unit of product or service.
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.2 La consommation énergétique de l'entreprise est mesurée par :
+a) L'énergie totale en gigajoules ; wattheures ou multiples ;
+b) Le total des énergies renouvelables en gigajoules ; wattheures ou multiples ;
+c) Le pourcentage d'énergie provenant de sources renouvelables à faible impact ;
+d) Le pourcentage d'énergie renouvelable autoproduite ;
+e) Le pourcentage d'électricité renouvelable ;
+f) L'intensité énergétique, exprimée soit en :
+i) Consommation énergétique totale par million de dollars de chiffre d'affaires ;
+ii) Consommation énergétique totale par unité de produit ou de service.
+
 ### 1.2.3
 
 *Échéance du critère : Before Year 0 (marquage PDF : « Before Year 0 »)*
@@ -82,6 +97,10 @@ Before Year 0, the company:
 
 - a)  tracks and records energy use for all of its facilities identified as material in accordance with ESC1.7
 - b) has a plan to extend the tracking and recording of energy use to all remaining facilities.
+
+*Traduction FR (à relire, compilation tierce) :* 1.2.3 Avant l'année 0, l'Entreprise :
+a) suit et enregistre la consommation d'énergie pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et l'enregistrement de la consommation d'énergie à toutes les installations restantes.
 
 ### 1.2.4
 

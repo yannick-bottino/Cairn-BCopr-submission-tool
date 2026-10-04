@@ -37,11 +37,15 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company increases the proportion of workers from at least two underrepresented groups to reflect the diversity of its community.
 
+*Traduction FR (à relire, compilation tierce) :* 2.j.1 L'entreprise augmente la proportion de collaborateurs et de collaboratrices issus d'au moins deux groupes sous-représentés afin de refléter la diversité de sa communauté.
+
 ### 2.j.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company calculates the ratios at any point in the last twelve months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.j.2 L'entreprise calcule les ratios à tout moment au cours des douze derniers mois.
 
 ## Intent
 

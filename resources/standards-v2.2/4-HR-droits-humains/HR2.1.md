@@ -59,17 +59,29 @@ The company assesses human rights issues to identify which are salient to its op
 - e) specifies where the issues are most salient
 - f) prioritizes issues based on their severity and likelihood.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.1 L'entreprise procède à une évaluation des enjeux en matière de droits humains afin d'identifier ceux qui sont importants pour ses activités et sa chaîne de valeur. Cette évaluation :
+a) est fondée sur des recherches documentaires et sur l'engagement des parties prenantes ;
+b) identifie les risques pour les personnes (plutôt que les risques pour l'entreprise) ;
+c) identifie les impacts négatifs réels et potentiels (et non les impacts positifs) ;
+d) identifie les enjeux spécifiques liés aux droits humains ;
+e) précise où les enjeux sont les plus importants ;
+f) hiérarchise les enjeux en fonction de leur gravité et de leur probabilité.
+
 ### 2.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment scope covers all individuals and communities affected by the company’s operations and value chain.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.2 Le périmètre de l'évaluation couvre toutes les personnes et communautés affectées par les activités et la chaîne de valeur de l'entreprise.
+
 ### 2.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment was completed or updated in the last 36 months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.1.3 L'évaluation a été réalisée ou mise à jour au cours des 36 derniers mois
 
 ### 2.1.4
 

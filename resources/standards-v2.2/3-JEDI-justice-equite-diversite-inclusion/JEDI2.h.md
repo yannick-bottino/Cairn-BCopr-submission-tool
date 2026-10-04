@@ -37,11 +37,15 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company provides sponsorship or mentorship opportunities to all employees.
 
+*Traduction FR (à relire, compilation tierce) :* 2.h.1 L'entreprise offre des possibilités de parrainage ou de mentorat à l'ensemble de ses salariés.
+
 ### 2.h.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company records the formal nature of the sponsorship or mentorship program in a procedure or policy document.
+
+*Traduction FR (à relire, compilation tierce) :* 2.h.2 L'entreprise formalise le programme de parrainage ou de mentorat en l'inscrivant dans une procédure ou une politique écrite.
 
 ### 2.h.3
 
@@ -52,11 +56,17 @@ The sponsorships or mentorships:
 - a) are free for participants
 - b) last six months at minimum.
 
+*Traduction FR (à relire, compilation tierce) :* 2.h.3 Les parrainages ou les mentorats :
+a) Sont gratuits pour les participantes et participants;
+b) Durent six mois au minimum.
+
 ### 2.h.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company gives participants time during standard working hours to participate.
+
+*Traduction FR (à relire, compilation tierce) :* 2.h.4 L’entreprise permet aux participantes et participants de prendre part à l’initiative sur leur temps de travail.
 
 ### 2.h.5
 
@@ -64,11 +74,15 @@ The company gives participants time during standard working hours to participate
 
 The company tracks participation of two underrepresented groups.
 
+*Traduction FR (à relire, compilation tierce) :* 2.h.5 L'entreprise suit le taux de participation de deux groupes sous-représentés.
+
 ### 2.h.6
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company achieves representative participation of at least two underrepresented groups.
+
+*Traduction FR (à relire, compilation tierce) :* 2.h.6 L'entreprise atteint un niveau de participation représentative pour au moins deux groupes sous-représentés.
 
 ## Intent
 

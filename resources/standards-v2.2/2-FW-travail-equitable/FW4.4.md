@@ -7,7 +7,7 @@ requirement_code: "FW4"
 type: "sous_exigence"
 year: 3
 criteria: ["4.4.1", "4.4.2", "4.4.3", "4.4.4"]
-pages: "400-405"
+pages: "400-404"
 applicabilite:
   - {taille: "XX Large", secteur: "All", industrie: "All"}
   - {taille: "X Large", secteur: "All", industrie: "All"}
@@ -20,7 +20,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 *Intitulé FR (traduction à relire) : Les résultats des enquêtes sur la culture d'entreprise sont ventilés selon un autre aspect de l'identité sociale*
 
-Impact Area : Fair Work (Travail équitable). Pages PDF 400-405. Échéance : Year 3.
+Impact Area : Fair Work (Travail équitable). Pages PDF 400-404. Échéance : Year 3.
 
 ## Requirement
 

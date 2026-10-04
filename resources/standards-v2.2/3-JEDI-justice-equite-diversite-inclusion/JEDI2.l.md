@@ -37,6 +37,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company assesses the accessibility of its digital internal communication tools.
 
+*Traduction FR (à relire, compilation tierce) :* 2.l.1 L'entreprise évalue l'accessibilité de ses outils numériques de communication interne.
+
 ### 2.l.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -47,6 +49,12 @@ The assessment:
 - b) is carried out by an internal or external specialist
 - c) includes manual testing
 - d) includes feedback from people with disabilities.
+
+*Traduction FR (à relire, compilation tierce) :* 2.l.2 L'évaluation :
+a) Confirme que les outils répondent aux critères AA ou AAA des lignes directrices pour l'accessibilité des contenus web (WCAG) ;
+b) Est réalisée par un ou une spécialiste interne ou externe ;
+c) Comprend des tests manuels ;
+d) Inclut les retours de personnes en situation de handicap.
 
 ## Intent
 

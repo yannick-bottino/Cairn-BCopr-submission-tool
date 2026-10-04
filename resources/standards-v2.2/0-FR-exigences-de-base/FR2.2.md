@@ -50,11 +50,15 @@ That, through their products, practices, and profits, businesses should aspire t
 
 To do so requires that we act with the understanding that we are each dependent upon another and thus responsible for each other and future generations.
 
+*Traduction FR (à relire, compilation tierce) :* 2.2.1 L'entreprise s'engage en faveur de la mission collective de la communauté B Corp, tel qu'elle est définie dans la déclaration d'interdépendance : Nous envisageons une économie globale qui utilise l'entreprise comme force au service du bien commun. Cette économie est constituée d'un nouveau type d'entreprise, l'entreprise B Corp, qui est guidée par une mission et qui crée un bénéfice pour toutes ses parties prenantes et pas uniquement ses actionnaires. En tant qu’entreprises B Corp et leaders de cette économie émergente, nous croyons : Que nous devons être le changement que nous souhaitons voir dans le monde;Que toutes les entreprises doivent être menées comme si les personnes et les lieux avaient de l'importance;Qu'à travers leurs produits, pratiques et profits, les entreprises doivent aspirer à ne faire aucun mal et apporter un bénéfice à tous·tes.Pour ce faire, il est nécessaire que nous agissions en tenant compte du fait que nous dépendons tous.tes les un.e.s des autres et que nous sommes donc responsables les un.e.s des autres et des générations futures.
+
 ### 2.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
+
+*Traduction FR (à relire, compilation tierce) :* 2.2.2 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.
 
 ## Intent
 

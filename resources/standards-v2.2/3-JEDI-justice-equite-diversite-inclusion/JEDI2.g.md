@@ -42,6 +42,12 @@ The company implements all of the following inclusive hiring practices.
 - c) It takes measures to reduce biases or their impacts in hiring processes.
 - d) It analyzes its job description language and requirements to ensure they are inclusive and equitable.
 
+*Traduction FR (à relire, compilation tierce) :* 2.g.1 L'entreprise met en œuvre toutes les pratiques de recrutement inclusives suivantes.
+a) Elle inclut une déclaration d'engagement JEDI dans toutes ses offres d'emploi ; alignée sur la déclaration de JEDI2.a si elle est complétée.
+b) Elle a pour politique de ne pas demander de vérification de solvabilité ou de casier judiciaire lors du recrutement, sauf si la loi l'exige, ou si cela est requis par une association professionnelle ou un organisme de régulation du secteur.
+c) Elle prend des mesures pour réduire les préjugés ou réduire l'impact des préjugés dans le cadre du recrutement.
+d) Elle examine le langage et les exigences de ses descriptions d'emploi pour s'assurer qu'elles sont inclusives et équitables.
+
 ## Intent
 
 To make the company’s hiring practices more inclusive.

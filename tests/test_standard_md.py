@@ -15,7 +15,7 @@ import pytest
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-CSV_PATH = ROOT / "shared" / "referentiel" / "bcorp_v2.2_requirements.csv"
+CSV_PATH = ROOT / "resources" / "standards-v2.2" / "bcorp_v2.2_requirements.csv"
 COMMITTED = ROOT / "resources" / "standards-v2.2"
 PDF = COMMITTED / "_source" / "B-Lab-Standards-V2.2_Body-of-Knowledge_EN_2026-02-20.pdf"
 ORDER = ["FR", "PSG", "FW", "JEDI", "HR", "CA", "ESC", "GACA"]
@@ -233,10 +233,19 @@ def test_indexes(out_dir, rows):
                 assert f"]({p.name})" in idx
 
 
+INPUT_FILES = {"bcorp_v2.2_requirements.csv", "criteres_fr.csv"}  # entrées, pas des sorties du générateur
+
+
 def test_committed_folder_is_up_to_date(out_dir):
     fresh = sorted(p.relative_to(out_dir) for p in out_dir.rglob("*") if p.is_file())
     committed = sorted(p.relative_to(COMMITTED) for p in COMMITTED.rglob("*")
-                       if p.is_file() and "_source" not in p.parts)
+                       if p.is_file() and "_source" not in p.parts
+                       and p.name not in INPUT_FILES)
     assert fresh == committed, "relancer : python3 tools/build_standard_md.py"
     stale = [str(p) for p in fresh if not filecmp.cmp(out_dir / p, COMMITTED / p, shallow=False)]
     assert not stale, f"fichiers périmés (relancer le générateur) : {stale[:5]}"
+
+
+def test_french_translation_is_shown_and_flagged():
+    md = next(COMMITTED.rglob("PSG1.1.md")).read_text(encoding="utf-8")
+    assert "Traduction FR (à relire, compilation tierce)" in md

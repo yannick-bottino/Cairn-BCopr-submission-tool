@@ -45,6 +45,16 @@ The company generates less than 1% of annual revenue from direct involvement in 
 - e) Tobacco
 - f) Weapons
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.1 L'entreprise tire moins de 1 % de son chiffre d'affaires annuel d'activités qui causent ou contribuent aux impacts sur les parties prenantes affectées par les secteurs suivants :
+a) Production de combustibles et d'énergies fossiles
+b) Jeux de hasard
+c) Pornographie
+d) Prisons et centres de détention (y compris le travail dans les établissements pénitentiaires)
+e) Tabac
+f) Armement.
+
+1.2.2. Pour les entreprises de services financiers, moins de 1 % des actifs sous gestion de l'entreprise sont investis dans les secteurs listés.
+
 ### 1.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*

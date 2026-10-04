@@ -21,11 +21,12 @@ Usage réservé à Anchor Strategy : voir `LICENSE`.
 /plugin install anchor-strategy-bcorp-tool@anchor-strategy-bcorp
 ```
 
-Prérequis Python : `pip install openpyxl`. Dépend des skills transverses de `consulting-skills` (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`).
+Prérequis Python : `pip install openpyxl` (et `pymupdf` pour régénérer la base documentaire). Dépend des skills transverses de `consulting-skills` (`project-memory`, `file-naming-standard`, `humanize-output`, `de-slop`).
 
 ## Structure
 
-- `shared/referentiel/` : référentiel V2.2 (184 blocs, codes EN et FR), Impact Areas, seuils de taille.
+- `resources/standards-v2.2/` : PDF officiel (`_source/`), référentiel machine (`bcorp_v2.2_requirements.csv`), un fichier Markdown par sous-exigence rangé par Impact Area, `criteres_en.csv` (texte et échéance de chaque critère), `criteres_fr.csv` (traductions à relire). Les .md se régénèrent avec `python3 tools/build_standard_md.py`.
+- `shared/referentiel/` : Impact Areas (noms FR/EN, préfixes, couleurs), seuils de taille.
 - `shared/lib/bcorp_ref.py` : lecture du référentiel, conversion des codes, applicabilité, taille.
 - `shared/style/voix-julie.md` : guide de rédaction des cellules (exemples anonymisés).
 - `skills/<module>/` : un skill par module, avec ses scripts.

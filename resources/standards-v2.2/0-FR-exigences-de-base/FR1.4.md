@@ -41,6 +41,15 @@ The company shares accurate and complete information by:
 - a) using credible evidence and data source
 - b) having a clear understanding of B Lab’s resources.
 
+*Traduction FR (à relire, compilation tierce) :* 1.4.1 L'entreprise fournit des informations exactes et complètes en :
+a) ayant recours à des preuves et des sources crédibles
+b) s'assurant une bonne compréhension des ressources de B Lab.
+
+1.4.2 L'entreprise partage à tout moment des informations exactes et complètes, y compris :
+a) Dans ses réponses au B Impact Assessment (BIA).
+b) Dans ses échanges avec les vérificateurs habilités par B Lab.
+c) Dans tous ses échanges avec le personnel de B Lab.
+
 ### 1.4.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -56,6 +65,8 @@ The company shares accurate and complete information at all times:
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
+
+*Traduction FR (à relire, compilation tierce) :* 1.4.3 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.
 
 ## Intent
 

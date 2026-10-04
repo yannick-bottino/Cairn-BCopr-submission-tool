@@ -52,17 +52,33 @@ All employees have an employment contract or offer letter meeting the following 
   - viii) the duration of the work
   - ix) conditions for termination.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 Tous les employés disposent d'un contrat de travail ou d'une lettre d'engagement répondant aux critères suivants :
+a) Il est rédigé dans un langage intelligible pour le collaborateur ou la collaboratrice
+b) Il est signé par un représentant de l'entreprise et par le collaborateur ou la collaboratrice
+c) Il comprend :
+i) le nom de l'entreprise,
+ii) les noms des deux signataires,
+iii) la nature et le lieu du poste,
+iv) les horaires de travail,
+v) le salaire de base,
+vi) toute composante salariale supplémentaire,
+vii) la date de prise de poste,
+viii) la durée du contrat de travail,
+ix) les conditions de résiliation du contrat de travail.
+
 ### 1.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If an employee is already working without a written contract or offer letter, the company provides a letter that meets the criteria above.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.2 Si une personne salariée est déjà en poste sans contrat écrit ou lettre d'engagement, l'entreprise fournit une lettre qui répond aux critères ci-dessus.
+
 ### 1.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
-> Anomalie du PDF : ce critère est imprimé « 1.2.3 » (coquille). L'id corrigé 1.1.3 est retenu ici ; shared/referentiel/bcorp_v2.2_requirements.csv porte encore 1.2.3.
+> Anomalie du PDF : ce critère est imprimé « 1.2.3 » (coquille). L'id corrigé 1.1.3 est retenu ici et dans tout le plugin ; le CSV conserve l'id imprimé 1.2.3.
 
 All employees receive a copy of their employment contract or offer letter from the company.
 

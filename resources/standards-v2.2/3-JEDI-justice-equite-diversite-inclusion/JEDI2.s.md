@@ -7,7 +7,7 @@ requirement_code: "JEDI2"
 type: "option"
 year: 0
 criteria: ["2.s.1", "2.s.2", "2.s.3"]
-pages: "534-538"
+pages: "534-537"
 applicabilite:
   - {taille: "XX Large", secteur: "All", industrie: "All"}
   - {taille: "X Large", secteur: "All", industrie: "All"}
@@ -22,7 +22,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 # JEDI2.s (JEDI 2.s) : The company takes part in at least one collective action to advance JEDI principles. [Beyond the Workplace]
 
-Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversité & inclusion). Pages PDF 534-538. Échéance : Year 0.
+Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversité & inclusion). Pages PDF 534-537. Échéance : Year 0.
 
 ## Requirement
 
@@ -38,6 +38,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company engages in at least one collective action initiative at the policy, industry, or business community level to advance JEDI principles.
 
+*Traduction FR (à relire, compilation tierce) :* 2.s.1 L'entreprise s'engage dans au moins une action collective au niveau des politiques publiques, sectorielles ou de sa communauté d'affaires, afin de promouvoir les principes de la JEDI
+
 ### 2.s.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -47,11 +49,17 @@ The initiative has a clear, shared purpose and goal, to:
 - a) achieve systems change or transformation
 - b) collaboratively deliver specific, measurable impacts.
 
+*Traduction FR (à relire, compilation tierce) :* 2.s.2 L'initiative affiche une raison d'être ainsi qu'un objectif commun et clairement définis, visant à :
+a) Engendrer un changement ou une transformation à l'échelle systémique ;
+b) Produire, de manière collaborative, des impacts spécifiques et mesurables.
+
 ### 2.s.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes a clear contribution to delivering the initiative.
+
+*Traduction FR (à relire, compilation tierce) :* 2.s.3 L'entreprise contribue clairement à la réalisation de l'initiative.
 
 ## Intent
 

@@ -42,11 +42,18 @@ If the company uses variable schedules, it has a policy that states the followin
 - b) That the company will pay the employee in full when cancelling their work after the deadline for reasons within the company’s control.
 - c) Whether the company will pay the employee, and how much, when canceling their work after the deadline for reasons outside the company’s control.
 
+*Traduction FR (à relire, compilation tierce) :* 1.2.1 Si l'entreprise utilise des emplois du temps variables, elle dispose d'une politique qui précise :
+a) Le délai de prévenance précis qui s'applique de la même manière à l'entreprise et au collaborateur ou à la collaboratrice.
+b) Que l'entreprise paiera le collaborateur ou la collaboratrice en totalité en cas d'annulation après la date limite pour des raisons sur lesquelles l'entreprise a le contrôle.
+c) Si l'entreprise paiera le collaborateur ou la collaboratrice, et combien, en cas d'annulation après la date limite pour des raisons indépendantes de la volonté de l'entreprise.
+
 ### 1.2.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes the policy available to all employees that work variable schedules.
+
+*Traduction FR (à relire, compilation tierce) :* 1.2.2 L'entreprise met la politique à disposition de tous ses collaborateurs et collaboratrices ayant des emplois du temps variables.
 
 ## Intent
 

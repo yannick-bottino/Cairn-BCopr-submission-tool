@@ -7,7 +7,7 @@ requirement_code: "FR3"
 type: "question_risk_tool"
 year: 0
 criteria: ["3.1.n.1", "3.1.n.2", "3.1.n.3"]
-pages: "138-145"
+pages: "138-144"
 applicabilite:
   - {taille: "XX Large", secteur: "All", industrie: "All"}
   - {taille: "X Large", secteur: "All", industrie: "All"}
@@ -20,7 +20,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 # FR3.1.n (EB 3.1.n) : [Your reputation] In the past three years, has the company experienced litigations, penalties, or public allegations of misleading marketing or greenwashing?
 
-Impact Area : Foundation Requirements (Exigences de base). Pages PDF 138-145. Échéance : Year 0.
+Impact Area : Foundation Requirements (Exigences de base). Pages PDF 138-144. Échéance : Year 0.
 
 ## Requirement
 
@@ -90,9 +90,8 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 138-145. É
   - news organizations
   - civil society organizations
   - governments
-  - misrepresenting consumer rights (e.g. saying consumer rights do not apply during a sale). (adapted from Competition and Consumer Protection Commission - Ireland) Purpose & Stakeholder Governance (PSG) Body of Knowledge (BoK) for the PSG Impact Topic
 
-*(39 paragraphe(s) répété(s) à l'identique dans le PDF, non repris.)*
+*(40 paragraphe(s) répété(s) à l'identique dans le PDF, non repris.)*
 
 ## Applicabilité
 

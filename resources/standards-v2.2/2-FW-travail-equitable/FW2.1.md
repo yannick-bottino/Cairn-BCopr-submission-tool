@@ -41,6 +41,10 @@ The company has a policy or procedure that states it does not ask job applicants
 - a) their wage histories
 - b) their preferred wage (unless the company first shares a wage scale).
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.1 L'entreprise dispose d'une politique ou d'une procédure qui stipule qu'elle ne demande pas aux candidats et candidates de fournir des informations sur :
+a) leurs antécédents salariaux,
+b) leurs préférences salariales (à moins que l'entreprise n'ait partagé une grille salariale au préalable).
+
 ## Intent
 
 To prevent the company from basing new wages on past wages, which can perpetuate wage inequalities.

@@ -41,6 +41,10 @@ If the company has more than 10 and fewer than 50 workers (based on headcount), 
 - a) in the twelve months before Year 0
 - b) in each subsequent year.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 Si l'entreprise compte plus de 10 et moins de 50 collaborateurs et collaboratrices (sur la base de l'effectif), elle a facilité au moins une discussion ou une enquête sur les principes JEDI sur le lieu de travail :
+a) Au cours des douze mois précédant l'année 0 ;
+b) Chaque année suivante.
+
 ### 1.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -49,6 +53,10 @@ If the company chooses to facilitate a discussion:
 
 - a) it is at least one hour long
 - b) the company records notes.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.2 Si l'entreprise choisit d'animer une discussion :
+a) Celle-ci dure au moins une heure ;
+b) L'entreprise en conserve un compte rendu.
 
 ### 1.1.3
 
@@ -59,11 +67,17 @@ If the company has 50 workers or more (based on headcount) it:
 - a) collects data on gender identity or sex at birth for at least five worker-related measurements.
 - b) disaggregates data to report internally on its chosen worker-related measurements.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.3 Si l’entreprise compte au moins 50 collaborateurs et collaboratrices (sur la base de l'effectif), elle :
+a) Recueille des données concernant l'identité de genre ou le sexe assigné à la naissance pour au moins cinq enquêtes relatives aux collaborateurs et collaboratrices.
+b) Ventile ces données afin de rendre compte en interne des enquêtes choisies.
+
 ### 1.1.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Workers provide their data and participate voluntarily, and can choose to remain anonymous.
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.4 Les collaborateurs et collaboratrices de l’entreprise fournissent leurs données de manière volontaire et peuvent choisir de rester anonymes.
 
 ## Intent
 

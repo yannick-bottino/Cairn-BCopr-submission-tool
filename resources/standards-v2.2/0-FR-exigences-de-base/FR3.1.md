@@ -36,17 +36,23 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 51-54. Éch
 
 The company creates a risk profile using B Lab’s Risk Tool by answering the 14 questions in FR3.1.a to FR3.1.n.
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.1 L’entreprise établit un profil de risque à l'aide de l’outil d'évaluation des risques de B Lab en répondant aux 14 questions des points EB3.1.a à EB3.1.n.
+
 ### 3.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company meets any additional Impact Topic sub-requirements that the Risk Tool activates.
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.2 L’entreprise satisfait aux éventuelles sous-exigences supplémentaires activées par l’outil d'évaluation des risques de B Lab, au sein des thématiques d’impact concernées.
+
 ### 3.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company agrees to a summary of the risk profile being displayed on its B Corp public profile.
+
+*Traduction FR (à relire, compilation tierce) :* 3.1.3 L'entreprise accepte qu'un résumé de son profil de risque soit publié sur son profil public B Corp.
 
 ## Intent
 

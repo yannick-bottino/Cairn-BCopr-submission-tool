@@ -8,7 +8,7 @@ Source : B Lab Standards V2.2, 20/02/2026 (PDF dans `_source/`). 184 blocs, gén
 2. Un code FR (ex. `MGPP 1.1`) se convertit via la colonne Code FR ci-dessous.
 3. Chaque fichier contient le texte EN verbatim : exigence, critères de conformité (`### <id>`), intent, clarifications, applicabilité.
 4. Les intitulés FR et exemples de preuves viennent de la KB B Lab (traduction / résumé automatique, à relire).
-5. Pour filtrer (taille, secteur, échéance), utiliser le CSV `shared/referentiel/bcorp_v2.2_requirements.csv`, qui reste la source machine ; `criteres_en.csv` donne un critère par ligne.
+5. Pour filtrer (taille, secteur, échéance), utiliser le CSV `resources/standards-v2.2/bcorp_v2.2_requirements.csv`, qui reste la source machine ; `criteres_en.csv` donne un critère par ligne.
 
 ## [FR : Exigences de base](0-FR-exigences-de-base/_index.md)
 

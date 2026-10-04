@@ -38,11 +38,15 @@ Impact Area : Foundation Requirements (Exigences de base). Pages PDF 40-43. Éch
 
 The company shares basic details for its B Corp public profile through the B Impact Assessment platform.
 
+*Traduction FR (à relire, compilation tierce) :* 1.5.1 L'entreprise partage les informations de base de son profil public B Corp sur la plateforme du B Impact Assessment (BIA).
+
 ### 1.5.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company agrees to publicly share information as required by the B Lab Standard.
+
+*Traduction FR (à relire, compilation tierce) :* 1.5.2 L'entreprise s'engage à rendre publiques les informations exigées par les standards de B Lab.
 
 ### 1.5.3
 
@@ -50,17 +54,23 @@ The company agrees to publicly share information as required by the B Lab Standa
 
 If the company is a wholly-owned or majority-owned subsidiary, or a large public company, it makes its entire B Impact Assessment report public and identifies any majority owners.
 
+*Traduction FR (à relire, compilation tierce) :* 1.5.3 Si l'entreprise est une filiale détenue à 100 % ou majoritairement, ou une grande entreprise publique, elle est tenue de rendre public l'intégralité de son questionnaire B Impact Assessment (BIA) ainsi que l'identité de tout propriétaire majoritaire.
+
 ### 1.5.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company agrees that B Lab can make its B Impact Report and basic profile information available on the B Lab Global website and other B Lab and Sistema B Global Partner websites while the company is a certified B Corp.
 
+*Traduction FR (à relire, compilation tierce) :* 1.5.4 L'entreprise accepte que B Lab publie les résultats du questionnaire B Impact Assessment (BIA) de l'entreprise ainsi que ses informations de base sur le site internet de B Lab Global et tout autre site internet du réseau B Lab ou Sistema B Global Partner, et ce tant que l'entreprise est certifiée B Corp.
+
 ### 1.5.5
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company signs an Agreement committing to the B Corp Certification process.
+
+*Traduction FR (à relire, compilation tierce) :* 1.5.5 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.
 
 ## Intent
 

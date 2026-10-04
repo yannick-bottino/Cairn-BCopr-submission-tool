@@ -37,6 +37,8 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 The company publishes a grievance form on its webpage or has another easily accessible way for stakeholders to raise a grievance.
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.1 L'entreprise publie un formulaire de réclamation sur son site internet ou dispose d'un autre moyen facilement accessible permettant aux parties prenantes de soumettre une réclamation.
+
 ### 3.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -47,11 +49,18 @@ The grievance procedure explains:
 - b) grievance process steps and targeted deadlines for managing a grievance
 - c) how a resolution is facilitated
 
+*Traduction FR (à relire, compilation tierce) :* 3.1.2 La procédure de réclamation décrit :
+a) les critères de recevabilité d'une réclamation,
+b) les différentes étapes du processus de réclamation et les délais prévus pour sa prise en charge,
+c) le processus de résolution de la réclamation.
+
 ### 3.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company describes the processes and controls in place to protect stakeholders who raise grievances from any form of retaliation.
+
+*Traduction FR (à relire, compilation tierce) :* 3.1.3 L'entreprise décrit les processus et les contrôles mis en place pour protéger les parties prenantes qui soumettent des réclamations contre toute forme de représailles.
 
 ### 3.1.4
 
@@ -61,6 +70,10 @@ The company responds to stakeholder grievances by either:
 
 - a) regularly communicating each step in the resolution process and its outcome to the complainant, and confirming when the grievance has been resolved
 - b) explaining why it did not accept the issue as a grievance.
+
+*Traduction FR (à relire, compilation tierce) :* 3.1.4 L'entreprise répond aux réclamations des parties prenantes de l'une des deux manières suivantes.
+a) Elle communique de manière régulière aux dépositaires de la réclamation les différentes étapes de la procédure, son avancement et sa résolution.
+b) Elle présente les raisons pour lesquelles la réclamation n'est pas recevable.
 
 ## Intent
 

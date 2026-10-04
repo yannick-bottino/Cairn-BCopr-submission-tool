@@ -37,11 +37,15 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company supports at least two employee resource or affinity groups. Each group is associated with a different social identity.
 
+*Traduction FR (à relire, compilation tierce) :* 2.f.1 L'entreprise soutient au moins deux groupes-ressources d'employés ou groupes d'affinité. Chaque groupe est associé à une identité sociale différente.
+
 ### 2.f.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company chooses the social identities using worker feedback.
+
+*Traduction FR (à relire, compilation tierce) :* 2.f.2 L'entreprise choisit les identités sociales en fonction des retours des collaborateurs et collaboratrices.
 
 ### 2.f.3
 
@@ -49,11 +53,15 @@ The company chooses the social identities using worker feedback.
 
 Participation in the groups is optional for workers.
 
+*Traduction FR (à relire, compilation tierce) :* 2.f.3 La participation aux groupes est facultative pour les collaborateurs et collaboratrices.
+
 ### 2.f.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company supports the groups.
+
+*Traduction FR (à relire, compilation tierce) :* 2.f.4 L'entreprise soutient les groupes
 
 ## Intent
 

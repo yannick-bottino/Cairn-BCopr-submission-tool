@@ -38,17 +38,23 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company chooses three social identities using stakeholder feedback and the demographics of its community.
 
+*Traduction FR (à relire, compilation tierce) :* 2.d.1 L'entreprise choisit trois identités sociales en s'appuyant sur les retours des parties prenantes et les données démographiques de sa communauté.
+
 ### 2.d.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company’s highest governing body and executive team reflect the diversity of its community across its three chosen social identities.
 
+*Traduction FR (à relire, compilation tierce) :* 2.d.2 La plus haute instance de direction et l'équipe de direction de l'entreprise reflètent la diversité de sa communauté à travers ses trois identités sociales choisies.
+
 ### 2.d.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company calculates the ratios at any point in the last twelve months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.d.3 La plus haute instance de direction et l'équipe de direction de l'entreprise reflètent la diversité de sa communauté à travers ses trois identités sociales choisies.
 
 ## Intent
 

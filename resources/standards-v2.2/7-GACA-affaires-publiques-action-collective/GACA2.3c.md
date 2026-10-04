@@ -38,11 +38,17 @@ The multi-stakeholder collaboration:
 - a) has a clear purpose and aims to deliver specific, measurable impacts collaboratively.
 - b) aims to create a positive impact on society or the environment.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3c.1 La collaboration entre parties prenantes :
+a) Poursuit un objectif clair et vise à produire des impacts spécifiques et mesurables de manière collaborative.
+b) Vise à créer un impact positif sur la société ou l'environnement.
+
 ### 2.3c.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes a clear contribution to the multi-stakeholder collaboration.
+
+*Traduction FR (à relire, compilation tierce) :* 2.3c.2 L'entreprise apporte une contribution claire à la collaboration entre parties prenantes.
 
 ## Clarifying the compliance criteria
 

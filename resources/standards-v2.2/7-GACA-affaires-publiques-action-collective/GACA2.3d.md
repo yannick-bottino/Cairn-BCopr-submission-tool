@@ -35,6 +35,8 @@ Impact Area : Government Affairs & Collective Action (Affaires publiques & actio
 
 The advocacy work aims to create a positive impact on society or the environment.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3d.1 Les activités de plaidoyer visent à créer un impact positif sur la société ou l'environnement.
+
 ### 2.3d.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -45,11 +47,18 @@ The company has one or more resources to support its public policy advocacy work
 - b) in-kind contribution
 - c) active staff time.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3d.2 L'entreprise alloue une ou plusieurs ressources à ses activités de plaidoyer, parmi lesquelles :
+a) Des contributions financières ;
+b) Des contributions en nature ;
+c) Du temps de travail dédié à ces activités pour son personnel.
+
 ### 2.3d.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company makes a clear contribution to public policy advocacy.
+
+*Traduction FR (à relire, compilation tierce) :* 2.3d.3 L'entreprise apporte une contribution claire au plaidoyer en matière de politiques publiques.
 
 ## Clarifying the compliance criteria
 

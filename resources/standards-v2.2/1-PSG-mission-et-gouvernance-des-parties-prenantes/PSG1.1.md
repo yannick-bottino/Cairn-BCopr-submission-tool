@@ -45,6 +45,12 @@ The company establishes a purpose statement which:
 - c) is publicly available on the company’s webpage
 - d) is approved by the company’s highest governing body.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 L'entreprise formule une raison d'être qui :
+a) Présente de manière précise l'impact positif et significatif que l'entreprise entend avoir sur la société ou l'environnement, ou les deux ;
+b) Concerne les activités commerciales de l'entreprise et s'intègre dans sa stratégie ;
+c) Est rendue publique sur le site web de l'entreprise ;
+d) Est approuvée par la plus haute instance de direction de l'entreprise.
+
 ## Intent
 
 To ensure the company has a publicly accessible purpose statement that:

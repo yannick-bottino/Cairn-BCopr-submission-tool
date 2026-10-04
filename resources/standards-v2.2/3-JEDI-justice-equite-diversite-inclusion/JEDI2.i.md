@@ -37,11 +37,15 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company develops an inclusive language guide for internal communications.
 
+*Traduction FR (à relire, compilation tierce) :* 2.i.1 L'entreprise conçoit un guide du langage inclusif pour la communication interne.
+
 ### 2.i.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The guide lists terms that should and should not be used.
+
+*Traduction FR (à relire, compilation tierce) :* 2.i.2 Le guide énumère les termes qui doivent être utilisés et ceux qui ne doivent pas l'être.
 
 ### 2.i.3
 
@@ -49,11 +53,15 @@ The guide lists terms that should and should not be used.
 
 One guide exists for each internal communication language.
 
+*Traduction FR (à relire, compilation tierce) :* 2.i.3 Il existe un guide pour chaque langue de communication interne.
+
 ### 2.i.4
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company shares the guide with all workers who produce internal communications.
+
+*Traduction FR (à relire, compilation tierce) :* 2.i.4 L'entreprise partage le guide avec l'ensemble des collaborateurs et collaboratrices qui produisent des communications internes.
 
 ## Intent
 

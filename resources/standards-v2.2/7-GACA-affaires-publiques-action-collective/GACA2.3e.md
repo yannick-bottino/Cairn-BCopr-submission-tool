@@ -38,6 +38,10 @@ The thought leadership:
 - a) has a clear positive outcome
 - b) aims to create a positive impact on society or the environment.
 
+*Traduction FR (à relire, compilation tierce) :* 2.3e.1 Le leadership d'opinion :
+a) A un effet positif manifeste.
+b) Vise à créer un impact positif sur la société ou l'environnement.
+
 ### 2.3e.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*

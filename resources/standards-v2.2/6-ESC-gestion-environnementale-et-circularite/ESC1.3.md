@@ -72,11 +72,20 @@ The company’s water consumption or withdrawal is measured by:
   - i) total water consumption or withdrawal in its own facilities in m3 per $million of revenue
   - ii) total water consumption or withdrawal in its facilities in m3 per unit of product.
 
+*Traduction FR (à relire, compilation tierce) :* 1.3.2 La consommation ou le prélèvement d'eau de l'entreprise est mesuré par :
+a) La consommation ou le prélèvement d'eau total en mètres cubes (m3) ;
+b) Le total de l'eau recyclée et réutilisée en m3 ;
+c) L'intensité de l'eau, exprimée soit via :
+i) La consommation ou le prélèvement d'eau total dans ses propres infrastructures en m3 par million de dollars de chiffre d'affaires ;
+ii) La consommation ou le prélèvement d'eau total dans ses infrastructures en m3 par unité de produit.
+
 ### 1.3.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company explains why it chose to measure either water consumption or withdrawal.
+
+*Traduction FR (à relire, compilation tierce) :* 1.3.3 L'entreprise explique pourquoi elle a choisi de mesurer soit la consommation d'eau, soit le prélèvement d'eau.
 
 ### 1.3.4
 
@@ -86,6 +95,10 @@ Before Year 0, the company:
 
 - a) tracks and records water consumption or withdrawal for all of its facilities identified as material in accordance with ESC1.7
 - b) has a plan to extend the tracking and recording of water consumption or withdrawal to all remaining facilities.
+
+*Traduction FR (à relire, compilation tierce) :* 1.3.4 Avant l'année 0, l'Entreprise :
+a) piste d'évaluation et enregistre la consommation d'eau ou le prélèvement d'eau pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et l'enregistrement de la consommation d'eau ou du Prélèvement d'eau à toutes les installations restantes..
 
 ### 1.3.5
 

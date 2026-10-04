@@ -91,7 +91,7 @@ def build(profile: dict, out: Path) -> Path:
     _parametres(wb.create_sheet("1. Paramètres client"), profile)
     _referentiel(wb.create_sheet("2. Référentiel B Corp V2.2"), r, size, sector, horizon)
     headers = gap_headers(profile["client"], profile.get("co_prestataire") or "co-prestataire")
-    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers)
+    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers, horizon)
     _fdr(wb.create_sheet("4. Couverture feuille de route"))
     _roles(wb.create_sheet("5. Répartition des rôles"), r, profile)
     _recap(wb.create_sheet("6. Récap gap analysis"), r, headers)
@@ -113,7 +113,12 @@ def _header(ws, headers, widths=None, platform=()):
     ws.freeze_panes = "A2"
 
 
-def _gap(ws, r, rows, retained, headers):
+def _criterion_cell(c) -> str:
+    text = (c.text_fr or "").strip() or f"[EN] {c.text_en.strip()}"
+    return text if text.startswith(c.id) else f"{c.id} {text}"
+
+
+def _gap(ws, r, rows, retained, headers, horizon):
     platform = [h for h in headers if h.startswith("Plateforme :")]
     _header(ws, headers, WIDTHS, platform)
     ws.freeze_panes = "F2"
@@ -128,11 +133,12 @@ def _gap(ws, r, rows, retained, headers):
         n = x.requirement_code[len(ia.code):]
         if x.type_ligne == "question_risk_tool":
             # Question oui/non du Risk Tool : une seule ligne, les exigences déclenchées sont listées à part
-            units = [(f"Question Risk Tool (oui/non sur la plateforme). Critères : {', '.join(x.criteria_ids)}", x.code)]
+            units = [(f"Question Risk Tool (oui/non sur la plateforme). Critères : {', '.join(x.criteria_ids)}",
+                      x.code, f"Year {x.year}")]
         else:
-            units = [(f"{cid} [texte à reprendre du PDF V2.2, p.{x.page_pdf}]", rid)
-                     for cid, rid in zip(x.criteria_ids or [""], x.req_ids)]
-        for criterion, rid in units:
+            # Un critère peut avoir sa propre échéance (« For Year 5 », « Before Year 0 »)
+            units = [(_criterion_cell(c), f"{x.code}-{c.id}", c.deadline) for c in x.criteria_until(horizon)]
+        for criterion, rid, deadline in units:
             values = {
                 "Impact Area": f"{ia.name_fr} ({ia.prefix_excel})",
                 "Exigence (thématique)": f"{ia.prefix_excel} {n} : {x.requirement_en}",
@@ -140,7 +146,7 @@ def _gap(ws, r, rows, retained, headers):
                 "Code plateforme": x.code,
                 "Sous-exigence": x.title_fr or f"[EN] {x.title_en}",
                 "Critère de conformité": criterion,
-                "Année": f"Year {x.year}",
+                "Année": deadline,
                 "req_id": rid,
             }
             ws.append([values.get(h) for h in headers])
@@ -169,11 +175,13 @@ def _mode_emploi(ws):
         "Gap analysis B Corp, B Lab Standards V2.2 (20/02/2026). Anchor Strategy B Corp tool.",
         "",
         "1. L'onglet 1 fixe le périmètre (taille, secteur, horizon). Pour le changer, régénérer le fichier.",
-        "2. L'onglet 3 liste un critère de conformité par ligne. Code exigence = sigle FR, Code plateforme = code affiché sur app.bcorporation.net.",
-        "3. Les options de menu non retenues (JEDI 2, APAC 2…) sont masquées, pas supprimées.",
-        "4. Niveau de conformité : 0 = non couvert, 1 = partiellement couvert, 2 = pleinement couvert, NA = non applicable.",
-        "5. Les colonnes Diagnostic, Actions, Priorité, Responsable et Commentaires ne sont jamais publiées. Seul le commentaire auditeur l'est, après validation.",
-        "6. La colonne req_id (masquée) est la clé technique entre modules : ne pas la modifier.",
+        "2. L'onglet 3 liste un critère de conformité par ligne, avec sa propre échéance (Before Year 0, Year 0, 3 ou 5). Texte FR repris d'une compilation tierce, à relire ; à défaut, texte officiel EN signalé [EN].",
+        "   Code exigence = sigle FR, Code plateforme = code affiché sur app.bcorporation.net. Texte de référence : resources/standards-v2.2/.",
+        "3. Les questions du Risk Tool tiennent sur une ligne chacune.",
+        "4. Les options de menu non retenues (JEDI 2, APAC 2…) sont masquées, pas supprimées.",
+        "5. Niveau de conformité : 0 = non couvert, 1 = partiellement couvert, 2 = pleinement couvert, NA = non applicable.",
+        "6. Les colonnes Diagnostic, Actions, Priorité, Responsable et Commentaires ne sont jamais publiées. Seul le commentaire auditeur l'est, après validation.",
+        "7. La colonne req_id (masquée) est la clé technique entre modules : ne pas la modifier.",
     ]
     for line in lines:
         ws.append([line])

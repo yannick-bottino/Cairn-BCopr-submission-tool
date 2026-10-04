@@ -6,7 +6,7 @@ impact_area_fr: "Mission et gouvernance des parties prenantes"
 requirement_code: "PSG2"
 type: "sous_exigence"
 year: 0
-criteria: ["2.1.1", "2.1.3", "2.1.2"]
+criteria: ["2.1.1", "2.1.2", "2.1.3"]
 pages: "169-175"
 applicabilite:
   - {taille: "Medium", secteur: "All", industrie: "All"}
@@ -37,11 +37,15 @@ Impact Area : Purpose & Stakeholder Governance (Mission et gouvernance des parti
 
 The company identifies and prioritizes its stakeholders and maps its stakeholders listed in 2.1.3. .
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.1 L'entreprise identifie ses parties prenantes, leur attribue un ordre de priorité et dresse la carte de ses parties prenantes énumérées dans le critère de conformité 2.1.3.
+
 ### 2.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company engages with its stakeholders and considers their interests in decision-making.
+
+*Traduction FR (à relire, compilation tierce) :* 2.1.2 L'entreprise dialogue avec ses parties prenantes et tient compte de leurs intérêts dans ses processus décisionnels.
 
 ### 2.1.3
 
@@ -55,6 +59,14 @@ The following stakeholders are represented with one or more  engagement mechanis
 - d) Investors
 - e) The community where offices or facilities of the company, its subsidiaries, its suppliers, or its investments are located
 - f) The local or global environment
+
+*Traduction FR (à relire, compilation tierce) :* 2.1.3 Les parties prenantes suivantes sont représentées par un ou plusieurs mécanismes d'engagement.
+a) Les collaborateurs et collaboratrices de l'entreprise ou de ses filiales.
+b) Les prestataires de biens et de services.
+c) La clientèle.
+d) Les partenaires financiers. PAS
+e) La communauté où se trouvent les bureaux ou installations de l'entreprise, de ses filiales, de ses prestataires de biens ou de services, ou qui bénéficie de ses investissements.
+f) L'environnement local ou mondial.
 
 ## Intent
 

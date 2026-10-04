@@ -43,11 +43,19 @@ The company develops a communications and ethical content guide that:
 - c) sets expectations for representing social identities
 - d) is shared with all workers who produce external communications.
 
+*Traduction FR (à relire, compilation tierce) :* 2.p.1 L'entreprise conçoit un guide de communication et de contenu éthique qui :
+a) Précise les termes à utiliser et à ne pas utiliser pour chaque langue de communication externe ;
+b) Décrit comment recueillir, gérer et utiliser du contenu de manière éthique ;
+c) Définit les attentes en matière de représentation de différentes identités sociales ;
+d) Est partagé avec l'ensemble des collaborateurs et collaboratrices qui produisent des communications externes.
+
 ### 2.p.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 If the company uses artificial intelligence for creative content generation, it includes its use in the guide.
+
+*Traduction FR (à relire, compilation tierce) :* 2.p.2 Si l'entreprise utilise l'intelligence artificielle pour la génération de contenus créatifs, elle inclut son utilisation dans le guide.
 
 ## Intent
 

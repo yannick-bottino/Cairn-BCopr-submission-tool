@@ -38,17 +38,23 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company gets a third party with relevant expertise to carry out an equity audit.
 
+*Traduction FR (à relire, compilation tierce) :* 2.e.1 L'entreprise fait appel à un organisme tiers disposant d'une expertise pertinente pour réaliser un audit d'équité.
+
 ### 2.e.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The audit produces a report with a written summary of the audit methodology.
 
+*Traduction FR (à relire, compilation tierce) :* 2.e.2 L'audit donne lieu à un rapport contenant un résumé écrit de la méthodologie d'audit.
+
 ### 2.e.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The equity audit includes feedback from relevant social identity groups.
+
+*Traduction FR (à relire, compilation tierce) :* 2.e.3 L'audit d'équité inclut les retours des groupes d'identité sociale concernés.
 
 ### 2.e.4
 
@@ -60,17 +66,42 @@ The scope of the equity audit includes, at minimum, the company’s:
 - b) internal and external communication
 - c) products and services.
 
+*Traduction FR (à relire, compilation tierce) :* 2.e.4 Le périmètre de l'audit d'équité comprend, au minimum, les éléments suivants de l'entreprise :
+a) Les collaborateurs et collaboratrices ;
+b) La communication interne et externe ;
+c) Les produits et services.
+
 ### 2.e.5
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company publicly shares a summary of the audit results.
 
+*Traduction FR (à relire, compilation tierce) :* 2.e.5 L'entreprise rend public un résumé des résultats de l'audit.
+
 ### 2.e.6
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Audit participants can choose to remain anonymous.
+
+*Traduction FR (à relire, compilation tierce) :* 2.e.6 Les personnes qui participent à l'audit peuvent choisir de rester anonymes.
+
+Clarification des critères de conformité :
+[2.e.1] Un audit d'équité évalue les impacts directs et indirects de l'entreprise sur les personnes, par rapport à une ou plusieurs identités sociales. Un
+audit d'équité peut dépasser le périmètre des critères de conformité et inclure, par exemple, les pratiques de la chaîne d'approvisionnement et les activités politiques.
+[2.e.1 ; 2.e.3] L'audit d'équité peut porter sur une ou plusieurs identités sociales.
+[2.e.1 ; 2.e.5] L'entreprise n'est pas tenue d'utiliser les termes "équité" ou "JEDI".
+[2.e.1] L'expression "expertise pertinente" signifie que l'organisme tiers possède :
+a) une expérience préalable dans la réalisation d'audits d'équité
+b) une expertise dans le contexte géographique et culturel concerné
+c) la capacité d'interroger les collaborateurs et collaboratrices dans la langue de leur choix ou dans la langue de travail de l'entreprise
+d) une expertise ou des profils qui correspondant aux identités sociales des collaborateurs et collaboratrices (par exemple, si le personnel de l'entreprise est diversifié sur le plan ethno-culturel, l'équipe d'audit est également diversifiée sur le plan ethno-culturel ou possède une expertise en la matière).
+[2.e.3] L'entreprise et l'organisme tiers veillent à ne pas désanonymiser accidentellement les retours des participants et participantes à l'audit. Cela peut constituer un risque dans les cas où les informations sont facilement identifiables, ou lorsqu'un groupe est particulièrement petit (par exemple, s'il n'y a qu'une seule collaboratrice).
+Application des critères aux filiales se certifiant de manière indépendante :
+a) L'audit d'équité couvre l'entreprise. Si l'entreprise se réfère à un audit d'équité réalisé au niveau du groupe, hors de son périmètre, elle consigne des preuves :
+i) de la manière dont l'audit d'équité a pris en compte ses parties prenantes et ses impacts opérationnels
+ii) de la pertinence des conclusions de l'audit d'équité au regard de son contexte.
 
 ## Intent
 

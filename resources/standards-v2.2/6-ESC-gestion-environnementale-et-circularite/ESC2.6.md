@@ -217,7 +217,7 @@ Impact Area : Environmental Stewardship & Circularity (Gestion environnementale 
 
 ## Requirement
 
-**ESC2** : The company has a strategy to address its actual and potential negative environmental impacts, and to support staying within ecological
+**ESC2** : The company has a strategy to address its actual and potential negative environmental impacts, and to support staying within ecological thresholds.
 
 **ESC2.6** : The company assesses the potential negative environmental impacts related to potential organizational clients and projects, and takes necessary mitigation actions.
 

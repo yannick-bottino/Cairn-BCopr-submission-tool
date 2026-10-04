@@ -7,7 +7,7 @@ requirement_code: "ESC5"
 type: "sous_exigence"
 year: 5
 criteria: ["5.7.1", "5.7.2"]
-pages: "1141-1148"
+pages: "1141-1147"
 applicabilite:
   - {taille: "XX Large", secteur: "Wholesale/Retail", industrie: "All"}
   - {taille: "XX Large", secteur: "Manufacturing", industrie: "All"}
@@ -23,7 +23,7 @@ genere_par: "tools/build_standard_md.py, ne pas modifier à la main"
 
 *Intitulé FR (traduction à relire) : L'entreprise collabore avec ses fournisseurs pour remédier aux impacts environnementaux liés aux matières premières à haut risque*
 
-Impact Area : Environmental Stewardship & Circularity (Gestion environnementale et circularité). Pages PDF 1141-1148. Échéance : Year 5.
+Impact Area : Environmental Stewardship & Circularity (Gestion environnementale et circularité). Pages PDF 1141-1147. Échéance : Year 5.
 
 ## Requirement
 

@@ -42,6 +42,17 @@ The company is confirmed to be:
 - b) in operation for at least 12 months
 - c) generating a majority of revenue from a competitive market.
 
+*Traduction FR (à relire, compilation tierce) :* 1.1.1 Il est confirmé que l'entreprise est :
+a) une entité commerciale constituée en société
+b) en activité depuis au moins 12 mois
+c) génère une majorité de ses revenus d'activités commerciales dans un marché concurrentiel.
+
+Les entreprises suivantes sont éligibles à la certification B Corp :
+a) Les entités commerciales uniques, c'est-à-dire sans société mère ni filiales.
+b) Les sociétés mères disposant de filiales qu'elles détiennent en totalité ou en majorité.
+c) Les filiales qui opèrent comme des entités indépendantes, distinctes de leur société mère ou sœur, et qui ne partagent ni le nom ni le logo de cette dernière, ou qui, si elles partagent le même nom, y ajoutent un qualificatif géographique ou sectoriel distinct.
+d) Les franchiseurs (propriétaires d'une marque) et les franchisés majoritaires, en fonction du périmètre et de la répartition géographique des établissements sous franchise.
+
 ### 1.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -53,6 +64,13 @@ The company does not fall into any of the following categories.
 - c) Non-profits or Civil Society Organizations (CSOs), foundations, or charitable entities, unless otherwise approved by B Lab
 - d) Governments, government agencies, government ministries, or state-owned enterprises, unless otherwise approved by B Lab
 - e) Company legally registered in regions not covered operationally by B Lab and not part of a larger group registered in a region covered by B Lab
+
+*Traduction FR (à relire, compilation tierce) :* 1.1.2 L'entreprise ne relève d'aucune des catégories suivantes.
+a) Divisions, marques, unités commerciales ou entreprises qui ne sont pas entièrement distinctes de leur société mère ou de leur groupe de sociétés affiliées
+b) Les franchiseurs qui ne détiennent pas la majorité des établissements qui opèrent sous leur franchise à l'échelle mondiale, ou les franchiseurs dont les franchisés partagent le même périmètre géographique que des franchisés indépendants.
+c) Les organisations de la société civile (OSC), les fondations ou les entités caritatives, sauf avis contraire de B Lab.
+d) Les gouvernements, les agences gouvernementales, les ministères ou les entreprises publiques, sauf avis contraire de B Lab.
+e) Les entreprises légalement enregistrées dans des régions non couvertes opérationnellement par B Lab et qui ne font pas partie d'un groupe plus important enregistré dans une région couverte par B Lab.
 
 ## Intent
 

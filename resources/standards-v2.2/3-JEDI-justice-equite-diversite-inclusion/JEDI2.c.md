@@ -43,6 +43,12 @@ The company reviews at least five policies that affect people using:
 - c) its JEDI commitment statement, if applicable (JEDI2.a)
 - d) its improved in-house knowledge or capacity, if applicable (JEDI2.b).
 
+*Traduction FR (à relire, compilation tierce) :* 2.c.1 L'entreprise examine au moins cinq politiques ayant une incidence sur les personnes via :
+a) Les données de JEDI1 ;
+b) Les retours des parties prenantes ;
+c) La déclaration d'engagement JEDI de l’entreprise, le cas échéant (JEDI2.a) ;
+d) Le renforcement des connaissances ou capacités internes, le cas échéant (JEDI2.b).
+
 ### 2.c.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -53,11 +59,18 @@ The review looks at:
 - b) impacts the policies have on people
 - c) relationships to JEDI principles.
 
+*Traduction FR (à relire, compilation tierce) :* 2.c.2 L'examen porte sur :
+a) La terminologie utilisée dans les politiques ;
+b) L'impact de ces politiques sur les personnes ;
+c) Les relations avec les principes JEDI.
+
 ### 2.c.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 Following its review, the company updates the policies if needed.
+
+*Traduction FR (à relire, compilation tierce) :* 2.c.3 À la suite de cet examen, l'entreprise met à jour les politiques si nécessaire.
 
 ## Intent
 

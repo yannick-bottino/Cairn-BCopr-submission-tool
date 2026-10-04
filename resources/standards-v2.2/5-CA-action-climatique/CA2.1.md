@@ -37,6 +37,8 @@ Impact Area : Climate Action (Action climatique). Pages PDF 784-793. Échéance 
 
 The company publishes its climate action plan on its webpage or has another way for stakeholders to easily access it.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.1 L'entreprise publie son plan d'action climatique sur son site internet ou met à disposition un autre moyen permettant aux parties prenantes d'y accéder facilement.
+
 ### 2.1.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -49,11 +51,20 @@ The company’s action plan:
 - d) outlines how the company will engage and work with stakeholders
 - e) is approved by the highest governing body.
 
+*Traduction FR (à relire, compilation tierce) :* 2.1.2 
+a) S'engage à soutenir l'ambition mondiale de limiter le réchauffement climatique à 1,5°C,
+b) Comprend des objectifs spécifiques, mesurables, réalisables, pertinents et limités dans le temps (SMART) en matière de performance et d'impact,
+c) Précise la manière dont l'entreprise alloue les ressources humaines, techniques et matérielles nécessaires à la mise en œuvre de son plan d'action,
+d) Décrit la manière dont l'entreprise s'engage et travaille avec ses parties prenantes,
+e) Est approuvé par la plus haute instance de gouvernance.
+
 ### 2.1.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The company updates its action plan every 36 months.
+
+*Traduction FR (à relire, compilation tierce) :* 2.1.3 L'entreprise met à jour son plan tous les trois ans.
 
 ## Intent
 

@@ -38,6 +38,8 @@ Impact Area : Justice, Equity, Diversity & Inclusion (Justice, équité, diversi
 
 The company uses stakeholder feedback to assess a product or service for inclusivity.
 
+*Traduction FR (à relire, compilation tierce) :* 2.q.1 L'entreprise s'appuie sur les retours des parties prenantes pour évaluer l'inclusivité d'un produit ou d'un service.
+
 ### 2.q.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -46,6 +48,10 @@ The assessment highlights:
 
 - a) which specific social identity groups may experience barriers when accessing the product or service
 - b) what those barriers are.
+
+*Traduction FR (à relire, compilation tierce) :* 2.q.2 L'évaluation met en évidence :
+a) Quels sont les groupes d'identité sociale spécifiques susceptibles de rencontrer des obstacles lors de l'accès au produit ou au service ;
+b) Quels sont ces obstacles.
 
 ## Intent
 

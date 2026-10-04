@@ -55,6 +55,13 @@ The company’s assessment:
 - d) is based on internal and external research, and engagement with stakeholders
 - e) prioritizes issues based on severity and likelihood.
 
+*Traduction FR (à relire, compilation tierce) :* 1.7.1 L'évaluation de l'entreprise :
+a) Couvre les activités directes et la chaîne de valeur de l'entreprise ;
+b) Identifie tout impact négatif réel ou potentiel des activités directes et de la chaîne de valeur de l'entreprise susceptible de contribuer aux cinq facteurs de changement de la nature ;
+c) Identifie tout impact négatif réel ou potentiel des activités directes et de la chaîne de valeur de l'entreprise sur le bien-être animal ;
+d) Est fondée sur des recherches internes et externes, ainsi que sur l'engagement des parties prenantes ;
+e) Hiérarchise les sujets en fonction de leur gravité et de leur probabilité.
+
 ### 1.7.2
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
@@ -66,11 +73,19 @@ The assessment includes:
 - c) a list of high impact commodities or products in the supply chain, and an explanation of how they were identified
 - d) a list of prioritized material environmental impact areas.
 
+*Traduction FR (à relire, compilation tierce) :* 1.7.2 L'évaluation comprend :
+a) Une vue d'ensemble de la chaîne de valeur de l'entreprise indiquant les impacts négatifs réels ou potentiels sur la nature et le bien-être animal ;
+b) Une liste des activités prioritaires de la chaîne de valeur et des activités directes de l'entreprise qui contribuent aux impacts négatifs sur la nature ;
+c) Une liste des matières premières ou des produits à fort impact dans la chaîne d'approvisionnement, et une explication de la manière dont ils ont été identifiés ;
+d) Une liste des enjeux d'impacts environnementaux matériels classée par ordre de priorité.
+
 ### 1.7.3
 
 *Échéance du critère : Year 0 (celle de la sous-exigence)*
 
 The assessment was completed or updated in the last 36 months.
+
+*Traduction FR (à relire, compilation tierce) :* 1.7.3 L'évaluation a été réalisée ou mise à jour au cours des 36 derniers mois.
 
 ### 1.7.4
 
@@ -80,6 +95,10 @@ If water, biodiversity, and waste were not deemed material, the company records 
 
 - a) includes credible scientific evidence
 - b) is approved by the highest governing body or executive team.
+
+*Traduction FR (à relire, compilation tierce) :* 1.7.4 Si l'eau, la biodiversité et les déchets n'ont pas été jugés matériels, l'entreprise en donne une explication écrite. L'explication écrite :
+a) Comprend des preuves scientifiques crédibles ;
+b) Est approuvée par la plus haute instance ou organe de direction.
 
 ### 1.7.5
 
