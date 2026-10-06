@@ -1,6 +1,7 @@
 """Référentiel B Lab Standards V2.2 : lecture du CSV, codes FR <-> EN, applicabilité.
 
-Seule source des codes d'exigence : shared/referentiel/bcorp_v2.2_requirements.csv.
+Seule source des codes d'exigence : resources/standards-v2.2/bcorp_v2.2_requirements.csv,
+extrait du PDF officiel (resources/standards-v2.2/_source/).
 Tout code absent de ce fichier est refusé (UnknownCode).
 """
 from __future__ import annotations
@@ -11,9 +12,17 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-REF_DIR = Path(__file__).resolve().parents[1] / "referentiel"
-CSV_PATH = REF_DIR / "bcorp_v2.2_requirements.csv"
+ROOT = Path(__file__).resolve().parents[2]
+REF_DIR = ROOT / "shared" / "referentiel"
+STD_DIR = ROOT / "resources" / "standards-v2.2"
+CSV_PATH = STD_DIR / "bcorp_v2.2_requirements.csv"
+CRITERIA_EN_PATH = STD_DIR / "criteres_en.csv"
+CRITERIA_FR_PATH = STD_DIR / "criteres_fr.csv"
 AREAS_PATH = REF_DIR / "impact_areas.json"
+
+# Coquilles d'ids de critères imprimées dans le PDF (et reprises par le CSV) : (code, id imprimé) -> id corrigé
+ID_FIXES = {("FW1.1", "1.2.3"): "1.1.3"}
+DEADLINE_YEAR = {"Before Year 0": 0, "Year 0": 0, "Year 3": 3, "Year 5": 5}
 
 SIZES = ["Company without workers", "Micro", "Small", "Medium", "Large", "X Large", "XX Large"]
 SECTORS = [
@@ -41,6 +50,18 @@ class ImpactArea:
     colors: tuple[str, ...]
 
 
+@dataclass(frozen=True)
+class Criterion:
+    id: str
+    text_en: str
+    text_fr: str
+    deadline: str      # Before Year 0 | Year 0 | Year 3 | Year 5
+
+    @property
+    def year(self) -> int:
+        return DEADLINE_YEAR[self.deadline]
+
+
 @dataclass
 class Requirement:
     code: str                 # code plateforme, ex. PSG1.1
@@ -56,6 +77,11 @@ class Requirement:
     page_pdf: str
     tracks: list[tuple[str, str, str]] = field(repr=False)  # (taille, secteur, industrie)
     evidence_examples: str = ""
+    criteria: list[Criterion] = field(default_factory=list, repr=False)
+
+    def criteria_until(self, horizon: int) -> list[Criterion]:
+        """Critères dont l'échéance propre tombe dans l'horizon retenu."""
+        return [c for c in self.criteria if c.year <= horizon]
 
     @property
     def req_ids(self) -> list[str]:
@@ -83,6 +109,9 @@ class Referentiel:
     @classmethod
     def load(cls, csv_path: Path = CSV_PATH, areas_path: Path = AREAS_PATH) -> "Referentiel":
         meta = json.loads(Path(areas_path).read_text(encoding="utf-8"))
+        texts_en = _read_criteria(CRITERIA_EN_PATH, "texte_en")
+        deadlines = _read_criteria(CRITERIA_EN_PATH, "echeance_critere")
+        texts_fr = _read_criteria(CRITERIA_FR_PATH, "texte_fr")
         areas = {
             k: ImpactArea(k, v["prefix_excel"], v["name_fr"], v["name_en"], tuple(v["colors"]))
             for k, v in meta["areas"].items()
@@ -92,7 +121,12 @@ class Referentiel:
             for x in csv.DictReader(f):
                 ia = areas[x["impact_topic_code"]]
                 tracks = [tuple(t.split(" | ")) for t in x["track_factors_brut"].split(" || ") if t]
-                ids = [c.strip() for c in x["criteres_conformite_ids"].split(",") if c.strip()]
+                ids = [ID_FIXES.get((x["code"], c.strip()), c.strip())
+                       for c in x["criteres_conformite_ids"].split(",") if c.strip()]
+                ids = list(dict.fromkeys(ids))
+                year = int(x["echeance"].replace("Year", ""))
+                criteria = [Criterion(i, texts_en.get((x["code"], i), ""), texts_fr.get((x["code"], i), ""),
+                                      deadlines.get((x["code"], i)) or f"Year {year}") for i in ids]
                 rows.append(Requirement(
                     code=x["code"],
                     code_excel=_excel_code(ia.prefix_excel, x["code"][len(ia.code):]),
@@ -102,11 +136,12 @@ class Referentiel:
                     type_ligne=x["type_ligne"],
                     title_en=x["intitule_en"],
                     title_fr=x["intitule_fr"],
-                    year=int(x["echeance"].replace("Year", "")),
-                    criteria_ids=list(dict.fromkeys(ids)),
+                    year=year,
+                    criteria_ids=ids,
                     page_pdf=x["page_pdf"],
                     tracks=tracks,
                     evidence_examples=x["preuves_exemples_kb"],
+                    criteria=criteria,
                 ))
         return cls(rows, areas, meta["order"])
 
@@ -132,6 +167,16 @@ class Referentiel:
     def impact_area(self, code: str) -> ImpactArea:
         return self.areas[code]
 
+    # --- Risk Tool -------------------------------------------------------------
+
+    def risk_rules(self) -> list["RiskRule"]:
+        """Règles des 14 questions du Risk Tool, lues dans le texte officiel des critères."""
+        return _risk_rules(self)
+
+    def risk_effects(self, size: str, sector: str, industry: str, questions: list[str]) -> "RiskEffects":
+        """Sous-exigences ajoutées, remplacées ou à lire avec l'impact potentiel, pour les réponses « oui »."""
+        return _risk_effects(self, size, sector, industry, questions)
+
     # --- applicabilité -------------------------------------------------------
 
     def applicable(self, size: str, sector: str, horizon: int) -> list[Requirement]:
@@ -144,51 +189,130 @@ class Referentiel:
         return [r for r in self.rows if r.year <= horizon and r.applies_to(size, sector)]
 
 
+def _read_criteria(path: Path, column: str) -> dict[tuple[str, str], str]:
+    if not Path(path).exists():
+        return {}
+    with open(path, encoding="utf-8-sig", newline="") as f:
+        return {(x["code"], x["critere_id"]): x[column] for x in csv.DictReader(f)}
+
+
 def _excel_code(prefix_excel: str, rest: str) -> str:
     return f"{prefix_excel} {rest}"
 
 
-# --- taille ------------------------------------------------------------------
 
-SIZE_PATH = REF_DIR / "size_thresholds.json"
+# --- Risk Tool (FR3.1.a à n) ---------------------------------------------------
+# Les règles sont lues dans le texte officiel des critères (criteres_en.csv), jamais recopiées à la main.
+
+_SCOPE_RE = re.compile(r"^\[(.+?) compan(?:y|ies) in (.+?)\]")
+_SIZE_RE = re.compile(r"XX Large|X Large|Large|Medium|Small|Micro")
+_MEETS_RE = re.compile(r"meets ((?:[A-Z]{2,4})?\d+\.\d+(?:\s*(?:,\s*and|,|and)\s*(?:[A-Z]{2,4})?\d+\.\d+)*)")
+_CODE_PART_RE = re.compile(r"([A-Z]{2,4})?(\d+\.\d+)")
+_REPLACE_RE = re.compile(r"not applicable\W{0,3} for ([A-Z]{2,4}\d+\.\d+) because ([A-Z]{2,4}\d+\.\d+) replaces it")
+_CONSIDER_RE = re.compile(r"considers the potential impact.*?\(([A-Z]{2,4}\d+\.\d+)\)", re.S)
+_SECTOR_WORDS = [
+    ("Wholesale/Retail", "Wholesale/Retail"), ("Retail/Wholesale", "Wholesale/Retail"),
+    ("Agriculture", "Agriculture/Growers"),
+    ("significant footprint", "Service with Significant Environmental Footprint"),
+    ("minor footprint", "Service with Minor Environmental Footprint"),
+]
 
 
 @dataclass(frozen=True)
-class SizeResult:
-    category: str
-    by_etp: str
-    by_revenue: str
-    confirmed: bool
-    boundary_issue: bool
-    note: str
+class RiskRule:
+    question: str
+    criterion: str
+    sizes: tuple[str, ...]
+    sectors: tuple[tuple[str, str], ...]   # (secteur, contrainte industrie : "" | "Mining" | "!Mining")
+    adds: list[str]
+    replaces: dict[str, str]
+    consider: list[str]
+    no_change: bool
+
+    def matches(self, size: str, sector: str, industry: str) -> bool:
+        if size not in self.sizes:
+            return False
+        mining = "mining" in (industry or "").lower()
+        for sec, constraint in self.sectors:
+            if sec != sector:
+                continue
+            if constraint == "Mining" and not mining:
+                continue
+            if constraint == "!Mining" and mining:
+                continue
+            return True
+        return False
 
 
-def size_category(etp: float, revenue_usd: float, path: Path = SIZE_PATH) -> SizeResult:
-    """Taille B Lab : la plus petite des deux catégories (effectif ETP, CA en USD)."""
-    t = json.loads(Path(path).read_text(encoding="utf-8"))
-    bands = t["bands"]
-    gaps = t["boundary_gaps"]
-    boundary = etp in gaps["etp"] or revenue_usd in gaps["ca"]
+@dataclass
+class RiskEffects:
+    adds: set[str] = field(default_factory=set)
+    replaces: dict[str, str] = field(default_factory=dict)
+    consider: dict[str, list[str]] = field(default_factory=dict)
+    sources: dict[str, list[str]] = field(default_factory=dict)   # code ajouté -> questions qui l'ajoutent
 
-    def band(value, lo, hi, excl):
-        for b in bands:
-            top = b[hi]
-            if value >= b[lo] and (top is None or (value < top if excl else value <= top)):
-                return b["category"]
-        return bands[-1]["category"] if value > 0 else None  # trou de bornes : catégorie supérieure, signalée
 
-    if etp == 0:
-        by_etp = "Company without workers"
-    else:
-        by_etp = band(etp, "etp_min", "etp_max", False)
-    by_ca = band(revenue_usd, "ca_min", "ca_max_excl", True) or "Micro"
-    if by_etp == "Company without workers":
-        category = by_etp
-    else:
-        category = min(by_etp, by_ca, key=SIZES.index)
-    note = "Seuils sourcés mais non vérifiés à l'oeil sur B Lab : taille à confirmer."
-    if t["verified"]:
-        note = "Seuils vérifiés."
-    if boundary:
-        note += " Valeur pile sur un trou du tableau B Lab (10 000 ETP / 1,5 Md USD) : à trancher sur la plateforme."
-    return SizeResult(category, by_etp, by_ca, bool(t["verified"]), boundary, note)
+def _parse_sectors(text: str) -> tuple[tuple[str, str], ...]:
+    if "all sectors" in text:
+        return tuple((s, "") for s in SECTORS)
+    out = []
+    if "Mining (an industry listed under Manufacturing)" in text:
+        out.append(("Manufacturing", "Mining"))
+        text = text.replace("Mining (an industry listed under Manufacturing)", "")
+    if "Manufacturing (except Mining)" in text:
+        out.append(("Manufacturing", "!Mining"))
+    elif "Manufacturing" in text:
+        out.append(("Manufacturing", ""))
+    for word, sector in _SECTOR_WORDS:
+        if word in text and (sector, "") not in out:
+            out.append((sector, ""))
+    return tuple(out)
+
+
+def _parse_codes(group: str) -> list[str]:
+    codes, prefix = [], ""
+    for p, num in _CODE_PART_RE.findall(group):
+        prefix = p or prefix
+        codes.append(f"{prefix}{num}")
+    return codes
+
+
+def _risk_rules(self) -> list[RiskRule]:
+    rules = []
+    for row in self.rows:
+        if row.type_ligne != "question_risk_tool":
+            continue
+        for c in row.criteria:
+            text = " ".join(c.text_en.split())
+            scope = _SCOPE_RE.match(text)
+            sizes = tuple(_SIZE_RE.findall(scope.group(1))) if scope else ()
+            sectors = _parse_sectors(scope.group(2)) if scope else ()
+            adds = [code for m in _MEETS_RE.finditer(text) for code in _parse_codes(m.group(1))]
+            replaces = dict(_REPLACE_RE.findall(text))
+            consider = _CONSIDER_RE.findall(text)
+            rules.append(RiskRule(row.code, c.id, sizes, sectors, [self.to_site(a) for a in adds],
+                                  {self.to_site(k): self.to_site(v) for k, v in replaces.items()},
+                                  [self.to_site(x) for x in consider], "no change" in text))
+    return rules
+
+
+def _risk_effects(self, size: str, sector: str, industry: str, questions: list[str]) -> RiskEffects:
+    asked = []
+    for q in questions:
+        code = self.to_site(q)
+        if self.get(code).type_ligne != "question_risk_tool":
+            raise UnknownCode(q)
+        asked.append(code)
+    eff = RiskEffects()
+    for rule in self.risk_rules():
+        if rule.question in asked and rule.matches(size, sector, industry):
+            eff.adds.update(rule.adds)
+            for code in rule.adds:
+                eff.sources.setdefault(code, []).append(rule.question)
+            eff.replaces.update(rule.replaces)
+            for code in rule.consider:
+                eff.consider.setdefault(code, [])
+                if rule.question not in eff.consider[code]:
+                    eff.consider[code].append(rule.question)
+    return eff
+

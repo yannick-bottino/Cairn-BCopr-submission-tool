@@ -1,0 +1,617 @@
+{
+ "PSG1.1": {
+  "code_fr": "MGPP1.1",
+  "titre_fr": "L'entreprise établit une raison d'être publique visant à générer un impact positif significatif",
+  "preuves": "Déclaration de raison d'être publique sur le site internet ; déclaration complémentaire si le lien au modèle d'affaires / à la stratégie n'est pas explicite"
+ },
+ "PSG2.1": {
+  "code_fr": "MGPP2.1",
+  "titre_fr": "L'entreprise dispose d'un mécanisme permettant de prendre en compte ou d'impliquer ses parties prenantes",
+  "preuves": "Documentation du mécanisme d'engagement : CR de réunions, résultats d'enquêtes, charte de comité consultatif ; preuve de représentation de chaque catégorie de parties prenantes"
+ },
+ "PSG2.2": {
+  "code_fr": "MGPP2.2",
+  "titre_fr": "L'entreprise dispose d'une politique de gouvernance des parties prenantes",
+  "preuves": "Politique de gouvernance des parties prenantes formalisée ; PV d'approbation par l'instance dirigeante ; communication interne indiquant où trouver la politique"
+ },
+ "PSG2.3": {
+  "code_fr": "MGPP2.3",
+  "titre_fr": "L'entreprise procède régulièrement à une analyse de matérialité",
+  "preuves": "Rapport / méthodologie d'analyse de matérialité (double matérialité ou matérialité d'impact, incluant droits humains et environnement) de moins de 36 mois ; PV de supervision ; publication (matrice + résumé méthodo)"
+ },
+ "PSG2.4": {
+  "code_fr": "MGPP2.4",
+  "titre_fr": "L'entreprise identifie les enjeux matériels non couverts par les standards de B Lab",
+  "preuves": "Liste des enjeux matériels non couverts ; au moins un objectif SMART par enjeu, public, approuvé ; responsables désignés ; suivi annuel publié"
+ },
+ "PSG2.5": {
+  "code_fr": "MGPP2.5",
+  "titre_fr": "L'entreprise tient compte de ses parties prenantes dans la prise de décision concernant les dividendes et les rachats d'actions",
+  "preuves": "PV du conseil montrant la prise en compte des parties prenantes ; analyses d'impact ; reporting public de l'allocation des fonds"
+ },
+ "PSG3.1": {
+  "code_fr": "MGPP3.1",
+  "titre_fr": "L'entreprise dispose d'une procédure de réclamation accessible au public",
+  "preuves": "Lien vers le formulaire public ; procédure (éligibilité, étapes, délais, résolution) ; protection contre les représailles ; traces de communication avec le plaignant"
+ },
+ "PSG3.2": {
+  "code_fr": "MGPP3.2",
+  "titre_fr": "L'entreprise recense les réclamations et attribue la responsabilité de leur résolution",
+  "preuves": "Registre des réclamations (tableur/logiciel) ; synthèse annuelle ; organigramme / fiche de poste du responsable ; dossiers clos (ou procédure si aucune réclamation)"
+ },
+ "PSG3.3": {
+  "code_fr": "MGPP3.3",
+  "titre_fr": "L'entreprise dispose d'une procédure de réclamation accessible au public",
+  "preuves": "Page web de la procédure dans les langues des plaignants ; procédure documentée ; protection contre les représailles ; prévention des conflits d'intérêts"
+ },
+ "PSG3.4": {
+  "code_fr": "MGPP3.4",
+  "titre_fr": "L'entreprise recense les réclamations et rend compte auprès de la plus haute instance de direction et des parties prenantes",
+  "preuves": "Rapport interne annuel sur les réclamations ; PV de présentation à l'instance dirigeante ; informations publiques (nombre, rejets, issues) selon les critères d'efficacité UNGP"
+ },
+ "PSG4.1": {
+  "code_fr": "MGPP4.1",
+  "titre_fr": "L'entreprise s'est dotée de principes en matière de marketing et de communication responsables",
+  "preuves": "Principes documentés (politique interne ou code de conduite) ; preuve de diffusion aux salariés (intranet, formation, e-mail)"
+ },
+ "PSG4.2": {
+  "code_fr": "MGPP4.2",
+  "titre_fr": "L'entreprise dispose d'une politique de marketing et de communication responsables supervisée par l'équipe de direction",
+  "preuves": "Politique formalisée approuvée ; organigramme ou RACI ; preuves de communication interne"
+ },
+ "PSG5.1": {
+  "code_fr": "MGPP5.1",
+  "titre_fr": "La plus haute instance de direction supervise le déploiement de la raison d'être et la gestion de l'impact",
+  "preuves": "PV de l'instance dirigeante des 12 derniers mois (ordre du jour et échanges sur raison d'être, performance sociale/environnementale, gouvernance des parties prenantes)"
+ },
+ "PSG5.2": {
+  "code_fr": "MGPP5.2",
+  "titre_fr": "Les exigences de supervision sont définies dans le cadre de référence de la plus haute instance de direction",
+  "preuves": "Documents de gouvernance / règlement intérieur du conseil formalisant la responsabilité de supervision"
+ },
+ "PSG5.3": {
+  "code_fr": "MGPP5.3",
+  "titre_fr": "Tous les membres de l'équipe de direction ont au moins un objectif annuel lié aux performances sociales ou environnementales",
+  "preuves": "Objectifs individuels de la direction ; évaluations annuelles ; objectifs SMART alignés sur la stratégie"
+ },
+ "PSG5.4": {
+  "code_fr": "MGPP5.4",
+  "titre_fr": "Si l'entreprise dispose d'un système de rémunération incitative pour l'équipe de direction, celui-ci intègre des objectifs de performance sociale et environnementale",
+  "preuves": "Documents liant la part variable à des objectifs d'impact ; rapports RH/rémunération (% de la rémunération) ; critères SMART"
+ },
+ "PSG5.5": {
+  "code_fr": "MGPP5.5",
+  "titre_fr": "L'entreprise inclut des objectifs de performance sociale ou environnementale dans les évaluations de performance des managers",
+  "preuves": "Supports d'entretiens / fixation d'objectifs des managers ; extraits SIRH ; objectifs SMART revus"
+ },
+ "PSG6.1": {
+  "code_fr": "MGPP6.1",
+  "titre_fr": "Chaque année, l'entreprise rend compte publiquement de ses performances sociales et environnementales",
+  "preuves": "Rapport annuel d'impact approuvé par l'instance dirigeante et publié en ligne (ou rapport complet tous les deux ans + mise à jour annuelle)"
+ },
+ "PSG6.2": {
+  "code_fr": "MGPP6.2",
+  "titre_fr": "Chaque année, l'entreprise rend compte publiquement en s'appuyant sur un standard externe",
+  "preuves": "Rapport public référencé à un cadre externe (ex. GRI, ESRS), approuvé par l'instance dirigeante"
+ },
+ "PSG6.3": {
+  "code_fr": "MGPP6.3",
+  "titre_fr": "L'entreprise évalue la capacité des collaborateurs et collaboratrices à mettre en œuvre sa stratégie sociale et environnementale",
+  "preuves": "Enquête / évaluation des salariés au moins tous les 24 mois (connaissances, préparation), participation volontaire, synthèse des résultats et suites"
+ },
+ "GACA1.1": {
+  "code_fr": "APAC1.1",
+  "titre_fr": "L'entreprise dispose d'une politique publiquement accessible en matière de lobbying responsable",
+  "preuves": "Politique de lobbying publiée sur le site ; PV d'approbation"
+ },
+ "GACA1.2": {
+  "code_fr": "APAC1.2",
+  "titre_fr": "L'entreprise rend publique ses positions en matière de lobbying ainsi que ses contributions politiques",
+  "preuves": "Rapport public (contributions politiques, principales positions) ; PV ; rapport annuel"
+ },
+ "GACA1.3": {
+  "code_fr": "APAC1.3",
+  "titre_fr": "L'entreprise rend publiques ses positions en matière de lobbying et ses contributions politiques",
+  "preuves": "Rapport public (contributions politiques, principales positions) ; PV de supervision"
+ },
+ "GACA2.1": {
+  "code_fr": "APAC2.1",
+  "titre_fr": "L'entreprise prend part à des actions collectives visant à promouvoir des impacts sociaux ou environnementaux positifs",
+  "preuves": "Confirmation écrite de l'option retenue (a-e) ; traces : mentorat, recherche externe, collaboration multipartite, plaidoyer, leadership d'opinion"
+ },
+ "GACA2.5": {
+  "code_fr": "APAC2.5",
+  "titre_fr": "L'entreprise participe à une action collective visant à faire progresser les impacts sociaux ou environnementaux",
+  "preuves": "Confirmation écrite des options retenues (a-e)"
+ },
+ "GACA2.6": {
+  "code_fr": "APAC2.6",
+  "titre_fr": "L'entreprise inclut les initiatives multipartites ou le plaidoyer en faveur de politiques publiques",
+  "preuves": "Document démontrant une collaboration multipartite ou un plaidoyer de politique publique parmi les actions collectives retenues"
+ },
+ "GACA3.1": {
+  "code_fr": "APAC3.1",
+  "titre_fr": "L'entreprise dispose d'une politique en matière de fiscalité responsable et la rend publique",
+  "preuves": "Politique fiscale (autonome ou intégrée) ; approbation ; publication"
+ },
+ "GACA3.2": {
+  "code_fr": "APAC3.2",
+  "titre_fr": "L'entreprise publie son reporting pays par pays pour chaque année fiscale",
+  "preuves": "Rapport fiscal pays par pays ; supervision par l'instance dirigeante ; publication annuelle"
+ },
+ "ESC1.1": {
+  "code_fr": "GEC1.1",
+  "titre_fr": "L'entreprise surveille la production de déchets issus de ses activités et leur destination finale",
+  "preuves": "Politique/processus déchets ; rapports internes par filière ; bordereaux de suivi des déchets dangereux ; certificats d'élimination/recyclage"
+ },
+ "ESC1.2": {
+  "code_fr": "GEC1.2",
+  "titre_fr": "L'entreprise surveille sa consommation énergétique",
+  "preuves": "Processus de suivi ; factures / preuves d'installations renouvelables ; rapports de répartition énergétique ; liste des sites"
+ },
+ "ESC1.3": {
+  "code_fr": "GEC1.3",
+  "titre_fr": "L'entreprise surveille sa consommation ou son prélèvement d'eau",
+  "preuves": "Processus de suivi ; justification de la méthode de mesure ; évaluation du risque eau ; rapports de consommation"
+ },
+ "ESC1.4": {
+  "code_fr": "GEC1.4",
+  "titre_fr": "L'entreprise identifie ses infrastructures dans les zones à risque hydrique et surveille leur consommation ou leur prélèvement d'eau",
+  "preuves": "Liste géolocalisée des sites ; recherche de risque hydrique ; consommation par zone"
+ },
+ "ESC1.5": {
+  "code_fr": "GEC1.5",
+  "titre_fr": "L'entreprise identifie ses infrastructures situées en zone écologiquement sensible ou à proximité, et détermine si elles ont une incidence négative",
+  "preuves": "Recherche des zones sensibles ; évaluation d'impact biodiversité (< 36 mois) ; liste géolocalisée des sites"
+ },
+ "ESC1.6": {
+  "code_fr": "GEC1.6",
+  "titre_fr": "L'entreprise surveille les conditions de bien-être animal dans ses activités",
+  "preuves": "Cartographie des opérations impliquant des animaux ; indicateurs de bien-être ; synthèse annuelle ; conformité réglementaire"
+ },
+ "ESC1.7": {
+  "code_fr": "GEC1.7",
+  "titre_fr": "L'entreprise procède à une évaluation afin d'identifier les impacts environnementaux réels et potentiels liés à ses activités internes et à sa chaîne de valeur",
+  "preuves": "Rapport d'évaluation priorisant les enjeux environnementaux avec méthodologie (< 36 mois) ; données de performance ; engagement des parties prenantes"
+ },
+ "ESC1.8": {
+  "code_fr": "GEC1.8",
+  "titre_fr": "L'entreprise partage publiquement ses enjeux environnementaux matériels",
+  "preuves": "Lien site / rapport annuel avec matrice de matérialité et méthodologie"
+ },
+ "ESC2.1": {
+  "code_fr": "GEC2.1",
+  "titre_fr": "L'entreprise a mis en place une stratégie pour remédier à ses impacts négatifs réels et potentiels sur l'environnement",
+  "preuves": "Stratégie environnementale + plan de mise en œuvre ; approbation de la direction ; date d'adoption/révision (< 12 mois) ; PV de revue"
+ },
+ "ESC2.2": {
+  "code_fr": "GEC2.2",
+  "titre_fr": "L'entreprise dispose d'un plan de transition pour la biodiversité visant à arrêter et à inverser la perte de biodiversité",
+  "preuves": "Plan de transition biodiversité ; plans d'action ; approbation ; date (< 12 mois)"
+ },
+ "ESC2.3": {
+  "code_fr": "GEC2.3",
+  "titre_fr": "L'entreprise a mis en place une stratégie de gestion de l'eau qui limite la consommation d'eau à des seuils soutenables",
+  "preuves": "Stratégie eau ; approbation ; date (< 12 mois) ; données de contexte (autorités locales, analyses de risque)"
+ },
+ "ESC2.4": {
+  "code_fr": "GEC2.4",
+  "titre_fr": "Les politiques et procédures de l'entreprise traitent les enjeux d'impacts environnementaux matériels",
+  "preuves": "Politique/procédure pour chaque enjeu matériel"
+ },
+ "ESC2.5": {
+  "code_fr": "GEC2.5",
+  "titre_fr": "Les collaborateurs exerçant des fonctions pertinentes reçoivent les conseils dont ils ont besoin pour mettre en œuvre les politiques et procédures environnementales",
+  "preuves": "Supports de formation / outils ; feuilles de présence ; fiches de poste ; entretiens salariés"
+ },
+ "ESC2.6": {
+  "code_fr": "GEC2.6",
+  "titre_fr": "L'entreprise évalue les impacts environnementaux négatifs potentiels liés à ses prospects organisationnels et aux projets envisagés, et prend les mesures d'atténuation nécessaires",
+  "preuves": "Processus d'évaluation documenté ; politique de sélection clients ; outil de filtrage ; résultats"
+ },
+ "ESC2.7": {
+  "code_fr": "GEC2.7",
+  "titre_fr": "L'entreprise évalue les impacts environnementaux négatifs potentiels des investissements, et prend les mesures d'atténuation nécessaires",
+  "preuves": "Processus d'évaluation des investissements ; politique de sélection ; documentation de trois investissements significatifs"
+ },
+ "ESC3.1": {
+  "code_fr": "GEC3.1",
+  "titre_fr": "L'entreprise surveille ses approvisionnements en matériaux",
+  "preuves": "Vue annuelle des flux de matières (produits / emballages) ; certifications des matières renouvelables"
+ },
+ "ESC3.2": {
+  "code_fr": "GEC3.2",
+  "titre_fr": "L'entreprise réduit son utilisation de matériaux vierges non renouvelables",
+  "preuves": "Vue annuelle des flux de matières démontrant la réduction"
+ },
+ "ESC3.3": {
+  "code_fr": "GEC3.3",
+  "titre_fr": "Le développement des produits de l'entreprise intègre les principes de circularité",
+  "preuves": "Confirmation écrite des options de circularité ; fiches techniques ; documentation d'écoconception ; réduction de l'usage unique"
+ },
+ "ESC3.4": {
+  "code_fr": "GEC3.4",
+  "titre_fr": "L'entreprise comprend les infrastructures de revalorisation disponibles là où elle vend ses produits",
+  "preuves": "Analyse des infrastructures de collecte/valorisation (< 36 mois) ; note méthodologique"
+ },
+ "ESC3.5": {
+  "code_fr": "GEC3.5",
+  "titre_fr": "L'entreprise prend des mesures pour augmenter la revalorisation de ses produits et emballages après leur fin de vie",
+  "preuves": "Programmes / partenariats ; contrats REP ; mise en œuvre dans deux pays de vente majeurs"
+ },
+ "ESC4.1": {
+  "code_fr": "GEC4.1",
+  "titre_fr": "L'entreprise met en place des actions pour prévenir ou atténuer ses impacts environnementaux négatifs réels et potentiels",
+  "preuves": "Documentation des actions et résultats ; engagements publics ; indicateurs d'impact"
+ },
+ "ESC4.2": {
+  "code_fr": "GEC4.2",
+  "titre_fr": "L'entreprise progresse dans sa stratégie environnementale et en évalue l'efficacité",
+  "preuves": "Stratégie ; actions/résultats ; rapport d'évaluation d'efficacité ; mises à jour ; PV de partage à la direction"
+ },
+ "ESC4.3": {
+  "code_fr": "GEC4.3",
+  "titre_fr": "L'entreprise progresse dans son plan de transition pour la biodiversité et évalue son efficacité",
+  "preuves": "Plan biodiversité ; actions/résultats ; évaluation d'efficacité ; objectifs chaîne de valeur"
+ },
+ "ESC4.4": {
+  "code_fr": "GEC4.4",
+  "titre_fr": "L'entreprise progresse dans sa stratégie de gestion de l'eau et évalue son efficacité",
+  "preuves": "Stratégie eau ; actions/résultats ; évaluation d'efficacité ; objectifs chaîne de valeur"
+ },
+ "ESC4.5": {
+  "code_fr": "GEC4.5",
+  "titre_fr": "L'entreprise partage publiquement l'efficacité de sa stratégie environnementale",
+  "preuves": "Lien vers la publication (< 36 mois)"
+ },
+ "ESC5.1": {
+  "code_fr": "GEC5.1",
+  "titre_fr": "L'entreprise travaille avec ses prestataires de biens et de services pour atteindre ses objectifs environnementaux",
+  "preuves": "Processus annuel d'identification des cinq achats significatifs ; dépenses, factures, bons de commande, évaluations d'impact"
+ },
+ "ESC5.2": {
+  "code_fr": "GEC5.2",
+  "titre_fr": "L'entreprise prend en compte les impacts environnementaux réels et potentiels dans ses décisions d'achat",
+  "preuves": "Processus annuel d'identification des cinq achats significatifs ; dépenses, factures, bons de commande, évaluations d'impact"
+ },
+ "ESC5.3": {
+  "code_fr": "GEC5.3",
+  "titre_fr": "L'entreprise collabore avec ses fournisseurs pour prévenir ou atténuer leurs impacts environnementaux les plus matériels",
+  "preuves": "Liste des fournisseurs prioritaires et critères ; objectifs convenus ; suivi annuel"
+ },
+ "ESC5.4": {
+  "code_fr": "GEC5.4",
+  "titre_fr": "L'entreprise dispose d'un plan, défini dans le temps, pour assurer la traçabilité de l'origine de ses matières premières à haut risque ainsi que leurs impacts environnementaux potentiels",
+  "preuves": "Liste des matières à haut risque ; plan de traçabilité ; certifications / rapports ; % traçable par origine"
+ },
+ "ESC5.5": {
+  "code_fr": "GEC5.5",
+  "titre_fr": "L'entreprise s'approvisionne en matières premières non issues de la déforestation",
+  "preuves": "Certifications, rapports de traçabilité, données géospatiales ; politique zéro déforestation"
+ },
+ "ESC5.6": {
+  "code_fr": "GEC5.6",
+  "titre_fr": "L'entreprise trace une part croissante de ses matières premières à haut risque",
+  "preuves": "Évolution du % de matières traçables ; certifications / rapports"
+ },
+ "ESC5.7": {
+  "code_fr": "GEC5.7",
+  "titre_fr": "L'entreprise collabore avec ses fournisseurs pour remédier aux impacts environnementaux liés aux matières premières à haut risque",
+  "preuves": "Objectifs convenus avec les fournisseurs ; suivi annuel"
+ },
+ "CA1.1": {
+  "code_fr": "AC1.1",
+  "titre_fr": "L'entreprise dispose d'un processus documenté pour mesurer chaque année ses émissions de GES sur les scope 1, 2 et 3",
+  "preuves": "Lien vers l'inventaire GES annuel public ; inventaire avec sections méthodologiques"
+ },
+ "CA1.2": {
+  "code_fr": "AC1.2",
+  "titre_fr": "L'entreprise fait appel à un organisme tiers indépendant pour vérifier l'inventaire annuel de ses émissions de GES",
+  "preuves": "Attestation de vérification par un organisme tiers accrédité ; certificat d'accréditation"
+ },
+ "CA2.1": {
+  "code_fr": "AC2.1",
+  "titre_fr": "L'entreprise dispose d'un plan d'action climatique accessible publiquement",
+  "preuves": "Lien vers le plan public ; ressources allouées ; approbation ; mise à jour < 36 mois"
+ },
+ "CA2.2": {
+  "code_fr": "AC2.2",
+  "titre_fr": "L'entreprise a des objectifs alignés sur les connaissances scientifiques, validés par la SBTi ou vérifiés par un organisme tiers indépendant",
+  "preuves": "Lettre de validation SBTi ou vérification tierce"
+ },
+ "CA2.3": {
+  "code_fr": "AC2.3",
+  "titre_fr": "L'entreprise a un plan de transition climatique pour contribuer à la neutralité carbone 2050",
+  "preuves": "Plan de transition ; ressources ; approbation ; rapport de séquestration vérifié le cas échéant"
+ },
+ "CA2.4": {
+  "code_fr": "AC2.4",
+  "titre_fr": "L'entreprise consulte collaborateurs et parties prenantes pour garantir transition juste",
+  "preuves": "Traces de consultation (réunions, enquêtes, focus groups) ; parties prenantes vulnérables identifiées ; intégration au plan"
+ },
+ "CA3.1": {
+  "code_fr": "AC3.1",
+  "titre_fr": "Si l'entreprise dispose d'un système de rémunération incitative pour l'équipe de direction, celui-ci intègre des objectifs climatiques",
+  "preuves": "Politique de rémunération ; évaluations ; données sur la part variable climat"
+ },
+ "CA3.2": {
+  "code_fr": "AC3.2",
+  "titre_fr": "L'entreprise utilise le plaidoyer pour soutenir l'objectif mondial de zéro émission nette 2050",
+  "preuves": "Travaux avec associations professionnelles ; engagements de politique publique ; ressources allouées"
+ },
+ "CA3.3": {
+  "code_fr": "AC3.3",
+  "titre_fr": "L'entreprise fait progresser son plan d'action climatique et évalue son efficacité",
+  "preuves": "Compte rendu d'avancement ; actions réalisées ; révision des objectifs ; évaluation d'efficacité"
+ },
+ "CA3.4": {
+  "code_fr": "AC3.4",
+  "titre_fr": "L'entreprise réalise des progrès sur son plan de transition climatique et évalue son efficacité",
+  "preuves": "Progrès vers objectifs court terme (tCO2e) ; actions ; nouveaux objectifs ; évaluation d'efficacité"
+ },
+ "CA3.5": {
+  "code_fr": "AC3.5",
+  "titre_fr": "L'entreprise met en place des actions pour une transition juste",
+  "preuves": "Consultations ; actions consécutives documentées"
+ },
+ "CA3.6": {
+  "code_fr": "AC3.6",
+  "titre_fr": "L'entreprise rend publics les progrès réalisés dans le cadre de son plan d'action climatique",
+  "preuves": "Lien vers page web / rapport public"
+ },
+ "CA3.7": {
+  "code_fr": "AC3.7",
+  "titre_fr": "L'entreprise publie chaque année l'état d'avancement de son plan de transition climatique",
+  "preuves": "Lien vers page web / rapport public (progrès, actions, ressources, nouveaux objectifs)"
+ },
+ "HR1.1": {
+  "code_fr": "DH1.1",
+  "titre_fr": "L'entreprise s'engage publiquement à respecter les droits humains",
+  "preuves": "Lien vers la page / document public d'engagement"
+ },
+ "HR1.2": {
+  "code_fr": "DH1.2",
+  "titre_fr": "L'entreprise dispose d'une politique publique en matière de droits humains",
+  "preuves": "Politique publique approuvée par la direction, couvrant toutes les personnes et communautés affectées"
+ },
+ "HR2.1": {
+  "code_fr": "DH2.1",
+  "titre_fr": "L'entreprise identifie ses enjeux majeurs en matière de droits humains",
+  "preuves": "Liste hiérarchisée des enjeux saillants, évaluations d'impact, données sociales (< 36 mois)"
+ },
+ "HR2.2": {
+  "code_fr": "DH2.2",
+  "titre_fr": "L'entreprise partage publiquement ses enjeux majeurs en matière de droits humains",
+  "preuves": "Lien vers la publication (enjeux + méthodologie)"
+ },
+ "HR2.3": {
+  "code_fr": "DH2.3",
+  "titre_fr": "L'entreprise dispose d'une stratégie pour traiter ses enjeux majeurs en matière de droits humains",
+  "preuves": "Stratégie (< 12 mois) ; approbation ; plan de mise en œuvre"
+ },
+ "HR2.4": {
+  "code_fr": "DH2.4",
+  "titre_fr": "L'entreprise met en œuvre sa stratégie en matière de droits humains et évalue son efficacité",
+  "preuves": "Comptes rendus d'avancement ; rapports d'efficacité ; consultations externes ; mises à jour"
+ },
+ "HR2.5": {
+  "code_fr": "DH2.5",
+  "titre_fr": "L'entreprise partage publiquement l'efficacité de sa stratégie en matière de droits humains",
+  "preuves": "Rapport public (< 36 mois)"
+ },
+ "HR2.6": {
+  "code_fr": "DH2.6",
+  "titre_fr": "Les politiques et procédures de l'entreprise couvrent ses enjeux majeurs en matière de droits humains",
+  "preuves": "Politique ou procédure pour chaque enjeu saillant"
+ },
+ "HR2.7": {
+  "code_fr": "DH2.7",
+  "titre_fr": "Les collaborateurs occupant des postes concernés reçoivent les orientations nécessaires pour mettre en œuvre les politiques et procédures",
+  "preuves": "Supports de formation ; présence ; fiches de poste ; entretiens"
+ },
+ "HR3.1": {
+  "code_fr": "DH3.1",
+  "titre_fr": "L'entreprise dispose d'un processus pour collecter, hiérarchiser et faire remonter les impacts négatifs",
+  "preuves": "Procédure de collecte/priorisation/escalade ; rôles définis"
+ },
+ "HR3.2": {
+  "code_fr": "DH3.2",
+  "titre_fr": "L'entreprise prévient, atténue et répare les impacts négatifs réels et potentiels",
+  "preuves": "Comptes rendus d'actions ; engagements ; rapports d'impact"
+ },
+ "HR3.3": {
+  "code_fr": "DH3.3",
+  "titre_fr": "L'entreprise évalue les impacts négatifs potentiels liés aux clients organisationnels et projets",
+  "preuves": "Processus d'évaluation ; politique de sélection clients ; trois clients/projets significatifs par an"
+ },
+ "HR3.4": {
+  "code_fr": "DH3.4",
+  "titre_fr": "L'entreprise évalue les impacts négatifs potentiels liés aux investissements",
+  "preuves": "Processus d'évaluation ; politique d'investissement ; trois investissements significatifs par an"
+ },
+ "HR3.5": {
+  "code_fr": "DH3.5",
+  "titre_fr": "L'entreprise réalise une évaluation d'impact sur les droits humains",
+  "preuves": "Rapport d'EIDH ; résumé public en ligne"
+ },
+ "HR3.6": {
+  "code_fr": "DH3.6",
+  "titre_fr": "L'entreprise met en œuvre une diligence raisonnable renforcée pour activités en zones de conflit",
+  "preuves": "Rapport sur activités en zones de conflit ; engagement des parties prenantes ; déclencheurs d'action"
+ },
+ "HR4.1": {
+  "code_fr": "DH4.1",
+  "titre_fr": "L'entreprise identifie les limites de sa capacité à engager et suivre ses fournisseurs",
+  "preuves": "Analyses par pays / matières premières ; évaluations de risque ; liste des limites et mesures"
+ },
+ "HR4.2": {
+  "code_fr": "DH4.2",
+  "titre_fr": "L'entreprise prend en compte les impacts réels et potentiels sur les droits humains dans ses décisions d'achat",
+  "preuves": "Identification annuelle de trois décisions d'achat significatives ; impacts considérés"
+ },
+ "HR4.3": {
+  "code_fr": "DH4.3",
+  "titre_fr": "L'entreprise prend en compte les impacts réels et potentiels sur les droits humains dans ses décisions d'achat",
+  "preuves": "Identification annuelle de cinq décisions d'achat significatives ; impacts considérés"
+ },
+ "HR4.4": {
+  "code_fr": "DH4.4",
+  "titre_fr": "L'entreprise collabore avec ses fournisseurs pour prévenir ou atténuer les enjeux majeurs",
+  "preuves": "Fournisseurs prioritaires ; objectifs convenus ; suivi annuel"
+ },
+ "HR4.5": {
+  "code_fr": "DH4.5",
+  "titre_fr": "L'entreprise renforce ses engagements au sein de ses documents d'approvisionnement",
+  "preuves": "Retours fournisseurs ; documents d'achat modifiés"
+ },
+ "HR4.6": {
+  "code_fr": "DH4.6",
+  "titre_fr": "L'entreprise dispose d'un plan assorti d'un calendrier pour retracer origine et impacts de matières premières à haut risque",
+  "preuves": "Liste des matières à haut risque ; plan de traçabilité ; % traçable"
+ },
+ "HR4.7": {
+  "code_fr": "DH4.7",
+  "titre_fr": "L'entreprise trace un nombre croissant de matières premières à haut risque jusqu'à leur origine",
+  "preuves": "Calcul du % de matières à haut risque traçables"
+ },
+ "HR4.8": {
+  "code_fr": "DH4.8",
+  "titre_fr": "L'entreprise collabore avec ses fournisseurs pour traiter les impacts liés aux matières premières à haut risque",
+  "preuves": "Collaboration fournisseurs ; suivi annuel"
+ },
+ "HR4.9": {
+  "code_fr": "DH4.9",
+  "titre_fr": "L'entreprise identifie les écarts par rapport au salaire de subsistance dans ses contrats de services",
+  "preuves": "Évaluation des contrats de services ; calcul des écarts au salaire de subsistance"
+ },
+ "HR4.10": {
+  "code_fr": "DH4.10",
+  "titre_fr": "L'entreprise fait référence au salaire de subsistance dans ses processus d'achat de services",
+  "preuves": "Mention du salaire de subsistance dans appels d'offres / contrats"
+ },
+ "HR4.11": {
+  "code_fr": "DH4.11",
+  "titre_fr": "L'entreprise dispose d'un plan pour aborder le salaire de subsistance, revenu de subsistance ou négociation collective",
+  "preuves": "Plan interne (< 12 mois) ; approbation ; mise à jour publique"
+ },
+ "FW1.1": {
+  "code_fr": "TE1.1",
+  "titre_fr": "L'entreprise fournit à tous les salariés un contrat de travail ou une lettre d'engagement signés",
+  "preuves": "Contrats / lettres signés ; registre du personnel ; entretiens salariés"
+ },
+ "FW1.2": {
+  "code_fr": "TE1.2",
+  "titre_fr": "L'entreprise applique un délai de prévenance équitable pour les salarié·es ayant des emplois du temps variables",
+  "preuves": "Politique interne ; entretiens ; communications"
+ },
+ "FW2.1": {
+  "code_fr": "TE2.1",
+  "titre_fr": "L'entreprise a pour politique de ne pas demander les antécédents salariaux des candidats et candidates",
+  "preuves": "Politique / procédure ; entretiens"
+ },
+ "FW2.2": {
+  "code_fr": "TE2.2",
+  "titre_fr": "L'entreprise informe les collaborateurs et collaboratrices de la manière dont leur salaire est déterminé et des avantages auxquels ils et elles ont droit",
+  "preuves": "Communications ; politique accessible ; bulletins de paie"
+ },
+ "FW2.3": {
+  "code_fr": "TE2.3",
+  "titre_fr": "L'entreprise dispose d'une grille salariale",
+  "preuves": "Grille salariale ; accès intranet ; entretiens"
+ },
+ "FW2.4": {
+  "code_fr": "TE2.4",
+  "titre_fr": "L'entreprise calcule son écart de salaire entre les femmes et les hommes",
+  "preuves": "Calculs détaillés ; note méthodologique"
+ },
+ "FW2.5": {
+  "code_fr": "TE2.5",
+  "titre_fr": "L'entreprise publie son ou ses écarts de salaires entre les hommes et les femmes",
+  "preuves": "Page web / rapport public avec méthodologie"
+ },
+ "FW2.6": {
+  "code_fr": "TE2.6",
+  "titre_fr": "L'entreprise élimine l'écart de salaires entre les hommes et les femmes, le réduit ou justifie les raisons",
+  "preuves": "Calculs ; justification écrite ; plan d'action"
+ },
+ "FW2.7": {
+  "code_fr": "TE2.7",
+  "titre_fr": "L'entreprise évalue le salaire égal pour un poste à valeur égale",
+  "preuves": "Évaluation des emplois ; méthodologie ; date ; plan correctif"
+ },
+ "FW2.8": {
+  "code_fr": "TE2.8",
+  "titre_fr": "L'entreprise met en œuvre des pratiques salariales équitables pour ses salarié·es les moins bien rémunéré·es",
+  "preuves": "Option retenue par site ; données de paie ; estimation du salaire de subsistance ; accords collectifs"
+ },
+ "FW3.1": {
+  "code_fr": "TE3.1",
+  "titre_fr": "L'entreprise possède un dispositif de représentation des salarié·es",
+  "preuves": "Documents de gouvernance ; liste des représentants ; CR de réunions"
+ },
+ "FW3.2": {
+  "code_fr": "TE3.2",
+  "titre_fr": "L'entreprise prend en compte les retours des collaborateurs et collaboratrices sur les décisions qui les concernent",
+  "preuves": "Communications ; ateliers / enquêtes ; entretiens"
+ },
+ "FW4.1": {
+  "code_fr": "TE4.1",
+  "titre_fr": "L'entreprise évalue régulièrement la culture d'entreprise",
+  "preuves": "Rapports d'enquête / ateliers (satisfaction, bien-être, appartenance, engagement, sécurité psychologique)"
+ },
+ "FW4.2": {
+  "code_fr": "TE4.2",
+  "titre_fr": "L'entreprise a un plan d'amélioration continue de sa culture d'entreprise",
+  "preuves": "Plan d'amélioration ; approbation ; calendrier"
+ },
+ "FW4.3": {
+  "code_fr": "TE4.3",
+  "titre_fr": "Les résultats des enquêtes sur la culture d'entreprise sont ventilés par identité de genre ou selon le sexe à la naissance",
+  "preuves": "Données ventilées ; mesures de protection de l'anonymat"
+ },
+ "FW4.4": {
+  "code_fr": "TE4.4",
+  "titre_fr": "Les résultats des enquêtes sur la culture d'entreprise sont ventilés selon un autre aspect de l'identité sociale",
+  "preuves": "Données ventilées ; justification du choix ; mesures de protection"
+ },
+ "JEDI1.1": {
+  "code_fr": "JEDI1.1",
+  "titre_fr": "L'entreprise collecte des données afin d'orienter ses actions en matière de JEDI.",
+  "preuves": "CR de discussions ou résultats d'enquête ; données ventilées (genre, niveaux, rétention, recrutement, promotion, salaires...)"
+ },
+ "JEDI1.2": {
+  "code_fr": "JEDI1.2",
+  "titre_fr": "L'entreprise collecte des données sur une identité sociale supplémentaire pour les indicateurs liés aux collaborateurs et collaboratrices.",
+  "preuves": "Questionnaires ; garanties d'anonymat ; tableaux ventilés"
+ },
+ "JEDI2.1": {
+  "code_fr": "JEDI2.1",
+  "titre_fr": "L'entreprise choisit et met en œuvre une action JEDI.",
+  "preuves": "Confirmation écrite de l'option retenue (JEDI2.a-s)"
+ },
+ "JEDI2.2": {
+  "code_fr": "JEDI2.2",
+  "titre_fr": "L'entreprise choisit ses actions JEDI et les met en œuvre.",
+  "preuves": "Confirmation écrite des options retenues et de leur catégorie"
+ },
+ "JEDI2.3": {
+  "code_fr": "JEDI2.3",
+  "titre_fr": "L'entreprise choisit ses actions JEDI sur la base des données et des retours des parties prenantes, les consigne dans un plan et les met en œuvre.",
+  "preuves": "Options retenues ; données / retours parties prenantes ; plan formalisé ; communication ; entretiens"
+ },
+ "JEDI2.4": {
+  "code_fr": "JEDI2.4",
+  "titre_fr": "L'entreprise choisit ses actions JEDI sur la base des données et des retours des parties prenantes, les consigne dans un plan et les met en œuvre.",
+  "preuves": "Idem JEDI2.3"
+ },
+ "JEDI2.5": {
+  "code_fr": "JEDI2.5",
+  "titre_fr": "L'entreprise choisit ses actions JEDI sur la base des données et des retours des parties prenantes, les consigne dans un plan et les met en œuvre.",
+  "preuves": "Idem JEDI2.3 + vue annuelle par pays/site"
+ },
+ "JEDI2.6": {
+  "code_fr": "JEDI2.6",
+  "titre_fr": "L'entreprise choisit ses actions JEDI sur la base des données et des retours des parties prenantes, les consigne dans un plan et les met en œuvre.",
+  "preuves": "Idem JEDI2.5"
+ }
+}

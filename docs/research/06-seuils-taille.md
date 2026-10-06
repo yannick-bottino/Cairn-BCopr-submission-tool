@@ -1,3 +1,5 @@
+> **Note (04/10/2026)** : document d'information uniquement. Décision : le plugin ne calcule jamais la taille ; elle est relevée sur la plateforme B Lab (export PDF du profil ou déclaration manuelle).
+
 # 06 — Seuils de taille d'entreprise, B Lab Standards V2.x (certification "new standards")
 
 Date de la recherche : 2026-10-04. Périmètre : B Lab Standards V2.1 / V2.2 (V2.2 publiée le 20/02/2026), catégories Company without workers → XX Large.

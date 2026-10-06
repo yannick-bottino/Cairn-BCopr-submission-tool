@@ -20,6 +20,7 @@ PROFILE = {
     "date_depot": "Avril 2027",
     "co_prestataire": "Atelier X",
     "options_retenues": ["JEDI2.g"],
+    "source_profil": "Export PDF plateforme B Lab",
 }
 
 
@@ -78,7 +79,8 @@ def test_req_ids_unique_and_complete(gap):
     ids = [row["req_id"] for row in rows]
     assert len(ids) == len(set(ids))
     expected = [i for x in r.applicable("Medium", "Wholesale/Retail", 3)
-                for i in ([x.code] if x.type_ligne == "question_risk_tool" else x.req_ids)]
+                for i in ([x.code] if x.type_ligne == "question_risk_tool"
+                          else [f"{x.code}-{c.id}" for c in x.criteria_until(3)])]
     assert sorted(ids) == sorted(expected)
 
 
@@ -93,7 +95,7 @@ def test_sub_requirement_counts_for_medium_wr_y3(gap):
 def test_both_codes_and_years_are_filled(gap):
     _, _, rows = gap
     assert all(row["Code exigence"] and row["Code plateforme"] for row in rows)
-    assert {row["Année"] for row in rows} == {"Year 0", "Year 3"}
+    assert {row["Année"] for row in rows} == {"Before Year 0", "Year 0", "Year 3"}
 
 
 def test_unretained_options_are_hidden(gap):
@@ -149,3 +151,57 @@ def test_refuses_to_overwrite(tmp_path):
 def test_rejects_unknown_option(tmp_path):
     with pytest.raises(ref.UnknownCode):
         bg.build({**PROFILE, "options_retenues": ["JEDI2.zz"]}, tmp_path / "x.xlsx")
+
+
+def by_req_id(rows):
+    return {row["req_id"]: row for row in rows}
+
+
+def test_criterion_deadline_overrides_sub_requirement_year(gap):
+    _, _, rows = gap
+    ids = by_req_id(rows)
+    assert ids["ESC1.4-1.4.2"]["Année"] == "Before Year 0"
+    assert "ESC1.1-1.1.7" not in ids          # « For Year 5 » : hors horizon Year 3
+
+
+def test_year5_criteria_included_at_horizon_5(tmp_path):
+    out = bg.build({**PROFILE, "horizon": 5}, tmp_path / "g5.xlsx")
+    ws = openpyxl.load_workbook(out)["3. Gap analysis"]
+    headers = [c.value for c in ws[1]]
+    ids = {dict(zip(headers, [c.value for c in r]))["req_id"]: r for r in ws.iter_rows(min_row=2)}
+    assert "ESC1.1-1.1.7" in ids
+
+
+def test_criterion_text_is_filled_fr_first(gap):
+    _, _, rows = gap
+    ids = by_req_id(rows)
+    psg = ids["PSG1.1-1.1.1"]["Critère de conformité"]
+    assert psg.startswith("1.1.1") and "raison d'être" in psg
+    en_only = [row["Critère de conformité"] for row in rows
+               if row["Critère de conformité"] and "[EN]" in row["Critère de conformité"]]
+    assert en_only, "les critères sans traduction gardent le texte EN, signalé [EN]"
+    assert not any("texte à reprendre du PDF" in (row["Critère de conformité"] or "") for row in rows)
+
+
+def test_pdf_typo_is_corrected(gap):
+    _, _, rows = gap
+    ids = by_req_id(rows)
+    assert "FW1.1-1.1.3" in ids and "FW1.1-1.2.3" not in ids
+
+
+def test_profile_source_is_declared_not_computed(wb):
+    ws = wb["1. Paramètres client"]
+    params = {r[0].value: r[1].value for r in ws.iter_rows(min_row=2) if r[0].value}
+    assert params["Source du profil (taille, secteur)"] == "Export PDF plateforme B Lab"
+    assert "Effectif" not in params and "Chiffre d'affaires" not in params
+
+
+def test_profile_source_is_required(tmp_path):
+    profile = {k: v for k, v in PROFILE.items() if k != "source_profil"}
+    with pytest.raises(ValueError, match="source_profil"):
+        bg.build(profile, tmp_path / "x.xlsx")
+
+
+def test_profile_source_values(tmp_path):
+    with pytest.raises(ValueError, match="source_profil"):
+        bg.build({**PROFILE, "source_profil": "calculé"}, tmp_path / "x.xlsx")

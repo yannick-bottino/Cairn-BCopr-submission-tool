@@ -57,6 +57,8 @@ WIDTHS = {"Impact Area": 22, "Exigence (thématique)": 30, "Code exigence": 11, 
           "Commentaire soumission dossier pour l'auditeur": 92, "Commentaires": 40,
           "Justification de la typologie (Anchor)": 40}
 HORIZON_LABELS = {0: "Year 0", 3: "Year 0 + Year 3", 5: "Year 0 + Year 3 + Year 5"}
+# La taille et le secteur ne sont jamais calculés par le plugin : ils viennent de la plateforme B Lab.
+PROFILE_SOURCES = ["Export PDF plateforme B Lab", "Déclaration manuelle"]
 
 
 def gap_headers(client: str, co: str) -> list[str]:
@@ -79,11 +81,29 @@ def build(profile: dict, out: Path) -> Path:
     out = Path(out)
     if out.exists():
         raise FileExistsError(f"{out} existe déjà : le script n'écrase jamais un fichier.")
+    if profile.get("source_profil") not in PROFILE_SOURCES:
+        raise ValueError(f"source_profil obligatoire, parmi {PROFILE_SOURCES} : la taille et le secteur "
+                         "se relèvent sur la plateforme B Lab, ils ne se calculent pas.")
     r = ref.Referentiel.load()
     size, sector, horizon = profile["taille"], profile["secteur"], int(profile["horizon"])
     retained = {r.to_site(c) for c in profile.get("options_retenues", [])}
     rows = r.applicable(size, sector, horizon)
-    rows.sort(key=lambda x: r.order.index(x.impact_area))  # tri stable : garde l'ordre du PDF
+    notes, forced_na = {}, set()
+    risk_yes = profile.get("risk_tool_oui") or []
+    if risk_yes:
+        # Risk Tool : sous-exigences ajoutées, remplacées, ou à lire avec l'impact potentiel (texte FR3.1.x)
+        eff = r.risk_effects(size, sector, profile.get("industrie", ""), risk_yes)
+        present = {x.code for x in rows}
+        rows += [r.get(c) for c in sorted(eff.adds) if c not in present]
+        for code, questions in eff.sources.items():
+            notes.setdefault(code, []).append(f"Ajoutée ou confirmée par le Risk Tool ({', '.join(questions)} : oui).")
+        for old, new in eff.replaces.items():
+            notes.setdefault(old, []).append(f"Non applicable : remplacée par {new} (Risk Tool).")
+            forced_na.add(old)
+        for code, questions in eff.consider.items():
+            notes.setdefault(code, []).append(f"Risk Tool ({', '.join(questions)} : oui) : prendre en compte l'impact potentiel.")
+    position = {x.code: i for i, x in enumerate(r.rows)}
+    rows.sort(key=lambda x: (r.order.index(x.impact_area), position[x.code]))
 
     wb = Workbook()
     wb.remove(wb.active)
@@ -91,7 +111,7 @@ def build(profile: dict, out: Path) -> Path:
     _parametres(wb.create_sheet("1. Paramètres client"), profile)
     _referentiel(wb.create_sheet("2. Référentiel B Corp V2.2"), r, size, sector, horizon)
     headers = gap_headers(profile["client"], profile.get("co_prestataire") or "co-prestataire")
-    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers)
+    _gap(wb.create_sheet("3. Gap analysis"), r, rows, retained, headers, horizon, notes, forced_na)
     _fdr(wb.create_sheet("4. Couverture feuille de route"))
     _roles(wb.create_sheet("5. Répartition des rôles"), r, profile)
     _recap(wb.create_sheet("6. Récap gap analysis"), r, headers)
@@ -113,7 +133,13 @@ def _header(ws, headers, widths=None, platform=()):
     ws.freeze_panes = "A2"
 
 
-def _gap(ws, r, rows, retained, headers):
+def _criterion_cell(c) -> str:
+    text = (c.text_fr or "").strip() or f"[EN] {c.text_en.strip()}"
+    return text if text.startswith(c.id) else f"{c.id} {text}"
+
+
+def _gap(ws, r, rows, retained, headers, horizon, notes=None, forced_na=frozenset()):
+    notes = notes or {}
     platform = [h for h in headers if h.startswith("Plateforme :")]
     _header(ws, headers, WIDTHS, platform)
     ws.freeze_panes = "F2"
@@ -128,11 +154,12 @@ def _gap(ws, r, rows, retained, headers):
         n = x.requirement_code[len(ia.code):]
         if x.type_ligne == "question_risk_tool":
             # Question oui/non du Risk Tool : une seule ligne, les exigences déclenchées sont listées à part
-            units = [(f"Question Risk Tool (oui/non sur la plateforme). Critères : {', '.join(x.criteria_ids)}", x.code)]
+            units = [(f"Question Risk Tool (oui/non sur la plateforme). Critères : {', '.join(x.criteria_ids)}",
+                      x.code, f"Year {x.year}")]
         else:
-            units = [(f"{cid} [texte à reprendre du PDF V2.2, p.{x.page_pdf}]", rid)
-                     for cid, rid in zip(x.criteria_ids or [""], x.req_ids)]
-        for criterion, rid in units:
+            # Un critère peut avoir sa propre échéance (« For Year 5 », « Before Year 0 »)
+            units = [(_criterion_cell(c), f"{x.code}-{c.id}", c.deadline) for c in x.criteria_until(horizon)]
+        for criterion, rid, deadline in units:
             values = {
                 "Impact Area": f"{ia.name_fr} ({ia.prefix_excel})",
                 "Exigence (thématique)": f"{ia.prefix_excel} {n} : {x.requirement_en}",
@@ -140,7 +167,9 @@ def _gap(ws, r, rows, retained, headers):
                 "Code plateforme": x.code,
                 "Sous-exigence": x.title_fr or f"[EN] {x.title_en}",
                 "Critère de conformité": criterion,
-                "Année": f"Year {x.year}",
+                "Année": deadline,
+                "Clarification / informations complémentaires": " ".join(notes.get(x.code, [])) or None,
+                "Niveau de conformité": "NA" if x.code in forced_na else None,
                 "req_id": rid,
             }
             ws.append([values.get(h) for h in headers])
@@ -169,11 +198,13 @@ def _mode_emploi(ws):
         "Gap analysis B Corp, B Lab Standards V2.2 (20/02/2026). Anchor Strategy B Corp tool.",
         "",
         "1. L'onglet 1 fixe le périmètre (taille, secteur, horizon). Pour le changer, régénérer le fichier.",
-        "2. L'onglet 3 liste un critère de conformité par ligne. Code exigence = sigle FR, Code plateforme = code affiché sur app.bcorporation.net.",
-        "3. Les options de menu non retenues (JEDI 2, APAC 2…) sont masquées, pas supprimées.",
-        "4. Niveau de conformité : 0 = non couvert, 1 = partiellement couvert, 2 = pleinement couvert, NA = non applicable.",
-        "5. Les colonnes Diagnostic, Actions, Priorité, Responsable et Commentaires ne sont jamais publiées. Seul le commentaire auditeur l'est, après validation.",
-        "6. La colonne req_id (masquée) est la clé technique entre modules : ne pas la modifier.",
+        "2. L'onglet 3 liste un critère de conformité par ligne, avec sa propre échéance (Before Year 0, Year 0, 3 ou 5). Texte FR repris d'une compilation tierce, à relire ; à défaut, texte officiel EN signalé [EN].",
+        "   Code exigence = sigle FR, Code plateforme = code affiché sur app.bcorporation.net. Texte de référence : resources/standards-v2.2/.",
+        "3. Les questions du Risk Tool tiennent sur une ligne chacune.",
+        "4. Les options de menu non retenues (JEDI 2, APAC 2…) sont masquées, pas supprimées.",
+        "5. Niveau de conformité : 0 = non couvert, 1 = partiellement couvert, 2 = pleinement couvert, NA = non applicable.",
+        "6. Les colonnes Diagnostic, Actions, Priorité, Responsable et Commentaires ne sont jamais publiées. Seul le commentaire auditeur l'est, après validation.",
+        "7. La colonne req_id (masquée) est la clé technique entre modules : ne pas la modifier.",
     ]
     for line in lines:
         ws.append([line])
@@ -184,11 +215,9 @@ def _parametres(ws, p):
     _header(ws, ["Paramètre", "Valeur", "Liste / règle"], {"Paramètre": 32, "Valeur": 30, "Liste / règle": 90})
     rows = [
         ("Client", p["client"], "texte libre"),
-        ("Taille (B Lab)", p["taille"], ", ".join(ref.SIZES) + ". Règle : la plus petite des deux tailles (effectif, CA)."),
-        ("Statut de la taille", p.get("statut_taille", "À confirmer"), "Confirmée seulement si les seuils sont sourcés."),
-        ("Effectif", p.get("effectif", ""), "par pays si possible"),
-        ("Chiffre d'affaires", p.get("ca", ""), "dernier exercice clos, devise précisée"),
-        ("Secteur (B Lab)", p["secteur"], ", ".join(ref.SECTORS)),
+        ("Taille (B Lab)", p["taille"], ", ".join(ref.SIZES) + ". Telle qu'affichée par la plateforme B Lab, jamais calculée."),
+        ("Secteur (B Lab)", p["secteur"], ", ".join(ref.SECTORS) + ". Tel qu'affiché par la plateforme B Lab."),
+        ("Source du profil (taille, secteur)", p["source_profil"], ", ".join(PROFILE_SOURCES)),
         ("Industrie", p.get("industrie", ""), "seulement si l'industrie déclenche des exigences spécifiques"),
         ("Horizon retenu", HORIZON_LABELS[int(p["horizon"])], ", ".join(HORIZON_LABELS.values())),
         ("Mécanisme d'équité applicable", p.get("mecanisme_equite", "À confirmer"), "Oui, Non, À confirmer"),

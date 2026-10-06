@@ -1,0 +1,508 @@
+code,critere_id,texte_fr,source
+CA2.1,2.1.1,2.1.1 L'entreprise publie son plan d'action climatique sur son site internet ou met à disposition un autre moyen permettant aux parties prenantes d'y accéder facilement.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+CA2.1,2.1.2,"2.1.2 
+a) S'engage à soutenir l'ambition mondiale de limiter le réchauffement climatique à 1,5°C,
+b) Comprend des objectifs spécifiques, mesurables, réalisables, pertinents et limités dans le temps (SMART) en matière de performance et d'impact,
+c) Précise la manière dont l'entreprise alloue les ressources humaines, techniques et matérielles nécessaires à la mise en œuvre de son plan d'action,
+d) Décrit la manière dont l'entreprise s'engage et travaille avec ses parties prenantes,
+e) Est approuvé par la plus haute instance de gouvernance.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+CA2.1,2.1.3,2.1.3 L'entreprise met à jour son plan tous les trois ans.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.1,"1.1.1 L'entreprise mesure et enregistre sa production annuelle de déchets dangereux et non dangereux :
+a) Au cours de la dernière année fiscale;
+b) Chaque année pour les années suivantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.2,"1.1.2 Les déchets non dangereux de l'entreprise sont mesurés en tonnes et enregistrés comme suit :
+a) La quantité totale de déchets générés ;
+b) La quantité de déchets non dangereux non destinés à l'élimination et leur part de :
+i) Déchets préparés au réemploi ;
+ii) Déchets recyclés ;
+iii) Déchets revalorisés d'une autre manière.
+c) La quantité de déchets non dangereux éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.3,"1.1.3 Les déchets dangereux de l'entreprise sont mesurés en tonnes et enregistrés comme suit :
+a) La quantité totale de déchets dangereux générés ;
+b) La quantité de déchets dangereux non destinés à l'élimination et leur part de :
+i) Déchets recyclés ;
+ii) Déchets revalorisés d'une autre manière.
+c) La quantité de déchets dangereux éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.4,"1.1.4 Si l'entreprise produit ou commercialise des produits alimentaires, elle mesure également (en tonnes) :
+a) La quantité totale de déchets alimentaires générés ;
+b) La quantité de déchets alimentaires non destinés à l'élimination, et leur quantité :
+i) Réemployée pour la consommation humaine ou l'alimentation animale ;
+ii) Recyclée ou réemployée pour des produits dérivés ;
+iii) Utilisée pour la récupération d'énergie ;
+iv) Revalorisée d'une autre manière.
+c) La quantité de déchets alimentaires éliminés, y compris par :
+i) Incinération (sans récupération d'énergie) ;
+ii) La mise en décharge ;
+iii) D'autres méthodes d'élimination","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.5,"1.1.5 Si l'entreprise ne peut pas confirmer la destination de ses déchets, elle suppose qu'ils sont mis en décharge.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.1,1.1.6,"1.1.6 Avant l'année 0, l'Entreprise :
+a) suit et enregistre la production de déchets pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et d'enregistrement de la production de déchets à toutes les installations restantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.2,1.2.1,"1.2.1 L'entreprise mesure et enregistre sa consommation annuelle d'énergie :
+
+a) au cours de la dernière année fiscale
+b) Chaque année pour les années suivantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.2,1.2.2,"1.2.2 La consommation énergétique de l'entreprise est mesurée par :
+a) L'énergie totale en gigajoules ; wattheures ou multiples ;
+b) Le total des énergies renouvelables en gigajoules ; wattheures ou multiples ;
+c) Le pourcentage d'énergie provenant de sources renouvelables à faible impact ;
+d) Le pourcentage d'énergie renouvelable autoproduite ;
+e) Le pourcentage d'électricité renouvelable ;
+f) L'intensité énergétique, exprimée soit en :
+i) Consommation énergétique totale par million de dollars de chiffre d'affaires ;
+ii) Consommation énergétique totale par unité de produit ou de service.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.2,1.2.3,"1.2.3 Avant l'année 0, l'Entreprise :
+a) suit et enregistre la consommation d'énergie pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et l'enregistrement de la consommation d'énergie à toutes les installations restantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.3,1.3.2,"1.3.2 La consommation ou le prélèvement d'eau de l'entreprise est mesuré par :
+a) La consommation ou le prélèvement d'eau total en mètres cubes (m3) ;
+b) Le total de l'eau recyclée et réutilisée en m3 ;
+c) L'intensité de l'eau, exprimée soit via :
+i) La consommation ou le prélèvement d'eau total dans ses propres infrastructures en m3 par million de dollars de chiffre d'affaires ;
+ii) La consommation ou le prélèvement d'eau total dans ses infrastructures en m3 par unité de produit.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.3,1.3.3,"1.3.3 L'entreprise explique pourquoi elle a choisi de mesurer soit la consommation d'eau, soit le prélèvement d'eau.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.3,1.3.4,"1.3.4 Avant l'année 0, l'Entreprise :
+a) piste d'évaluation et enregistre la consommation d'eau ou le prélèvement d'eau pour toutes ses installations identifiées comme matérielles conformément au point GEC1.7
+b) dispose d'un plan visant à étendre les pistes d'évaluation et l'enregistrement de la consommation d'eau ou du Prélèvement d'eau à toutes les installations restantes..","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.4,1.4.1,1.4.1 L'entreprise identifie toutes ses infrastructures dans des zones à risque physique lié à l'eau.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.4,1.4.4,"1.4.4 L'entreprise a mesuré et enregistré sa consommation ou son prélèvement d'eau annuel en mètres cubes (m3) dans les zones à risque physique lié à l'eau :
+a) au cours de la dernière année fiscale
+b) Chaque année pour les années suivantes.
+
+Clarification des critères de conformité :
+[1.4.1] Pour déterminer si une infrastructure se trouve dans une zone à risque hydrique, l'entreprise peut, par exemple :
+A) contacter l'autorité locale qui contrôle (ou a une vue d'ensemble) du bassin versant pour comprendre la pression qui s'y exerce, combinée à une analyse du risque lié à l'eau,
+B) utiliser l'un des outils figurant dans les ressources pour la mise en œuvre.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.6,1.6.1,"1.6.1 L'entreprise définit des indicateurs pour piloter les conditions de bien-être animal. Les indicateurs de son processus de suivi portent sur la manière dont les animaux sont :
+a) Élevés ;
+b) Transportés ;
+c) Abattus.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.6,1.6.2,1.6.2 L'entreprise veille aux cinq libertés fondamentales du bien-être animal.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.6,1.6.3,"1.6.3 L'entreprise crée un résumé annuel global des conditions de bien-être animal :
+a) Au cours de l'année fiscale précédant l'Année 0 ;
+b) Chaque année pour les années suivantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.6,1.6.4,1.6.4 L'entreprise est conforme aux exigences juridiques applicables en matière de bien-être animal (à la fois générales et spécifiques aux espèces).,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.7,1.7.1,"1.7.1 L'évaluation de l'entreprise :
+a) Couvre les activités directes et la chaîne de valeur de l'entreprise ;
+b) Identifie tout impact négatif réel ou potentiel des activités directes et de la chaîne de valeur de l'entreprise susceptible de contribuer aux cinq facteurs de changement de la nature ;
+c) Identifie tout impact négatif réel ou potentiel des activités directes et de la chaîne de valeur de l'entreprise sur le bien-être animal ;
+d) Est fondée sur des recherches internes et externes, ainsi que sur l'engagement des parties prenantes ;
+e) Hiérarchise les sujets en fonction de leur gravité et de leur probabilité.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.7,1.7.2,"1.7.2 L'évaluation comprend :
+a) Une vue d'ensemble de la chaîne de valeur de l'entreprise indiquant les impacts négatifs réels ou potentiels sur la nature et le bien-être animal ;
+b) Une liste des activités prioritaires de la chaîne de valeur et des activités directes de l'entreprise qui contribuent aux impacts négatifs sur la nature ;
+c) Une liste des matières premières ou des produits à fort impact dans la chaîne d'approvisionnement, et une explication de la manière dont ils ont été identifiés ;
+d) Une liste des enjeux d'impacts environnementaux matériels classée par ordre de priorité.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.7,1.7.3,1.7.3 L'évaluation a été réalisée ou mise à jour au cours des 36 derniers mois.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC1.7,1.7.4,"1.7.4 Si l'eau, la biodiversité et les déchets n'ont pas été jugés matériels, l'entreprise en donne une explication écrite. L'explication écrite :
+a) Comprend des preuves scientifiques crédibles ;
+b) Est approuvée par la plus haute instance ou organe de direction.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC5.1,5.1.1,"5.1.1 L'entreprise a pris en compte les impacts environnementaux réels et potentiels pour ses trois décisions d'achat les plus matérielles :
+a) Au cours de l'année fiscale ou des douze mois précédant l'Année 0,
+b) Chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+ESC5.2,5.2.1,"5.2.1 L'entreprise a pris en compte les impacts environnementaux réels et potentiels de ses cinq décisions d'achat les plus matérielles :
+a) au cours du dernier exercice fiscal ou des douze derniers mois précédant l'Année 0 ;
+b) chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.1,1.1.1,"1.1.1 Il est confirmé que l'entreprise est :
+a) une entité commerciale constituée en société
+b) en activité depuis au moins 12 mois
+c) génère une majorité de ses revenus d'activités commerciales dans un marché concurrentiel.
+
+Les entreprises suivantes sont éligibles à la certification B Corp :
+a) Les entités commerciales uniques, c'est-à-dire sans société mère ni filiales.
+b) Les sociétés mères disposant de filiales qu'elles détiennent en totalité ou en majorité.
+c) Les filiales qui opèrent comme des entités indépendantes, distinctes de leur société mère ou sœur, et qui ne partagent ni le nom ni le logo de cette dernière, ou qui, si elles partagent le même nom, y ajoutent un qualificatif géographique ou sectoriel distinct.
+d) Les franchiseurs (propriétaires d'une marque) et les franchisés majoritaires, en fonction du périmètre et de la répartition géographique des établissements sous franchise.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.1,1.1.2,"1.1.2 L'entreprise ne relève d'aucune des catégories suivantes.
+a) Divisions, marques, unités commerciales ou entreprises qui ne sont pas entièrement distinctes de leur société mère ou de leur groupe de sociétés affiliées
+b) Les franchiseurs qui ne détiennent pas la majorité des établissements qui opèrent sous leur franchise à l'échelle mondiale, ou les franchiseurs dont les franchisés partagent le même périmètre géographique que des franchisés indépendants.
+c) Les organisations de la société civile (OSC), les fondations ou les entités caritatives, sauf avis contraire de B Lab.
+d) Les gouvernements, les agences gouvernementales, les ministères ou les entreprises publiques, sauf avis contraire de B Lab.
+e) Les entreprises légalement enregistrées dans des régions non couvertes opérationnellement par B Lab et qui ne font pas partie d'un groupe plus important enregistré dans une région couverte par B Lab.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.2,1.2.1,"1.2.1 L'entreprise tire moins de 1 % de son chiffre d'affaires annuel d'activités qui causent ou contribuent aux impacts sur les parties prenantes affectées par les secteurs suivants :
+a) Production de combustibles et d'énergies fossiles
+b) Jeux de hasard
+c) Pornographie
+d) Prisons et centres de détention (y compris le travail dans les établissements pénitentiaires)
+e) Tabac
+f) Armement.
+
+1.2.2. Pour les entreprises de services financiers, moins de 1 % des actifs sous gestion de l'entreprise sont investis dans les secteurs listés.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.3,1.3.1,1.3.1 L'entreprise respecte toutes les législations applicables à l'échelle locale et nationale.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.3,1.3.2,1.3.2 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.4,1.4.1,"1.4.1 L'entreprise fournit des informations exactes et complètes en :
+a) ayant recours à des preuves et des sources crédibles
+b) s'assurant une bonne compréhension des ressources de B Lab.
+
+1.4.2 L'entreprise partage à tout moment des informations exactes et complètes, y compris :
+a) Dans ses réponses au B Impact Assessment (BIA).
+b) Dans ses échanges avec les vérificateurs habilités par B Lab.
+c) Dans tous ses échanges avec le personnel de B Lab.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.4,1.4.3,1.4.3 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.5,1.5.1,1.5.1 L'entreprise partage les informations de base de son profil public B Corp sur la plateforme du B Impact Assessment (BIA).,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.5,1.5.2,1.5.2 L'entreprise s'engage à rendre publiques les informations exigées par les standards de B Lab.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.5,1.5.3,"1.5.3 Si l'entreprise est une filiale détenue à 100 % ou majoritairement, ou une grande entreprise publique, elle est tenue de rendre public l'intégralité de son questionnaire B Impact Assessment (BIA) ainsi que l'identité de tout propriétaire majoritaire.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.5,1.5.4,"1.5.4 L'entreprise accepte que B Lab publie les résultats du questionnaire B Impact Assessment (BIA) de l'entreprise ainsi que ses informations de base sur le site internet de B Lab Global et tout autre site internet du réseau B Lab ou Sistema B Global Partner, et ce tant que l'entreprise est certifiée B Corp.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR1.5,1.5.5,1.5.5 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR2.1,2.1.1,"2.1.1 L'entreprise adopte un type d'entité ou une modification de ses documents constitutifs exigeant la gouvernance des parties prenantes, c'est-à-dire la prise en compte des parties prenantes dans les processus décisionnels. L'entreprise instaure la gouvernance des parties prenantes conformément aux exigences juridiques B Corp, en accord avec sa forme juridique et sa juridiction","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR2.1,2.1.2,"2.1.2 Si l'entreprise ne peut pas adopter une forme juridique permettant la gouvernance des parties prenantes en raison des législations locales, elle signe l'accord B Corp et s'engage à :
+a) travailler avec B Lab pour déterminer la voie juridique appropriée
+b) plaider pour l'adoption d'une législation sur les entreprises à mission dans la juridiction de l'entreprise
+c) modifier ses documents constitutifs ou adopter une nouvelle forme juridique si l'évolution de la législation locale le permet.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR2.1,2.1.3,2.1.3 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR2.2,2.2.1,"2.2.1 L'entreprise s'engage en faveur de la mission collective de la communauté B Corp, tel qu'elle est définie dans la déclaration d'interdépendance : Nous envisageons une économie globale qui utilise l'entreprise comme force au service du bien commun. Cette économie est constituée d'un nouveau type d'entreprise, l'entreprise B Corp, qui est guidée par une mission et qui crée un bénéfice pour toutes ses parties prenantes et pas uniquement ses actionnaires. En tant qu’entreprises B Corp et leaders de cette économie émergente, nous croyons : Que nous devons être le changement que nous souhaitons voir dans le monde;Que toutes les entreprises doivent être menées comme si les personnes et les lieux avaient de l'importance;Qu'à travers leurs produits, pratiques et profits, les entreprises doivent aspirer à ne faire aucun mal et apporter un bénéfice à tous·tes.Pour ce faire, il est nécessaire que nous agissions en tenant compte du fait que nous dépendons tous.tes les un.e.s des autres et que nous sommes donc responsables les un.e.s des autres et des générations futures.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR2.2,2.2.2,2.2.2 L'entreprise signe un accord par lequel elle s'engage dans le processus de certification B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR3.1,3.1.1,3.1.1 L’entreprise établit un profil de risque à l'aide de l’outil d'évaluation des risques de B Lab en répondant aux 14 questions des points EB3.1.a à EB3.1.n.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR3.1,3.1.2,"3.1.2 L’entreprise satisfait aux éventuelles sous-exigences supplémentaires activées par l’outil d'évaluation des risques de B Lab, au sein des thématiques d’impact concernées.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FR3.1,3.1.3,3.1.3 L'entreprise accepte qu'un résumé de son profil de risque soit publié sur son profil public B Corp.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW1.1,1.1.1,"1.1.1 Tous les employés disposent d'un contrat de travail ou d'une lettre d'engagement répondant aux critères suivants :
+a) Il est rédigé dans un langage intelligible pour le collaborateur ou la collaboratrice
+b) Il est signé par un représentant de l'entreprise et par le collaborateur ou la collaboratrice
+c) Il comprend :
+i) le nom de l'entreprise,
+ii) les noms des deux signataires,
+iii) la nature et le lieu du poste,
+iv) les horaires de travail,
+v) le salaire de base,
+vi) toute composante salariale supplémentaire,
+vii) la date de prise de poste,
+viii) la durée du contrat de travail,
+ix) les conditions de résiliation du contrat de travail.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW1.1,1.1.2,"1.1.2 Si une personne salariée est déjà en poste sans contrat écrit ou lettre d'engagement, l'entreprise fournit une lettre qui répond aux critères ci-dessus.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW1.2,1.2.1,"1.2.1 Si l'entreprise utilise des emplois du temps variables, elle dispose d'une politique qui précise :
+a) Le délai de prévenance précis qui s'applique de la même manière à l'entreprise et au collaborateur ou à la collaboratrice.
+b) Que l'entreprise paiera le collaborateur ou la collaboratrice en totalité en cas d'annulation après la date limite pour des raisons sur lesquelles l'entreprise a le contrôle.
+c) Si l'entreprise paiera le collaborateur ou la collaboratrice, et combien, en cas d'annulation après la date limite pour des raisons indépendantes de la volonté de l'entreprise.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW1.2,1.2.2,1.2.2 L'entreprise met la politique à disposition de tous ses collaborateurs et collaboratrices ayant des emplois du temps variables.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW2.1,2.1.1,"2.1.1 L'entreprise dispose d'une politique ou d'une procédure qui stipule qu'elle ne demande pas aux candidats et candidates de fournir des informations sur :
+a) leurs antécédents salariaux,
+b) leurs préférences salariales (à moins que l'entreprise n'ait partagé une grille salariale au préalable).","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW2.2,2.2.1,"2.2.1 L'entreprise informe les collaborateurs :
+a) de toutes les composantes de la rémunération les concernant,
+b) de tous les avantages auxquels ils ont droit,
+c) des mécanismes de fixation et de révision des salaires et des avantages.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW2.2,2.2.2,"2.2.2 Les collaborateurs et collaboratrices reçoivent régulièrement une fiche de paie (ou document équivalent) contenant des informations claires sur, au minimum :
+a) leur salaire de base,
+b) les autres composantes de leur rémunération,
+c) les déductions.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW2.2,2.2.3,2.2.3 Les fiches de paie sont rédigées dans une langue que l'employé comprend.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW3.2,3.2.1,"3.2.1 L'entreprise sollicite, prend en compte et réagit aux retours des salariés sur les décisions qui les concernent.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW3.2,3.2.2,"3.2.2 L'entreprise sollicite des retours de la part des collaborateurs concernés par une décision, ou de leurs représentants.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW3.2,3.2.3,3.2.3 l'entreprise communique sa décision et la manière dont elle a pris en compte ces retours aux collaborateurs concernés ou à leurs représentants.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.1,4.1.1 L'évaluation se concentre sur l'impact généré pour les collaborateurs et collaboratrices.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.2,"4.1.2 L'enquête comprend au moins deux des thèmes suivants :
+a) Satisfaction
+b) Bien-être
+c) Sentiment d'appartenance
+d) Se sentir engagé
+e) Être engagé
+f) Sécurité psychologique","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.3,4.1.3 La communication relative à l'enquête précise que la participation est facultative.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.4,"4.1.4 L'entreprise réalise l'enquête :
+a) Dans les douze mois précédant l'Année 0
+b) Au cours de chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.5,4.1.5 L'enquête est réalisée annuellement.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+FW4.1,4.1.6,"4.1.6 Si l'entreprise compte 50 collaborateurs ou plus (en prenant en compte l'effectif total), alors :
+a) L'enquête est à la fois qualitative et quantitative,
+b) L'enquête est anonyme par défaut. Si l'anonymat ne peut pas être garanti, l'entreprise en informe les collaborateurs et collaboratrices.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA1.1,1.1.1,"1.1.1 Si l'entreprise ne poursuit pas d'activités de lobbying, elle satisfait à cette sous-exigence en le déclarant publiquement.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA1.1,1.1.2,"1.1.2 La politique de lobbying de l'entreprise décrit son approche en matière de lobbying responsable et inclut :
+a) Une déclaration dans laquelle l'entreprise s'engage à mener exclusivement des activités de lobbying visant à générer un impact positif sur la société ou l'environnement.
+b) Une déclaration selon laquelle son approche en matière de lobbying repose sur des données fiables ou scientifiques (ou les deux).
+c) Sa politique en matière de contributions politiques financières et en nature.
+d) Sa politique en matière de lutte contre la corruption et les pots-de-vin.
+e) Son approche en matière de lobbying responsable auprès des organisations intermédiaires, y compris les contrôles qui garantissent sa cohérence avec la politique de lobbying de l'entreprise.
+f) L'instance de direction de l'entreprise qui examinera et approuvera formellement la politique, et à quelle fréquence.""","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA1.1,1.1.3,"1.1.3 La politique de lobbying de l'entreprise décrit ses pratiques de gouvernance, de contrôle et de gestion des risques, notamment :
+a) L'instance de direction ou le poste de direction au sein de l'entreprise qui est responsable de l'application de la politique.
+b) La manière dont la politique est intégrée dans l'entreprise, y compris la manière dont l'entreprise la met en pratique.
+c) La manière dont l'entreprise identifie, gère et surveille les risques de non-conformité.
+d) La manière dont l'entreprise évalue le respect du cadre de gouvernance et de contrôle.
+e) La manière dont les parties prenantes peuvent faire part de leurs préoccupations concernant la conduite des affaires et les pratiques de lobbying de l'entreprise, incluant une référence à la procédure de réclamation de l'entreprise [lien vers MGPP3].""","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA1.1,1.1.4,"1.1.4 La politique de l'entreprise en matière de lobbying est :
+a) Approuvée par la plus haute instance de direction.
+b) Publiée sur le site internet de l'entreprise et accessible à toutes les parties prenantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.2,2.2.1,"2.2.1 L'entreprise prend part à des actions collectives parmi les cinq options de cette thématique d'impact.
+a) APAC2.1a Mentorat : L'entreprise conseille d'autres acteurs de son secteur, de sa profession ou de sa chaîne de valeur pour renforcer leurs impacts sociaux ou environnementaux.
+b) APAC2.1b L'entreprise contribue à la recherche externe pour faire progresser les impacts sociaux ou environnementaux.
+c) APAC2.1c L'entreprise travaille avec diverses parties prenantes pour faire progresser les impacts sociaux ou environnementaux.
+d) APAC2.1d L'entreprise promeut une politique publique visant à faire progresser les impacts sociaux ou environnementaux.
+e) APAC2.1e L'entreprise pratique le leadership d'opinion pour susciter un changement systémique vers une économie plus équitable, inclusive et régénératrice.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3a,2.3a.1,"2.3a.1 Le mentorat de l'entreprise présente :
+a) Un objectif clair visant à renforcer l'impact social ou environnemental du bénéficiaire du mentorat.
+b) Un résultat positif manifeste et confirmé par le bénéficiaire du mentorat.
+c) Une approche systématique du mentorat ciblant un groupe spécifique.
+
+Clarification des critères de conformité :
+[2.3a.1] Le bénéficiaire du mentorat est une partie prenante extérieure à l'entreprise qui entretient un lien direct avec le secteur, la profession ou la chaîne de valeur de l'entreprise.
+[2.3a.1] Le mentorat de l'entreprise répond aux besoins de son bénéficiaire.
+[2.3a.1] L'entreprise ne reçoit pas de compensation financière pour son mentorat.
+[2.3a.1.a] Afin de déterminer si son mentorat contribue à un impact positif sur la société ou l'environnement, l'entreprise pourra consulter :
+a) les résultats visés par les thématiques d'impacts des standards de B Lab,
+b) les objectifs de développement durable des Nations unies ou d'autres référentiels similaires.
+
+[2.3a.1.c] Par une ""approche systématique"" du mentorat, on désigne un programme structuré comprenant un calendrier, des objectifs et des livrables définis.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3b,2.3b.1,2.3b.1 La recherche externe vise à créer un impact positif sur la société ou l'environnement.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3b,2.3b.2,"2.3b.2 L'entreprise contribue à la recherche par :
+a) Des contributions financières.
+b) Des contributions en nature.
+c) Le partage de données.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3b,2.3b.3,2.3b.3 L'entreprise assure le suivi des résultats de la recherche dans un délai de douze mois.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3c,2.3c.1,"2.3c.1 La collaboration entre parties prenantes :
+a) Poursuit un objectif clair et vise à produire des impacts spécifiques et mesurables de manière collaborative.
+b) Vise à créer un impact positif sur la société ou l'environnement.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3c,2.3c.2,2.3c.2 L'entreprise apporte une contribution claire à la collaboration entre parties prenantes.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3d,2.3d.1,2.3d.1 Les activités de plaidoyer visent à créer un impact positif sur la société ou l'environnement.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3d,2.3d.2,"2.3d.2 L'entreprise alloue une ou plusieurs ressources à ses activités de plaidoyer, parmi lesquelles :
+a) Des contributions financières ;
+b) Des contributions en nature ;
+c) Du temps de travail dédié à ces activités pour son personnel.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3d,2.3d.3,2.3d.3 L'entreprise apporte une contribution claire au plaidoyer en matière de politiques publiques.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+GACA2.3e,2.3e.1,"2.3e.1 Le leadership d'opinion :
+a) A un effet positif manifeste.
+b) Vise à créer un impact positif sur la société ou l'environnement.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR1.1,1.1.1,"1.1.1 L'entreprise s'engage publiquement à respecter les droits humains et chacun des éléments suivants :
+a) les Principes directeurs des Nations unies relatifs aux entreprises et aux droits humains ;
+b) la Charte internationale des droits de l'homme ou les droits énoncés dans la Déclaration universelle des droits de l'homme ;
+c) la déclaration de l'Organisation internationale du travail (OIT) relative aux principes et droits fondamentaux au travail.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR1.2,1.2.2,"1.2.2 La politique comprend des engagements pour :
+a) respecter les droits humains ;
+b) évaluer l'impact négatif potentiel de l'entreprise sur les droits humains (ou les risques associés aux droits humains) ;
+c) remédier aux impacts négatifs que l'entreprise a causés ou auxquels elle a contribué ;
+d) chacun des éléments suivants :
+i) les Principes directeurs des Nations unies relatifs aux entreprises et aux droits humains ;
+ii) la Charte internationale des droits de l'homme ou les droits énoncés dans la Déclaration universelle des droits de l'homme ;
+iii) la Déclaration de l'Organisation internationale du travail (OIT) relative aux principes et droits fondamentaux au travail.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR1.2,1.2.3,1.2.3 La politique est approuvée par la plus haute instance de direction.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR1.2,1.2.4,1.2.4 Le périmètre de la politique couvre toutes les personnes et communautés affectées par les activités de l'entreprise et sa chaîne de valeur.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR2.1,2.1.1,"2.1.1 L'entreprise procède à une évaluation des enjeux en matière de droits humains afin d'identifier ceux qui sont importants pour ses activités et sa chaîne de valeur. Cette évaluation :
+a) est fondée sur des recherches documentaires et sur l'engagement des parties prenantes ;
+b) identifie les risques pour les personnes (plutôt que les risques pour l'entreprise) ;
+c) identifie les impacts négatifs réels et potentiels (et non les impacts positifs) ;
+d) identifie les enjeux spécifiques liés aux droits humains ;
+e) précise où les enjeux sont les plus importants ;
+f) hiérarchise les enjeux en fonction de leur gravité et de leur probabilité.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR2.1,2.1.2,2.1.2 Le périmètre de l'évaluation couvre toutes les personnes et communautés affectées par les activités et la chaîne de valeur de l'entreprise.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR2.1,2.1.3,2.1.3 L'évaluation a été réalisée ou mise à jour au cours des 36 derniers mois,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR3.1,3.1.1,"3.1.1 L'entreprise dispose d'un processus pour collecter, hiérarchiser et faire remonter les informations concernant ses impacts négatifs réels et potentiels sur les droits humains.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR3.1,3.1.2,3.1.2 L'entreprise définit clairement les rôles et les responsabilités associés à ce processus.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR3.1,3.1.3,"3.1.3 Au cours du processus, les impacts sont classés par ordre de priorité et remontés en fonction de leur gravité et de leur probabilité.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR3.1,3.1.4,"3.1.4 Le processus définit également :
+a) quand et comment rechercher des informations supplémentaires sur un impact négatif réel ou potentiel, et comment impliquer les parties prenantes, y compris les parties prenantes concernées ;
+b) quels types de changements internes à l'entreprise l'amèneront à évaluer de manière proactive les impacts négatifs potentiels.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR4.2,4.2.1,"4.2.1 L'entreprise a pris en compte les impacts réels et potentiels sur les droits humains de ses trois décisions d'achat les plus matérielles.
+a) Au cours de la dernière année fiscale ou des douze mois précédant l'Année 0,
+b) Chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+HR4.3,4.3.1,"4.3.1 L'entreprise a pris en compte les impacts réels et potentiels sur les droits humains de ses cinq décisions d'achat les plus matérielles :
+a) au cours du dernier exercice fiscal précédant l'Année 0 ;
+b) chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI1.1,1.1.1,"1.1.1 Si l'entreprise compte plus de 10 et moins de 50 collaborateurs et collaboratrices (sur la base de l'effectif), elle a facilité au moins une discussion ou une enquête sur les principes JEDI sur le lieu de travail :
+a) Au cours des douze mois précédant l'année 0 ;
+b) Chaque année suivante.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI1.1,1.1.2,"1.1.2 Si l'entreprise choisit d'animer une discussion :
+a) Celle-ci dure au moins une heure ;
+b) L'entreprise en conserve un compte rendu.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI1.1,1.1.3,"1.1.3 Si l’entreprise compte au moins 50 collaborateurs et collaboratrices (sur la base de l'effectif), elle :
+a) Recueille des données concernant l'identité de genre ou le sexe assigné à la naissance pour au moins cinq enquêtes relatives aux collaborateurs et collaboratrices.
+b) Ventile ces données afin de rendre compte en interne des enquêtes choisies.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI1.1,1.1.4,1.1.4 Les collaborateurs et collaboratrices de l’entreprise fournissent leurs données de manière volontaire et peuvent choisir de rester anonymes.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.1,"2.3.1 L'entreprise choisit et met en œuvre :
+a) Deux actions en matière de JEDI avant l'année 0 ;
+b) Quatre actions en matière de JEDI pour chacune des Années 3 et 5.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.2,"2.3.2 L'entreprise choisit au moins une option de chaque ensemble suivant au cours des années 0, 3 et 5.
+a) Socle de base (JEDI2.a-e) ;
+b) Sur le lieu de travail (JEDI2.f-l) ;
+c) Au-delà du lieu de travail (JEDI2.m-s).","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.3,2.3.3 L'entreprise prend en compte les retours des parties prenantes ainsi que les données (de JEDI1) dans le choix de ses actions.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.4,2.3.4 L'entreprise documente ses actions et les progrès réalisés dans un plan d'action.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.5,2.3.5 Le plan d'action a été mis à jour et partagé avec les parties prenantes concernées au cours des douze derniers mois.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.6,"2.3.6 Le plan d'action de l'entreprise :
+a) Contient des échéances ;
+b) Alloue des ressources ;
+c) Attribue des responsabilités à des rôles spécifiques.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.3,2.3.7,"2.3.7 Le plan d'action, ainsi que les progrès réalisés, peuvent être consultés à tout moment par les collaborateurs et collaboratrices de l'entreprise.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.a,2.a.1,"2.a.1 L'entreprise formule une déclaration d'engagement JEDI qui :
+a) Est publique ;
+b) Est approuvée par l'équipe de direction ou la plus haute instance de direction ;
+c) S'applique aux politiques et pratiques de l'entreprise dans l'ensemble de ses activités, de ses relations commerciales et au sein de la communauté.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.a,2.a.2,2.a.2 L'entreprise confie la responsabilité de son engagement en matière de JEDI à l'équipe de direction ou à la plus haute instance de direction.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.b,2.b.1,2.b.1 L'entreprise organise une formation ou un atelier sur des thématiques liées à la JEDI. La formation ou l'atelier représente au minimum une journée complète par participant ou participante sur une période d'un an.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.b,2.b.2,"2.b.2 L'entreprise renforce les connaissances ou les capacités en matière de JEDI d'au moins deux des groupes suivants.
+a) La plus haute instance de direction ;
+b) L'équipe de direction ;
+c) Les ressources humaines ;
+d) La formation et le développement professionnel ;
+e) Les managers.
+
+Clarification des critères de conformité :
+[2.b.1] La formation et les ateliers peuvent être menés par des intervenants internes ou externes.
+[2.b.2] L'entreprise ""renforce les connaissances"" en tenant des formations ou des ateliers.
+[2.b.2] L'entreprise ""renforce les capacités"" en recrutant des personnes compétentes en matière de JEDI.
+[2.b.1] L'animation de discussions sur les principes de la JEDI dans le cadre de JEDI1.1 n'est pas prise en compte dans cette sous-exigence.
+[2.b.1] L'entreprise n'est pas tenue d'utiliser le terme JEDI.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.c,2.c.1,"2.c.1 L'entreprise examine au moins cinq politiques ayant une incidence sur les personnes via :
+a) Les données de JEDI1 ;
+b) Les retours des parties prenantes ;
+c) La déclaration d'engagement JEDI de l’entreprise, le cas échéant (JEDI2.a) ;
+d) Le renforcement des connaissances ou capacités internes, le cas échéant (JEDI2.b).","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.c,2.c.2,"2.c.2 L'examen porte sur :
+a) La terminologie utilisée dans les politiques ;
+b) L'impact de ces politiques sur les personnes ;
+c) Les relations avec les principes JEDI.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.c,2.c.3,"2.c.3 À la suite de cet examen, l'entreprise met à jour les politiques si nécessaire.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.d,2.d.1,2.d.1 L'entreprise choisit trois identités sociales en s'appuyant sur les retours des parties prenantes et les données démographiques de sa communauté.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.d,2.d.2,2.d.2 La plus haute instance de direction et l'équipe de direction de l'entreprise reflètent la diversité de sa communauté à travers ses trois identités sociales choisies.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.d,2.d.3,2.d.3 La plus haute instance de direction et l'équipe de direction de l'entreprise reflètent la diversité de sa communauté à travers ses trois identités sociales choisies.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.1,2.e.1 L'entreprise fait appel à un organisme tiers disposant d'une expertise pertinente pour réaliser un audit d'équité.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.2,2.e.2 L'audit donne lieu à un rapport contenant un résumé écrit de la méthodologie d'audit.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.3,2.e.3 L'audit d'équité inclut les retours des groupes d'identité sociale concernés.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.4,"2.e.4 Le périmètre de l'audit d'équité comprend, au minimum, les éléments suivants de l'entreprise :
+a) Les collaborateurs et collaboratrices ;
+b) La communication interne et externe ;
+c) Les produits et services.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.5,2.e.5 L'entreprise rend public un résumé des résultats de l'audit.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.e,2.e.6,"2.e.6 Les personnes qui participent à l'audit peuvent choisir de rester anonymes.
+
+Clarification des critères de conformité :
+[2.e.1] Un audit d'équité évalue les impacts directs et indirects de l'entreprise sur les personnes, par rapport à une ou plusieurs identités sociales. Un
+audit d'équité peut dépasser le périmètre des critères de conformité et inclure, par exemple, les pratiques de la chaîne d'approvisionnement et les activités politiques.
+[2.e.1 ; 2.e.3] L'audit d'équité peut porter sur une ou plusieurs identités sociales.
+[2.e.1 ; 2.e.5] L'entreprise n'est pas tenue d'utiliser les termes ""équité"" ou ""JEDI"".
+[2.e.1] L'expression ""expertise pertinente"" signifie que l'organisme tiers possède :
+a) une expérience préalable dans la réalisation d'audits d'équité
+b) une expertise dans le contexte géographique et culturel concerné
+c) la capacité d'interroger les collaborateurs et collaboratrices dans la langue de leur choix ou dans la langue de travail de l'entreprise
+d) une expertise ou des profils qui correspondant aux identités sociales des collaborateurs et collaboratrices (par exemple, si le personnel de l'entreprise est diversifié sur le plan ethno-culturel, l'équipe d'audit est également diversifiée sur le plan ethno-culturel ou possède une expertise en la matière).
+[2.e.3] L'entreprise et l'organisme tiers veillent à ne pas désanonymiser accidentellement les retours des participants et participantes à l'audit. Cela peut constituer un risque dans les cas où les informations sont facilement identifiables, ou lorsqu'un groupe est particulièrement petit (par exemple, s'il n'y a qu'une seule collaboratrice).
+Application des critères aux filiales se certifiant de manière indépendante :
+a) L'audit d'équité couvre l'entreprise. Si l'entreprise se réfère à un audit d'équité réalisé au niveau du groupe, hors de son périmètre, elle consigne des preuves :
+i) de la manière dont l'audit d'équité a pris en compte ses parties prenantes et ses impacts opérationnels
+ii) de la pertinence des conclusions de l'audit d'équité au regard de son contexte.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.f,2.f.1,2.f.1 L'entreprise soutient au moins deux groupes-ressources d'employés ou groupes d'affinité. Chaque groupe est associé à une identité sociale différente.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.f,2.f.2,2.f.2 L'entreprise choisit les identités sociales en fonction des retours des collaborateurs et collaboratrices.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.f,2.f.3,2.f.3 La participation aux groupes est facultative pour les collaborateurs et collaboratrices.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.f,2.f.4,2.f.4 L'entreprise soutient les groupes,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.g,2.g.1,"2.g.1 L'entreprise met en œuvre toutes les pratiques de recrutement inclusives suivantes.
+a) Elle inclut une déclaration d'engagement JEDI dans toutes ses offres d'emploi ; alignée sur la déclaration de JEDI2.a si elle est complétée.
+b) Elle a pour politique de ne pas demander de vérification de solvabilité ou de casier judiciaire lors du recrutement, sauf si la loi l'exige, ou si cela est requis par une association professionnelle ou un organisme de régulation du secteur.
+c) Elle prend des mesures pour réduire les préjugés ou réduire l'impact des préjugés dans le cadre du recrutement.
+d) Elle examine le langage et les exigences de ses descriptions d'emploi pour s'assurer qu'elles sont inclusives et équitables.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.1,2.h.1 L'entreprise offre des possibilités de parrainage ou de mentorat à l'ensemble de ses salariés.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.2,2.h.2 L'entreprise formalise le programme de parrainage ou de mentorat en l'inscrivant dans une procédure ou une politique écrite.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.3,"2.h.3 Les parrainages ou les mentorats :
+a) Sont gratuits pour les participantes et participants;
+b) Durent six mois au minimum.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.4,2.h.4 L’entreprise permet aux participantes et participants de prendre part à l’initiative sur leur temps de travail.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.5,2.h.5 L'entreprise suit le taux de participation de deux groupes sous-représentés.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.h,2.h.6,2.h.6 L'entreprise atteint un niveau de participation représentative pour au moins deux groupes sous-représentés.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.i,2.i.1,2.i.1 L'entreprise conçoit un guide du langage inclusif pour la communication interne.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.i,2.i.2,2.i.2 Le guide énumère les termes qui doivent être utilisés et ceux qui ne doivent pas l'être.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.i,2.i.3,2.i.3 Il existe un guide pour chaque langue de communication interne.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.i,2.i.4,2.i.4 L'entreprise partage le guide avec l'ensemble des collaborateurs et collaboratrices qui produisent des communications internes.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.j,2.j.1,2.j.1 L'entreprise augmente la proportion de collaborateurs et de collaboratrices issus d'au moins deux groupes sous-représentés afin de refléter la diversité de sa communauté.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.j,2.j.2,2.j.2 L'entreprise calcule les ratios à tout moment au cours des douze derniers mois.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.k,2.k.1,"2.k.1 L'entreprise offre au moins trois des types de congés payés suivants :
+a) Le congé maladie de courte durée illimité ;
+b) Le congé d'affirmation de genre ;
+c) Le congé personnel ;
+d) Le congé religieux ou culturel choisi par les collaborateurs et collaboratrices individuellement ;
+e) Le congé parental (au moins 18 semaines) ;
+f) Le congé d'adoption.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.k,2.k.2,2.k.2 Tous les types de congés sont entièrement rémunérés.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.k,2.k.3,2.k.3 L'ensemble des personnes salariées ont droit aux différents types de congés supplémentaires.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.k,2.k.4,2.k.4 L'entreprise s'appuie sur les retours des personnes salariées pour déterminer le nombre de jours alloués à chaque type de congé.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.k,2.k.5,"2.k.5
+L'entreprise inscrit les différents types de congés qu'elle propose dans une politique écrite ou un autre document officiel qui soit :
+a) Partagé avec l'ensemble des personnes salariées ;
+b) Disponible pour consultation à tout moment.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.l,2.l.1,2.l.1 L'entreprise évalue l'accessibilité de ses outils numériques de communication interne.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.l,2.l.2,"2.l.2 L'évaluation :
+a) Confirme que les outils répondent aux critères AA ou AAA des lignes directrices pour l'accessibilité des contenus web (WCAG) ;
+b) Est réalisée par un ou une spécialiste interne ou externe ;
+c) Comprend des tests manuels ;
+d) Inclut les retours de personnes en situation de handicap.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.m,2.m.1,2.m.1 L'entreprise évalue l'accessibilité de son site web destiné au public.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.m,2.m.2,"2.m.2 L'évaluation :
+a) Confirme que le site web répond aux critères AA ou AAA des lignes directrices pour l'accessibilité des contenus web (WCAG) ;
+b) Est réalisée par un ou une spécialiste interne ou externe ;
+c) Comprend des tests manuels ;
+d) Inclut les retours de personnes en situation de handicap.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.n,2.n.1,"2.n.1 L'entreprise communique publiquement son plan d'action et ses progrès en matière de JEDI, au minimum une fois par an.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.o,2.o.1,"2.o.1 L'entreprise met en œuvre l'ensemble des actions suivantes.
+a) Elle recense et suit l'évolution de la diversité parmi les propriétaires des entreprises qui lui fournissent des biens et des services au niveau local.
+b) Elle établit une politique d'achat qui privilégie les entreprises locales détenues par des personnes issues de groupes sous-représentés.
+c) Elle se fixe pour objectif d'effectuer un pourcentage donné d'achats auprès d'entreprises locales détenues par des personnes issues de groupes sous-représentés.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.p,2.p.1,"2.p.1 L'entreprise conçoit un guide de communication et de contenu éthique qui :
+a) Précise les termes à utiliser et à ne pas utiliser pour chaque langue de communication externe ;
+b) Décrit comment recueillir, gérer et utiliser du contenu de manière éthique ;
+c) Définit les attentes en matière de représentation de différentes identités sociales ;
+d) Est partagé avec l'ensemble des collaborateurs et collaboratrices qui produisent des communications externes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.p,2.p.2,"2.p.2 Si l'entreprise utilise l'intelligence artificielle pour la génération de contenus créatifs, elle inclut son utilisation dans le guide.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.q,2.q.1,2.q.1 L'entreprise s'appuie sur les retours des parties prenantes pour évaluer l'inclusivité d'un produit ou d'un service.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.q,2.q.2,"2.q.2 L'évaluation met en évidence :
+a) Quels sont les groupes d'identité sociale spécifiques susceptibles de rencontrer des obstacles lors de l'accès au produit ou au service ;
+b) Quels sont ces obstacles.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.r,2.r.1,2.r.1 L'Entreprise s'appuie sur les retours des parties prenantes pour revoir la conception de l'un de ses produits ou services afin qu'il soit plus inclusif.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.r,2.r.2,"2.r.2 L'entreprise repense le produit ou le service original, plutôt que de concevoir une solution de ségrégation.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.r,2.r.3,2.r.3 L'entreprise propose le produit ou le service reconçu à sa clientèle ou l'annonce publiquement.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.s,2.s.1,"2.s.1 L'entreprise s'engage dans au moins une action collective au niveau des politiques publiques, sectorielles ou de sa communauté d'affaires, afin de promouvoir les principes de la JEDI","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.s,2.s.2,"2.s.2 L'initiative affiche une raison d'être ainsi qu'un objectif commun et clairement définis, visant à :
+a) Engendrer un changement ou une transformation à l'échelle systémique ;
+b) Produire, de manière collaborative, des impacts spécifiques et mesurables.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+JEDI2.s,2.s.3,2.s.3 L'entreprise contribue clairement à la réalisation de l'initiative.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG1.1,1.1.1,"1.1.1 L'entreprise formule une raison d'être qui :
+a) Présente de manière précise l'impact positif et significatif que l'entreprise entend avoir sur la société ou l'environnement, ou les deux ;
+b) Concerne les activités commerciales de l'entreprise et s'intègre dans sa stratégie ;
+c) Est rendue publique sur le site web de l'entreprise ;
+d) Est approuvée par la plus haute instance de direction de l'entreprise.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG2.1,2.1.1,"2.1.1 L'entreprise identifie ses parties prenantes, leur attribue un ordre de priorité et dresse la carte de ses parties prenantes énumérées dans le critère de conformité 2.1.3.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG2.1,2.1.2,2.1.2 L'entreprise dialogue avec ses parties prenantes et tient compte de leurs intérêts dans ses processus décisionnels.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG2.1,2.1.3,"2.1.3 Les parties prenantes suivantes sont représentées par un ou plusieurs mécanismes d'engagement.
+a) Les collaborateurs et collaboratrices de l'entreprise ou de ses filiales.
+b) Les prestataires de biens et de services.
+c) La clientèle.
+d) Les partenaires financiers. PAS
+e) La communauté où se trouvent les bureaux ou installations de l'entreprise, de ses filiales, de ses prestataires de biens ou de services, ou qui bénéficie de ses investissements.
+f) L'environnement local ou mondial.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.1,3.1.1,3.1.1 L'entreprise publie un formulaire de réclamation sur son site internet ou dispose d'un autre moyen facilement accessible permettant aux parties prenantes de soumettre une réclamation.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.1,3.1.2,"3.1.2 La procédure de réclamation décrit :
+a) les critères de recevabilité d'une réclamation,
+b) les différentes étapes du processus de réclamation et les délais prévus pour sa prise en charge,
+c) le processus de résolution de la réclamation.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.1,3.1.3,3.1.3 L'entreprise décrit les processus et les contrôles mis en place pour protéger les parties prenantes qui soumettent des réclamations contre toute forme de représailles.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.1,3.1.4,"3.1.4 L'entreprise répond aux réclamations des parties prenantes de l'une des deux manières suivantes.
+a) Elle communique de manière régulière aux dépositaires de la réclamation les différentes étapes de la procédure, son avancement et sa résolution.
+b) Elle présente les raisons pour lesquelles la réclamation n'est pas recevable.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.2,3.2.1,"3.2.1 L'entreprise recense les réclamations, suit leur évolution et prépare un résumé annuel qui récapitule leur statut et les sujets concernés.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG3.2,3.2.3,"3.2.3 L'entreprise démontre l'efficacité de la procédure de réclamation d'une des manières suivantes.
+a) Elle documente la résolution et la clôture de chaque réclamation.
+b) Si aucune réclamation n'a été enregistrée, l'entreprise démontre que la procédure en place est adéquate et qu'elle permet notamment le recensement et le suivi des réclamations.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.1,4.1.1,"4.1.1 L'entreprise documente les principes suivants régissant ses pratiques de marketing et de communication liées aux allégations environnementales et sociales.
+a) Les allégations de l'entreprise sont précises, vérifiables et étayées par des données fiables ou scientifiques.
+b) L’entreprise communique de manière transparente, honnête et responsable sur les impacts sociaux et environnementaux de ses activités, qu’ils soient positifs ou négatifs.
+c) L’entreprise applique des principes éthiques dans son utilisation des canaux et pratiques de marketing et de communication d'une nature sensible.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.1,4.1.2,4.1.2 Les principes sont communiqués et mis à la disposition des collaborateurs et des collaboratrices de l'entreprise.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.2,4.2.1,"4.2.1 L'entreprise établit une politique de marketing et de communication responsables. Cette politique :
+a) décrit le champ d'application de cette politique ;
+b) s'applique à tous les publics ;
+c) définit les exigences pour toute personne impliquée dans la préparation des activités de marketing et de communication ;
+d) est approuvé par l'équipe de direction ou la plus haute instance de direction.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.2,4.2.2,"4.2.2 Concernant les allégations environnementales et sociales, la politique comprend les exigences suivantes au minimum.
+a) Les allégations sont précises, vérifiables et étayées par des données fiables ou scientifiques.
+b) Les allégations sont proportionnelles aux actions de l'entreprise.
+c) Les allégations reflètent avec précision leur champ d'application et sont pertinentes par rapport à l'impact de l'entreprise.
+d) La communication est factuelle, transparente et responsable en ce qui concerne les impacts sociaux et environnementaux des activités de l'entreprise, qu'ils soient positifs ou négatifs.
+e) L'entreprise dispose de principes éthiques régissant son utilisation des canaux et pratiques de marketing et de communication d'une nature sensible.
+f) Les allégations sont formulées de manière claire et compréhensible, adaptées au niveau de connaissances générales des consommateurs, et disponibles dans les principales langues ou sous les formes les plus appropriées pour les parties prenantes des localités où l'entreprise exerce ses activités.""y.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.2,4.2.3,4.2.3. L'entreprise confie à l'équipe de direction ou à la plus haute instance de direction la responsabilité de veiller à ce que toutes ses pratiques de marketing et de communication soient conformes à sa politique de marketing et de communication responsables.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG4.2,4.2.4,4.2.4 La politique est communiquée aux collaborateurs et collaboratrices de l'entreprise et mise à leur disposition.,"Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
+PSG5.1,5.1.1,"5.1.1. Au moins une fois tous les 12 mois  la plus haute instance de direction examine :
+a) Les progrès accomplis dans le déploiement de la raison d'être de l'entreprise, telle que définie dans la sous-exigence MGPP1.1 ;
+b) Les performances sociales et environnementales de l'entreprise ;
+c) Le déploiement de la gouvernance des parties prenantes.","Traduction reprise d'une compilation tierce (gabarit Anchor), à relire contre le texte EN"
